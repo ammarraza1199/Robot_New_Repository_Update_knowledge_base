@@ -1,0 +1,283 @@
+2026-01-23 11:02:37,874 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:02:38,459 - Process-2 - interaction_process - DEBUG - Recognition for hi-IN: No speech detected.
+2026-01-23 11:02:39,699 - Process-2 - interaction_process - DEBUG - Recognition for en-IN: No speech detected.
+2026-01-23 11:02:44,061 - Process-2 - interaction_process - DEBUG - Recognition for te-IN: No speech detected.
+2026-01-23 11:02:44,062 - Process-2 - interaction_process - DEBUG - Found 0 speech candidates.
+2026-01-23 11:02:44,062 - Process-2 - interaction_process - INFO - No speech recognized, asking user to repeat.
+2026-01-23 11:02:44,062 - Process-2 - interaction_process - DEBUG - queue_audio started with text: 'Sorry, I didn't catch that. Pl...', lang: en, interrupt: False
+2026-01-23 11:02:44,062 - Process-2 - interaction_process - DEBUG - Generated audio filename: interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3
+2026-01-23 11:02:44,062 - Process-2 - interaction_process - DEBUG - Audio cache hit. Using existing file.
+2026-01-23 11:02:44,062 - Process-2 - interaction_process - INFO - Putting audio request on queue: {'command': 'play', 'file': 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'}
+2026-01-23 11:02:44,062 - Process-2 - interaction_process - DEBUG - Request put on queue successfully.
+2026-01-23 11:02:47,609 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:02:47,610 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:02:50,596 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:02:50,596 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:02:55,972 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:02:56,901 - Process-2 - interaction_process - INFO - Potential speech match in hi: 'वेयर इस गैस्ट्रोएंटरोलॉजी'
+2026-01-23 11:02:56,959 - Process-2 - interaction_process - INFO - Potential speech match in en: 'where is gastroenterology'
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - INFO - Potential speech match in te: 'వేర్ ఇస్ గ్యాస్ట్రో'
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Found 3 speech candidates.
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Candidate 'hi' final score: 25
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Candidate 'en' final score: 35
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Candidate 'te' final score: 19
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - INFO - Language detected as 'en' with score 35 (Text: 'where is gastroenterology')
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Processing command 'where is gastroenterology' in language 'en'
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Finding department for text: 'where is gastroenterology' in lang: 'en'
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - INFO - Keyword match for navigation: 'General Medicine'
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Formatted guidance response: The department name is General Medicine, the doctor's name is General Physician, and the address is OPD Block, Ground Floor.
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - INFO - Responding with: 'The department name is General Medicine, the doctor's name is General Physician, and the address is OPD Block, Ground Floor.'
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Logging conversation: lang=en, question='where is gastroenterology', answer='The department name is General Medicine, the docto...'
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - queue_audio started with text: 'The department name is General...', lang: en, interrupt: True
+2026-01-23 11:02:56,963 - Process-2 - interaction_process - DEBUG - Interrupt is True, sending 'stop' command to audio queue.
+2026-01-23 11:02:57,064 - Process-2 - interaction_process - DEBUG - Generated audio filename: interaction_38554c7bc92060dc17c340e63fe5fca9.mp3
+2026-01-23 11:02:57,064 - Process-2 - interaction_process - DEBUG - Audio cache hit. Using existing file.
+2026-01-23 11:02:57,064 - Process-2 - interaction_process - INFO - Putting audio request on queue: {'command': 'play', 'file': 'interaction_38554c7bc92060dc17c340e63fe5fca9.mp3'}
+2026-01-23 11:02:57,064 - Process-2 - interaction_process - DEBUG - Request put on queue successfully.
+2026-01-23 11:03:06,450 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:06,451 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:03:07,858 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:08,249 - Process-2 - interaction_process - DEBUG - Recognition for hi-IN: No speech detected.
+2026-01-23 11:03:08,320 - Process-2 - interaction_process - DEBUG - Recognition for en-IN: No speech detected.
+2026-01-23 11:03:11,136 - Process-2 - interaction_process - DEBUG - Recognition for te-IN: No speech detected.
+2026-01-23 11:03:11,136 - Process-2 - interaction_process - DEBUG - Found 0 speech candidates.
+2026-01-23 11:03:11,136 - Process-2 - interaction_process - INFO - No speech recognized, asking user to repeat.
+2026-01-23 11:03:11,136 - Process-2 - interaction_process - DEBUG - queue_audio started with text: 'Sorry, I didn't catch that. Pl...', lang: en, interrupt: False
+2026-01-23 11:03:11,136 - Process-2 - interaction_process - DEBUG - Generated audio filename: interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3
+2026-01-23 11:03:11,136 - Process-2 - interaction_process - DEBUG - Audio cache hit. Using existing file.
+2026-01-23 11:03:11,136 - Process-2 - interaction_process - INFO - Putting audio request on queue: {'command': 'play', 'file': 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'}
+2026-01-23 11:03:11,136 - Process-2 - interaction_process - DEBUG - Request put on queue successfully.
+2026-01-23 11:03:14,617 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:14,617 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:03:17,603 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:17,603 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:03:19,971 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:20,355 - Process-2 - interaction_process - DEBUG - Recognition for te-IN: No speech detected.
+2026-01-23 11:03:20,370 - Process-2 - interaction_process - DEBUG - Recognition for hi-IN: No speech detected.
+2026-01-23 11:03:20,393 - Process-2 - interaction_process - DEBUG - Recognition for en-IN: No speech detected.
+2026-01-23 11:03:20,394 - Process-2 - interaction_process - DEBUG - Found 0 speech candidates.
+2026-01-23 11:03:22,956 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:23,455 - Process-2 - interaction_process - DEBUG - Recognition for te-IN: No speech detected.
+2026-01-23 11:03:26,250 - Process-2 - interaction_process - DEBUG - Recognition for en-IN: No speech detected.
+2026-01-23 11:03:27,872 - Process-2 - interaction_process - DEBUG - Recognition for hi-IN: No speech detected.
+2026-01-23 11:03:27,873 - Process-2 - interaction_process - DEBUG - Found 0 speech candidates.
+2026-01-23 11:03:27,873 - Process-2 - interaction_process - INFO - No speech recognized, asking user to repeat.
+2026-01-23 11:03:27,873 - Process-2 - interaction_process - DEBUG - queue_audio started with text: 'Sorry, I didn't catch that. Pl...', lang: en, interrupt: False
+2026-01-23 11:03:27,873 - Process-2 - interaction_process - DEBUG - Generated audio filename: interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3
+2026-01-23 11:03:27,873 - Process-2 - interaction_process - DEBUG - Audio cache hit. Using existing file.
+2026-01-23 11:03:27,874 - Process-2 - interaction_process - INFO - Putting audio request on queue: {'command': 'play', 'file': 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'}
+2026-01-23 11:03:27,874 - Process-2 - interaction_process - DEBUG - Request put on queue successfully.
+2026-01-23 11:03:31,397 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:31,397 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:03:34,405 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:34,406 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:03:39,868 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:41,004 - Process-2 - interaction_process - INFO - Potential speech match in en: 'i feel chest tightness which department should i go to'
+2026-01-23 11:03:41,221 - Process-2 - interaction_process - INFO - Potential speech match in te: 'ఐ ఫీల్ చెస్ట్ టైట్నెస్ విచ్ డిపార్ట్మెంట్ షుడ్ ఐ గో టు'
+2026-01-23 11:03:41,315 - Process-2 - interaction_process - INFO - Potential speech match in hi: 'ई फील चेस्ट टाइटनेस विच डिपार्मेंट शोल्ड ई गो टू'
+2026-01-23 11:03:41,315 - Process-2 - interaction_process - DEBUG - Found 3 speech candidates.
+2026-01-23 11:03:41,315 - Process-2 - interaction_process - DEBUG - Candidate 'en' final score: 74
+2026-01-23 11:03:41,315 - Process-2 - interaction_process - DEBUG - Candidate 'te' final score: 54
+2026-01-23 11:03:41,315 - Process-2 - interaction_process - DEBUG - Candidate 'hi' final score: 48
+2026-01-23 11:03:41,315 - Process-2 - interaction_process - INFO - Language detected as 'en' with score 74 (Text: 'i feel chest tightness which department should i go to')
+2026-01-23 11:03:41,315 - Process-2 - interaction_process - DEBUG - Processing command 'i feel chest tightness which department should i go to' in language 'en'
+2026-01-23 11:03:41,316 - Process-2 - interaction_process - DEBUG - Finding department for text: 'i feel chest tightness which department should i go to' in lang: 'en'
+2026-01-23 11:03:41,316 - Process-2 - interaction_process - INFO - Keyword match for navigation: 'General Medicine'
+2026-01-23 11:03:41,316 - Process-2 - interaction_process - DEBUG - Formatted guidance response: The department name is General Medicine, the doctor's name is General Physician, and the address is OPD Block, Ground Floor.
+2026-01-23 11:03:41,316 - Process-2 - interaction_process - INFO - Responding with: 'The department name is General Medicine, the doctor's name is General Physician, and the address is OPD Block, Ground Floor.'
+2026-01-23 11:03:41,316 - Process-2 - interaction_process - DEBUG - Logging conversation: lang=en, question='i feel chest tightness which department should i go to', answer='The department name is General Medicine, the docto...'
+2026-01-23 11:03:41,316 - Process-2 - interaction_process - DEBUG - queue_audio started with text: 'The department name is General...', lang: en, interrupt: True
+2026-01-23 11:03:41,316 - Process-2 - interaction_process - DEBUG - Interrupt is True, sending 'stop' command to audio queue.
+2026-01-23 11:03:41,416 - Process-2 - interaction_process - DEBUG - Generated audio filename: interaction_38554c7bc92060dc17c340e63fe5fca9.mp3
+2026-01-23 11:03:41,416 - Process-2 - interaction_process - DEBUG - Audio cache hit. Using existing file.
+2026-01-23 11:03:41,416 - Process-2 - interaction_process - INFO - Putting audio request on queue: {'command': 'play', 'file': 'interaction_38554c7bc92060dc17c340e63fe5fca9.mp3'}
+2026-01-23 11:03:41,416 - Process-2 - interaction_process - DEBUG - Request put on queue successfully.
+2026-01-23 11:03:50,186 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:50,186 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:03:52,233 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:03:52,748 - Process-2 - interaction_process - INFO - Potential speech match in en: 'ground floor'
+2026-01-23 11:03:52,997 - Process-2 - interaction_process - INFO - Potential speech match in te: 'గ్రౌండ్ ఫ్లోర్'
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - Recognition for hi-IN: No speech detected.
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - Found 2 speech candidates.
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - Candidate 'en' final score: 12
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - Candidate 'te' final score: 14
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - INFO - Language detected as 'te' with score 14 (Text: 'గ్రౌండ్ ఫ్లోర్')
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - Processing command 'గ్రౌండ్ ఫ్లోర్' in language 'te'
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - Finding department for text: 'గ్రౌండ్ ఫ్లోర్' in lang: 'te'
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - No department keyword match found.
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - is_medical_query check for text 'గ్రౌండ్ ఫ్లోర్': False
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - Querying LLM for text: 'గ్రౌండ్ ఫ్లోర్'
+2026-01-23 11:03:56,754 - Process-2 - interaction_process - DEBUG - Sending request to Groq API at https://api.groq.com/openai/v1/chat/completions...
+2026-01-23 11:03:56,756 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.groq.com:443
+2026-01-23 11:03:57,206 - Process-2 - urllib3.connectionpool - DEBUG - https://api.groq.com:443 "POST /openai/v1/chat/completions HTTP/1.1" 200 None
+2026-01-23 11:03:57,210 - Process-2 - interaction_process - INFO - LLM request completed in 0.46 seconds. Response: '- Department: కార్డియాలజీ యూనిట్-1, Doctor: Dr. O....'
+2026-01-23 11:03:57,210 - Process-2 - interaction_process - INFO - Responding with: '- Department: కార్డియాలజీ యూనిట్-1, Doctor: Dr. O. Sai Satish, Location: గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6
+- Department: కార్డియాలజీ యూనిట్-2, Doctor: Dr. B. Srinivas, Location: గ్'
+2026-01-23 11:03:57,210 - Process-2 - interaction_process - DEBUG - Logging conversation: lang=te, question='గ్రౌండ్ ఫ్లోర్', answer='- Department: కార్డియాలజీ యూనిట్-1, Doctor: Dr. O....'
+2026-01-23 11:03:57,210 - Process-2 - interaction_process - DEBUG - queue_audio started with text: '- Department: కార్డియాలజీ యూని...', lang: te, interrupt: True
+2026-01-23 11:03:57,210 - Process-2 - interaction_process - DEBUG - Interrupt is True, sending 'stop' command to audio queue.
+2026-01-23 11:03:57,311 - Process-2 - interaction_process - DEBUG - Generated audio filename: interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3
+2026-01-23 11:03:57,311 - Process-2 - interaction_process - INFO - Audio cache miss. Generating new audio for ' Department: కార్డియాలజీ యూనిట...' in 'te'
+2026-01-23 11:03:57,311 - Process-2 - gtts.tts - DEBUG - text:  Department: కార్డియాలజీ యూనిట్1, Doctor: Dr. O. Sai Satish, Location: గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6
+ Department: కార్డియాలజీ యూనిట్2, Doctor: Dr. B. Srinivas, Location: గ్
+2026-01-23 11:03:57,311 - Process-2 - gtts.tts - DEBUG - tld: com
+2026-01-23 11:03:57,311 - Process-2 - gtts.tts - DEBUG - lang: te
+2026-01-23 11:03:57,311 - Process-2 - gtts.tts - DEBUG - slow: False
+2026-01-23 11:03:57,311 - Process-2 - gtts.tts - DEBUG - lang_check: True
+2026-01-23 11:03:57,311 - Process-2 - gtts.tts - DEBUG - pre_processor_funcs: [<function tone_marks at 0x7ffebe21a160>, <function end_of_line at 0x7ffebe21aac0>, <function abbreviations at 0x7ffebe21ab60>, <function word_sub at 0x7ffebe21ac00>]
+2026-01-23 11:03:57,311 - Process-2 - gtts.tts - DEBUG - tokenizer_func: <bound method Tokenizer.run of re.compile('(?<=\\?).|(?<=!).|(?<=？).|(?<=！).|(?<!\\.[a-z])\\. |(?<!\\.[a-z]), |(?<!\\d):|¡|…|\\(|\\]|，|\\[|‥|¿|：|\\\n|\\)|،|、|;|—|。', re.IGNORECASE) from: [<function tone_marks at 0x7ffebe21ae80>, <function period_comma at 0x7ffebe21af20>, <function colon at 0x7ffebe21afc0>, <function other_punctuation at 0x7ffebe21b060>]>
+2026-01-23 11:03:57,311 - Process-2 - gtts.tts - DEBUG - timeout: None
+2026-01-23 11:03:57,311 - Process-2 - gtts.lang - DEBUG - langs: {'af': 'Afrikaans', 'am': 'Amharic', 'ar': 'Arabic', 'bg': 'Bulgarian', 'bn': 'Bengali', 'bs': 'Bosnian', 'ca': 'Catalan', 'cs': 'Czech', 'cy': 'Welsh', 'da': 'Danish', 'de': 'German', 'el': 'Greek', 'en': 'English', 'es': 'Spanish', 'et': 'Estonian', 'eu': 'Basque', 'fi': 'Finnish', 'fr': 'French', 'fr-CA': 'French (Canada)', 'gl': 'Galician', 'gu': 'Gujarati', 'ha': 'Hausa', 'hi': 'Hindi', 'hr': 'Croatian', 'hu': 'Hungarian', 'id': 'Indonesian', 'is': 'Icelandic', 'it': 'Italian', 'iw': 'Hebrew', 'ja': 'Japanese', 'jw': 'Javanese', 'km': 'Khmer', 'kn': 'Kannada', 'ko': 'Korean', 'la': 'Latin', 'lt': 'Lithuanian', 'lv': 'Latvian', 'ml': 'Malayalam', 'mr': 'Marathi', 'ms': 'Malay', 'my': 'Myanmar (Burmese)', 'ne': 'Nepali', 'nl': 'Dutch', 'no': 'Norwegian', 'pa': 'Punjabi (Gurmukhi)', 'pl': 'Polish', 'pt': 'Portuguese (Brazil)', 'pt-PT': 'Portuguese (Portugal)', 'ro': 'Romanian', 'ru': 'Russian', 'si': 'Sinhala', 'sk': 'Slovak', 'sq': 'Albanian', 'sr': 'Serbian', 'su': 'Sundanese', 'sv': 'Swedish', 'sw': 'Swahili', 'ta': 'Tamil', 'te': 'Telugu', 'th': 'Thai', 'tl': 'Filipino', 'tr': 'Turkish', 'uk': 'Ukrainian', 'ur': 'Urdu', 'vi': 'Vietnamese', 'yue': 'Cantonese', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Mandarin/Taiwan)', 'zh': 'Chinese (Mandarin)'}
+2026-01-23 11:03:57,312 - Process-2 - gtts.tts - DEBUG - pre-processing: <function tone_marks at 0x7ffebe21a160>
+2026-01-23 11:03:57,312 - Process-2 - gtts.tts - DEBUG - pre-processing: <function end_of_line at 0x7ffebe21aac0>
+2026-01-23 11:03:57,312 - Process-2 - gtts.tts - DEBUG - pre-processing: <function abbreviations at 0x7ffebe21ab60>
+2026-01-23 11:03:57,312 - Process-2 - gtts.tts - DEBUG - pre-processing: <function word_sub at 0x7ffebe21ac00>
+2026-01-23 11:03:57,312 - Process-2 - gtts.tts - DEBUG - tokenizing: <bound method Tokenizer.run of re.compile('(?<=\\?).|(?<=!).|(?<=？).|(?<=！).|(?<!\\.[a-z])\\. |(?<!\\.[a-z]), |(?<!\\d):|¡|…|\\(|\\]|，|\\[|‥|¿|：|\\\n|\\)|،|、|;|—|。', re.IGNORECASE) from: [<function tone_marks at 0x7ffebe21ae80>, <function period_comma at 0x7ffebe21af20>, <function colon at 0x7ffebe21afc0>, <function other_punctuation at 0x7ffebe21b060>]>
+2026-01-23 11:03:57,312 - Process-2 - gtts.tts - DEBUG - text_parts: ['Department', 'కార్డియాలజీ యూనిట్1', 'Doctor', 'Dr O', 'Sai Satish', 'Location', 'గ్రౌండ్ ఫ్లోర్', 'గది 2', '4', '6', 'Department', 'కార్డియాలజీ యూనిట్2', 'Doctor', 'Dr B', 'Srinivas', 'Location', 'గ్']
+2026-01-23 11:03:57,312 - Process-2 - gtts.tts - DEBUG - text_parts: 17
+2026-01-23 11:03:57,312 - Process-2 - gtts.tts - DEBUG - data-0: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Department%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,313 - Process-2 - gtts.tts - DEBUG - data-1: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu0c15%5C%5Cu0c3e%5C%5Cu0c30%5C%5Cu0c4d%5C%5Cu0c21%5C%5Cu0c3f%5C%5Cu0c2f%5C%5Cu0c3e%5C%5Cu0c32%5C%5Cu0c1c%5C%5Cu0c40%20%5C%5Cu0c2f%5C%5Cu0c42%5C%5Cu0c28%5C%5Cu0c3f%5C%5Cu0c1f%5C%5Cu0c4d1%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,313 - Process-2 - gtts.tts - DEBUG - data-2: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Doctor%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,313 - Process-2 - gtts.tts - DEBUG - data-3: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Dr%20O%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,313 - Process-2 - gtts.tts - DEBUG - data-4: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Sai%20Satish%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,314 - Process-2 - gtts.tts - DEBUG - data-5: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Location%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,314 - Process-2 - gtts.tts - DEBUG - data-6: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu0c17%5C%5Cu0c4d%5C%5Cu0c30%5C%5Cu0c4c%5C%5Cu0c02%5C%5Cu0c21%5C%5Cu0c4d%20%5C%5Cu0c2b%5C%5Cu0c4d%5C%5Cu0c32%5C%5Cu0c4b%5C%5Cu0c30%5C%5Cu0c4d%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,314 - Process-2 - gtts.tts - DEBUG - data-7: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu0c17%5C%5Cu0c26%5C%5Cu0c3f%202%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,314 - Process-2 - gtts.tts - DEBUG - data-8: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%224%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,314 - Process-2 - gtts.tts - DEBUG - data-9: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%226%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,314 - Process-2 - gtts.tts - DEBUG - data-10: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Department%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,315 - Process-2 - gtts.tts - DEBUG - data-11: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu0c15%5C%5Cu0c3e%5C%5Cu0c30%5C%5Cu0c4d%5C%5Cu0c21%5C%5Cu0c3f%5C%5Cu0c2f%5C%5Cu0c3e%5C%5Cu0c32%5C%5Cu0c1c%5C%5Cu0c40%20%5C%5Cu0c2f%5C%5Cu0c42%5C%5Cu0c28%5C%5Cu0c3f%5C%5Cu0c1f%5C%5Cu0c4d2%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,315 - Process-2 - gtts.tts - DEBUG - data-12: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Doctor%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,315 - Process-2 - gtts.tts - DEBUG - data-13: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Dr%20B%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,315 - Process-2 - gtts.tts - DEBUG - data-14: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Srinivas%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,315 - Process-2 - gtts.tts - DEBUG - data-15: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Location%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,316 - Process-2 - gtts.tts - DEBUG - data-16: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu0c17%5C%5Cu0c4d%5C%22%2C%5C%22te%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2026-01-23 11:03:57,316 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:03:57,640 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:03:57,660 - Process-2 - gtts.tts - DEBUG - headers-0: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '140'}
+2026-01-23 11:03:57,660 - Process-2 - gtts.tts - DEBUG - url-0: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:03:57,660 - Process-2 - gtts.tts - DEBUG - status-0: 200
+2026-01-23 11:03:57,661 - Process-2 - gtts.tts - DEBUG - part-0 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:03:57,661 - Process-2 - gtts.tts - DEBUG - part-0 created
+2026-01-23 11:03:57,661 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:03:57,995 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:03:58,079 - Process-2 - gtts.tts - DEBUG - headers-1: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '321'}
+2026-01-23 11:03:58,080 - Process-2 - gtts.tts - DEBUG - url-1: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:03:58,080 - Process-2 - gtts.tts - DEBUG - status-1: 200
+2026-01-23 11:03:58,080 - Process-2 - gtts.tts - DEBUG - part-1 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:03:58,080 - Process-2 - gtts.tts - DEBUG - part-1 created
+2026-01-23 11:03:58,081 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:03:58,353 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:03:58,358 - Process-2 - gtts.tts - DEBUG - headers-2: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '136'}
+2026-01-23 11:03:58,358 - Process-2 - gtts.tts - DEBUG - url-2: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:03:58,358 - Process-2 - gtts.tts - DEBUG - status-2: 200
+2026-01-23 11:03:58,359 - Process-2 - gtts.tts - DEBUG - part-2 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:03:58,359 - Process-2 - gtts.tts - DEBUG - part-2 created
+2026-01-23 11:03:58,359 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:03:58,690 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:03:58,694 - Process-2 - gtts.tts - DEBUG - headers-3: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '136'}
+2026-01-23 11:03:58,695 - Process-2 - gtts.tts - DEBUG - url-3: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:03:58,695 - Process-2 - gtts.tts - DEBUG - status-3: 200
+2026-01-23 11:03:58,695 - Process-2 - gtts.tts - DEBUG - part-3 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:03:58,695 - Process-2 - gtts.tts - DEBUG - part-3 created
+2026-01-23 11:03:58,695 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:03:58,957 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:03:58,983 - Process-2 - gtts.tts - DEBUG - headers-4: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '142'}
+2026-01-23 11:03:58,984 - Process-2 - gtts.tts - DEBUG - url-4: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:03:58,984 - Process-2 - gtts.tts - DEBUG - status-4: 200
+2026-01-23 11:03:58,984 - Process-2 - gtts.tts - DEBUG - part-4 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:03:58,984 - Process-2 - gtts.tts - DEBUG - part-4 created
+2026-01-23 11:03:58,985 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:03:59,290 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:03:59,300 - Process-2 - gtts.tts - DEBUG - headers-5: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '138'}
+2026-01-23 11:03:59,300 - Process-2 - gtts.tts - DEBUG - url-5: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:03:59,300 - Process-2 - gtts.tts - DEBUG - status-5: 200
+2026-01-23 11:03:59,301 - Process-2 - gtts.tts - DEBUG - part-5 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:03:59,301 - Process-2 - gtts.tts - DEBUG - part-5 created
+2026-01-23 11:03:59,301 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:03:59,573 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:03:59,598 - Process-2 - gtts.tts - DEBUG - headers-6: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '276'}
+2026-01-23 11:03:59,598 - Process-2 - gtts.tts - DEBUG - url-6: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:03:59,598 - Process-2 - gtts.tts - DEBUG - status-6: 200
+2026-01-23 11:03:59,599 - Process-2 - gtts.tts - DEBUG - part-6 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:03:59,599 - Process-2 - gtts.tts - DEBUG - part-6 created
+2026-01-23 11:03:59,599 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:03:59,912 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:03:59,916 - Process-2 - gtts.tts - DEBUG - headers-7: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '167'}
+2026-01-23 11:03:59,916 - Process-2 - gtts.tts - DEBUG - url-7: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:03:59,916 - Process-2 - gtts.tts - DEBUG - status-7: 200
+2026-01-23 11:03:59,916 - Process-2 - gtts.tts - DEBUG - part-7 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:03:59,916 - Process-2 - gtts.tts - DEBUG - part-7 created
+2026-01-23 11:03:59,917 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:00,391 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:00,395 - Process-2 - gtts.tts - DEBUG - headers-8: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '131'}
+2026-01-23 11:04:00,395 - Process-2 - gtts.tts - DEBUG - url-8: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:00,395 - Process-2 - gtts.tts - DEBUG - status-8: 200
+2026-01-23 11:04:00,396 - Process-2 - gtts.tts - DEBUG - part-8 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:00,396 - Process-2 - gtts.tts - DEBUG - part-8 created
+2026-01-23 11:04:00,396 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:00,862 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:00,864 - Process-2 - gtts.tts - DEBUG - headers-9: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '131'}
+2026-01-23 11:04:00,864 - Process-2 - gtts.tts - DEBUG - url-9: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:00,865 - Process-2 - gtts.tts - DEBUG - status-9: 200
+2026-01-23 11:04:00,865 - Process-2 - gtts.tts - DEBUG - part-9 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:00,865 - Process-2 - gtts.tts - DEBUG - part-9 created
+2026-01-23 11:04:00,865 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:01,346 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:01,365 - Process-2 - gtts.tts - DEBUG - headers-10: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '140'}
+2026-01-23 11:04:01,365 - Process-2 - gtts.tts - DEBUG - url-10: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:01,365 - Process-2 - gtts.tts - DEBUG - status-10: 200
+2026-01-23 11:04:01,366 - Process-2 - gtts.tts - DEBUG - part-10 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:01,366 - Process-2 - gtts.tts - DEBUG - part-10 created
+2026-01-23 11:04:01,366 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:01,898 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:01,923 - Process-2 - gtts.tts - DEBUG - headers-11: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '321'}
+2026-01-23 11:04:01,924 - Process-2 - gtts.tts - DEBUG - url-11: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:01,924 - Process-2 - gtts.tts - DEBUG - status-11: 200
+2026-01-23 11:04:01,924 - Process-2 - gtts.tts - DEBUG - part-11 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:01,924 - Process-2 - gtts.tts - DEBUG - part-11 created
+2026-01-23 11:04:01,925 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:02,243 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:02,577 - Process-2 - gtts.tts - DEBUG - headers-12: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '136'}
+2026-01-23 11:04:02,577 - Process-2 - gtts.tts - DEBUG - url-12: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:02,577 - Process-2 - gtts.tts - DEBUG - status-12: 200
+2026-01-23 11:04:02,578 - Process-2 - gtts.tts - DEBUG - part-12 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:02,578 - Process-2 - gtts.tts - DEBUG - part-12 created
+2026-01-23 11:04:02,578 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:03,046 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:03,052 - Process-2 - gtts.tts - DEBUG - headers-13: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '136'}
+2026-01-23 11:04:03,054 - Process-2 - gtts.tts - DEBUG - url-13: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:03,054 - Process-2 - gtts.tts - DEBUG - status-13: 200
+2026-01-23 11:04:03,055 - Process-2 - gtts.tts - DEBUG - part-13 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:03,055 - Process-2 - gtts.tts - DEBUG - part-13 created
+2026-01-23 11:04:03,055 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:03,329 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:03,351 - Process-2 - gtts.tts - DEBUG - headers-14: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '138'}
+2026-01-23 11:04:03,351 - Process-2 - gtts.tts - DEBUG - url-14: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:03,351 - Process-2 - gtts.tts - DEBUG - status-14: 200
+2026-01-23 11:04:03,352 - Process-2 - gtts.tts - DEBUG - part-14 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:03,352 - Process-2 - gtts.tts - DEBUG - part-14 created
+2026-01-23 11:04:03,352 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:03,773 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:03,778 - Process-2 - gtts.tts - DEBUG - headers-15: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '138'}
+2026-01-23 11:04:03,779 - Process-2 - gtts.tts - DEBUG - url-15: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:03,780 - Process-2 - gtts.tts - DEBUG - status-15: 200
+2026-01-23 11:04:03,780 - Process-2 - gtts.tts - DEBUG - part-15 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:03,780 - Process-2 - gtts.tts - DEBUG - part-15 created
+2026-01-23 11:04:03,781 - Process-2 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2026-01-23 11:04:04,022 - Process-2 - urllib3.connectionpool - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2026-01-23 11:04:04,025 - Process-2 - gtts.tts - DEBUG - headers-16: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '152'}
+2026-01-23 11:04:04,025 - Process-2 - gtts.tts - DEBUG - url-16: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2026-01-23 11:04:04,025 - Process-2 - gtts.tts - DEBUG - status-16: 200
+2026-01-23 11:04:04,025 - Process-2 - gtts.tts - DEBUG - part-16 written to <_io.BufferedWriter name='/home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'>
+2026-01-23 11:04:04,025 - Process-2 - gtts.tts - DEBUG - part-16 created
+2026-01-23 11:04:04,025 - Process-2 - gtts.tts - DEBUG - Saved to /home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3
+2026-01-23 11:04:04,026 - Process-2 - interaction_process - DEBUG - Successfully saved new audio file to /home/pi/Downloads/Robot_Code-master/audio_cache/interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3
+2026-01-23 11:04:04,026 - Process-2 - interaction_process - INFO - Putting audio request on queue: {'command': 'play', 'file': 'interaction_c267969d7b9d3fd80d77dc5ddf57ec22.mp3'}
+2026-01-23 11:04:04,026 - Process-2 - interaction_process - DEBUG - Request put on queue successfully.
+2026-01-23 11:04:08,228 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:04:08,228 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:04:11,428 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:04:11,428 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.
+2026-01-23 11:04:19,346 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Entered _background_callback.
+2026-01-23 11:04:19,347 - Process-2 - interaction_process - DEBUG - BACKGROUND_CALLBACK: Skipping microphone input because audio is playing.

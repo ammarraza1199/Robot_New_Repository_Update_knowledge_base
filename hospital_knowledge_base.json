@@ -1,0 +1,636 @@
+{
+  "hospital": "NIMS Hyderabad",
+  "languages": [
+    "en",
+    "hi",
+    "te"
+  ],
+  "default_redirect_department": "general_opd",
+  "departments": [
+    {
+      "id": "general_opd",
+      "canonical_name": "General OPD",
+      "aliases": [
+        "oncology",
+        "gynaecology"
+      ],
+      "display_name": {
+        "en": "General OPD",
+        "hi": "जनरल ओपीडी",
+        "te": "జనరల్ ఓపీడీ"
+      },
+      "keywords": {
+        "en": [
+          "fever",
+          "body pain",
+          "weakness",
+          "not feeling well",
+          "multiple problems",
+          "general checkup",
+          "oncology",
+          "gynaecology",
+          "general opd",
+          "problem",
+          "pain"
+        ],
+        "hi": [
+          "बुखार",
+          "बदन दर्द",
+          "शरीर दर्द",
+          "कमजोरी",
+          "अस्वस्थ",
+          "ठीक नहीं लग रहा",
+          "आम जांच",
+          "स्वास्थ्य परीक्षण",
+          "ऑंकोलॉजी",
+          "गाइनेकोलॉजी",
+          "जनरल ओपीडी",
+          "समस्या",
+          "दर्द"
+        ],
+        "te": [
+          "జ్వరం",
+          "తాపం",
+          "ఒళ్ళు నొప్పులు",
+          "శరీర నొప్పి",
+          "నీరసం",
+          "బలహీనత",
+          "ఆరోగ్యం బాగాలేదు",
+          "అస్వస్థత",
+          "సాధారణ తనిఖీ",
+          "ఆంకాలజీ",
+          "గైనకాలజీ",
+          "జనరల్ ఓపీడీ",
+          "సాధారణ వైద్య సేవలు",
+          "సమస్య",
+          "నొప్పి"
+        ]
+      },
+      "location": {
+        "en": "OPD Block, Ground Floor",
+        "hi": "ओपीडी ब्लॉक, ग्राउंड फ्लोर",
+        "te": "ఓపీడి బ్లాక్, గ్రౌండ్ ఫ్లోర్"
+      },
+      "doctors": [
+        {
+          "name": "General Duty Doctor",
+          "role": "OPD"
+        }
+      ]
+    },
+    {
+      "id": "general_medicine",
+      "canonical_name": "General Medicine",
+      "aliases": [
+        "ent",
+        "eye",
+        "ophthalmology"
+      ],
+      "display_name": {
+        "en": "General Medicine",
+        "hi": "सामान्य चिकित्सा",
+        "te": "జనరల్ మెడిసిన్"
+      },
+      "keywords": {
+        "en": [
+          "ent",
+          "eye",
+          "ophthalmology",
+          "ear",
+          "nose",
+          "throat",
+          "general medicine",
+          "bp",
+          "blood pressure",
+          "high bp",
+          "high blood pressure",
+          "elevated blood pressure",
+          "hypertension",
+          "low bp",
+          "low blood pressure",
+          "reduced blood pressure",
+          "hypotension",
+          "sugar",
+          "diabetes",
+          "high sugar",
+          "high blood sugar",
+          "hyperglycemia",
+          "low sugar",
+          "low blood sugar",
+          "hypoglycemia",
+          "cold",
+          "common cold",
+          "fever",
+          "high fever"
+        ],
+        "hi": [
+          "ईएनटी",
+          "आंख",
+          "कान",
+          "नाक",
+          "गला",
+          "ऑप्थाल्मोलॉजी",
+          "सामान्य चिकित्सा",
+          "आंतरिक चिकित्सा",
+          "बीपी",
+          "रक्तचाप",
+          "हाई बीपी",
+          "उच्च रक्तचाप",
+          "लो बीपी",
+          "निम्न रक्तचाप",
+          "शुगर",
+          "मधुमेह",
+          "हाई शुगर",
+          "उच्च रक्त शर्करा",
+          "लो शुगर",
+          "निम्न रक्त शर्करा",
+          "सर्दी",
+          "जुकाम",
+          "बुखार",
+          "तेज बुखार",
+          "मुझे बीपी है",
+          "मुझे शुगर है",
+          "सर्दी लगी है"
+        ],
+        "te": [
+          "ఈఎన్టీ",
+          "కన్ను",
+          "చెవి",
+          "ముక్కు",
+          "గొంతు",
+          "ఆప్తాల్మాలజీ",
+          "జనరల్ మెడిసిన్",
+          "సాధారణ వైద్యం",
+          "బీపీ",
+          "రక్తపోటు",
+          "హై బీపీ",
+          "అధిక రక్తపోటు",
+          "లో బీపీ",
+          "అల్ప రక్తపోటు",
+          "షుగర్",
+          "డయాబెటిస్",
+          "మధుమేహం",
+          "హై షుగర్",
+          "అధిక రక్త చక్కెర",
+          "లో షుగర్",
+          "అల్ప రక్త చక్కెర",
+          "జలుబు",
+          "దగ్గు",
+          "జ్వరం",
+          "అధిక జ్వరం",
+          "తీవ్రమైన జ్వరం",
+          "నాకు బిపి ఉంది",
+          "నాకు షుగర్ ఉంది",
+          "జలుబు చేసింది",
+          "నాకు జ్వరం వచ్చింది",
+          "బీపీ సమస్య",
+          "షుగర్ సమస్య"
+        ]
+      },
+      "location": {
+       "en": "OPD Block, Ground Floor",
+	"hi": "ओपीडी ब्लॉक, ग्राउंड फ्लोर",
+	"te": "ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు" 
+      },
+      "doctors": [
+        {
+          "name": "General Physician",
+          "role": "Physician"
+        }
+      ]
+    },
+    {
+      "id": "cardiology_unit_1",
+      "canonical_name": "Cardiology Unit-1",
+      "aliases": [],
+      "display_name": {
+        "en": "Cardiology Unit 1",
+        "hi": "कार्डियोलॉजी यूनिट 1",
+        "te": "కార్డియాలజీ యూనిట్-1"
+      },
+      "keywords": {
+        "en": [
+          "cardiology",
+          "chest pain",
+          "chest tightness",
+          "chest pressure",
+          "heart pain",
+          "pain in chest",
+          "palpitations",
+          "heart beating fast",
+          "high bp",
+          "low bp",
+          "blood pressure problem",
+          "sweating with chest pain",
+          "dizziness with chest pain",
+          "pain spreading to left arm",
+          "pain spreading to jaw",
+          "heart discomfort",
+          "cardiology unit 1",
+          "cardiology unit-1"
+        ],
+        "hi": [
+          "कार्डियोलॉजी",
+          "छाती में दर्द",
+          "सीने में जकड़न",
+          "दिल का दर्द",
+          "दिल की धड़कन तेज होना",
+          "हाई बीपी",
+          "लो बीपी",
+          "उच्च रक्तचाप",
+          "निम्न रक्तचाप",
+          "ब्लड प्रेशर",
+          "सीने में दर्द के साथ पसीना आना",
+          "चक्कर आना",
+          "दर्द का बाएं हाथ में फैलना",
+          "जबड़े में दर्द",
+          "दिल में बेचैनी",
+          "कार्डियोलॉजी यूनिट 1"
+        ],
+        "te": [
+          "కార్డియాలజీ",
+          "ఛాతీ నొప్పి",
+          "గుండె నొప్పి",
+          "ఛాతీలో బిగుతుగా ఉండటం",
+          "గుండెలో పోటు",
+          "గుండె వేగంగా కొట్టుకోవడం",
+          "దడ",
+          "హై బీపీ",
+          "లో బీపీ",
+          "అధిక రక్తపోటు",
+          "అల్ప రక్తపోటు",
+          "రక్తపోటు సమస్య",
+          "ఛాతీ నొప్పితో పాటు చెమటలు",
+          "తల తిరగడం",
+          "కళ్ళు బైర్లు కమ్మడం",
+          "నొప్పి ఎడమ చేతికి పాకడం",
+          "దవడకు నొప్పి పాకడం",
+          "గుండెలో అసౌకర్యం",
+          "కార్డియాలజీ యూనిట్-1"
+        ]
+      },
+      "location": {
+        "en": "Ground floor, rooms 2, 4, 6",
+        "hi": "ग्राउंड फ्लोर, कमरा 2, 4, 6",
+        "te": "గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6"
+      },
+      "doctors": [
+        {
+          "name": "Dr. O. Sai Satish",
+          "role": "Cardiologist"
+        }
+      ]
+    },
+    {
+      "id": "cardiology_unit_2",
+      "canonical_name": "Cardiology Unit-2",
+      "aliases": [],
+      "display_name": {
+        "en": "Cardiology Unit 2",
+        "hi": "कार्डियोलॉजी यूनिट 2",
+        "te": "కార్డియాలజీ యూనిట్-2"
+      },
+      "keywords": {
+        "en": [
+          "irregular heartbeat",
+          "heart skipping beats",
+          "heart beating unevenly",
+          "shortness of breath on walking",
+          "breathlessness on exertion",
+          "palpitations with breathlessness",
+          "cardiology unit 2",
+          "cardiology unit-2"
+        ],
+        "hi": [
+          "अनियमित दिल की धड़कन",
+          "दिल की धड़कन छूटना",
+          "चलते समय सांस फूलना",
+          "मेहनत करने पर सांस फूलना",
+          "सांस फूलने के साथ धड़कन",
+          "कार्डियोलॉजी यूनिट 2"
+        ],
+        "te": [
+          "అనియమిత హృదయ స్పందన",
+          "గుండె లయ తప్పడం",
+          "గుండె కొట్టుకోవడం ఆగడం",
+          "నడిచినప్పుడు ఆయాసం",
+          "శ్రమతో ఆయాసం",
+          "ఆయాసంతో దడ",
+          "కార్డియాలజీ యూనిట్-2"
+        ]
+      },
+      "location": {
+        "en": "Ground floor, rooms 3, 5",
+        "hi": "ग्राउंड फ्लोर, कमरा 3, 5",
+        "te": "గ్రౌండ్ ఫ్లోర్, గది 3, 5"
+      },
+      "doctors": [
+        {
+          "name": "Dr. B. Srinivas",
+          "role": "Cardiologist"
+        }
+      ]
+    },
+    {
+      "id": "cardiology_unit_4",
+      "canonical_name": "Cardiology Unit-4",
+      "aliases": [],
+      "display_name": {
+        "en": "Cardiology Unit 4",
+        "hi": "कार्डियोलॉजी यूनिट 4",
+        "te": "కార్డియాలజీ యూనిట్-4"
+      },
+      "keywords": {
+        "en": [
+          "heart attack",
+          "sudden chest pain",
+          "collapse with chest pain",
+          "cardiac arrest",
+          "severe chest pain",
+          "loss of consciousness with chest pain",
+          "cardiology unit 4",
+          "cardiology unit-4"
+        ],
+        "hi": [
+          "दिल का दौरा",
+          "हार्ट अटैक",
+          "अचानक सीने में तेज दर्द",
+          "सीने में दर्द के साथ बेहोशी",
+          "कार्डियक अरेस्ट",
+          "कार्डियोलॉजी यूनिट 4"
+        ],
+        "te": [
+          "గుండెపోటు",
+          "హార్ట్ ఎటాక్",
+          "అకస్మాత్తుగా ఛాతీ నొప్పి",
+          "ఛాతీ నొప్పితో కుప్పకూలడం",
+          "కార్డియాక్ అరెస్ట్",
+          "తీవ్రమైన ఛాతీ నొప్పి",
+          "ఛాతీ నొప్పితో స్పృహ కోల్పోవడం",
+          "కార్డియాలజీ యూనిట్-4"
+        ]
+      },
+      "location": {
+        "en": "Ground floor, rooms 2, 4, 6",
+        "hi": "ग्राउंड फ्लोर, कमरा 2, 4, 6",
+        "te": "గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6"
+      },
+      "doctors": [
+        {
+          "name": "Dr. M. Jyotsna",
+          "role": "Cardiologist"
+        }
+      ]
+    },
+    {
+      "id": "medical_gastro",
+      "canonical_name": "Medical Gastroenterology",
+      "aliases": [],
+      "display_name": {
+        "en": "Medical Gastroenterology",
+        "hi": "मेडिकल गैस्ट्रोएंटेरोलॉजी",
+        "te": "మెడికల్ గ్యాస్ట్రోఎంటరాలజీ"
+      },
+      "keywords": {
+        "en": [
+          "upper abdominal pain",
+          "burning sensation in stomach",
+          "acidity after food",
+          "vomiting repeatedly",
+          "loose motions",
+          "blood in stools",
+          "black stools",
+          "yellow eyes",
+          "yellow urine",
+          "liver problem",
+          "medical gastroenterology",
+          "stomach pain"
+        ],
+        "hi": [
+          "पेट के ऊपरी हिस्से में दर्द",
+          "पेट में जलन",
+          "एसिडिटी",
+          "बार-बार उल्टी होना",
+          "दस्त",
+          "मल में खून",
+          "काला मल",
+          "पीली आँखें",
+          "पीला पेशाब",
+          "लीवर की समस्या",
+          "मेडिकल गैस्ट्रोएंटेरोलॉजी",
+          "पेट दर्द"
+        ],
+        "te": [
+          "పై కడుపులో నొప్పి",
+          "కడుపులో మంట",
+          "గ్యాస్",
+          "ఎసిడిటీ",
+          "పదేపదే వాంతులు",
+          "విరేచనాలు",
+          "మలంలో రక్తం",
+          "నల్ల మలం",
+          "పచ్చ కామెర్లు",
+          "పసుపు రంగు మూత్రం",
+          "కాలేయ సమస్య",
+          "లివర్ సమస్య",
+          "మెడికల్ గ్యాస్ట్రోఎంటరాలజీ",
+          "కడుపు నొప్పి"
+        ]
+      },
+      "location": {
+        "en": "5th floor, room 502",
+        "hi": "5वीं मंजिल, कमरा 502",
+        "te": "5వ అంతస్తు, గది 502"
+      },
+      "doctors": [
+        {
+          "name": "Dr. Y. Satyanarayana Raju",
+          "role": "Gastroenterologist"
+        }
+      ]
+    },
+    {
+      "id": "pulmonary_medicine",
+      "canonical_name": "Pulmonary Medicine",
+      "aliases": [],
+      "display_name": {
+        "en": "Pulmonary Medicine",
+        "hi": "पल्मोनरी मेडिसिन",
+        "te": "పల్మనరీ మెడిసిన్"
+      },
+      "keywords": {
+        "en": [
+          "chronic cough",
+          "cough more than 2 weeks",
+          "breathlessness at rest",
+          "difficulty breathing",
+          "wheezing sound",
+          "asthma attack",
+          "blood in sputum",
+          "tb symptoms",
+          "pulmonary medicine",
+          "tb",
+          "tb problems"
+        ],
+        "hi": [
+          "पुरानी खांसी",
+          "लगातार खांसी",
+          "सांस लेने में दिक्कत",
+          "घरघराहट",
+          "अस्थमा",
+          "दमा",
+          "बलगम में खून",
+          "टीबी के लक्षण",
+          "पल्मोनरी मेडिसिन",
+          "टीबी",
+          "टीबी की समस्या"
+        ],
+        "te": [
+          "దీర్ఘకాలిక దగ్గు",
+          "రెండు వారాల కంటే ఎక్కువ దగ్గు",
+          "విశ్రాంతిగా ఉన్నప్పుడు ఆయాసం",
+          "శ్వాస తీసుకోవడంలో ఇబ్బంది",
+          "పీల్చడంలో ఇబ్బంది",
+          "పట్టేసినట్టు శబ్దం",
+          "ఉబ్బసం",
+          "ఆస్తమా",
+          "కఫంలో రక్తం",
+          "క్షయ వ్యాధి లక్షణాలు",
+          "పల్మనరీ మెడిసిన్",
+          "టీబీ",
+          "టీబీ సమస్యలు"
+        ]
+      },
+      "location": {
+        "en": "4th floor, rooms 403 and 404",
+        "hi": "4वीं मंजिल, कमरा 403 और 404",
+        "te": "4వ అంతస్తు, గది 403 మరియు 404"
+      },
+      "doctors": [
+        {
+          "name": "Dr. G. K. Paramjyothi",
+          "role": "Pulmonologist"
+        }
+      ]
+    },
+    {
+      "id": "urology",
+      "canonical_name": "Urology",
+      "aliases": [],
+      "display_name": {
+        "en": "Urology",
+        "hi": "यूरोलॉजी",
+        "te": "యూరాలజీ"
+      },
+      "keywords": {
+        "en": [
+          "burning while urinating",
+          "blood in urine",
+          "frequent urination",
+          "pain while passing urine",
+          "difficulty urinating",
+          "kidney stone pain",
+          "lower abdominal pain with urine",
+          "urology",
+          "kidney stone"
+        ],
+        "hi": [
+          "पेशाब में जलन",
+          "मूत्र में जलन",
+          "पेशाब में खून",
+          "बार-बार पेशाब आना",
+          "पेशाब करते समय दर्द",
+          "गुर्दे की पथरी का दर्द",
+          "यूरोलॉजी"
+        ],
+        "te": [
+          "మూత్రంలో మంట",
+          "మూత్రంలో రక్తం",
+          "తరచుగా మూత్రవిసర్జన",
+          "మూత్రం పోసేటప్పుడు నొప్పి",
+          "మూత్ర విసర్జనలో ఇబ్బంది",
+          "కిడ్నీలో రాళ్ల నొప్పి",
+          "మూత్రపిండాల్లో రాయి",
+          "యూరాలజీ",
+          "కిడ్నీ స్టోన్"
+        ]
+      },
+      "location": {
+        "en": "6th floor, rooms 609, 611",
+        "hi": "6वीं मंजिल, कमरा 609, 611",
+        "te": "6వ అంతస్తు, గది 609, 611"
+      },
+      "doctors": [
+        {
+          "name": "Dr. Ch. Ram Reddy",
+          "role": "Urologist"
+        }
+      ]
+    },
+    {
+      "id": "vascular_surgery",
+      "canonical_name": "Vascular Surgery",
+      "aliases": [],
+      "display_name": {
+        "en": "Vascular Surgery",
+        "hi": "वैस्कुलर सर्जरी",
+        "te": "వాస్కులర్ సర్జరీ"
+      },
+      "keywords": {
+        "en": [
+          "leg swelling",
+          "painful leg swelling",
+          "varicose veins",
+          "black discoloration of leg",
+          "non healing foot wound",
+          "blood clot in leg",
+          "vascular surgery",
+          "foot wound",
+          "healing",
+          "diabetic foot",
+          "swollen leg",
+          "blood vessel",
+          "veins",
+          "arteries"
+        ],
+        "hi": [
+          "पैर में सूजन",
+          "पैर में दर्दनाक सूजन",
+          "वैरिकाज़ नसें",
+          "नसों का उभरना",
+          "पैर का काला पड़ना",
+          "पैर में घाव जो ठीक न हो",
+          "पैर में खून का थक्का",
+          "वैस्कुलर सर्जरी",
+          "पैर का घाव",
+          "नासूर",
+          "मधुमेह पैर"
+        ],
+        "te": [
+          "కాళ్ళ వాపు",
+          "నొప్పితో కూడిన కాళ్ళ వాపు",
+          "వెరికోస్ వీన్స్",
+          "నరాలు ఉబ్బడం",
+          "కాలు నల్లగా మారడం",
+          "మానని పాదాల పుండు",
+          "కాలిలో రక్తం గడ్డకట్టడం",
+          "వాస్కులర్ సర్జరీ",
+          "పాదాల పుండు",
+          "షుగర్ పుండు",
+          "నరాల సమస్య"
+        ]
+      },
+      "location": {
+        "en": "5th floor, room 501",
+        "hi": "5वीं मंजिल, कमरा 501",
+        "te": "5వ అంతస్తు, గది 501"
+      },
+      "doctors": [
+        {
+          "name": "Dr. Sandeep Mahapatra",
+          "role": "Vascular Surgeon"
+        }
+      ]
+    }
+  ]
+}
