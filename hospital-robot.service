@@ -1,0 +1,33 @@
+[Unit]
+Description=Hospital Assistant Robot Application
+After=network-online.target
+
+[Service]
+# Run the service as the 'pi' user
+User=pi
+Group=pi
+
+# Set the working directory to the project folder
+WorkingDirectory=/home/pi/Downloads/Robot_Code-master
+
+# Load the API key from the .env file
+# Ensure your .env file is in the WorkingDirectory
+EnvironmentFile=/home/pi/Downloads/Robot_Code-master/.env
+
+# Set volume to 81% for USB Audio Device (Card 3) before starting
+ExecStartPre=/usr/bin/amixer -c 3 set Speaker 81%
+
+# The command to start the application
+# This uses the python executable from your virtual environment
+ExecStart=/home/pi/Downloads/Robot_Code-master/.venv/bin/python /home/pi/Downloads/Robot_Code-master/main.py
+
+# Restart the service automatically if it fails
+Restart=on-failure
+RestartSec=5s
+
+# Route stdout and stderr to the system journal
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

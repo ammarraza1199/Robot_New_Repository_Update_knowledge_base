@@ -1,0 +1,247 @@
+2026-01-12 11:07:58,259 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_585adadba84a9995e3984aff5833fb66.mp3' naturally.
+2026-01-12 11:07:58,260 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_585adadba84a9995e3984aff5833fb66.mp3'.
+2026-01-12 11:07:58,271 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:07:58,271 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:07:58,271 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_585adadba84a9995e3984aff5833fb66.mp3'.
+2026-01-12 11:07:58,271 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:07:59,001 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'}
+2026-01-12 11:07:59,001 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'
+2026-01-12 11:07:59,001 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3
+2026-01-12 11:07:59,001 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3' from MP3 to AudioSegment.
+2026-01-12 11:07:59,185 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:07:59,375 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:07:59,423 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:07:59,423 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:07:59,424 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:07:59,461 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:07:59,461 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3).
+2026-01-12 11:08:05,275 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3' naturally.
+2026-01-12 11:08:05,275 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'.
+2026-01-12 11:08:05,312 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:08:05,312 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:08:05,312 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'.
+2026-01-12 11:08:05,312 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:08:09,977 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:08:09,977 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:08:10,703 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3'}
+2026-01-12 11:08:10,703 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3'
+2026-01-12 11:08:10,703 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3
+2026-01-12 11:08:10,703 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3' from MP3 to AudioSegment.
+2026-01-12 11:08:10,885 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:08:11,077 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:08:11,136 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:08:11,136 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:08:11,136 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:08:11,174 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:08:11,174 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3).
+2026-01-12 11:08:17,035 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3' naturally.
+2026-01-12 11:08:17,035 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3'.
+2026-01-12 11:08:17,056 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:08:17,056 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:08:17,056 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_6374ddf1fe0017e4fd1df728de9ee18b.mp3'.
+2026-01-12 11:08:17,056 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:08:19,127 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'}
+2026-01-12 11:08:19,127 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'
+2026-01-12 11:08:19,127 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3
+2026-01-12 11:08:19,127 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3' from MP3 to AudioSegment.
+2026-01-12 11:08:19,313 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:08:19,501 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:08:19,552 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:08:19,552 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:08:19,553 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:08:19,590 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:08:19,590 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3).
+2026-01-12 11:08:25,404 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3' naturally.
+2026-01-12 11:08:25,404 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'.
+2026-01-12 11:08:25,440 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:08:25,441 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:08:25,441 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'.
+2026-01-12 11:08:25,441 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:08:28,840 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:08:28,841 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:08:30,369 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_1e613b1a3c760b05714e64352f139b6b.mp3'}
+2026-01-12 11:08:30,369 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_1e613b1a3c760b05714e64352f139b6b.mp3'
+2026-01-12 11:08:30,369 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_1e613b1a3c760b05714e64352f139b6b.mp3
+2026-01-12 11:08:30,369 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_1e613b1a3c760b05714e64352f139b6b.mp3' from MP3 to AudioSegment.
+2026-01-12 11:08:30,582 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_1e613b1a3c760b05714e64352f139b6b.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:08:30,778 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:08:30,818 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:08:30,818 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:08:30,818 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:08:30,856 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:08:30,856 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_1e613b1a3c760b05714e64352f139b6b.mp3).
+2026-01-12 11:08:42,338 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_1e613b1a3c760b05714e64352f139b6b.mp3' naturally.
+2026-01-12 11:08:42,338 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_1e613b1a3c760b05714e64352f139b6b.mp3'.
+2026-01-12 11:08:42,343 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:08:42,343 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:08:42,343 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_1e613b1a3c760b05714e64352f139b6b.mp3'.
+2026-01-12 11:08:42,343 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:08:51,533 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:08:51,533 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:08:52,294 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3'}
+2026-01-12 11:08:52,294 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3'
+2026-01-12 11:08:52,294 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3
+2026-01-12 11:08:52,294 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3' from MP3 to AudioSegment.
+2026-01-12 11:08:52,501 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:08:52,699 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:08:52,745 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:08:52,745 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:08:52,746 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:08:52,783 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:08:52,783 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3).
+2026-01-12 11:09:06,879 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3' naturally.
+2026-01-12 11:09:06,879 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3'.
+2026-01-12 11:09:06,891 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:09:06,933 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:09:06,933 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_0cec67e2f9cbad2dc20186bc8b06fe30.mp3'.
+2026-01-12 11:09:06,933 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:09:10,580 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:09:10,580 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:09:14,556 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_c74f13bbf307c931ef749201bc1f91b6.mp3'}
+2026-01-12 11:09:14,557 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_c74f13bbf307c931ef749201bc1f91b6.mp3'
+2026-01-12 11:09:14,557 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_c74f13bbf307c931ef749201bc1f91b6.mp3
+2026-01-12 11:09:14,557 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_c74f13bbf307c931ef749201bc1f91b6.mp3' from MP3 to AudioSegment.
+2026-01-12 11:09:14,756 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_c74f13bbf307c931ef749201bc1f91b6.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:09:14,969 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:09:15,020 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:09:15,020 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:09:15,021 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:09:15,058 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:09:15,058 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_c74f13bbf307c931ef749201bc1f91b6.mp3).
+2026-01-12 11:09:36,617 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_c74f13bbf307c931ef749201bc1f91b6.mp3' naturally.
+2026-01-12 11:09:36,617 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_c74f13bbf307c931ef749201bc1f91b6.mp3'.
+2026-01-12 11:09:36,652 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:09:36,761 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:09:36,761 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_c74f13bbf307c931ef749201bc1f91b6.mp3'.
+2026-01-12 11:09:36,761 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:09:39,357 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:09:39,357 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:09:39,888 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_0c31c24c916ab234d5e341c90af1f545.mp3'}
+2026-01-12 11:09:39,888 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_0c31c24c916ab234d5e341c90af1f545.mp3'
+2026-01-12 11:09:39,888 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_0c31c24c916ab234d5e341c90af1f545.mp3
+2026-01-12 11:09:39,888 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_0c31c24c916ab234d5e341c90af1f545.mp3' from MP3 to AudioSegment.
+2026-01-12 11:09:40,075 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_0c31c24c916ab234d5e341c90af1f545.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:09:40,267 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:09:40,331 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:09:40,331 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:09:40,332 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:09:40,369 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:09:40,369 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_0c31c24c916ab234d5e341c90af1f545.mp3).
+2026-01-12 11:09:44,046 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_0c31c24c916ab234d5e341c90af1f545.mp3' naturally.
+2026-01-12 11:09:44,046 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_0c31c24c916ab234d5e341c90af1f545.mp3'.
+2026-01-12 11:09:44,075 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:09:44,075 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:09:44,075 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_0c31c24c916ab234d5e341c90af1f545.mp3'.
+2026-01-12 11:09:44,075 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:09:46,109 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:09:46,109 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:09:46,837 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_641548da3865d0dd0159fdfc81844a59.mp3'}
+2026-01-12 11:09:46,837 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_641548da3865d0dd0159fdfc81844a59.mp3'
+2026-01-12 11:09:46,837 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_641548da3865d0dd0159fdfc81844a59.mp3
+2026-01-12 11:09:46,837 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_641548da3865d0dd0159fdfc81844a59.mp3' from MP3 to AudioSegment.
+2026-01-12 11:09:47,028 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_641548da3865d0dd0159fdfc81844a59.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:09:47,218 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:09:47,274 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:09:47,274 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:09:47,275 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:09:47,312 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:09:47,312 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_641548da3865d0dd0159fdfc81844a59.mp3).
+2026-01-12 11:09:55,285 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_641548da3865d0dd0159fdfc81844a59.mp3' naturally.
+2026-01-12 11:09:55,286 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_641548da3865d0dd0159fdfc81844a59.mp3'.
+2026-01-12 11:09:55,305 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:09:55,305 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:09:55,306 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_641548da3865d0dd0159fdfc81844a59.mp3'.
+2026-01-12 11:09:55,306 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:09:59,832 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'}
+2026-01-12 11:09:59,833 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'
+2026-01-12 11:09:59,833 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3
+2026-01-12 11:09:59,833 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3' from MP3 to AudioSegment.
+2026-01-12 11:10:00,020 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:10:00,212 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:10:00,265 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:10:00,265 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:10:00,265 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:10:00,303 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:10:00,303 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3).
+2026-01-12 11:10:06,115 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3' naturally.
+2026-01-12 11:10:06,116 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'.
+2026-01-12 11:10:06,120 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:10:06,120 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:10:06,120 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_f0232ccd86d442ad74e18c27027dc1d1.mp3'.
+2026-01-12 11:10:06,121 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:10:10,391 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:10:10,391 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:10:10,940 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3'}
+2026-01-12 11:10:10,941 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3'
+2026-01-12 11:10:10,941 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3
+2026-01-12 11:10:10,941 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3' from MP3 to AudioSegment.
+2026-01-12 11:10:11,128 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:10:11,323 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:10:11,368 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:10:11,368 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:10:11,368 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:10:11,406 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:10:11,406 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3).
+2026-01-12 11:10:19,644 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3' naturally.
+2026-01-12 11:10:19,644 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3'.
+2026-01-12 11:10:19,655 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:10:19,656 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:10:19,656 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_027a6c61b7f83ea769779a1fcd2fbc3a.mp3'.
+2026-01-12 11:10:19,656 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:10:25,689 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:10:25,689 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:10:26,203 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3'}
+2026-01-12 11:10:26,203 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3'
+2026-01-12 11:10:26,203 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3
+2026-01-12 11:10:26,203 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3' from MP3 to AudioSegment.
+2026-01-12 11:10:26,417 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:10:26,607 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:10:26,663 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:10:26,663 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:10:26,664 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:10:26,701 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:10:26,701 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3).
+2026-01-12 11:10:30,330 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3' naturally.
+2026-01-12 11:10:30,330 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3'.
+2026-01-12 11:10:30,343 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:10:30,343 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:10:30,343 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_f9087637cd8f9103aa1b5e3a60240a34.mp3'.
+2026-01-12 11:10:30,343 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:10:32,440 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:10:32,440 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:10:35,212 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_70c3de617aed0dc51d9a372a125d2884.mp3'}
+2026-01-12 11:10:35,212 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_70c3de617aed0dc51d9a372a125d2884.mp3'
+2026-01-12 11:10:35,212 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_70c3de617aed0dc51d9a372a125d2884.mp3
+2026-01-12 11:10:35,212 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_70c3de617aed0dc51d9a372a125d2884.mp3' from MP3 to AudioSegment.
+2026-01-12 11:10:35,399 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_70c3de617aed0dc51d9a372a125d2884.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:10:35,595 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:10:35,655 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:10:35,655 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:10:35,656 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:10:35,693 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:10:35,693 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_70c3de617aed0dc51d9a372a125d2884.mp3).
+2026-01-12 11:10:49,595 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_70c3de617aed0dc51d9a372a125d2884.mp3' naturally.
+2026-01-12 11:10:49,595 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_70c3de617aed0dc51d9a372a125d2884.mp3'.
+2026-01-12 11:10:49,607 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:10:49,607 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:10:49,607 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_70c3de617aed0dc51d9a372a125d2884.mp3'.
+2026-01-12 11:10:49,607 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.
+2026-01-12 11:10:52,728 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'stop'}
+2026-01-12 11:10:52,728 - Process-3 - pyaudio_player - INFO - Stop command received, stopping playback.
+2026-01-12 11:10:53,517 - Process-3 - pyaudio_player - INFO - Received message from queue: {'command': 'play', 'file': 'interaction_578acafc3da5a22452c7576063ab4e08.mp3'}
+2026-01-12 11:10:53,518 - Process-3 - pyaudio_player - DEBUG - start_playback called with file: 'interaction_578acafc3da5a22452c7576063ab4e08.mp3'
+2026-01-12 11:10:53,518 - Process-3 - pyaudio_player - DEBUG - Full path to audio file: audio_cache/interaction_578acafc3da5a22452c7576063ab4e08.mp3
+2026-01-12 11:10:53,518 - Process-3 - pyaudio_player - DEBUG - Loading and converting 'interaction_578acafc3da5a22452c7576063ab4e08.mp3' from MP3 to AudioSegment.
+2026-01-12 11:10:53,725 - Process-3 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'audio_cache/interaction_578acafc3da5a22452c7576063ab4e08.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2026-01-12 11:10:53,918 - Process-3 - pyaudio_player - DEBUG - Checking support for rate=24000, channels=1, format=8
+2026-01-12 11:10:53,959 - Process-3 - pyaudio_player - DEBUG - Device support for rate 24000Hz: True
+2026-01-12 11:10:53,959 - Process-3 - pyaudio_player - DEBUG - Exporting AudioSegment to WAV (in memory) at 24000Hz.
+2026-01-12 11:10:53,959 - Process-3 - pyaudio_player - DEBUG - Opening PyAudio stream on device index 2.
+2026-01-12 11:10:53,997 - Process-3 - pyaudio_player - INFO - Stream opened. Rate: 24000Hz, Channels: 1
+2026-01-12 11:10:53,997 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Set to True (now playing: interaction_578acafc3da5a22452c7576063ab4e08.mp3).
+2026-01-12 11:11:02,787 - Process-3 - pyaudio_player - INFO - Finished playing 'interaction_578acafc3da5a22452c7576063ab4e08.mp3' naturally.
+2026-01-12 11:11:02,787 - Process-3 - pyaudio_player - DEBUG - Stopping playback for 'interaction_578acafc3da5a22452c7576063ab4e08.mp3'.
+2026-01-12 11:11:02,823 - Process-3 - pyaudio_player - DEBUG - PyAudio stream stopped and closed.
+2026-01-12 11:11:02,823 - Process-3 - pyaudio_player - DEBUG - Wave file object closed.
+2026-01-12 11:11:02,823 - Process-3 - pyaudio_player - INFO - Playback stopped for 'interaction_578acafc3da5a22452c7576063ab4e08.mp3'.
+2026-01-12 11:11:02,823 - Process-3 - pyaudio_player - INFO - AUDIO_FLAG: Cleared.

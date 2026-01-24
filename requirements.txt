@@ -1,0 +1,11 @@
+opencv-python
+ultralytics
+picamera2
+SpeechRecognition
+pyaudio
+requests
+gTTS
+python-dotenv
+pygame
+numpy==1.24.2
+pyserial
