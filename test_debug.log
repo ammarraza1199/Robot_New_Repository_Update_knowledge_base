@@ -1,0 +1,1257 @@
+2026-01-26 12:07:37,795 - INFO - Initializing speech recognizer...
+2026-01-26 12:07:37,796 - INFO - --- Starting Knowledge Base Load ---
+2026-01-26 12:07:37,802 - INFO - Loaded 86 interaction Q&A pairs.
+2026-01-26 12:07:37,802 - INFO - --- Knowledge Base Load Complete ---
+2026-01-26 12:07:37,806 - INFO - --- Processing command: 'కార్డియాలజీ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:37,820 - INFO - find_department: Searching for all departments in text: 'కార్డియాలజీ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:37,842 - INFO - find_department: Matched keyword 'కార్డియాలజీ' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:37,863 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:37,863 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:37,865 - INFO - --- Processing command: 'కార్డియాలజీ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:37,867 - INFO - find_department: Searching for all departments in text: 'కార్డియాలజీ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:37,870 - INFO - find_department: Matched keyword 'కార్డియాలజీ' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:37,873 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:37,873 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:37,873 - INFO - --- Processing command: 'కార్డియాలజీ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:37,875 - INFO - find_department: Searching for all departments in text: 'కార్డియాలజీ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:37,879 - INFO - find_department: Matched keyword 'కార్డియాలజీ' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:37,882 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:37,882 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:37,882 - INFO - --- Processing command: 'కార్డియాలజీ ఉందా?' (lang: te) ---
+2026-01-26 12:07:37,883 - INFO - find_department: Searching for all departments in text: 'కార్డియాలజీ ఉందా?' (lang: te)
+2026-01-26 12:07:37,886 - INFO - find_department: Matched keyword 'కార్డియాలజీ' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:37,892 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:37,892 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:37,893 - INFO - --- Processing command: 'ఫార్మసీ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:37,893 - INFO - find_department: Searching for all departments in text: 'ఫార్మసీ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:37,896 - INFO - find_department: Matched keyword 'ఫార్మసీ' to department 'Pharmacy'.
+2026-01-26 12:07:37,898 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:37,898 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:37,898 - INFO - --- Processing command: 'ఫార్మసీ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:37,899 - INFO - find_department: Searching for all departments in text: 'ఫార్మసీ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:37,902 - INFO - find_department: Matched keyword 'ఫార్మసీ' to department 'Pharmacy'.
+2026-01-26 12:07:37,904 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:37,904 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:37,904 - INFO - --- Processing command: 'ఫార్మసీ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:37,905 - INFO - find_department: Searching for all departments in text: 'ఫార్మసీ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:37,914 - INFO - find_department: Matched keyword 'ఫార్మసీ' to department 'Pharmacy'.
+2026-01-26 12:07:37,915 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:37,915 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:37,915 - INFO - --- Processing command: 'ఫార్మసీ ఉందా?' (lang: te) ---
+2026-01-26 12:07:37,916 - INFO - find_department: Searching for all departments in text: 'ఫార్మసీ ఉందా?' (lang: te)
+2026-01-26 12:07:37,920 - INFO - find_department: Matched keyword 'ఫార్మసీ' to department 'Pharmacy'.
+2026-01-26 12:07:37,921 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:37,921 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:37,922 - INFO - --- Processing command: 'మందుల షాపు ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:37,923 - INFO - find_department: Searching for all departments in text: 'మందుల షాపు ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:37,927 - INFO - find_department: Matched keyword 'మందుల షాపు' to department 'Pharmacy'.
+2026-01-26 12:07:37,929 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:37,929 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:37,930 - INFO - --- Processing command: 'మందుల షాపు కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:37,933 - INFO - find_department: Searching for all departments in text: 'మందుల షాపు కి దారి ఏది' (lang: te)
+2026-01-26 12:07:37,936 - INFO - find_department: Matched keyword 'మందుల షాపు' to department 'Pharmacy'.
+2026-01-26 12:07:37,944 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:37,944 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:37,945 - INFO - --- Processing command: 'మందుల షాపు వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:37,946 - INFO - find_department: Searching for all departments in text: 'మందుల షాపు వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:37,950 - INFO - find_department: Matched keyword 'మందుల షాపు' to department 'Pharmacy'.
+2026-01-26 12:07:37,952 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:37,952 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:37,952 - INFO - --- Processing command: 'మందుల షాపు ఉందా?' (lang: te) ---
+2026-01-26 12:07:37,954 - INFO - find_department: Searching for all departments in text: 'మందుల షాపు ఉందా?' (lang: te)
+2026-01-26 12:07:37,957 - INFO - find_department: Matched keyword 'మందుల షాపు' to department 'Pharmacy'.
+2026-01-26 12:07:37,959 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:37,959 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:37,959 - INFO - --- Processing command: 'ఎక్స్-రే ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:37,961 - INFO - find_department: Searching for all departments in text: 'ఎక్స్-రే ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:37,964 - INFO - find_department: Matched keyword 'ఎక్స్-రే' to department 'Radiology'.
+2026-01-26 12:07:37,965 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:37,966 - INFO - Generated response text: 'విభాగం పేరు రేడియాలజీ విభాగం, డాక్టర్ పేరు Radiology Technician, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, డయాగ్నోస్టిక్ బ్లాక్.'
+2026-01-26 12:07:37,966 - INFO - --- Processing command: 'ఎక్స్-రే కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:37,967 - INFO - find_department: Searching for all departments in text: 'ఎక్స్-రే కి దారి ఏది' (lang: te)
+2026-01-26 12:07:37,971 - INFO - find_department: Matched keyword 'ఎక్స్-రే' to department 'Radiology'.
+2026-01-26 12:07:37,972 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:37,973 - INFO - Generated response text: 'విభాగం పేరు రేడియాలజీ విభాగం, డాక్టర్ పేరు Radiology Technician, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, డయాగ్నోస్టిక్ బ్లాక్.'
+2026-01-26 12:07:37,973 - INFO - --- Processing command: 'ఎక్స్-రే వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:37,974 - INFO - find_department: Searching for all departments in text: 'ఎక్స్-రే వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:37,977 - INFO - find_department: Matched keyword 'ఎక్స్-రే' to department 'Radiology'.
+2026-01-26 12:07:37,980 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:37,980 - INFO - Generated response text: 'విభాగం పేరు రేడియాలజీ విభాగం, డాక్టర్ పేరు Radiology Technician, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, డయాగ్నోస్టిక్ బ్లాక్.'
+2026-01-26 12:07:37,981 - INFO - --- Processing command: 'ఎక్స్-రే ఉందా?' (lang: te) ---
+2026-01-26 12:07:37,982 - INFO - find_department: Searching for all departments in text: 'ఎక్స్-రే ఉందా?' (lang: te)
+2026-01-26 12:07:37,985 - INFO - find_department: Matched keyword 'ఎక్స్-రే' to department 'Radiology'.
+2026-01-26 12:07:37,986 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:37,987 - INFO - Generated response text: 'విభాగం పేరు రేడియాలజీ విభాగం, డాక్టర్ పేరు Radiology Technician, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, డయాగ్నోస్టిక్ బ్లాక్.'
+2026-01-26 12:07:37,987 - INFO - --- Processing command: 'రక్త పరీక్ష ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,010 - INFO - find_department: Searching for all departments in text: 'రక్త పరీక్ష ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,024 - INFO - find_department: Matched keyword 'రక్త పరీక్ష' to department 'Laboratory'.
+2026-01-26 12:07:38,026 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:38,026 - INFO - Generated response text: 'విభాగం పేరు ల్యాబ్ మెడిసిన్ విభాగం, డాక్టర్ పేరు Lab Technician, మరియు చిరునామా డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:38,026 - INFO - --- Processing command: 'రక్త పరీక్ష కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,047 - INFO - find_department: Searching for all departments in text: 'రక్త పరీక్ష కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,049 - INFO - find_department: Matched keyword 'రక్త పరీక్ష' to department 'Laboratory'.
+2026-01-26 12:07:38,051 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:38,052 - INFO - Generated response text: 'విభాగం పేరు ల్యాబ్ మెడిసిన్ విభాగం, డాక్టర్ పేరు Lab Technician, మరియు చిరునామా డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:38,052 - INFO - --- Processing command: 'రక్త పరీక్ష వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,177 - INFO - find_department: Searching for all departments in text: 'రక్త పరీక్ష వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,181 - INFO - find_department: Matched keyword 'రక్త పరీక్ష' to department 'Laboratory'.
+2026-01-26 12:07:38,183 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:38,183 - INFO - Generated response text: 'విభాగం పేరు ల్యాబ్ మెడిసిన్ విభాగం, డాక్టర్ పేరు Lab Technician, మరియు చిరునామా డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:38,183 - INFO - --- Processing command: 'రక్త పరీక్ష ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,184 - INFO - find_department: Searching for all departments in text: 'రక్త పరీక్ష ఉందా?' (lang: te)
+2026-01-26 12:07:38,187 - INFO - find_department: Matched keyword 'రక్త పరీక్ష' to department 'Laboratory'.
+2026-01-26 12:07:38,189 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:38,190 - INFO - Generated response text: 'విభాగం పేరు ల్యాబ్ మెడిసిన్ విభాగం, డాక్టర్ పేరు Lab Technician, మరియు చిరునామా డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:38,190 - INFO - --- Processing command: 'జనరల్ మెడిసిన్ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,235 - INFO - find_department: Searching for all departments in text: 'జనరల్ మెడిసిన్ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,244 - INFO - find_department: Matched keyword 'జనరల్ మెడిసిన్' to department 'General Medicine'.
+2026-01-26 12:07:38,255 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:38,256 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:38,256 - INFO - --- Processing command: 'జనరల్ మెడిసిన్ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,306 - INFO - find_department: Searching for all departments in text: 'జనరల్ మెడిసిన్ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,309 - INFO - find_department: Matched keyword 'జనరల్ మెడిసిన్' to department 'General Medicine'.
+2026-01-26 12:07:38,313 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:38,314 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:38,314 - INFO - --- Processing command: 'జనరల్ మెడిసిన్ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,352 - INFO - find_department: Searching for all departments in text: 'జనరల్ మెడిసిన్ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,353 - INFO - find_department: Matched keyword 'జనరల్ మెడిసిన్' to department 'General Medicine'.
+2026-01-26 12:07:38,365 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:38,365 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:38,365 - INFO - --- Processing command: 'జనరల్ మెడిసిన్ ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,367 - INFO - find_department: Searching for all departments in text: 'జనరల్ మెడిసిన్ ఉందా?' (lang: te)
+2026-01-26 12:07:38,368 - INFO - find_department: Matched keyword 'జనరల్ మెడిసిన్' to department 'General Medicine'.
+2026-01-26 12:07:38,377 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:38,378 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:38,378 - INFO - --- Processing command: 'గుండె డాక్టర్ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,410 - INFO - find_department: Searching for all departments in text: 'గుండె డాక్టర్ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,412 - INFO - find_department: Matched keyword 'గుండె డాక్టర్' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:38,415 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:38,415 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:38,415 - INFO - --- Processing command: 'గుండె డాక్టర్ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,443 - INFO - find_department: Searching for all departments in text: 'గుండె డాక్టర్ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,445 - INFO - find_department: Matched keyword 'గుండె డాక్టర్' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:38,449 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:38,449 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:38,450 - INFO - --- Processing command: 'గుండె డాక్టర్ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,467 - INFO - find_department: Searching for all departments in text: 'గుండె డాక్టర్ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,468 - INFO - find_department: Matched keyword 'గుండె డాక్టర్' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:38,469 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:38,469 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:38,470 - INFO - --- Processing command: 'గుండె డాక్టర్ ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,471 - INFO - find_department: Searching for all departments in text: 'గుండె డాక్టర్ ఉందా?' (lang: te)
+2026-01-26 12:07:38,473 - INFO - find_department: Matched keyword 'గుండె డాక్టర్' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:38,475 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:38,476 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:38,476 - INFO - --- Processing command: 'పిల్లల డాక్టర్ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,477 - INFO - find_department: Searching for all departments in text: 'పిల్లల డాక్టర్ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,478 - INFO - find_department: Matched keyword 'పిల్లల డాక్టర్' to department 'Paediatrics'.
+2026-01-26 12:07:38,480 - INFO - find_department returned: ['Paediatrics']
+2026-01-26 12:07:38,480 - INFO - Generated response text: 'విభాగం పేరు పిల్లల వైద్య విభాగం, డాక్టర్ పేరు Paediatrician on Duty, మరియు చిరునామా 2వ అంతస్తు, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,480 - INFO - --- Processing command: 'పిల్లల డాక్టర్ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,482 - INFO - find_department: Searching for all departments in text: 'పిల్లల డాక్టర్ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,483 - INFO - find_department: Matched keyword 'పిల్లల డాక్టర్' to department 'Paediatrics'.
+2026-01-26 12:07:38,484 - INFO - find_department returned: ['Paediatrics']
+2026-01-26 12:07:38,484 - INFO - Generated response text: 'విభాగం పేరు పిల్లల వైద్య విభాగం, డాక్టర్ పేరు Paediatrician on Duty, మరియు చిరునామా 2వ అంతస్తు, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,485 - INFO - --- Processing command: 'పిల్లల డాక్టర్ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,486 - INFO - find_department: Searching for all departments in text: 'పిల్లల డాక్టర్ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,487 - INFO - find_department: Matched keyword 'పిల్లల డాక్టర్' to department 'Paediatrics'.
+2026-01-26 12:07:38,488 - INFO - find_department returned: ['Paediatrics']
+2026-01-26 12:07:38,488 - INFO - Generated response text: 'విభాగం పేరు పిల్లల వైద్య విభాగం, డాక్టర్ పేరు Paediatrician on Duty, మరియు చిరునామా 2వ అంతస్తు, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,488 - INFO - --- Processing command: 'పిల్లల డాక్టర్ ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,489 - INFO - find_department: Searching for all departments in text: 'పిల్లల డాక్టర్ ఉందా?' (lang: te)
+2026-01-26 12:07:38,489 - INFO - find_department: Matched keyword 'పిల్లల డాక్టర్' to department 'Paediatrics'.
+2026-01-26 12:07:38,491 - INFO - find_department returned: ['Paediatrics']
+2026-01-26 12:07:38,491 - INFO - Generated response text: 'విభాగం పేరు పిల్లల వైద్య విభాగం, డాక్టర్ పేరు Paediatrician on Duty, మరియు చిరునామా 2వ అంతస్తు, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,492 - INFO - --- Processing command: 'చర్మ వైద్యుడు ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,494 - INFO - find_department: Searching for all departments in text: 'చర్మ వైద్యుడు ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,496 - INFO - find_department: Matched keyword 'చర్మ వైద్యుడు' to department 'Dermatology'.
+2026-01-26 12:07:38,498 - INFO - find_department returned: ['Dermatology']
+2026-01-26 12:07:38,498 - INFO - Generated response text: 'విభాగం పేరు చర్మ వైద్య విభాగం, డాక్టర్ పేరు Dermatologist on Duty, మరియు చిరునామా 3వ అంతస్తు, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,499 - INFO - --- Processing command: 'చర్మ వైద్యుడు కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,500 - INFO - find_department: Searching for all departments in text: 'చర్మ వైద్యుడు కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,502 - INFO - find_department: Matched keyword 'చర్మ వైద్యుడు' to department 'Dermatology'.
+2026-01-26 12:07:38,503 - INFO - find_department returned: ['Dermatology']
+2026-01-26 12:07:38,503 - INFO - Generated response text: 'విభాగం పేరు చర్మ వైద్య విభాగం, డాక్టర్ పేరు Dermatologist on Duty, మరియు చిరునామా 3వ అంతస్తు, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,503 - INFO - --- Processing command: 'చర్మ వైద్యుడు వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,504 - INFO - find_department: Searching for all departments in text: 'చర్మ వైద్యుడు వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,505 - INFO - find_department: Matched keyword 'చర్మ వైద్యుడు' to department 'Dermatology'.
+2026-01-26 12:07:38,506 - INFO - find_department returned: ['Dermatology']
+2026-01-26 12:07:38,506 - INFO - Generated response text: 'విభాగం పేరు చర్మ వైద్య విభాగం, డాక్టర్ పేరు Dermatologist on Duty, మరియు చిరునామా 3వ అంతస్తు, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,507 - INFO - --- Processing command: 'చర్మ వైద్యుడు ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,507 - INFO - find_department: Searching for all departments in text: 'చర్మ వైద్యుడు ఉందా?' (lang: te)
+2026-01-26 12:07:38,508 - INFO - find_department: Matched keyword 'చర్మ వైద్యుడు' to department 'Dermatology'.
+2026-01-26 12:07:38,509 - INFO - find_department returned: ['Dermatology']
+2026-01-26 12:07:38,509 - INFO - Generated response text: 'విభాగం పేరు చర్మ వైద్య విభాగం, డాక్టర్ పేరు Dermatologist on Duty, మరియు చిరునామా 3వ అంతస్తు, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,509 - INFO - --- Processing command: 'యూరాలజీ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,510 - INFO - find_department: Searching for all departments in text: 'యూరాలజీ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,515 - INFO - find_department: Matched keyword 'యూరాలజీ' to department 'Urology'.
+2026-01-26 12:07:38,516 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:38,516 - INFO - Generated response text: 'విభాగం పేరు యూరాలజీ, డాక్టర్ పేరు Dr. Ch. Ram Reddy, మరియు చిరునామా 6వ అంతస్తు, గది 609, 611.'
+2026-01-26 12:07:38,516 - INFO - --- Processing command: 'యూరాలజీ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,518 - INFO - find_department: Searching for all departments in text: 'యూరాలజీ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,521 - INFO - find_department: Matched keyword 'యూరాలజీ' to department 'Urology'.
+2026-01-26 12:07:38,522 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:38,522 - INFO - Generated response text: 'విభాగం పేరు యూరాలజీ, డాక్టర్ పేరు Dr. Ch. Ram Reddy, మరియు చిరునామా 6వ అంతస్తు, గది 609, 611.'
+2026-01-26 12:07:38,522 - INFO - --- Processing command: 'యూరాలజీ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,523 - INFO - find_department: Searching for all departments in text: 'యూరాలజీ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,524 - INFO - find_department: Matched keyword 'యూరాలజీ' to department 'Urology'.
+2026-01-26 12:07:38,525 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:38,525 - INFO - Generated response text: 'విభాగం పేరు యూరాలజీ, డాక్టర్ పేరు Dr. Ch. Ram Reddy, మరియు చిరునామా 6వ అంతస్తు, గది 609, 611.'
+2026-01-26 12:07:38,525 - INFO - --- Processing command: 'యూరాలజీ ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,525 - INFO - find_department: Searching for all departments in text: 'యూరాలజీ ఉందా?' (lang: te)
+2026-01-26 12:07:38,527 - INFO - find_department: Matched keyword 'యూరాలజీ' to department 'Urology'.
+2026-01-26 12:07:38,528 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:38,528 - INFO - Generated response text: 'విభాగం పేరు యూరాలజీ, డాక్టర్ పేరు Dr. Ch. Ram Reddy, మరియు చిరునామా 6వ అంతస్తు, గది 609, 611.'
+2026-01-26 12:07:38,528 - INFO - --- Processing command: 'ల్యాబ్ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,529 - INFO - find_department: Searching for all departments in text: 'ల్యాబ్ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,530 - INFO - find_department: Matched keyword 'ల్యాబ్' to department 'Laboratory'.
+2026-01-26 12:07:38,531 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:38,531 - INFO - Generated response text: 'విభాగం పేరు ల్యాబ్ మెడిసిన్ విభాగం, డాక్టర్ పేరు Lab Technician, మరియు చిరునామా డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:38,531 - INFO - --- Processing command: 'ల్యాబ్ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,531 - INFO - find_department: Searching for all departments in text: 'ల్యాబ్ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,534 - INFO - find_department: Matched keyword 'ల్యాబ్' to department 'Laboratory'.
+2026-01-26 12:07:38,534 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:38,534 - INFO - Generated response text: 'విభాగం పేరు ల్యాబ్ మెడిసిన్ విభాగం, డాక్టర్ పేరు Lab Technician, మరియు చిరునామా డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:38,534 - INFO - --- Processing command: 'ల్యాబ్ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,535 - INFO - find_department: Searching for all departments in text: 'ల్యాబ్ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,537 - INFO - find_department: Matched keyword 'ల్యాబ్' to department 'Laboratory'.
+2026-01-26 12:07:38,537 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:38,537 - INFO - Generated response text: 'విభాగం పేరు ల్యాబ్ మెడిసిన్ విభాగం, డాక్టర్ పేరు Lab Technician, మరియు చిరునామా డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:38,537 - INFO - --- Processing command: 'ల్యాబ్ ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,538 - INFO - find_department: Searching for all departments in text: 'ల్యాబ్ ఉందా?' (lang: te)
+2026-01-26 12:07:38,539 - INFO - find_department: Matched keyword 'ల్యాబ్' to department 'Laboratory'.
+2026-01-26 12:07:38,540 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:38,540 - INFO - Generated response text: 'విభాగం పేరు ల్యాబ్ మెడిసిన్ విభాగం, డాక్టర్ పేరు Lab Technician, మరియు చిరునామా డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:38,540 - INFO - --- Processing command: 'ఈఎన్టీ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,548 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,552 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:38,553 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:38,553 - INFO - Generated response text: 'విభాగం పేరు ఈఎన్టీ విభాగం, డాక్టర్ పేరు ENT Specialist, మరియు చిరునామా ఓపీడి బ్లాక్, 1వ అంతస్తు.'
+2026-01-26 12:07:38,554 - INFO - --- Processing command: 'ఈఎన్టీ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,573 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,577 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:38,578 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:38,578 - INFO - Generated response text: 'విభాగం పేరు ఈఎన్టీ విభాగం, డాక్టర్ పేరు ENT Specialist, మరియు చిరునామా ఓపీడి బ్లాక్, 1వ అంతస్తు.'
+2026-01-26 12:07:38,578 - INFO - --- Processing command: 'ఈఎన్టీ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,592 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,594 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:38,594 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:38,594 - INFO - Generated response text: 'విభాగం పేరు ఈఎన్టీ విభాగం, డాక్టర్ పేరు ENT Specialist, మరియు చిరునామా ఓపీడి బ్లాక్, 1వ అంతస్తు.'
+2026-01-26 12:07:38,594 - INFO - --- Processing command: 'ఈఎన్టీ ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,595 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ ఉందా?' (lang: te)
+2026-01-26 12:07:38,599 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:38,600 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:38,600 - INFO - Generated response text: 'విభాగం పేరు ఈఎన్టీ విభాగం, డాక్టర్ పేరు ENT Specialist, మరియు చిరునామా ఓపీడి బ్లాక్, 1వ అంతస్తు.'
+2026-01-26 12:07:38,600 - INFO - --- Processing command: 'డెంటల్ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,609 - INFO - find_department: Searching for all departments in text: 'డెంటల్ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,612 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:38,612 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:38,612 - INFO - Generated response text: 'విభాగం పేరు దంత వైద్య విభాగం, డాక్టర్ పేరు Dentist on Duty, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,612 - INFO - --- Processing command: 'డెంటల్ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,625 - INFO - find_department: Searching for all departments in text: 'డెంటల్ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,629 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:38,630 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:38,630 - INFO - Generated response text: 'విభాగం పేరు దంత వైద్య విభాగం, డాక్టర్ పేరు Dentist on Duty, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,631 - INFO - --- Processing command: 'డెంటల్ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,646 - INFO - find_department: Searching for all departments in text: 'డెంటల్ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,650 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:38,651 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:38,651 - INFO - Generated response text: 'విభాగం పేరు దంత వైద్య విభాగం, డాక్టర్ పేరు Dentist on Duty, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,651 - INFO - --- Processing command: 'డెంటల్ ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,652 - INFO - find_department: Searching for all departments in text: 'డెంటల్ ఉందా?' (lang: te)
+2026-01-26 12:07:38,655 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:38,655 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:38,656 - INFO - Generated response text: 'విభాగం పేరు దంత వైద్య విభాగం, డాక్టర్ పేరు Dentist on Duty, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:38,656 - INFO - --- Processing command: 'కంటి డాక్టర్ ఎక్కడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,669 - INFO - find_department: Searching for all departments in text: 'కంటి డాక్టర్ ఎక్కడ ఉంది' (lang: te)
+2026-01-26 12:07:38,671 - INFO - find_department: Matched keyword 'కంటి డాక్టర్' to department 'Ophthalmology'.
+2026-01-26 12:07:38,673 - INFO - find_department returned: ['Ophthalmology']
+2026-01-26 12:07:38,673 - INFO - Generated response text: 'విభాగం పేరు కంటి వైద్య విభాగం, డాక్టర్ పేరు Ophthalmologist, మరియు చిరునామా ఓపీడి బ్లాక్, 2వ అంతస్తు.'
+2026-01-26 12:07:38,673 - INFO - --- Processing command: 'కంటి డాక్టర్ కి దారి ఏది' (lang: te) ---
+2026-01-26 12:07:38,682 - INFO - find_department: Searching for all departments in text: 'కంటి డాక్టర్ కి దారి ఏది' (lang: te)
+2026-01-26 12:07:38,683 - INFO - find_department: Matched keyword 'కంటి డాక్టర్' to department 'Ophthalmology'.
+2026-01-26 12:07:38,684 - INFO - find_department returned: ['Ophthalmology']
+2026-01-26 12:07:38,684 - INFO - Generated response text: 'విభాగం పేరు కంటి వైద్య విభాగం, డాక్టర్ పేరు Ophthalmologist, మరియు చిరునామా ఓపీడి బ్లాక్, 2వ అంతస్తు.'
+2026-01-26 12:07:38,684 - INFO - --- Processing command: 'కంటి డాక్టర్ వైపు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:38,692 - INFO - find_department: Searching for all departments in text: 'కంటి డాక్టర్ వైపు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:38,694 - INFO - find_department: Matched keyword 'కంటి డాక్టర్' to department 'Ophthalmology'.
+2026-01-26 12:07:38,695 - INFO - find_department returned: ['Ophthalmology']
+2026-01-26 12:07:38,695 - INFO - Generated response text: 'విభాగం పేరు కంటి వైద్య విభాగం, డాక్టర్ పేరు Ophthalmologist, మరియు చిరునామా ఓపీడి బ్లాక్, 2వ అంతస్తు.'
+2026-01-26 12:07:38,695 - INFO - --- Processing command: 'కంటి డాక్టర్ ఉందా?' (lang: te) ---
+2026-01-26 12:07:38,695 - INFO - find_department: Searching for all departments in text: 'కంటి డాక్టర్ ఉందా?' (lang: te)
+2026-01-26 12:07:38,697 - INFO - find_department: Matched keyword 'కంటి డాక్టర్' to department 'Ophthalmology'.
+2026-01-26 12:07:38,698 - INFO - find_department returned: ['Ophthalmology']
+2026-01-26 12:07:38,699 - INFO - Generated response text: 'విభాగం పేరు కంటి వైద్య విభాగం, డాక్టర్ పేరు Ophthalmologist, మరియు చిరునామా ఓపీడి బ్లాక్, 2వ అంతస్తు.'
+2026-01-26 12:07:38,699 - INFO - --- Processing command: 'నాకు ఛాతీ నొప్పిగా ఉంది' (lang: te) ---
+2026-01-26 12:07:38,701 - INFO - find_department: Searching for all departments in text: 'నాకు ఛాతీ నొప్పిగా ఉంది' (lang: te)
+2026-01-26 12:07:38,703 - INFO - find_department: Matched keyword 'ఛాతీ నొప్పి' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:38,705 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:38,705 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:38,706 - INFO - --- Processing command: 'ఛాతీ నొప్పి ఉంది' (lang: te) ---
+2026-01-26 12:07:38,706 - INFO - find_department: Searching for all departments in text: 'ఛాతీ నొప్పి ఉంది' (lang: te)
+2026-01-26 12:07:38,708 - INFO - find_department: Matched keyword 'ఛాతీ నొప్పి' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:38,709 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:38,709 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:38,709 - INFO - --- Processing command: 'అమ్మో ఛాతీ నొప్పి' (lang: te) ---
+2026-01-26 12:07:38,710 - INFO - find_department: Searching for all departments in text: 'అమ్మో ఛాతీ నొప్పి' (lang: te)
+2026-01-26 12:07:38,711 - INFO - find_department: Matched keyword 'ఛాతీ నొప్పి' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:38,712 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:38,712 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:38,713 - INFO - --- Processing command: 'ఛాతీ నొప్పి డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:38,713 - INFO - find_department: Searching for all departments in text: 'ఛాతీ నొప్పి డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:38,716 - INFO - find_department: Matched keyword 'ఛాతీ నొప్పి' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:38,719 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:38,719 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:38,719 - INFO - --- Processing command: 'నాకు గుండె దడగా ఉంది' (lang: te) ---
+2026-01-26 12:07:38,736 - INFO - find_department: Searching for all departments in text: 'నాకు గుండె దడగా ఉంది' (lang: te)
+2026-01-26 12:07:38,739 - INFO - find_department: Matched keyword 'గుండె దడ' to department 'Cardiology Unit-2'.
+2026-01-26 12:07:38,740 - INFO - find_department returned: ['Cardiology Unit-2']
+2026-01-26 12:07:38,741 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-2, డాక్టర్ పేరు Dr. B. Srinivas, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 3, 5.'
+2026-01-26 12:07:38,741 - INFO - --- Processing command: 'గుండె దడ ఉంది' (lang: te) ---
+2026-01-26 12:07:38,750 - INFO - find_department: Searching for all departments in text: 'గుండె దడ ఉంది' (lang: te)
+2026-01-26 12:07:38,752 - INFO - find_department: Matched keyword 'గుండె దడ' to department 'Cardiology Unit-2'.
+2026-01-26 12:07:38,753 - INFO - find_department returned: ['Cardiology Unit-2']
+2026-01-26 12:07:38,753 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-2, డాక్టర్ పేరు Dr. B. Srinivas, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 3, 5.'
+2026-01-26 12:07:38,753 - INFO - --- Processing command: 'అమ్మో గుండె దడ' (lang: te) ---
+2026-01-26 12:07:38,759 - INFO - find_department: Searching for all departments in text: 'అమ్మో గుండె దడ' (lang: te)
+2026-01-26 12:07:38,760 - INFO - find_department: Matched keyword 'గుండె దడ' to department 'Cardiology Unit-2'.
+2026-01-26 12:07:38,761 - INFO - find_department returned: ['Cardiology Unit-2']
+2026-01-26 12:07:38,761 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-2, డాక్టర్ పేరు Dr. B. Srinivas, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 3, 5.'
+2026-01-26 12:07:38,761 - INFO - --- Processing command: 'గుండె దడ డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:38,772 - INFO - find_department: Searching for all departments in text: 'గుండె దడ డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:38,774 - INFO - find_department: Matched keyword 'గుండె దడ' to department 'Cardiology Unit-2'.
+2026-01-26 12:07:38,774 - INFO - find_department returned: ['Cardiology Unit-2']
+2026-01-26 12:07:38,775 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-2, డాక్టర్ పేరు Dr. B. Srinivas, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 3, 5.'
+2026-01-26 12:07:38,775 - INFO - --- Processing command: 'నాకు కాళ్లు వాపుగా ఉంది' (lang: te) ---
+2026-01-26 12:07:38,789 - INFO - find_department: Searching for all departments in text: 'నాకు కాళ్లు వాపుగా ఉంది' (lang: te)
+2026-01-26 12:07:38,791 - INFO - find_department: Matched keyword 'కాళ్లు వాపు' to department 'Vascular Surgery'.
+2026-01-26 12:07:38,794 - INFO - find_department returned: ['Vascular Surgery']
+2026-01-26 12:07:38,795 - INFO - Generated response text: 'విభాగం పేరు వాస్కులర్ సర్జరీ, డాక్టర్ పేరు Dr. Sandeep Mahapatra, మరియు చిరునామా 5వ అంతస్తు, గది 501.'
+2026-01-26 12:07:38,795 - INFO - --- Processing command: 'కాళ్లు వాపు ఉంది' (lang: te) ---
+2026-01-26 12:07:38,807 - INFO - find_department: Searching for all departments in text: 'కాళ్లు వాపు ఉంది' (lang: te)
+2026-01-26 12:07:38,809 - INFO - find_department: Matched keyword 'కాళ్లు వాపు' to department 'Vascular Surgery'.
+2026-01-26 12:07:38,811 - INFO - find_department returned: ['Vascular Surgery']
+2026-01-26 12:07:38,811 - INFO - Generated response text: 'విభాగం పేరు వాస్కులర్ సర్జరీ, డాక్టర్ పేరు Dr. Sandeep Mahapatra, మరియు చిరునామా 5వ అంతస్తు, గది 501.'
+2026-01-26 12:07:38,812 - INFO - --- Processing command: 'అమ్మో కాళ్లు వాపు' (lang: te) ---
+2026-01-26 12:07:38,820 - INFO - find_department: Searching for all departments in text: 'అమ్మో కాళ్లు వాపు' (lang: te)
+2026-01-26 12:07:38,821 - INFO - find_department: Matched keyword 'కాళ్లు వాపు' to department 'Vascular Surgery'.
+2026-01-26 12:07:38,822 - INFO - find_department returned: ['Vascular Surgery']
+2026-01-26 12:07:38,822 - INFO - Generated response text: 'విభాగం పేరు వాస్కులర్ సర్జరీ, డాక్టర్ పేరు Dr. Sandeep Mahapatra, మరియు చిరునామా 5వ అంతస్తు, గది 501.'
+2026-01-26 12:07:38,822 - INFO - --- Processing command: 'కాళ్లు వాపు డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:38,830 - INFO - find_department: Searching for all departments in text: 'కాళ్లు వాపు డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:38,831 - INFO - find_department: Matched keyword 'కాళ్లు వాపు' to department 'Vascular Surgery'.
+2026-01-26 12:07:38,833 - INFO - find_department returned: ['Vascular Surgery']
+2026-01-26 12:07:38,833 - INFO - Generated response text: 'విభాగం పేరు వాస్కులర్ సర్జరీ, డాక్టర్ పేరు Dr. Sandeep Mahapatra, మరియు చిరునామా 5వ అంతస్తు, గది 501.'
+2026-01-26 12:07:38,833 - INFO - --- Processing command: 'నాకు కడుపులో మంటగా ఉంది' (lang: te) ---
+2026-01-26 12:07:38,834 - INFO - find_department: Searching for all departments in text: 'నాకు కడుపులో మంటగా ఉంది' (lang: te)
+2026-01-26 12:07:38,835 - INFO - find_department: Matched keyword 'కడుపులో మంట' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:38,836 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:38,836 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:38,836 - INFO - --- Processing command: 'కడుపులో మంట ఉంది' (lang: te) ---
+2026-01-26 12:07:38,837 - INFO - find_department: Searching for all departments in text: 'కడుపులో మంట ఉంది' (lang: te)
+2026-01-26 12:07:38,838 - INFO - find_department: Matched keyword 'కడుపులో మంట' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:38,840 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:38,841 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:38,841 - INFO - --- Processing command: 'అమ్మో కడుపులో మంట' (lang: te) ---
+2026-01-26 12:07:38,844 - INFO - find_department: Searching for all departments in text: 'అమ్మో కడుపులో మంట' (lang: te)
+2026-01-26 12:07:38,847 - INFO - find_department: Matched keyword 'కడుపులో మంట' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:38,848 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:38,848 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:38,848 - INFO - --- Processing command: 'కడుపులో మంట డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:38,850 - INFO - find_department: Searching for all departments in text: 'కడుపులో మంట డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:38,851 - INFO - find_department: Matched keyword 'కడుపులో మంట' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:38,852 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:38,852 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:38,852 - INFO - --- Processing command: 'నాకు విపరీతమైన తలనొప్పిగా ఉంది' (lang: te) ---
+2026-01-26 12:07:38,873 - INFO - find_department: Searching for all departments in text: 'నాకు విపరీతమైన తలనొప్పిగా ఉంది' (lang: te)
+2026-01-26 12:07:38,874 - INFO - find_department: Matched keyword 'విపరీతమైన తలనొప్పి' to department 'General Medicine'.
+2026-01-26 12:07:38,879 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:38,879 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:38,879 - INFO - --- Processing command: 'విపరీతమైన తలనొప్పి ఉంది' (lang: te) ---
+2026-01-26 12:07:38,905 - INFO - find_department: Searching for all departments in text: 'విపరీతమైన తలనొప్పి ఉంది' (lang: te)
+2026-01-26 12:07:38,906 - INFO - find_department: Matched keyword 'విపరీతమైన తలనొప్పి' to department 'General Medicine'.
+2026-01-26 12:07:38,910 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:38,910 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:38,910 - INFO - --- Processing command: 'అమ్మో విపరీతమైన తలనొప్పి' (lang: te) ---
+2026-01-26 12:07:38,930 - INFO - find_department: Searching for all departments in text: 'అమ్మో విపరీతమైన తలనొప్పి' (lang: te)
+2026-01-26 12:07:38,931 - INFO - find_department: Matched keyword 'విపరీతమైన తలనొప్పి' to department 'General Medicine'.
+2026-01-26 12:07:38,936 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:38,937 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:38,937 - INFO - --- Processing command: 'విపరీతమైన తలనొప్పి డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:38,947 - INFO - find_department: Searching for all departments in text: 'విపరీతమైన తలనొప్పి డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:38,948 - INFO - find_department: Matched keyword 'విపరీతమైన తలనొప్పి' to department 'General Medicine'.
+2026-01-26 12:07:38,951 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:38,952 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:38,952 - INFO - --- Processing command: 'నాకు మూత్రంలో మంటగా ఉంది' (lang: te) ---
+2026-01-26 12:07:38,955 - INFO - find_department: Searching for all departments in text: 'నాకు మూత్రంలో మంటగా ఉంది' (lang: te)
+2026-01-26 12:07:38,957 - INFO - find_department: Matched keyword 'మూత్రంలో మంట' to department 'Urology'.
+2026-01-26 12:07:38,960 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:38,960 - INFO - Generated response text: 'విభాగం పేరు యూరాలజీ, డాక్టర్ పేరు Dr. Ch. Ram Reddy, మరియు చిరునామా 6వ అంతస్తు, గది 609, 611.'
+2026-01-26 12:07:38,960 - INFO - --- Processing command: 'మూత్రంలో మంట ఉంది' (lang: te) ---
+2026-01-26 12:07:38,962 - INFO - find_department: Searching for all departments in text: 'మూత్రంలో మంట ఉంది' (lang: te)
+2026-01-26 12:07:38,965 - INFO - find_department: Matched keyword 'మూత్రంలో మంట' to department 'Urology'.
+2026-01-26 12:07:38,967 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:38,967 - INFO - Generated response text: 'విభాగం పేరు యూరాలజీ, డాక్టర్ పేరు Dr. Ch. Ram Reddy, మరియు చిరునామా 6వ అంతస్తు, గది 609, 611.'
+2026-01-26 12:07:38,967 - INFO - --- Processing command: 'అమ్మో మూత్రంలో మంట' (lang: te) ---
+2026-01-26 12:07:38,968 - INFO - find_department: Searching for all departments in text: 'అమ్మో మూత్రంలో మంట' (lang: te)
+2026-01-26 12:07:38,969 - INFO - find_department: Matched keyword 'మూత్రంలో మంట' to department 'Urology'.
+2026-01-26 12:07:38,971 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:38,971 - INFO - Generated response text: 'విభాగం పేరు యూరాలజీ, డాక్టర్ పేరు Dr. Ch. Ram Reddy, మరియు చిరునామా 6వ అంతస్తు, గది 609, 611.'
+2026-01-26 12:07:38,971 - INFO - --- Processing command: 'మూత్రంలో మంట డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:38,972 - INFO - find_department: Searching for all departments in text: 'మూత్రంలో మంట డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:38,973 - INFO - find_department: Matched keyword 'మూత్రంలో మంట' to department 'Urology'.
+2026-01-26 12:07:38,974 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:38,974 - INFO - Generated response text: 'విభాగం పేరు యూరాలజీ, డాక్టర్ పేరు Dr. Ch. Ram Reddy, మరియు చిరునామా 6వ అంతస్తు, గది 609, 611.'
+2026-01-26 12:07:38,975 - INFO - --- Processing command: 'నాకు రక్తం పడుతోందిగా ఉంది' (lang: te) ---
+2026-01-26 12:07:38,975 - INFO - find_department: Searching for all departments in text: 'నాకు రక్తం పడుతోందిగా ఉంది' (lang: te)
+2026-01-26 12:07:38,977 - INFO - find_department: No department found for text: 'నాకు రక్తం పడుతోందిగా ఉంది'.
+2026-01-26 12:07:38,977 - INFO - find_department returned: []
+2026-01-26 12:07:38,977 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:38,978 - INFO - --- Processing command: 'రక్తం పడుతోంది ఉంది' (lang: te) ---
+2026-01-26 12:07:38,978 - INFO - find_department: Searching for all departments in text: 'రక్తం పడుతోంది ఉంది' (lang: te)
+2026-01-26 12:07:38,981 - INFO - find_department: No department found for text: 'రక్తం పడుతోంది ఉంది'.
+2026-01-26 12:07:38,982 - INFO - find_department returned: []
+2026-01-26 12:07:38,982 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:38,982 - INFO - --- Processing command: 'అమ్మో రక్తం పడుతోంది' (lang: te) ---
+2026-01-26 12:07:38,983 - INFO - find_department: Searching for all departments in text: 'అమ్మో రక్తం పడుతోంది' (lang: te)
+2026-01-26 12:07:38,987 - INFO - find_department: No department found for text: 'అమ్మో రక్తం పడుతోంది'.
+2026-01-26 12:07:38,987 - INFO - find_department returned: []
+2026-01-26 12:07:38,987 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:38,988 - INFO - --- Processing command: 'రక్తం పడుతోంది డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:38,988 - INFO - find_department: Searching for all departments in text: 'రక్తం పడుతోంది డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:38,993 - INFO - find_department: No department found for text: 'రక్తం పడుతోంది డాక్టర్ ఎవరు'.
+2026-01-26 12:07:38,993 - INFO - find_department returned: []
+2026-01-26 12:07:38,993 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:38,994 - INFO - --- Processing command: 'నాకు ఊపిరి ఆడట్లేదుగా ఉంది' (lang: te) ---
+2026-01-26 12:07:38,996 - INFO - find_department: Searching for all departments in text: 'నాకు ఊపిరి ఆడట్లేదుగా ఉంది' (lang: te)
+2026-01-26 12:07:38,999 - INFO - find_department: Matched keyword 'ఊపిరి ఆడట్లేదు' to department 'Pulmonary Medicine'.
+2026-01-26 12:07:39,002 - INFO - find_department returned: ['Pulmonary Medicine']
+2026-01-26 12:07:39,002 - INFO - Generated response text: 'విభాగం పేరు పల్మనరీ మెడిసిన్, డాక్టర్ పేరు Dr. G. K. Paramjyothi, మరియు చిరునామా 4వ అంతస్తు, గది 403 మరియు 404.'
+2026-01-26 12:07:39,003 - INFO - --- Processing command: 'ఊపిరి ఆడట్లేదు ఉంది' (lang: te) ---
+2026-01-26 12:07:39,005 - INFO - find_department: Searching for all departments in text: 'ఊపిరి ఆడట్లేదు ఉంది' (lang: te)
+2026-01-26 12:07:39,007 - INFO - find_department: Matched keyword 'ఊపిరి ఆడట్లేదు' to department 'Pulmonary Medicine'.
+2026-01-26 12:07:39,010 - INFO - find_department returned: ['Pulmonary Medicine']
+2026-01-26 12:07:39,011 - INFO - Generated response text: 'విభాగం పేరు పల్మనరీ మెడిసిన్, డాక్టర్ పేరు Dr. G. K. Paramjyothi, మరియు చిరునామా 4వ అంతస్తు, గది 403 మరియు 404.'
+2026-01-26 12:07:39,011 - INFO - --- Processing command: 'అమ్మో ఊపిరి ఆడట్లేదు' (lang: te) ---
+2026-01-26 12:07:39,013 - INFO - find_department: Searching for all departments in text: 'అమ్మో ఊపిరి ఆడట్లేదు' (lang: te)
+2026-01-26 12:07:39,015 - INFO - find_department: Matched keyword 'ఊపిరి ఆడట్లేదు' to department 'Pulmonary Medicine'.
+2026-01-26 12:07:39,017 - INFO - find_department returned: ['Pulmonary Medicine']
+2026-01-26 12:07:39,017 - INFO - Generated response text: 'విభాగం పేరు పల్మనరీ మెడిసిన్, డాక్టర్ పేరు Dr. G. K. Paramjyothi, మరియు చిరునామా 4వ అంతస్తు, గది 403 మరియు 404.'
+2026-01-26 12:07:39,018 - INFO - --- Processing command: 'ఊపిరి ఆడట్లేదు డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:39,020 - INFO - find_department: Searching for all departments in text: 'ఊపిరి ఆడట్లేదు డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:39,021 - INFO - find_department: Matched keyword 'ఊపిరి ఆడట్లేదు' to department 'Pulmonary Medicine'.
+2026-01-26 12:07:39,023 - INFO - find_department returned: ['Pulmonary Medicine']
+2026-01-26 12:07:39,024 - INFO - Generated response text: 'విభాగం పేరు పల్మనరీ మెడిసిన్, డాక్టర్ పేరు Dr. G. K. Paramjyothi, మరియు చిరునామా 4వ అంతస్తు, గది 403 మరియు 404.'
+2026-01-26 12:07:39,024 - INFO - --- Processing command: 'నాకు జ్వరం తగ్గట్లేదుగా ఉంది' (lang: te) ---
+2026-01-26 12:07:39,048 - INFO - find_department: Searching for all departments in text: 'నాకు జ్వరం తగ్గట్లేదుగా ఉంది' (lang: te)
+2026-01-26 12:07:39,052 - INFO - find_department: Matched keyword 'జ్వరం' to department 'General Medicine'.
+2026-01-26 12:07:39,053 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:39,053 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:39,053 - INFO - --- Processing command: 'జ్వరం తగ్గట్లేదు ఉంది' (lang: te) ---
+2026-01-26 12:07:39,069 - INFO - find_department: Searching for all departments in text: 'జ్వరం తగ్గట్లేదు ఉంది' (lang: te)
+2026-01-26 12:07:39,072 - INFO - find_department: Matched keyword 'జ్వరం' to department 'General Medicine'.
+2026-01-26 12:07:39,073 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:39,073 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:39,073 - INFO - --- Processing command: 'అమ్మో జ్వరం తగ్గట్లేదు' (lang: te) ---
+2026-01-26 12:07:39,092 - INFO - find_department: Searching for all departments in text: 'అమ్మో జ్వరం తగ్గట్లేదు' (lang: te)
+2026-01-26 12:07:39,096 - INFO - find_department: Matched keyword 'జ్వరం' to department 'General Medicine'.
+2026-01-26 12:07:39,097 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:39,097 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:39,097 - INFO - --- Processing command: 'జ్వరం తగ్గట్లేదు డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:39,106 - INFO - find_department: Searching for all departments in text: 'జ్వరం తగ్గట్లేదు డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:39,110 - INFO - find_department: Matched keyword 'జ్వరం' to department 'General Medicine'.
+2026-01-26 12:07:39,110 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:39,111 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:39,111 - INFO - --- Processing command: 'నాకు వాంతులు అవుతున్నాయిగా ఉంది' (lang: te) ---
+2026-01-26 12:07:39,128 - INFO - find_department: Searching for all departments in text: 'నాకు వాంతులు అవుతున్నాయిగా ఉంది' (lang: te)
+2026-01-26 12:07:39,129 - INFO - find_department: Matched keyword 'వాంతులు అవుతున్నాయి' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:39,131 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:39,131 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:39,131 - INFO - --- Processing command: 'వాంతులు అవుతున్నాయి ఉంది' (lang: te) ---
+2026-01-26 12:07:39,142 - INFO - find_department: Searching for all departments in text: 'వాంతులు అవుతున్నాయి ఉంది' (lang: te)
+2026-01-26 12:07:39,143 - INFO - find_department: Matched keyword 'వాంతులు అవుతున్నాయి' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:39,146 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:39,146 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:39,146 - INFO - --- Processing command: 'అమ్మో వాంతులు అవుతున్నాయి' (lang: te) ---
+2026-01-26 12:07:39,157 - INFO - find_department: Searching for all departments in text: 'అమ్మో వాంతులు అవుతున్నాయి' (lang: te)
+2026-01-26 12:07:39,158 - INFO - find_department: Matched keyword 'వాంతులు అవుతున్నాయి' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:39,162 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:39,162 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:39,162 - INFO - --- Processing command: 'వాంతులు అవుతున్నాయి డాక్టర్ ఎవరు' (lang: te) ---
+2026-01-26 12:07:39,183 - INFO - find_department: Searching for all departments in text: 'వాంతులు అవుతున్నాయి డాక్టర్ ఎవరు' (lang: te)
+2026-01-26 12:07:39,184 - INFO - find_department: Matched keyword 'వాంతులు అవుతున్నాయి' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:39,188 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:39,188 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:39,188 - INFO - --- Processing command: 'మందులు' (lang: te) ---
+2026-01-26 12:07:39,193 - INFO - find_department: Searching for all departments in text: 'మందులు' (lang: te)
+2026-01-26 12:07:39,195 - INFO - find_department: Matched keyword 'మందులు' to department 'Pharmacy'.
+2026-01-26 12:07:39,195 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:39,195 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:39,195 - INFO - --- Processing command: 'Test' (lang: en) ---
+2026-01-26 12:07:39,200 - INFO - find_department: Searching for all departments in text: 'Test' (lang: en)
+2026-01-26 12:07:39,222 - INFO - find_department: No department found for text: 'Test'.
+2026-01-26 12:07:39,222 - INFO - find_department returned: []
+2026-01-26 12:07:39,222 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:39,223 - INFO - --- Processing command: 'గోలీలు కావాలి' (lang: te) ---
+2026-01-26 12:07:39,250 - INFO - find_department: Searching for all departments in text: 'గోలీలు కావాలి' (lang: te)
+2026-01-26 12:07:39,271 - INFO - find_department: Matched keyword 'గోలీలు' to department 'Pharmacy'.
+2026-01-26 12:07:39,274 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:39,274 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:39,274 - INFO - --- Processing command: 'గుండె' (lang: te) ---
+2026-01-26 12:07:39,280 - INFO - find_department: Searching for all departments in text: 'గుండె' (lang: te)
+2026-01-26 12:07:39,283 - INFO - find_department: Matched keyword 'గుండె' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:39,284 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:39,284 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:39,284 - INFO - --- Processing command: 'బాత్ రూమ్' (lang: te) ---
+2026-01-26 12:07:39,304 - INFO - find_department: Searching for all departments in text: 'బాత్ రూమ్' (lang: te)
+2026-01-26 12:07:39,307 - INFO - find_department: No department found for text: 'బాత్ రూమ్'.
+2026-01-26 12:07:39,308 - INFO - find_department returned: []
+2026-01-26 12:07:39,308 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,308 - INFO - --- Processing command: 'నీళ్లు' (lang: te) ---
+2026-01-26 12:07:39,316 - INFO - find_department: Searching for all departments in text: 'నీళ్లు' (lang: te)
+2026-01-26 12:07:39,321 - INFO - find_department: No department found for text: 'నీళ్లు'.
+2026-01-26 12:07:39,321 - INFO - find_department returned: []
+2026-01-26 12:07:39,321 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,321 - INFO - --- Processing command: 'లిఫ్ట్' (lang: te) ---
+2026-01-26 12:07:39,322 - INFO - find_department: Searching for all departments in text: 'లిఫ్ట్' (lang: te)
+2026-01-26 12:07:39,326 - INFO - find_department: No department found for text: 'లిఫ్ట్'.
+2026-01-26 12:07:39,326 - INFO - find_department returned: []
+2026-01-26 12:07:39,326 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,327 - INFO - --- Processing command: 'బిల్లింగ్' (lang: te) ---
+2026-01-26 12:07:39,328 - INFO - find_department: Searching for all departments in text: 'బిల్లింగ్' (lang: te)
+2026-01-26 12:07:39,332 - INFO - find_department: No department found for text: 'బిల్లింగ్'.
+2026-01-26 12:07:39,332 - INFO - find_department returned: []
+2026-01-26 12:07:39,332 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,332 - INFO - --- Processing command: 'రిపోర్ట్స్' (lang: te) ---
+2026-01-26 12:07:39,333 - INFO - find_department: Searching for all departments in text: 'రిపోర్ట్స్' (lang: te)
+2026-01-26 12:07:39,336 - INFO - find_department: No department found for text: 'రిపోర్ట్స్'.
+2026-01-26 12:07:39,337 - INFO - find_department returned: []
+2026-01-26 12:07:39,337 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,337 - INFO - --- Processing command: 'कार्डियोलॉजी कहां है' (lang: hi) ---
+2026-01-26 12:07:39,343 - INFO - find_department: Searching for all departments in text: 'कार्डियोलॉजी कहां है' (lang: hi)
+2026-01-26 12:07:39,350 - INFO - find_department: Matched keyword 'कार्डियोलॉजी' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:39,360 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:39,360 - INFO - Generated response text: 'विभाग का नाम कार्डियोलॉजी यूनिट 1, डॉक्टर का नाम Dr. O. Sai Satish, और पता ग्राउंड फ्लोर, कमरा 2, 4, 6 है।'
+2026-01-26 12:07:39,360 - INFO - --- Processing command: 'कार्डियोलॉजी जाना है' (lang: hi) ---
+2026-01-26 12:07:39,361 - INFO - find_department: Searching for all departments in text: 'कार्डियोलॉजी जाना है' (lang: hi)
+2026-01-26 12:07:39,362 - INFO - find_department: Matched keyword 'कार्डियोलॉजी' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:39,363 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:39,363 - INFO - Generated response text: 'विभाग का नाम कार्डियोलॉजी यूनिट 1, डॉक्टर का नाम Dr. O. Sai Satish, और पता ग्राउंड फ्लोर, कमरा 2, 4, 6 है।'
+2026-01-26 12:07:39,363 - INFO - --- Processing command: 'दवाई की दुकान कहां है' (lang: hi) ---
+2026-01-26 12:07:39,364 - INFO - find_department: Searching for all departments in text: 'दवाई की दुकान कहां है' (lang: hi)
+2026-01-26 12:07:39,364 - INFO - find_department: Matched keyword 'दवाई की दुकान' to department 'Pharmacy'.
+2026-01-26 12:07:39,365 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:39,365 - INFO - Generated response text: 'विभाग का नाम फार्मेसी, डॉक्टर का नाम Duty Pharmacist, और पता ग्राउंड फ्लोर, सुपर स्पेशियलिटी ब्लॉक, कमरा नंबर 13 है।'
+2026-01-26 12:07:39,366 - INFO - --- Processing command: 'दवाई की दुकान जाना है' (lang: hi) ---
+2026-01-26 12:07:39,367 - INFO - find_department: Searching for all departments in text: 'दवाई की दुकान जाना है' (lang: hi)
+2026-01-26 12:07:39,369 - INFO - find_department: Matched keyword 'दवाई की दुकान' to department 'Pharmacy'.
+2026-01-26 12:07:39,370 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:39,370 - INFO - Generated response text: 'विभाग का नाम फार्मेसी, डॉक्टर का नाम Duty Pharmacist, और पता ग्राउंड फ्लोर, सुपर स्पेशियलिटी ब्लॉक, कमरा नंबर 13 है।'
+2026-01-26 12:07:39,371 - INFO - --- Processing command: 'हड्डी का डॉक्टर कहां है' (lang: hi) ---
+2026-01-26 12:07:39,383 - INFO - find_department: Searching for all departments in text: 'हड्डी का डॉक्टर कहां है' (lang: hi)
+2026-01-26 12:07:39,383 - INFO - find_department: Matched keyword 'हड्डी का डॉक्टर' to department 'Orthopaedics'.
+2026-01-26 12:07:39,385 - INFO - find_department returned: ['Orthopaedics']
+2026-01-26 12:07:39,385 - INFO - Generated response text: 'विभाग का नाम हड्डी रोग विभाग, डॉक्टर का नाम Orthopaedic Surgeon, और पता चौथी मंजिल, सर्जिकल ब్लాక్ है।'
+2026-01-26 12:07:39,386 - INFO - --- Processing command: 'हड्डी का डॉक्टर जाना है' (lang: hi) ---
+2026-01-26 12:07:39,394 - INFO - find_department: Searching for all departments in text: 'हड्डी का डॉक्टर जाना है' (lang: hi)
+2026-01-26 12:07:39,394 - INFO - find_department: Matched keyword 'हड्डी का डॉक्टर' to department 'Orthopaedics'.
+2026-01-26 12:07:39,396 - INFO - find_department returned: ['Orthopaedics']
+2026-01-26 12:07:39,396 - INFO - Generated response text: 'विभाग का नाम हड्डी रोग विभाग, डॉक्टर का नाम Orthopaedic Surgeon, और पता चौथी मंजिल, सर्जिकल ब్लాక్ है।'
+2026-01-26 12:07:39,396 - INFO - --- Processing command: 'बच्चों का डॉक्टर कहां है' (lang: hi) ---
+2026-01-26 12:07:39,406 - INFO - find_department: Searching for all departments in text: 'बच्चों का डॉक्टर कहां है' (lang: hi)
+2026-01-26 12:07:39,406 - INFO - find_department: Matched keyword 'बच्चों का डॉक्टर' to department 'Paediatrics'.
+2026-01-26 12:07:39,408 - INFO - find_department returned: ['Paediatrics']
+2026-01-26 12:07:39,409 - INFO - Generated response text: 'विभाग का नाम बाल रोग विभाग, डॉक्टर का नाम Paediatrician on Duty, और पता दूसरी मंजिल, ओपीडी ब్लాక్ है।'
+2026-01-26 12:07:39,409 - INFO - --- Processing command: 'बच्चों का डॉक्टर जाना है' (lang: hi) ---
+2026-01-26 12:07:39,418 - INFO - find_department: Searching for all departments in text: 'बच्चों का डॉक्टर जाना है' (lang: hi)
+2026-01-26 12:07:39,419 - INFO - find_department: Matched keyword 'बच्चों का डॉक्टर' to department 'Paediatrics'.
+2026-01-26 12:07:39,421 - INFO - find_department returned: ['Paediatrics']
+2026-01-26 12:07:39,421 - INFO - Generated response text: 'विभाग का नाम बाल रोग विभाग, डॉक्टर का नाम Paediatrician on Duty, और पता दूसरी मंजिल, ओपीडी ब్लాక్ है।'
+2026-01-26 12:07:39,421 - INFO - --- Processing command: 'एक्स-रे कहां है' (lang: hi) ---
+2026-01-26 12:07:39,422 - INFO - find_department: Searching for all departments in text: 'एक्स-रे कहां है' (lang: hi)
+2026-01-26 12:07:39,423 - INFO - find_department: Matched keyword 'एक्स-रे' to department 'Radiology'.
+2026-01-26 12:07:39,423 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:39,424 - INFO - Generated response text: 'विभाग का नाम रेडियोलॉजी विभाग, डॉक्टर का नाम Radiology Technician, और पता ग్राउంड फ्लोर, डायग्नोस्टिक ब్लాక్ है।'
+2026-01-26 12:07:39,424 - INFO - --- Processing command: 'एक्स-रे जाना है' (lang: hi) ---
+2026-01-26 12:07:39,424 - INFO - find_department: Searching for all departments in text: 'एक्स-रे जाना है' (lang: hi)
+2026-01-26 12:07:39,426 - INFO - find_department: Matched keyword 'एक्स-रे' to department 'Radiology'.
+2026-01-26 12:07:39,426 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:39,426 - INFO - Generated response text: 'विभाग का नाम रेडियोलॉजी विभाग, डॉक्टर का नाम Radiology Technician, और पता ग్राउంड फ्लोर, डायग्नोस्टिक ब్लాక్ है।'
+2026-01-26 12:07:39,426 - INFO - --- Processing command: 'मुझे सीने में दर्द है' (lang: hi) ---
+2026-01-26 12:07:39,427 - INFO - find_department: Searching for all departments in text: 'मुझे सीने में दर्द है' (lang: hi)
+2026-01-26 12:07:39,428 - INFO - find_department: Matched keyword 'सीने में दर्द' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:39,430 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:39,431 - INFO - Generated response text: 'विभाग का नाम कार्डियोलॉजी यूनिट 1, डॉक्टर का नाम Dr. O. Sai Satish, और पता ग्राउंड फ्लोर, कमरा 2, 4, 6 है।'
+2026-01-26 12:07:39,431 - INFO - --- Processing command: 'सीने में दर्द का इलाज' (lang: hi) ---
+2026-01-26 12:07:39,433 - INFO - find_department: Searching for all departments in text: 'सीने में दर्द का इलाज' (lang: hi)
+2026-01-26 12:07:39,434 - INFO - find_department: Matched keyword 'सीने में दर्द' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:39,436 - INFO - find_department: Matched keyword 'इलाज' to department 'General OPD'.
+2026-01-26 12:07:39,437 - INFO - find_department returned: ['Cardiology Unit-1', 'General OPD']
+2026-01-26 12:07:39,437 - INFO - Generated response text: 'मुझे कई मिलते-जुलते विभाग मिले हैं: कार्डियोलॉजी यूनिट 1, जनरल ओपीडी। आप किसके बारे में जानना चाहेंगे?'
+2026-01-26 12:07:39,437 - INFO - --- Processing command: 'मुझे सांस फूल रही है है' (lang: hi) ---
+2026-01-26 12:07:39,440 - INFO - find_department: Searching for all departments in text: 'मुझे सांस फूल रही है है' (lang: hi)
+2026-01-26 12:07:39,444 - INFO - find_department: No department found for text: 'मुझे सांस फूल रही है है'.
+2026-01-26 12:07:39,444 - INFO - find_department returned: []
+2026-01-26 12:07:39,444 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:39,444 - INFO - --- Processing command: 'सांस फूल रही है का इलाज' (lang: hi) ---
+2026-01-26 12:07:39,447 - INFO - find_department: Searching for all departments in text: 'सांस फूल रही है का इलाज' (lang: hi)
+2026-01-26 12:07:39,452 - INFO - find_department: Matched keyword 'इलाज' to department 'General OPD'.
+2026-01-26 12:07:39,452 - INFO - find_department returned: ['General OPD']
+2026-01-26 12:07:39,453 - INFO - Generated response text: 'विभाग का नाम जनरल ओपीडी, डॉक्टर का नाम General Duty Doctor, और पता ओपीडी ब्लॉक, ग्राउंड फ्लोर है।'
+2026-01-26 12:07:39,453 - INFO - --- Processing command: 'मुझे पेट दर्द है' (lang: hi) ---
+2026-01-26 12:07:39,454 - INFO - find_department: Searching for all departments in text: 'मुझे पेट दर्द है' (lang: hi)
+2026-01-26 12:07:39,465 - INFO - find_department: Matched keyword 'पेट दर्द' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:39,466 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:39,466 - INFO - Generated response text: 'विभाग का नाम मेडिकल गैस्ट्रोएंटेरोलॉजी, डॉक्टर का नाम Dr. Y. Satyanarayana Raju, और पता 5वीं मंजिल, कमरा 502 है।'
+2026-01-26 12:07:39,466 - INFO - --- Processing command: 'पेट दर्द का इलाज' (lang: hi) ---
+2026-01-26 12:07:39,468 - INFO - find_department: Searching for all departments in text: 'पेट दर्द का इलाज' (lang: hi)
+2026-01-26 12:07:39,481 - INFO - find_department: Matched keyword 'पेट दर्द' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:39,482 - INFO - find_department: Matched keyword 'इलाज' to department 'General OPD'.
+2026-01-26 12:07:39,483 - INFO - find_department returned: ['Medical Gastroenterology', 'General OPD']
+2026-01-26 12:07:39,483 - INFO - Generated response text: 'मुझे कई मिलते-जुलते विभाग मिले हैं: मेडिकल गैस्ट्रोएंटेरोलॉजी, जनरल ओपीडी। आप किसके बारे में जानना चाहेंगे?'
+2026-01-26 12:07:39,483 - INFO - --- Processing command: 'मुझे चक्कर आ रहा है है' (lang: hi) ---
+2026-01-26 12:07:39,526 - INFO - find_department: Searching for all departments in text: 'मुझे चक्कर आ रहा है है' (lang: hi)
+2026-01-26 12:07:39,528 - INFO - find_department: Matched keyword 'चक्कर' to department 'General Medicine'.
+2026-01-26 12:07:39,529 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:39,529 - INFO - Generated response text: 'विभाग का नाम सामान्य चिकित्सा, डॉक्टर का नाम General Physician, और पता ओपीडी ब्लॉक, ग्राउंड फ्लोर है।'
+2026-01-26 12:07:39,530 - INFO - --- Processing command: 'चक्कर आ रहा है का इलाज' (lang: hi) ---
+2026-01-26 12:07:39,653 - INFO - find_department: Searching for all departments in text: 'चक्कर आ रहा है का इलाज' (lang: hi)
+2026-01-26 12:07:39,656 - INFO - find_department: Matched keyword 'चक्कर' to department 'General Medicine'.
+2026-01-26 12:07:39,657 - INFO - find_department: Matched keyword 'इलाज' to department 'General OPD'.
+2026-01-26 12:07:39,661 - INFO - find_department returned: ['General Medicine', 'General OPD']
+2026-01-26 12:07:39,661 - INFO - Generated response text: 'मुझे कई मिलते-जुलते विभाग मिले हैं: सामान्य चिकित्सा, जनरल ओपीडी। आप किसके बारे में जानना चाहेंगे?'
+2026-01-26 12:07:39,665 - INFO - --- Processing command: 'Heart pain ఉంది' (lang: te) ---
+2026-01-26 12:07:39,756 - INFO - find_department: Searching for all departments in text: 'Heart pain ఉంది' (lang: te)
+2026-01-26 12:07:39,793 - INFO - find_department: Matched keyword 'heart pain' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:39,810 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:39,810 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:39,811 - INFO - --- Processing command: 'Pharmacy ఎక్కడ' (lang: te) ---
+2026-01-26 12:07:39,814 - INFO - find_department: Searching for all departments in text: 'Pharmacy ఎక్కడ' (lang: te)
+2026-01-26 12:07:39,817 - INFO - find_department: Matched keyword 'pharmacy' to department 'Pharmacy'.
+2026-01-26 12:07:39,819 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:39,819 - INFO - Generated response text: 'విభాగం పేరు ఫార్మసీ, డాక్టర్ పేరు Duty Pharmacist, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13.'
+2026-01-26 12:07:39,819 - INFO - --- Processing command: 'Doctor appointment కావాలి' (lang: te) ---
+2026-01-26 12:07:39,830 - INFO - find_department: Searching for all departments in text: 'Doctor appointment కావాలి' (lang: te)
+2026-01-26 12:07:39,831 - INFO - find_department: Matched keyword 'doctor appointment' to department 'General OPD'.
+2026-01-26 12:07:39,834 - INFO - find_department returned: ['General OPD']
+2026-01-26 12:07:39,834 - INFO - Generated response text: 'విభాగం పేరు జనరల్ ఓపీడీ, డాక్టర్ పేరు General Duty Doctor, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:39,834 - INFO - --- Processing command: 'Blood test చేయించాలి' (lang: te) ---
+2026-01-26 12:07:39,840 - INFO - find_department: Searching for all departments in text: 'Blood test చేయించాలి' (lang: te)
+2026-01-26 12:07:39,845 - INFO - find_department: No department found for text: 'Blood test చేయించాలి'.
+2026-01-26 12:07:39,845 - INFO - find_department returned: []
+2026-01-26 12:07:39,846 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,846 - INFO - --- Processing command: 'Cardilogy' (lang: en) ---
+2026-01-26 12:07:39,859 - INFO - find_department: Searching for all departments in text: 'Cardilogy' (lang: en)
+2026-01-26 12:07:39,869 - INFO - find_department: Matched keyword 'cardilogy' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:39,873 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:39,874 - INFO - Generated response text: 'The department name is Cardiology Unit 1, the doctor's name is Dr. O. Sai Satish, and the address is Ground floor, rooms 2, 4, 6.'
+2026-01-26 12:07:39,874 - INFO - --- Processing command: 'Phaarmacy' (lang: en) ---
+2026-01-26 12:07:39,874 - INFO - find_department: Searching for all departments in text: 'Phaarmacy' (lang: en)
+2026-01-26 12:07:39,876 - INFO - find_department: Matched keyword 'phaarmacy' to department 'Pharmacy'.
+2026-01-26 12:07:39,876 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:39,876 - INFO - Generated response text: 'The department name is Pharmacy, the doctor's name is Duty Pharmacist, and the address is Ground Floor, Super Specialty Block, Room No. 13.'
+2026-01-26 12:07:39,876 - INFO - --- Processing command: 'Dacter' (lang: en) ---
+2026-01-26 12:07:39,880 - INFO - find_department: Searching for all departments in text: 'Dacter' (lang: en)
+2026-01-26 12:07:39,881 - INFO - find_department: No department found for text: 'Dacter'.
+2026-01-26 12:07:39,881 - INFO - find_department returned: []
+2026-01-26 12:07:39,881 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:39,881 - INFO - --- Processing command: 'Emergancy' (lang: en) ---
+2026-01-26 12:07:39,885 - INFO - find_department: Searching for all departments in text: 'Emergancy' (lang: en)
+2026-01-26 12:07:39,888 - INFO - find_department: No department found for text: 'Emergancy'.
+2026-01-26 12:07:39,888 - INFO - find_department returned: []
+2026-01-26 12:07:39,888 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:39,888 - INFO - --- Processing command: 'Director room' (lang: en) ---
+2026-01-26 12:07:39,889 - INFO - find_department: Searching for all departments in text: 'Director room' (lang: en)
+2026-01-26 12:07:39,891 - INFO - find_department: No department found for text: 'Director room'.
+2026-01-26 12:07:39,891 - INFO - find_department returned: []
+2026-01-26 12:07:39,891 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:39,892 - INFO - --- Processing command: 'డైరెక్టర్ గారి గది' (lang: te) ---
+2026-01-26 12:07:39,895 - INFO - find_department: Searching for all departments in text: 'డైరెక్టర్ గారి గది' (lang: te)
+2026-01-26 12:07:39,921 - INFO - find_department: No department found for text: 'డైరెక్టర్ గారి గది'.
+2026-01-26 12:07:39,921 - INFO - find_department returned: []
+2026-01-26 12:07:39,921 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,921 - INFO - --- Processing command: 'Complaint ivvali' (lang: te) ---
+2026-01-26 12:07:39,936 - INFO - find_department: Searching for all departments in text: 'Complaint ivvali' (lang: te)
+2026-01-26 12:07:39,940 - INFO - find_department: No department found for text: 'Complaint ivvali'.
+2026-01-26 12:07:39,940 - INFO - find_department returned: []
+2026-01-26 12:07:39,941 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,941 - INFO - --- Processing command: 'Visiting hours' (lang: en) ---
+2026-01-26 12:07:39,942 - INFO - find_department: Searching for all departments in text: 'Visiting hours' (lang: en)
+2026-01-26 12:07:39,953 - INFO - find_department: No department found for text: 'Visiting hours'.
+2026-01-26 12:07:39,953 - INFO - find_department returned: []
+2026-01-26 12:07:39,953 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:39,953 - INFO - --- Processing command: 'లోపలికి ఎప్పుడు వెళ్ళాలి' (lang: te) ---
+2026-01-26 12:07:39,956 - INFO - find_department: Searching for all departments in text: 'లోపలికి ఎప్పుడు వెళ్ళాలి' (lang: te)
+2026-01-26 12:07:39,978 - INFO - find_department: No department found for text: 'లోపలికి ఎప్పుడు వెళ్ళాలి'.
+2026-01-26 12:07:39,978 - INFO - find_department returned: []
+2026-01-26 12:07:39,978 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:39,979 - INFO - --- Processing command: 'Opd timings' (lang: en) ---
+2026-01-26 12:07:39,982 - INFO - find_department: Searching for all departments in text: 'Opd timings' (lang: en)
+2026-01-26 12:07:39,991 - INFO - find_department: No department found for text: 'Opd timings'.
+2026-01-26 12:07:39,991 - INFO - find_department returned: []
+2026-01-26 12:07:39,991 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:39,992 - INFO - --- Processing command: 'ఓపీడి టైం' (lang: te) ---
+2026-01-26 12:07:39,994 - INFO - find_department: Searching for all departments in text: 'ఓపీడి టైం' (lang: te)
+2026-01-26 12:07:40,017 - INFO - find_department: No department found for text: 'ఓపీడి టైం'.
+2026-01-26 12:07:40,017 - INFO - find_department returned: []
+2026-01-26 12:07:40,017 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,017 - INFO - --- Processing command: 'Aarogyasri' (lang: te) ---
+2026-01-26 12:07:40,030 - INFO - find_department: Searching for all departments in text: 'Aarogyasri' (lang: te)
+2026-01-26 12:07:40,033 - INFO - find_department: No department found for text: 'Aarogyasri'.
+2026-01-26 12:07:40,034 - INFO - find_department returned: []
+2026-01-26 12:07:40,034 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,034 - INFO - --- Processing command: 'Hi' (lang: en) ---
+2026-01-26 12:07:40,035 - INFO - find_department: Searching for all departments in text: 'Hi' (lang: en)
+2026-01-26 12:07:40,046 - INFO - find_department: No department found for text: 'Hi'.
+2026-01-26 12:07:40,046 - INFO - find_department returned: []
+2026-01-26 12:07:40,046 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,046 - INFO - --- Processing command: 'హలో' (lang: te) ---
+2026-01-26 12:07:40,047 - INFO - find_department: Searching for all departments in text: 'హలో' (lang: te)
+2026-01-26 12:07:40,049 - INFO - find_department: No department found for text: 'హలో'.
+2026-01-26 12:07:40,049 - INFO - find_department returned: []
+2026-01-26 12:07:40,049 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,049 - INFO - --- Processing command: 'नमस्ते' (lang: hi) ---
+2026-01-26 12:07:40,049 - INFO - find_department: Searching for all departments in text: 'नमस्ते' (lang: hi)
+2026-01-26 12:07:40,068 - INFO - find_department: No department found for text: 'नमस्ते'.
+2026-01-26 12:07:40,068 - INFO - find_department returned: []
+2026-01-26 12:07:40,068 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:40,068 - INFO - --- Processing command: 'Hello' (lang: en) ---
+2026-01-26 12:07:40,069 - INFO - find_department: Searching for all departments in text: 'Hello' (lang: en)
+2026-01-26 12:07:40,085 - INFO - find_department: No department found for text: 'Hello'.
+2026-01-26 12:07:40,085 - INFO - find_department returned: []
+2026-01-26 12:07:40,085 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,085 - INFO - --- Processing command: 'హలో' (lang: te) ---
+2026-01-26 12:07:40,086 - INFO - find_department: Searching for all departments in text: 'హలో' (lang: te)
+2026-01-26 12:07:40,108 - INFO - find_department: No department found for text: 'హలో'.
+2026-01-26 12:07:40,108 - INFO - find_department returned: []
+2026-01-26 12:07:40,108 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,109 - INFO - --- Processing command: 'नमस्ते' (lang: hi) ---
+2026-01-26 12:07:40,109 - INFO - find_department: Searching for all departments in text: 'नमस्ते' (lang: hi)
+2026-01-26 12:07:40,139 - INFO - find_department: No department found for text: 'नमस्ते'.
+2026-01-26 12:07:40,139 - INFO - find_department returned: []
+2026-01-26 12:07:40,139 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:40,140 - INFO - --- Processing command: 'Namaste' (lang: en) ---
+2026-01-26 12:07:40,140 - INFO - find_department: Searching for all departments in text: 'Namaste' (lang: en)
+2026-01-26 12:07:40,156 - INFO - find_department: No department found for text: 'Namaste'.
+2026-01-26 12:07:40,156 - INFO - find_department returned: []
+2026-01-26 12:07:40,156 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,156 - INFO - --- Processing command: 'హలో' (lang: te) ---
+2026-01-26 12:07:40,157 - INFO - find_department: Searching for all departments in text: 'హలో' (lang: te)
+2026-01-26 12:07:40,183 - INFO - find_department: No department found for text: 'హలో'.
+2026-01-26 12:07:40,183 - INFO - find_department returned: []
+2026-01-26 12:07:40,183 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,184 - INFO - --- Processing command: 'नमस्ते' (lang: hi) ---
+2026-01-26 12:07:40,184 - INFO - find_department: Searching for all departments in text: 'नमस्ते' (lang: hi)
+2026-01-26 12:07:40,205 - INFO - find_department: No department found for text: 'नमस्ते'.
+2026-01-26 12:07:40,205 - INFO - find_department returned: []
+2026-01-26 12:07:40,205 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:40,206 - INFO - --- Processing command: 'Good morning' (lang: en) ---
+2026-01-26 12:07:40,228 - INFO - find_department: Searching for all departments in text: 'Good morning' (lang: en)
+2026-01-26 12:07:40,246 - INFO - find_department: No department found for text: 'Good morning'.
+2026-01-26 12:07:40,246 - INFO - find_department returned: []
+2026-01-26 12:07:40,247 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,247 - INFO - --- Processing command: 'హలో' (lang: te) ---
+2026-01-26 12:07:40,248 - INFO - find_department: Searching for all departments in text: 'హలో' (lang: te)
+2026-01-26 12:07:40,281 - INFO - find_department: No department found for text: 'హలో'.
+2026-01-26 12:07:40,281 - INFO - find_department returned: []
+2026-01-26 12:07:40,281 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,282 - INFO - --- Processing command: 'नमस्ते' (lang: hi) ---
+2026-01-26 12:07:40,282 - INFO - find_department: Searching for all departments in text: 'नमस्ते' (lang: hi)
+2026-01-26 12:07:40,305 - INFO - find_department: No department found for text: 'नमस्ते'.
+2026-01-26 12:07:40,305 - INFO - find_department returned: []
+2026-01-26 12:07:40,305 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:40,305 - INFO - --- Processing command: 'Help' (lang: en) ---
+2026-01-26 12:07:40,318 - INFO - find_department: Searching for all departments in text: 'Help' (lang: en)
+2026-01-26 12:07:40,331 - INFO - find_department: No department found for text: 'Help'.
+2026-01-26 12:07:40,331 - INFO - find_department returned: []
+2026-01-26 12:07:40,331 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,332 - INFO - --- Processing command: 'హలో' (lang: te) ---
+2026-01-26 12:07:40,332 - INFO - find_department: Searching for all departments in text: 'హలో' (lang: te)
+2026-01-26 12:07:40,365 - INFO - find_department: No department found for text: 'హలో'.
+2026-01-26 12:07:40,365 - INFO - find_department returned: []
+2026-01-26 12:07:40,365 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,365 - INFO - --- Processing command: 'नमस्ते' (lang: hi) ---
+2026-01-26 12:07:40,365 - INFO - find_department: Searching for all departments in text: 'नमस्ते' (lang: hi)
+2026-01-26 12:07:40,384 - INFO - find_department: No department found for text: 'नमस्ते'.
+2026-01-26 12:07:40,384 - INFO - find_department returned: []
+2026-01-26 12:07:40,384 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:40,384 - INFO - --- Processing command: 'Robot' (lang: en) ---
+2026-01-26 12:07:40,398 - INFO - find_department: Searching for all departments in text: 'Robot' (lang: en)
+2026-01-26 12:07:40,407 - INFO - find_department: No department found for text: 'Robot'.
+2026-01-26 12:07:40,407 - INFO - find_department returned: []
+2026-01-26 12:07:40,407 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,407 - INFO - --- Processing command: 'హలో' (lang: te) ---
+2026-01-26 12:07:40,408 - INFO - find_department: Searching for all departments in text: 'హలో' (lang: te)
+2026-01-26 12:07:40,431 - INFO - find_department: No department found for text: 'హలో'.
+2026-01-26 12:07:40,432 - INFO - find_department returned: []
+2026-01-26 12:07:40,432 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,432 - INFO - --- Processing command: 'नमस्ते' (lang: hi) ---
+2026-01-26 12:07:40,433 - INFO - find_department: Searching for all departments in text: 'नमस्ते' (lang: hi)
+2026-01-26 12:07:40,450 - INFO - find_department: No department found for text: 'नमस्ते'.
+2026-01-26 12:07:40,450 - INFO - find_department returned: []
+2026-01-26 12:07:40,450 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:40,451 - INFO - --- Processing command: 'Dr Satish' (lang: en) ---
+2026-01-26 12:07:40,465 - INFO - find_department: Searching for all departments in text: 'Dr Satish' (lang: en)
+2026-01-26 12:07:40,480 - INFO - find_department: No department found for text: 'Dr Satish'.
+2026-01-26 12:07:40,480 - INFO - find_department returned: []
+2026-01-26 12:07:40,480 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,481 - INFO - --- Processing command: 'Who is Satish' (lang: en) ---
+2026-01-26 12:07:40,488 - INFO - find_department: Searching for all departments in text: 'Who is Satish' (lang: en)
+2026-01-26 12:07:40,489 - INFO - find_department: No department found for text: 'Who is Satish'.
+2026-01-26 12:07:40,489 - INFO - find_department returned: []
+2026-01-26 12:07:40,490 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,490 - INFO - --- Processing command: 'డాక్టర్ Satish ఎక్కడ' (lang: te) ---
+2026-01-26 12:07:40,513 - INFO - find_department: Searching for all departments in text: 'డాక్టర్ Satish ఎక్కడ' (lang: te)
+2026-01-26 12:07:40,535 - INFO - find_department: No department found for text: 'డాక్టర్ Satish ఎక్కడ'.
+2026-01-26 12:07:40,535 - INFO - find_department returned: []
+2026-01-26 12:07:40,535 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,536 - INFO - --- Processing command: 'Satish डॉक्टर' (lang: hi) ---
+2026-01-26 12:07:40,556 - INFO - find_department: Searching for all departments in text: 'Satish डॉक्टर' (lang: hi)
+2026-01-26 12:07:40,583 - INFO - find_department: No department found for text: 'Satish डॉक्टर'.
+2026-01-26 12:07:40,583 - INFO - find_department returned: []
+2026-01-26 12:07:40,583 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:40,583 - INFO - --- Processing command: 'Dr Srinivas' (lang: en) ---
+2026-01-26 12:07:40,599 - INFO - find_department: Searching for all departments in text: 'Dr Srinivas' (lang: en)
+2026-01-26 12:07:40,610 - INFO - find_department: No department found for text: 'Dr Srinivas'.
+2026-01-26 12:07:40,610 - INFO - find_department returned: []
+2026-01-26 12:07:40,610 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,610 - INFO - --- Processing command: 'Who is Srinivas' (lang: en) ---
+2026-01-26 12:07:40,617 - INFO - find_department: Searching for all departments in text: 'Who is Srinivas' (lang: en)
+2026-01-26 12:07:40,620 - INFO - find_department: No department found for text: 'Who is Srinivas'.
+2026-01-26 12:07:40,620 - INFO - find_department returned: []
+2026-01-26 12:07:40,620 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,620 - INFO - --- Processing command: 'డాక్టర్ Srinivas ఎక్కడ' (lang: te) ---
+2026-01-26 12:07:40,653 - INFO - find_department: Searching for all departments in text: 'డాక్టర్ Srinivas ఎక్కడ' (lang: te)
+2026-01-26 12:07:40,684 - INFO - find_department: No department found for text: 'డాక్టర్ Srinivas ఎక్కడ'.
+2026-01-26 12:07:40,685 - INFO - find_department returned: []
+2026-01-26 12:07:40,685 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,685 - INFO - --- Processing command: 'Srinivas डॉक्टर' (lang: hi) ---
+2026-01-26 12:07:40,703 - INFO - find_department: Searching for all departments in text: 'Srinivas डॉक्टर' (lang: hi)
+2026-01-26 12:07:40,719 - INFO - find_department: No department found for text: 'Srinivas डॉक्टर'.
+2026-01-26 12:07:40,719 - INFO - find_department returned: []
+2026-01-26 12:07:40,719 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:40,719 - INFO - --- Processing command: 'Dr Jyotsna' (lang: en) ---
+2026-01-26 12:07:40,736 - INFO - find_department: Searching for all departments in text: 'Dr Jyotsna' (lang: en)
+2026-01-26 12:07:40,756 - INFO - find_department: No department found for text: 'Dr Jyotsna'.
+2026-01-26 12:07:40,756 - INFO - find_department returned: []
+2026-01-26 12:07:40,756 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,756 - INFO - --- Processing command: 'Who is Jyotsna' (lang: en) ---
+2026-01-26 12:07:40,764 - INFO - find_department: Searching for all departments in text: 'Who is Jyotsna' (lang: en)
+2026-01-26 12:07:40,766 - INFO - find_department: No department found for text: 'Who is Jyotsna'.
+2026-01-26 12:07:40,766 - INFO - find_department returned: []
+2026-01-26 12:07:40,767 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:40,767 - INFO - --- Processing command: 'డాక్టర్ Jyotsna ఎక్కడ' (lang: te) ---
+2026-01-26 12:07:40,788 - INFO - find_department: Searching for all departments in text: 'డాక్టర్ Jyotsna ఎక్కడ' (lang: te)
+2026-01-26 12:07:40,825 - INFO - find_department: No department found for text: 'డాక్టర్ Jyotsna ఎక్కడ'.
+2026-01-26 12:07:40,825 - INFO - find_department returned: []
+2026-01-26 12:07:40,826 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:40,826 - INFO - --- Processing command: 'Jyotsna डॉक्टर' (lang: hi) ---
+2026-01-26 12:07:41,010 - INFO - find_department: Searching for all departments in text: 'Jyotsna डॉक्टर' (lang: hi)
+2026-01-26 12:07:41,089 - INFO - find_department: No department found for text: 'Jyotsna डॉक्टर'.
+2026-01-26 12:07:41,089 - INFO - find_department returned: []
+2026-01-26 12:07:41,090 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:41,090 - INFO - --- Processing command: 'Dr Paramjyothi' (lang: en) ---
+2026-01-26 12:07:41,131 - INFO - find_department: Searching for all departments in text: 'Dr Paramjyothi' (lang: en)
+2026-01-26 12:07:41,163 - INFO - find_department: No department found for text: 'Dr Paramjyothi'.
+2026-01-26 12:07:41,163 - INFO - find_department returned: []
+2026-01-26 12:07:41,163 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:41,163 - INFO - --- Processing command: 'Who is Paramjyothi' (lang: en) ---
+2026-01-26 12:07:41,183 - INFO - find_department: Searching for all departments in text: 'Who is Paramjyothi' (lang: en)
+2026-01-26 12:07:41,186 - INFO - find_department: No department found for text: 'Who is Paramjyothi'.
+2026-01-26 12:07:41,186 - INFO - find_department returned: []
+2026-01-26 12:07:41,186 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:41,187 - INFO - --- Processing command: 'డాక్టర్ Paramjyothi ఎక్కడ' (lang: te) ---
+2026-01-26 12:07:41,219 - INFO - find_department: Searching for all departments in text: 'డాక్టర్ Paramjyothi ఎక్కడ' (lang: te)
+2026-01-26 12:07:41,257 - INFO - find_department: No department found for text: 'డాక్టర్ Paramjyothi ఎక్కడ'.
+2026-01-26 12:07:41,257 - INFO - find_department returned: []
+2026-01-26 12:07:41,258 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:41,258 - INFO - --- Processing command: 'Paramjyothi डॉक्टर' (lang: hi) ---
+2026-01-26 12:07:41,288 - INFO - find_department: Searching for all departments in text: 'Paramjyothi डॉक्टर' (lang: hi)
+2026-01-26 12:07:41,316 - INFO - find_department: No department found for text: 'Paramjyothi डॉक्टर'.
+2026-01-26 12:07:41,316 - INFO - find_department returned: []
+2026-01-26 12:07:41,316 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:41,316 - INFO - --- Processing command: 'Dr Raju' (lang: en) ---
+2026-01-26 12:07:41,343 - INFO - find_department: Searching for all departments in text: 'Dr Raju' (lang: en)
+2026-01-26 12:07:41,364 - INFO - find_department: No department found for text: 'Dr Raju'.
+2026-01-26 12:07:41,365 - INFO - find_department returned: []
+2026-01-26 12:07:41,365 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:41,365 - INFO - --- Processing command: 'Who is Raju' (lang: en) ---
+2026-01-26 12:07:41,382 - INFO - find_department: Searching for all departments in text: 'Who is Raju' (lang: en)
+2026-01-26 12:07:41,385 - INFO - find_department: No department found for text: 'Who is Raju'.
+2026-01-26 12:07:41,385 - INFO - find_department returned: []
+2026-01-26 12:07:41,385 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:41,385 - INFO - --- Processing command: 'డాక్టర్ Raju ఎక్కడ' (lang: te) ---
+2026-01-26 12:07:41,417 - INFO - find_department: Searching for all departments in text: 'డాక్టర్ Raju ఎక్కడ' (lang: te)
+2026-01-26 12:07:41,456 - INFO - find_department: No department found for text: 'డాక్టర్ Raju ఎక్కడ'.
+2026-01-26 12:07:41,456 - INFO - find_department returned: []
+2026-01-26 12:07:41,456 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:41,456 - INFO - --- Processing command: 'Raju डॉक्टर' (lang: hi) ---
+2026-01-26 12:07:41,485 - INFO - find_department: Searching for all departments in text: 'Raju डॉक्टर' (lang: hi)
+2026-01-26 12:07:41,509 - INFO - find_department: No department found for text: 'Raju डॉक्टर'.
+2026-01-26 12:07:41,509 - INFO - find_department returned: []
+2026-01-26 12:07:41,509 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:41,510 - INFO - --- Processing command: 'న్యూరో విభాగం' (lang: te) ---
+2026-01-26 12:07:41,522 - INFO - find_department: Searching for all departments in text: 'న్యూరో విభాగం' (lang: te)
+2026-01-26 12:07:41,550 - INFO - find_department: Matched keyword 'న్యూరో' to department 'Neurology'.
+2026-01-26 12:07:41,556 - INFO - find_department returned: ['Neurology']
+2026-01-26 12:07:41,556 - INFO - Generated response text: 'విభాగం పేరు న్యూరాలజీ విభాగం, డాక్టర్ పేరు Neurologist on Duty, మరియు చిరునామా 5వ అంతస్తు, స్పెషాలిటీ బ్లాక్.'
+2026-01-26 12:07:41,556 - INFO - --- Processing command: 'న్యూరో డాక్టర్ టైమింగ్స్' (lang: te) ---
+2026-01-26 12:07:41,580 - INFO - find_department: Searching for all departments in text: 'న్యూరో డాక్టర్ టైమింగ్స్' (lang: te)
+2026-01-26 12:07:41,584 - INFO - find_department: Matched keyword 'న్యూరో' to department 'Neurology'.
+2026-01-26 12:07:41,585 - INFO - find_department returned: ['Neurology']
+2026-01-26 12:07:41,585 - INFO - Generated response text: 'విభాగం పేరు న్యూరాలజీ విభాగం, డాక్టర్ పేరు Neurologist on Duty, మరియు చిరునామా 5వ అంతస్తు, స్పెషాలిటీ బ్లాక్.'
+2026-01-26 12:07:41,585 - INFO - --- Processing command: 'న్యూరో ఎక్కడ ఉంది చెప్పండి' (lang: te) ---
+2026-01-26 12:07:41,602 - INFO - find_department: Searching for all departments in text: 'న్యూరో ఎక్కడ ఉంది చెప్పండి' (lang: te)
+2026-01-26 12:07:41,605 - INFO - find_department: Matched keyword 'న్యూరో' to department 'Neurology'.
+2026-01-26 12:07:41,606 - INFO - find_department returned: ['Neurology']
+2026-01-26 12:07:41,606 - INFO - Generated response text: 'విభాగం పేరు న్యూరాలజీ విభాగం, డాక్టర్ పేరు Neurologist on Duty, మరియు చిరునామా 5వ అంతస్తు, స్పెషాలిటీ బ్లాక్.'
+2026-01-26 12:07:41,607 - INFO - --- Processing command: 'దయచేసి న్యూరో చూపించండి' (lang: te) ---
+2026-01-26 12:07:41,616 - INFO - find_department: Searching for all departments in text: 'దయచేసి న్యూరో చూపించండి' (lang: te)
+2026-01-26 12:07:41,620 - INFO - find_department: Matched keyword 'న్యూరో' to department 'Neurology'.
+2026-01-26 12:07:41,620 - INFO - find_department returned: ['Neurology']
+2026-01-26 12:07:41,620 - INFO - Generated response text: 'విభాగం పేరు న్యూరాలజీ విభాగం, డాక్టర్ పేరు Neurologist on Duty, మరియు చిరునామా 5వ అంతస్తు, స్పెషాలిటీ బ్లాక్.'
+2026-01-26 12:07:41,621 - INFO - --- Processing command: 'గ్యాస్ట్రో విభాగం' (lang: te) ---
+2026-01-26 12:07:41,622 - INFO - find_department: Searching for all departments in text: 'గ్యాస్ట్రో విభాగం' (lang: te)
+2026-01-26 12:07:41,625 - INFO - find_department: Matched keyword 'గ్యాస్' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:41,626 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:41,626 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:41,626 - INFO - --- Processing command: 'గ్యాస్ట్రో డాక్టర్ టైమింగ్స్' (lang: te) ---
+2026-01-26 12:07:41,641 - INFO - find_department: Searching for all departments in text: 'గ్యాస్ట్రో డాక్టర్ టైమింగ్స్' (lang: te)
+2026-01-26 12:07:41,644 - INFO - find_department: Matched keyword 'గ్యాస్' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:41,644 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:41,645 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:41,645 - INFO - --- Processing command: 'గ్యాస్ట్రో ఎక్కడ ఉంది చెప్పండి' (lang: te) ---
+2026-01-26 12:07:41,652 - INFO - find_department: Searching for all departments in text: 'గ్యాస్ట్రో ఎక్కడ ఉంది చెప్పండి' (lang: te)
+2026-01-26 12:07:41,654 - INFO - find_department: Matched keyword 'గ్యాస్' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:41,655 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:41,655 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:41,655 - INFO - --- Processing command: 'దయచేసి గ్యాస్ట్రో చూపించండి' (lang: te) ---
+2026-01-26 12:07:41,671 - INFO - find_department: Searching for all departments in text: 'దయచేసి గ్యాస్ట్రో చూపించండి' (lang: te)
+2026-01-26 12:07:41,672 - INFO - find_department: Matched keyword 'గ్యాస్' to department 'Medical Gastroenterology'.
+2026-01-26 12:07:41,673 - INFO - find_department returned: ['Medical Gastroenterology']
+2026-01-26 12:07:41,673 - INFO - Generated response text: 'విభాగం పేరు మెడికల్ గ్యాస్ట్రోఎంటరాలజీ, డాక్టర్ పేరు Dr. Y. Satyanarayana Raju, మరియు చిరునామా 5వ అంతస్తు, గది 502.'
+2026-01-26 12:07:41,673 - INFO - --- Processing command: 'ఆర్థో విభాగం' (lang: te) ---
+2026-01-26 12:07:41,674 - INFO - find_department: Searching for all departments in text: 'ఆర్థో విభాగం' (lang: te)
+2026-01-26 12:07:41,676 - INFO - find_department: Matched keyword 'ఆర్థో' to department 'Orthopaedics'.
+2026-01-26 12:07:41,676 - INFO - find_department returned: ['Orthopaedics']
+2026-01-26 12:07:41,676 - INFO - Generated response text: 'విభాగం పేరు ఎముకల వైద్య విభాగం, డాక్టర్ పేరు Orthopaedic Surgeon, మరియు చిరునామా 4వ అంతస్తు, సర్జికల్ బ్లాక్.'
+2026-01-26 12:07:41,676 - INFO - --- Processing command: 'ఆర్థో డాక్టర్ టైమింగ్స్' (lang: te) ---
+2026-01-26 12:07:41,688 - INFO - find_department: Searching for all departments in text: 'ఆర్థో డాక్టర్ టైమింగ్స్' (lang: te)
+2026-01-26 12:07:41,690 - INFO - find_department: Matched keyword 'ఆర్థో' to department 'Orthopaedics'.
+2026-01-26 12:07:41,690 - INFO - find_department returned: ['Orthopaedics']
+2026-01-26 12:07:41,690 - INFO - Generated response text: 'విభాగం పేరు ఎముకల వైద్య విభాగం, డాక్టర్ పేరు Orthopaedic Surgeon, మరియు చిరునామా 4వ అంతస్తు, సర్జికల్ బ్లాక్.'
+2026-01-26 12:07:41,691 - INFO - --- Processing command: 'ఆర్థో ఎక్కడ ఉంది చెప్పండి' (lang: te) ---
+2026-01-26 12:07:41,697 - INFO - find_department: Searching for all departments in text: 'ఆర్థో ఎక్కడ ఉంది చెప్పండి' (lang: te)
+2026-01-26 12:07:41,699 - INFO - find_department: Matched keyword 'ఆర్థో' to department 'Orthopaedics'.
+2026-01-26 12:07:41,700 - INFO - find_department returned: ['Orthopaedics']
+2026-01-26 12:07:41,700 - INFO - Generated response text: 'విభాగం పేరు ఎముకల వైద్య విభాగం, డాక్టర్ పేరు Orthopaedic Surgeon, మరియు చిరునామా 4వ అంతస్తు, సర్జికల్ బ్లాక్.'
+2026-01-26 12:07:41,700 - INFO - --- Processing command: 'దయచేసి ఆర్థో చూపించండి' (lang: te) ---
+2026-01-26 12:07:41,713 - INFO - find_department: Searching for all departments in text: 'దయచేసి ఆర్థో చూపించండి' (lang: te)
+2026-01-26 12:07:41,715 - INFO - find_department: Matched keyword 'ఆర్థో' to department 'Orthopaedics'.
+2026-01-26 12:07:41,715 - INFO - find_department returned: ['Orthopaedics']
+2026-01-26 12:07:41,715 - INFO - Generated response text: 'విభాగం పేరు ఎముకల వైద్య విభాగం, డాక్టర్ పేరు Orthopaedic Surgeon, మరియు చిరునామా 4వ అంతస్తు, సర్జికల్ బ్లాక్.'
+2026-01-26 12:07:41,716 - INFO - --- Processing command: 'డెంటల్ విభాగం' (lang: te) ---
+2026-01-26 12:07:41,716 - INFO - find_department: Searching for all departments in text: 'డెంటల్ విభాగం' (lang: te)
+2026-01-26 12:07:41,718 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:41,719 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:41,719 - INFO - Generated response text: 'విభాగం పేరు దంత వైద్య విభాగం, డాక్టర్ పేరు Dentist on Duty, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:41,719 - INFO - --- Processing command: 'డెంటల్ డాక్టర్ టైమింగ్స్' (lang: te) ---
+2026-01-26 12:07:41,736 - INFO - find_department: Searching for all departments in text: 'డెంటల్ డాక్టర్ టైమింగ్స్' (lang: te)
+2026-01-26 12:07:41,740 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:41,740 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:41,740 - INFO - Generated response text: 'విభాగం పేరు దంత వైద్య విభాగం, డాక్టర్ పేరు Dentist on Duty, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:41,741 - INFO - --- Processing command: 'డెంటల్ ఎక్కడ ఉంది చెప్పండి' (lang: te) ---
+2026-01-26 12:07:41,754 - INFO - find_department: Searching for all departments in text: 'డెంటల్ ఎక్కడ ఉంది చెప్పండి' (lang: te)
+2026-01-26 12:07:41,756 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:41,756 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:41,757 - INFO - Generated response text: 'విభాగం పేరు దంత వైద్య విభాగం, డాక్టర్ పేరు Dentist on Duty, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:41,757 - INFO - --- Processing command: 'దయచేసి డెంటల్ చూపించండి' (lang: te) ---
+2026-01-26 12:07:41,766 - INFO - find_department: Searching for all departments in text: 'దయచేసి డెంటల్ చూపించండి' (lang: te)
+2026-01-26 12:07:41,770 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:41,771 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:41,771 - INFO - Generated response text: 'విభాగం పేరు దంత వైద్య విభాగం, డాక్టర్ పేరు Dentist on Duty, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్.'
+2026-01-26 12:07:41,771 - INFO - --- Processing command: 'ఈఎన్టీ విభాగం' (lang: te) ---
+2026-01-26 12:07:41,773 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ విభాగం' (lang: te)
+2026-01-26 12:07:41,775 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:41,775 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:41,775 - INFO - Generated response text: 'విభాగం పేరు ఈఎన్టీ విభాగం, డాక్టర్ పేరు ENT Specialist, మరియు చిరునామా ఓపీడి బ్లాక్, 1వ అంతస్తు.'
+2026-01-26 12:07:41,775 - INFO - --- Processing command: 'ఈఎన్టీ డాక్టర్ టైమింగ్స్' (lang: te) ---
+2026-01-26 12:07:41,786 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ డాక్టర్ టైమింగ్స్' (lang: te)
+2026-01-26 12:07:41,790 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:41,790 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:41,791 - INFO - Generated response text: 'విభాగం పేరు ఈఎన్టీ విభాగం, డాక్టర్ పేరు ENT Specialist, మరియు చిరునామా ఓపీడి బ్లాక్, 1వ అంతస్తు.'
+2026-01-26 12:07:41,791 - INFO - --- Processing command: 'ఈఎన్టీ ఎక్కడ ఉంది చెప్పండి' (lang: te) ---
+2026-01-26 12:07:41,801 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ ఎక్కడ ఉంది చెప్పండి' (lang: te)
+2026-01-26 12:07:41,803 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:41,803 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:41,804 - INFO - Generated response text: 'విభాగం పేరు ఈఎన్టీ విభాగం, డాక్టర్ పేరు ENT Specialist, మరియు చిరునామా ఓపీడి బ్లాక్, 1వ అంతస్తు.'
+2026-01-26 12:07:41,804 - INFO - --- Processing command: 'దయచేసి ఈఎన్టీ చూపించండి' (lang: te) ---
+2026-01-26 12:07:41,811 - INFO - find_department: Searching for all departments in text: 'దయచేసి ఈఎన్టీ చూపించండి' (lang: te)
+2026-01-26 12:07:41,814 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:41,816 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:41,816 - INFO - Generated response text: 'విభాగం పేరు ఈఎన్టీ విభాగం, డాక్టర్ పేరు ENT Specialist, మరియు చిరునామా ఓపీడి బ్లాక్, 1వ అంతస్తు.'
+2026-01-26 12:07:41,816 - INFO - --- Processing command: 'Dental department' (lang: en) ---
+2026-01-26 12:07:41,824 - INFO - find_department: Searching for all departments in text: 'Dental department' (lang: en)
+2026-01-26 12:07:41,834 - INFO - find_department: Matched keyword 'dental' to department 'Dental'.
+2026-01-26 12:07:41,835 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:41,835 - INFO - Generated response text: 'The department name is Dental Department, the doctor's name is Dentist on Duty, and the address is Ground Floor, OPD Block.'
+2026-01-26 12:07:41,835 - INFO - --- Processing command: 'Eye department' (lang: en) ---
+2026-01-26 12:07:41,837 - INFO - find_department: Searching for all departments in text: 'Eye department' (lang: en)
+2026-01-26 12:07:41,838 - INFO - find_department: Matched keyword 'eye' to department 'Ophthalmology'.
+2026-01-26 12:07:41,838 - INFO - find_department returned: ['Ophthalmology']
+2026-01-26 12:07:41,838 - INFO - Generated response text: 'The department name is Ophthalmology Department, the doctor's name is Ophthalmologist, and the address is OPD Block, 2nd Floor.'
+2026-01-26 12:07:41,838 - INFO - --- Processing command: 'సినిమా హాల్ ఎక్కడ' (lang: te) ---
+2026-01-26 12:07:41,855 - INFO - find_department: Searching for all departments in text: 'సినిమా హాల్ ఎక్కడ' (lang: te)
+2026-01-26 12:07:41,882 - INFO - find_department: No department found for text: 'సినిమా హాల్ ఎక్కడ'.
+2026-01-26 12:07:41,883 - INFO - find_department returned: []
+2026-01-26 12:07:41,883 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:41,883 - INFO - --- Processing command: 'బస్ స్టాండ్' (lang: te) ---
+2026-01-26 12:07:41,891 - INFO - find_department: Searching for all departments in text: 'బస్ స్టాండ్' (lang: te)
+2026-01-26 12:07:41,895 - INFO - find_department: No department found for text: 'బస్ స్టాండ్'.
+2026-01-26 12:07:41,896 - INFO - find_department returned: []
+2026-01-26 12:07:41,896 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:41,896 - INFO - --- Processing command: 'క్రికెట్ స్కోర్' (lang: te) ---
+2026-01-26 12:07:41,905 - INFO - find_department: Searching for all departments in text: 'క్రికెట్ స్కోర్' (lang: te)
+2026-01-26 12:07:41,909 - INFO - find_department: No department found for text: 'క్రికెట్ స్కోర్'.
+2026-01-26 12:07:41,909 - INFO - find_department returned: []
+2026-01-26 12:07:41,909 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:41,909 - INFO - --- Processing command: 'Where is airport' (lang: en) ---
+2026-01-26 12:07:41,928 - INFO - find_department: Searching for all departments in text: 'Where is airport' (lang: en)
+2026-01-26 12:07:41,939 - INFO - find_department: No department found for text: 'Where is airport'.
+2026-01-26 12:07:41,939 - INFO - find_department returned: []
+2026-01-26 12:07:41,939 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:41,940 - INFO - --- Processing command: 'Pizza shop' (lang: en) ---
+2026-01-26 12:07:41,941 - INFO - find_department: Searching for all departments in text: 'Pizza shop' (lang: en)
+2026-01-26 12:07:41,942 - INFO - find_department: No department found for text: 'Pizza shop'.
+2026-01-26 12:07:41,942 - INFO - find_department returned: []
+2026-01-26 12:07:41,942 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:41,943 - INFO - --- Processing command: 'నాకు నిన్నటి నుంచి కడుపులో చాలా నొప్పిగా ఉంది' (lang: te) ---
+2026-01-26 12:07:41,951 - INFO - find_department: Searching for all departments in text: 'నాకు నిన్నటి నుంచి కడుపులో చాలా నొప్పిగా ఉంది' (lang: te)
+2026-01-26 12:07:41,974 - INFO - find_department: Matched keyword 'నొప్పి' to department 'General OPD'.
+2026-01-26 12:07:41,978 - INFO - find_department returned: ['General OPD']
+2026-01-26 12:07:41,978 - INFO - Generated response text: 'విభాగం పేరు జనరల్ ఓపీడీ, డాక్టర్ పేరు General Duty Doctor, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ ఫ్లోర్.'
+2026-01-26 12:07:41,978 - INFO - --- Processing command: 'మా నాన్నగారికి గుండెలో నొప్పి వచ్చింది' (lang: te) ---
+2026-01-26 12:07:41,979 - INFO - find_department: Searching for all departments in text: 'మా నాన్నగారికి గుండెలో నొప్పి వచ్చింది' (lang: te)
+2026-01-26 12:07:41,980 - INFO - find_department: Matched keyword 'నాన్నగారికి గుండెలో నొప్పి' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:41,982 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:41,982 - INFO - Generated response text: 'విభాగం పేరు కార్డియాలజీ యూనిట్-1, డాక్టర్ పేరు Dr. O. Sai Satish, మరియు చిరునామా గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6.'
+2026-01-26 12:07:41,982 - INFO - --- Processing command: 'పిల్లవాడికి జ్వరం తగ్గట్లేదు' (lang: te) ---
+2026-01-26 12:07:41,994 - INFO - find_department: Searching for all departments in text: 'పిల్లవాడికి జ్వరం తగ్గట్లేదు' (lang: te)
+2026-01-26 12:07:41,995 - INFO - find_department: Matched keyword 'పిల్లవాడికి జ్వరం తగ్గట్లేదు' to department 'General Medicine'.
+2026-01-26 12:07:41,997 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:41,997 - INFO - Generated response text: 'విభాగం పేరు జనరల్ మెడిసిన్, డాక్టర్ పేరు General Physician, మరియు చిరునామా ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు.'
+2026-01-26 12:07:41,997 - INFO - --- Processing command: 'అమ్మకి కాలు నొప్పులు' (lang: te) ---
+2026-01-26 12:07:42,004 - INFO - find_department: Searching for all departments in text: 'అమ్మకి కాలు నొప్పులు' (lang: te)
+2026-01-26 12:07:42,006 - INFO - find_department: No department found for text: 'అమ్మకి కాలు నొప్పులు'.
+2026-01-26 12:07:42,007 - INFO - find_department returned: []
+2026-01-26 12:07:42,007 - INFO - Generated response text: 'సమాచారం నా దగ్గర లేదు.'
+2026-01-26 12:07:42,007 - INFO - --- Processing command: 'Heart' (lang: en) ---
+2026-01-26 12:07:42,024 - INFO - find_department: Searching for all departments in text: 'Heart' (lang: en)
+2026-01-26 12:07:42,036 - INFO - find_department: Matched keyword 'heart' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:42,038 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:42,038 - INFO - Generated response text: 'The department name is Cardiology Unit 1, the doctor's name is Dr. O. Sai Satish, and the address is Ground floor, rooms 2, 4, 6.'
+2026-01-26 12:07:42,039 - INFO - --- Processing command: 'Brain' (lang: en) ---
+2026-01-26 12:07:42,045 - INFO - find_department: Searching for all departments in text: 'Brain' (lang: en)
+2026-01-26 12:07:42,047 - INFO - find_department: Matched keyword 'brain' to department 'Neurology'.
+2026-01-26 12:07:42,047 - INFO - find_department returned: ['Neurology']
+2026-01-26 12:07:42,047 - INFO - Generated response text: 'The department name is Neurology Department, the doctor's name is Neurologist on Duty, and the address is 5th Floor, Specialty Block.'
+2026-01-26 12:07:42,048 - INFO - --- Processing command: 'Bone' (lang: en) ---
+2026-01-26 12:07:42,051 - INFO - find_department: Searching for all departments in text: 'Bone' (lang: en)
+2026-01-26 12:07:42,052 - INFO - find_department: Matched keyword 'bone' to department 'Orthopaedics'.
+2026-01-26 12:07:42,053 - INFO - find_department returned: ['Orthopaedics']
+2026-01-26 12:07:42,053 - INFO - Generated response text: 'The department name is Orthopaedics Department, the doctor's name is Orthopaedic Surgeon, and the address is 4th Floor, Surgical Block.'
+2026-01-26 12:07:42,053 - INFO - --- Processing command: 'Skin' (lang: en) ---
+2026-01-26 12:07:42,055 - INFO - find_department: Searching for all departments in text: 'Skin' (lang: en)
+2026-01-26 12:07:42,056 - INFO - find_department: Matched keyword 'skin' to department 'Dermatology'.
+2026-01-26 12:07:42,056 - INFO - find_department returned: ['Dermatology']
+2026-01-26 12:07:42,056 - INFO - Generated response text: 'The department name is Dermatology Department, the doctor's name is Dermatologist on Duty, and the address is 3rd Floor, OPD Block.'
+2026-01-26 12:07:42,056 - INFO - --- Processing command: 'Eye' (lang: en) ---
+2026-01-26 12:07:42,060 - INFO - find_department: Searching for all departments in text: 'Eye' (lang: en)
+2026-01-26 12:07:42,061 - INFO - find_department: Matched keyword 'eye' to department 'Ophthalmology'.
+2026-01-26 12:07:42,061 - INFO - find_department returned: ['Ophthalmology']
+2026-01-26 12:07:42,061 - INFO - Generated response text: 'The department name is Ophthalmology Department, the doctor's name is Ophthalmologist, and the address is OPD Block, 2nd Floor.'
+2026-01-26 12:07:42,061 - INFO - --- Processing command: 'Teeth' (lang: en) ---
+2026-01-26 12:07:42,068 - INFO - find_department: Searching for all departments in text: 'Teeth' (lang: en)
+2026-01-26 12:07:42,070 - INFO - find_department: Matched keyword 'teeth' to department 'Dental'.
+2026-01-26 12:07:42,070 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:42,070 - INFO - Generated response text: 'The department name is Dental Department, the doctor's name is Dentist on Duty, and the address is Ground Floor, OPD Block.'
+2026-01-26 12:07:42,070 - INFO - --- Processing command: 'Blood' (lang: en) ---
+2026-01-26 12:07:42,071 - INFO - find_department: Searching for all departments in text: 'Blood' (lang: en)
+2026-01-26 12:07:42,072 - INFO - find_department: No department found for text: 'Blood'.
+2026-01-26 12:07:42,072 - INFO - find_department returned: []
+2026-01-26 12:07:42,072 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:42,072 - INFO - --- Processing command: 'Xray' (lang: en) ---
+2026-01-26 12:07:42,073 - INFO - find_department: Searching for all departments in text: 'Xray' (lang: en)
+2026-01-26 12:07:42,075 - INFO - find_department: Matched keyword 'xray' to department 'Radiology'.
+2026-01-26 12:07:42,075 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:42,075 - INFO - Generated response text: 'The department name is Radiology Department, the doctor's name is Radiology Technician, and the address is Ground Floor, Diagnostic Block.'
+2026-01-26 12:07:42,075 - INFO - --- Processing command: 'Scan' (lang: en) ---
+2026-01-26 12:07:42,076 - INFO - find_department: Searching for all departments in text: 'Scan' (lang: en)
+2026-01-26 12:07:42,077 - INFO - find_department: Matched keyword 'scan' to department 'Radiology'.
+2026-01-26 12:07:42,077 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:42,077 - INFO - Generated response text: 'The department name is Radiology Department, the doctor's name is Radiology Technician, and the address is Ground Floor, Diagnostic Block.'
+2026-01-26 12:07:42,078 - INFO - --- Processing command: 'Test' (lang: en) ---
+2026-01-26 12:07:42,078 - INFO - find_department: Searching for all departments in text: 'Test' (lang: en)
+2026-01-26 12:07:42,079 - INFO - find_department: No department found for text: 'Test'.
+2026-01-26 12:07:42,080 - INFO - find_department returned: []
+2026-01-26 12:07:42,080 - INFO - Generated response text: 'I do not have that information.'
+2026-01-26 12:07:42,080 - INFO - --- Processing command: 'मुझे डॉक्टर को दिखाना है' (lang: hi) ---
+2026-01-26 12:07:42,099 - INFO - find_department: Searching for all departments in text: 'मुझे डॉक्टर को दिखाना है' (lang: hi)
+2026-01-26 12:07:42,101 - INFO - find_department: Matched keyword 'डॉक्टर को दिखाना है' to department 'General OPD'.
+2026-01-26 12:07:42,115 - INFO - find_department returned: ['General OPD']
+2026-01-26 12:07:42,115 - INFO - Generated response text: 'विभाग का नाम जनरल ओपीडी, डॉक्टर का नाम General Duty Doctor, और पता ओपीडी ब्लॉक, ग्राउंड फ्लोर है।'
+2026-01-26 12:07:42,116 - INFO - --- Processing command: 'हॉस्पिटल का नंबर क्या है' (lang: hi) ---
+2026-01-26 12:07:42,117 - INFO - find_department: Searching for all departments in text: 'हॉस्पिटल का नंबर क्या है' (lang: hi)
+2026-01-26 12:07:42,119 - INFO - find_department: No department found for text: 'हॉस्पिटल का नंबर क्या है'.
+2026-01-26 12:07:42,119 - INFO - find_department returned: []
+2026-01-26 12:07:42,119 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:42,119 - INFO - --- Processing command: 'पानी कहां है' (lang: hi) ---
+2026-01-26 12:07:42,125 - INFO - find_department: Searching for all departments in text: 'पानी कहां है' (lang: hi)
+2026-01-26 12:07:42,126 - INFO - find_department: No department found for text: 'पानी कहां है'.
+2026-01-26 12:07:42,126 - INFO - find_department returned: []
+2026-01-26 12:07:42,126 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:42,127 - INFO - --- Processing command: 'वाशरूम' (lang: hi) ---
+2026-01-26 12:07:42,131 - INFO - find_department: Searching for all departments in text: 'वाशरूम' (lang: hi)
+2026-01-26 12:07:42,133 - INFO - find_department: No department found for text: 'वाशरूम'.
+2026-01-26 12:07:42,133 - INFO - find_department returned: []
+2026-01-26 12:07:42,133 - INFO - Generated response text: 'जानकारी मेरे पास नहीं है।'
+2026-01-26 12:07:42,133 - INFO - --- Processing command: 'కార్డియాలజీ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,136 - INFO - find_department: Searching for all departments in text: 'కార్డియాలజీ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,153 - INFO - find_department: Matched keyword 'కార్డియాలజీ' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:42,166 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:42,167 - INFO - Generated response text: 'కార్డియాలజీ యూనిట్-1 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,167 - INFO - --- Processing command: 'కార్డియాలజీ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,174 - INFO - find_department: Searching for all departments in text: 'కార్డియాలజీ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,175 - INFO - find_department: Matched keyword 'కార్డియాలజీ' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:42,176 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:42,176 - INFO - Generated response text: 'కార్డియాలజీ యూనిట్-1 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,176 - INFO - --- Processing command: 'ఫార్మసీ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,177 - INFO - find_department: Searching for all departments in text: 'ఫార్మసీ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,179 - INFO - find_department: Matched keyword 'ఫార్మసీ' to department 'Pharmacy'.
+2026-01-26 12:07:42,180 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:42,180 - INFO - Generated response text: 'ఫార్మసీ 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,181 - INFO - --- Processing command: 'ఫార్మసీ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,181 - INFO - find_department: Searching for all departments in text: 'ఫార్మసీ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,184 - INFO - find_department: Matched keyword 'ఫార్మసీ' to department 'Pharmacy'.
+2026-01-26 12:07:42,185 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:42,185 - INFO - Generated response text: 'ఫార్మసీ 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,186 - INFO - --- Processing command: 'మందుల షాపు ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,187 - INFO - find_department: Searching for all departments in text: 'మందుల షాపు ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,191 - INFO - find_department: Matched keyword 'మందుల షాపు' to department 'Pharmacy'.
+2026-01-26 12:07:42,193 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:42,193 - INFO - Generated response text: 'ఫార్మసీ 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,194 - INFO - --- Processing command: 'మందుల షాపు క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,195 - INFO - find_department: Searching for all departments in text: 'మందుల షాపు క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,198 - INFO - find_department: Matched keyword 'మందుల షాపు' to department 'Pharmacy'.
+2026-01-26 12:07:42,202 - INFO - find_department returned: ['Pharmacy']
+2026-01-26 12:07:42,203 - INFO - Generated response text: 'ఫార్మసీ 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,203 - INFO - --- Processing command: 'ఎక్స్-రే ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,204 - INFO - find_department: Searching for all departments in text: 'ఎక్స్-రే ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,207 - INFO - find_department: Matched keyword 'ఎక్స్-రే' to department 'Radiology'.
+2026-01-26 12:07:42,208 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:42,209 - INFO - Generated response text: 'రేడియాలజీ విభాగం 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,209 - INFO - --- Processing command: 'ఎక్స్-రే క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,210 - INFO - find_department: Searching for all departments in text: 'ఎక్స్-రే క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,402 - INFO - find_department: Matched keyword 'ఎక్స్-రే' to department 'Radiology'.
+2026-01-26 12:07:42,404 - INFO - find_department returned: ['Radiology']
+2026-01-26 12:07:42,404 - INFO - Generated response text: 'రేడియాలజీ విభాగం 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,405 - INFO - --- Processing command: 'రక్త పరీక్ష ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,406 - INFO - find_department: Searching for all departments in text: 'రక్త పరీక్ష ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,411 - INFO - find_department: Matched keyword 'రక్త పరీక్ష' to department 'Laboratory'.
+2026-01-26 12:07:42,413 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:42,414 - INFO - Generated response text: 'ల్యాబ్ మెడిసిన్ విభాగం 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,414 - INFO - --- Processing command: 'రక్త పరీక్ష క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,432 - INFO - find_department: Searching for all departments in text: 'రక్త పరీక్ష క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,435 - INFO - find_department: Matched keyword 'రక్త పరీక్ష' to department 'Laboratory'.
+2026-01-26 12:07:42,438 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:42,438 - INFO - Generated response text: 'ల్యాబ్ మెడిసిన్ విభాగం 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,438 - INFO - --- Processing command: 'జనరల్ మెడిసిన్ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,439 - INFO - find_department: Searching for all departments in text: 'జనరల్ మెడిసిన్ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,454 - INFO - find_department: Matched keyword 'జనరల్ మెడిసిన్' to department 'General Medicine'.
+2026-01-26 12:07:42,457 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:42,457 - INFO - Generated response text: 'జనరల్ మెడిసిన్ 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,457 - INFO - --- Processing command: 'జనరల్ మెడిసిన్ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,460 - INFO - find_department: Searching for all departments in text: 'జనరల్ మెడిసిన్ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,462 - INFO - find_department: Matched keyword 'జనరల్ మెడిసిన్' to department 'General Medicine'.
+2026-01-26 12:07:42,465 - INFO - find_department returned: ['General Medicine']
+2026-01-26 12:07:42,465 - INFO - Generated response text: 'జనరల్ మెడిసిన్ 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,465 - INFO - --- Processing command: 'గుండె డాక్టర్ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,466 - INFO - find_department: Searching for all departments in text: 'గుండె డాక్టర్ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,468 - INFO - find_department: Matched keyword 'గుండె డాక్టర్' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:42,480 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:42,481 - INFO - Generated response text: 'కార్డియాలజీ యూనిట్-1 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,481 - INFO - --- Processing command: 'గుండె డాక్టర్ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,484 - INFO - find_department: Searching for all departments in text: 'గుండె డాక్టర్ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,486 - INFO - find_department: Matched keyword 'గుండె డాక్టర్' to department 'Cardiology Unit-1'.
+2026-01-26 12:07:42,498 - INFO - find_department returned: ['Cardiology Unit-1']
+2026-01-26 12:07:42,498 - INFO - Generated response text: 'కార్డియాలజీ యూనిట్-1 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,498 - INFO - --- Processing command: 'పిల్లల డాక్టర్ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,499 - INFO - find_department: Searching for all departments in text: 'పిల్లల డాక్టర్ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,501 - INFO - find_department: Matched keyword 'పిల్లల డాక్టర్' to department 'Paediatrics'.
+2026-01-26 12:07:42,514 - INFO - find_department returned: ['Paediatrics']
+2026-01-26 12:07:42,514 - INFO - Generated response text: 'పిల్లల వైద్య విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,514 - INFO - --- Processing command: 'పిల్లల డాక్టర్ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,516 - INFO - find_department: Searching for all departments in text: 'పిల్లల డాక్టర్ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,518 - INFO - find_department: Matched keyword 'పిల్లల డాక్టర్' to department 'Paediatrics'.
+2026-01-26 12:07:42,521 - INFO - find_department returned: ['Paediatrics']
+2026-01-26 12:07:42,521 - INFO - Generated response text: 'పిల్లల వైద్య విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,521 - INFO - --- Processing command: 'చర్మ వైద్యుడు ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,522 - INFO - find_department: Searching for all departments in text: 'చర్మ వైద్యుడు ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,525 - INFO - find_department: Matched keyword 'చర్మ వైద్యుడు' to department 'Dermatology'.
+2026-01-26 12:07:42,530 - INFO - find_department returned: ['Dermatology']
+2026-01-26 12:07:42,530 - INFO - Generated response text: 'చర్మ వైద్య విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,530 - INFO - --- Processing command: 'చర్మ వైద్యుడు క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,536 - INFO - find_department: Searching for all departments in text: 'చర్మ వైద్యుడు క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,544 - INFO - find_department: Matched keyword 'చర్మ వైద్యుడు' to department 'Dermatology'.
+2026-01-26 12:07:42,547 - INFO - find_department returned: ['Dermatology']
+2026-01-26 12:07:42,547 - INFO - Generated response text: 'చర్మ వైద్య విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,547 - INFO - --- Processing command: 'యూరాలజీ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,548 - INFO - find_department: Searching for all departments in text: 'యూరాలజీ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,552 - INFO - find_department: Matched keyword 'యూరాలజీ' to department 'Urology'.
+2026-01-26 12:07:42,553 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:42,554 - INFO - Generated response text: 'యూరాలజీ 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,554 - INFO - --- Processing command: 'యూరాలజీ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,567 - INFO - find_department: Searching for all departments in text: 'యూరాలజీ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,571 - INFO - find_department: Matched keyword 'యూరాలజీ' to department 'Urology'.
+2026-01-26 12:07:42,572 - INFO - find_department returned: ['Urology']
+2026-01-26 12:07:42,572 - INFO - Generated response text: 'యూరాలజీ 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,573 - INFO - --- Processing command: 'ల్యాబ్ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,578 - INFO - find_department: Searching for all departments in text: 'ల్యాబ్ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,585 - INFO - find_department: Matched keyword 'ల్యాబ్' to department 'Laboratory'.
+2026-01-26 12:07:42,590 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:42,590 - INFO - Generated response text: 'ల్యాబ్ మెడిసిన్ విభాగం 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,591 - INFO - --- Processing command: 'ల్యాబ్ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,591 - INFO - find_department: Searching for all departments in text: 'ల్యాబ్ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,596 - INFO - find_department: Matched keyword 'ల్యాబ్' to department 'Laboratory'.
+2026-01-26 12:07:42,596 - INFO - find_department returned: ['Laboratory']
+2026-01-26 12:07:42,597 - INFO - Generated response text: 'ల్యాబ్ మెడిసిన్ విభాగం 24x7 వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,597 - INFO - --- Processing command: 'ఈఎన్టీ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,598 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,601 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:42,602 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:42,602 - INFO - Generated response text: 'ఈఎన్టీ విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,603 - INFO - --- Processing command: 'ఈఎన్టీ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,605 - INFO - find_department: Searching for all departments in text: 'ఈఎన్టీ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,609 - INFO - find_department: Matched keyword 'ఈఎన్టీ' to department 'ENT'.
+2026-01-26 12:07:42,610 - INFO - find_department returned: ['ENT']
+2026-01-26 12:07:42,610 - INFO - Generated response text: 'ఈఎన్టీ విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,611 - INFO - --- Processing command: 'డెంటల్ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,613 - INFO - find_department: Searching for all departments in text: 'డెంటల్ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,617 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:42,618 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:42,618 - INFO - Generated response text: 'దంత వైద్య విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,619 - INFO - --- Processing command: 'డెంటల్ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,621 - INFO - find_department: Searching for all departments in text: 'డెంటల్ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,625 - INFO - find_department: Matched keyword 'డెంటల్' to department 'Dental'.
+2026-01-26 12:07:42,626 - INFO - find_department returned: ['Dental']
+2026-01-26 12:07:42,626 - INFO - Generated response text: 'దంత వైద్య విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,626 - INFO - --- Processing command: 'కంటి డాక్టర్ ఇప్పుడు తీసి ఉందా' (lang: te) ---
+2026-01-26 12:07:42,627 - INFO - find_department: Searching for all departments in text: 'కంటి డాక్టర్ ఇప్పుడు తీసి ఉందా' (lang: te)
+2026-01-26 12:07:42,629 - INFO - find_department: Matched keyword 'కంటి డాక్టర్' to department 'Ophthalmology'.
+2026-01-26 12:07:42,631 - INFO - find_department returned: ['Ophthalmology']
+2026-01-26 12:07:42,632 - INFO - Generated response text: 'కంటి వైద్య విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
+2026-01-26 12:07:42,632 - INFO - --- Processing command: 'కంటి డాక్టర్ క్లోజ్ అయిందా' (lang: te) ---
+2026-01-26 12:07:42,636 - INFO - find_department: Searching for all departments in text: 'కంటి డాక్టర్ క్లోజ్ అయిందా' (lang: te)
+2026-01-26 12:07:42,639 - INFO - find_department: Matched keyword 'కంటి డాక్టర్' to department 'Ophthalmology'.
+2026-01-26 12:07:42,641 - INFO - find_department returned: ['Ophthalmology']
+2026-01-26 12:07:42,641 - INFO - Generated response text: 'కంటి వైద్య విభాగం 9:00 AM - 4:00 PM వరకు తెరిచి ఉంటుంది.'
