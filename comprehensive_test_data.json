@@ -1,0 +1,7643 @@
+[
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "fever",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "fever please",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_long",
+        "text": "Is there any specialist for fever available right now?",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "body pain",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "Where is body pain?",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_long",
+        "text": "Hello, I have been suffering from body pain for a few days, where should I go?",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "weakness",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "Where is weakness?",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_long",
+        "text": "Is there any specialist for weakness available right now?",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "not feeling well",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "not feeling well location",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_long",
+        "text": "Can you please tell me the way to not feeling well, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "multiple problems",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "multiple problems location",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "general checkup",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "general checkup location",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "oncology",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "Where is oncology?",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "gynaecology",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "I need gynaecology",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_long",
+        "text": "Hello, I have been suffering from gynaecology for a few days, where should I go?",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "general opd",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "general opd location",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "problem",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "Where is problem?",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_en_exact",
+        "text": "pain",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_en_simple",
+        "text": "pain please",
+        "lang": "en",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "बुखार",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "बुखार किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "बदन दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "बदन दर्द जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_long",
+        "text": "मुझे बदन दर्द के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "शरीर दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "शरीर दर्द कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_long",
+        "text": "मेरे पिताजी को शरीर दर्द है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "कमजोरी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "कमजोरी कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_long",
+        "text": "नमस्ते, मुझे कमजोरी की समस्या है, कृपया बताएं कहां जाना है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "अस्वस्थ",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "अस्वस्थ जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_long",
+        "text": "मेरे पिताजी को अस्वस्थ है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "ठीक नहीं लग रहा",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "ठीक नहीं लग रहा कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "आम जांच",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "आम जांच कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_long",
+        "text": "मेरे पिताजी को आम जांच है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "स्वास्थ्य परीक्षण",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "स्वास्थ्य परीक्षण कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "ऑंकोलॉजी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "ऑंकोलॉजी कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "गाइनेकोलॉजी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "गाइनेकोलॉजी किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "जनरल ओपीडी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "जनरल ओपीडी किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_long",
+        "text": "मुझे जनरल ओपीडी के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "समस्या",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "समस्या कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_hi_exact",
+        "text": "दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_hi_simple",
+        "text": "दर्द के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "జ్వరం",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "జ్వరం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_long",
+        "text": "దయచేసి జ్వరం వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "తాపం",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "తాపం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "ఒళ్ళు నొప్పులు",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "ఒళ్ళు నొప్పులు ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "శరీర నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "శరీర నొప్పి ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "నీరసం",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "నీరసం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "బలహీనత",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "బలహీనత ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_long",
+        "text": "ఇక్కడ బలహీనత డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "ఆరోగ్యం బాగాలేదు",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "ఆరోగ్యం బాగాలేదు ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "అస్వస్థత",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "అస్వస్థత కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "సాధారణ తనిఖీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "సాధారణ తనిఖీ కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "ఆంకాలజీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "ఆంకాలజీ ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "గైనకాలజీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "గైనకాలజీ వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "జనరల్ ఓపీడీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "జనరల్ ఓపీడీ వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "సాధారణ వైద్య సేవలు",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "సాధారణ వైద్య సేవలు ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "సమస్య",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "సమస్య వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_opd_te_exact",
+        "text": "నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_opd_te_simple",
+        "text": "నొప్పి ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_opd"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "ent",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "ent location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_long",
+        "text": "I need to consult a doctor for ent, please guide me.",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "eye",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "eye location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_long",
+        "text": "Can you please tell me the way to eye, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "ophthalmology",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "ophthalmology location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_long",
+        "text": "Is there any specialist for ophthalmology available right now?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "opthalmology",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "opthalmology location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "ear",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "ear please",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_long",
+        "text": "Can you please tell me the way to ear, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "nose",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "nose location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "throat",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "throat please",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "general medicine",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "I need general medicine",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "blood pressure",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "blood pressure location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "high bp",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "high bp location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "high blood pressure",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "high blood pressure location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "elevated blood pressure",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "Where is elevated blood pressure?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "hypertension",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "Where is hypertension?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "low bp",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "low bp location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "low blood pressure",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "Where is low blood pressure?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "reduced blood pressure",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "reduced blood pressure please",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "hypotension",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "I need hypotension",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "sugar",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "Where is sugar?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "diabetes",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "diabetes please",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "high sugar",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "high sugar location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_long",
+        "text": "Hello, I have been suffering from high sugar for a few days, where should I go?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "high blood sugar",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "Where is high blood sugar?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "hyperglycemia",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "hyperglycemia please",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "low sugar",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "low sugar location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "low blood sugar",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "low blood sugar location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_long",
+        "text": "Hello, I have been suffering from low blood sugar for a few days, where should I go?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "hypoglycemia",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "Where is hypoglycemia?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "cold",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "I need cold",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "common cold",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "common cold location",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "fever",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "I need fever",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_en_long",
+        "text": "Can you please tell me the way to fever, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_en_exact",
+        "text": "high fever",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_en_simple",
+        "text": "Where is high fever?",
+        "lang": "en",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "ईएनटी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "ईएनटी कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "आंख",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "आंख के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "कान",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "कान जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "नाक",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "नाक के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "गला",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "गला के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "ऑप्थाल्मोलॉजी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "ऑप्थाल्मोलॉजी जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "सामान्य चिकित्सा",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "सामान्य चिकित्सा जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "आंतरिक चिकित्सा",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "आंतरिक चिकित्सा किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "बीपी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "बीपी किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_long",
+        "text": "क्या आप मुझे बीपी का रास्ता बता सकते हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "रक्तचाप",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "रक्तचाप जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "हाई बीपी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "हाई बीपी कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "उच्च रक्तचाप",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "उच्च रक्तचाप जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "लो बीपी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "लो बीपी के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "निम्न रक्तचाप",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "निम्न रक्तचाप जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "शुगर",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "शुगर के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "मधुमेह",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "मधुमेह कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_long",
+        "text": "मेरे पिताजी को मधुमेह है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "हाई शुगर",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "हाई शुगर किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "उच्च रक्त शर्करा",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "उच्च रक्त शर्करा के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "लो शुगर",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "लो शुगर के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_long",
+        "text": "क्या आप मुझे लो शुगर का रास्ता बता सकते हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "निम्न रक्त शर्करा",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "निम्न रक्त शर्करा किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "सर्दी",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "सर्दी जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "जुकाम",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "जुकाम कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "बुखार",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "बुखार कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "तेज बुखार",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "तेज बुखार के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_long",
+        "text": "क्या आप मुझे तेज बुखार का रास्ता बता सकते हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "मुझे बीपी है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "मुझे बीपी है के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "मुझे शुगर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "मुझे शुगर है किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_hi_exact",
+        "text": "सर्दी लगी है",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_hi_simple",
+        "text": "सर्दी लगी है के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "ఈఎన్టీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "ఈఎన్టీ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "మా అమ్మగారికి ఈఎన్టీ ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "కన్ను",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "కన్ను ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "చెవి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "చెవి ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "ముక్కు",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "ముక్కు ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "గొంతు",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "గొంతు కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "మా అమ్మగారికి గొంతు ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "ఆప్తాల్మాలజీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "ఆప్తాల్మాలజీ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "జనరల్ మెడిసిన్",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "జనరల్ మెడిసిన్ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "సాధారణ వైద్యం",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "సాధారణ వైద్యం కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "బీపీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "బీపీ ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "ఇక్కడ బీపీ డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "రక్తపోటు",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "రక్తపోటు ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "ఇక్కడ రక్తపోటు డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "హై బీపీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "హై బీపీ వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "అధిక రక్తపోటు",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "అధిక రక్తపోటు ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "లో బీపీ",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "లో బీపీ కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "అల్ప రక్తపోటు",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "అల్ప రక్తపోటు కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "దయచేసి అల్ప రక్తపోటు వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "షుగర్",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "షుగర్ ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "డయాబెటిస్",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "డయాబెటిస్ ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "మధుమేహం",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "మధుమేహం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "ఇక్కడ మధుమేహం డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "హై షుగర్",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "హై షుగర్ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "మా అమ్మగారికి హై షుగర్ ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "అధిక రక్త చక్కెర",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "అధిక రక్త చక్కెర కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "లో షుగర్",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "లో షుగర్ వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "దయచేసి లో షుగర్ వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "అల్ప రక్త చక్కెర",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "అల్ప రక్త చక్కెర కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "జలుబు",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "జలుబు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "దగ్గు",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "దగ్గు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "జ్వరం",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "జ్వరం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "అధిక జ్వరం",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "అధిక జ్వరం కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "తీవ్రమైన జ్వరం",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "తీవ్రమైన జ్వరం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "నాకు బిపి ఉంది",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "నాకు బిపి ఉంది కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "నాకు షుగర్ ఉంది",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "నాకు షుగర్ ఉంది కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "జలుబు చేసింది",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "జలుబు చేసింది వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "నాకు జ్వరం వచ్చింది",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "నాకు జ్వరం వచ్చింది వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "ఇక్కడ నాకు జ్వరం వచ్చింది డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "బీపీ సమస్య",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "బీపీ సమస్య ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_exact",
+        "text": "షుగర్ సమస్య",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_general_medicine_te_simple",
+        "text": "షుగర్ సమస్య వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_general_medicine_te_long",
+        "text": "మా అమ్మగారికి షుగర్ సమస్య ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "general_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "cardiology",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "I need cardiology",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "chest pain",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "Where is chest pain?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "chest tightness",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "chest tightness please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_long",
+        "text": "Hello, I have been suffering from chest tightness for a few days, where should I go?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "chest pressure",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "chest pressure please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "heart pain",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "heart pain location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "pain in chest",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "Where is pain in chest?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_long",
+        "text": "Is there any specialist for pain in chest available right now?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "palpitations",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "palpitations location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "heart beating fast",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "heart beating fast location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "high bp",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "I need high bp",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_long",
+        "text": "Can you please tell me the way to high bp, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "low bp",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "I need low bp",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "blood pressure problem",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "Where is blood pressure problem?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_long",
+        "text": "Can you please tell me the way to blood pressure problem, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "sweating with chest pain",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "Where is sweating with chest pain?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "dizziness with chest pain",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "Where is dizziness with chest pain?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "pain spreading to left arm",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "pain spreading to left arm location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_long",
+        "text": "Is there any specialist for pain spreading to left arm available right now?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "pain spreading to jaw",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "I need pain spreading to jaw",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_long",
+        "text": "Hello, I have been suffering from pain spreading to jaw for a few days, where should I go?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "heart discomfort",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "heart discomfort please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "cardiology unit 1",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "I need cardiology unit 1",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_long",
+        "text": "Can you please tell me the way to cardiology unit 1, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_exact",
+        "text": "cardiology unit-1",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_en_simple",
+        "text": "cardiology unit-1 location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "कार्डियोलॉजी",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "कार्डियोलॉजी के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_long",
+        "text": "मेरे पिताजी को कार्डियोलॉजी है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "दिल",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "दिल कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "छाती में दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "छाती में दर्द कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "सीने में जकड़न",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "सीने में जकड़न जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_long",
+        "text": "मेरे पिताजी को सीने में जकड़न है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "दिल का दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "दिल का दर्द के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_long",
+        "text": "मुझे दिल का दर्द के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "दिल की धड़कन तेज होना",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "दिल की धड़कन तेज होना कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "हाई बीपी",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "हाई बीपी कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "लो बीपी",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "लो बीपी के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "उच्च रक्तचाप",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "उच्च रक्तचाप किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "निम्न रक्तचाप",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "निम्न रक्तचाप कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_long",
+        "text": "क्या आप मुझे निम्न रक्तचाप का रास्ता बता सकते हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "ब्लड प्रेशर",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "ब्लड प्रेशर किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "सीने में दर्द के साथ पसीना आना",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "सीने में दर्द के साथ पसीना आना जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_long",
+        "text": "क्या आप मुझे सीने में दर्द के साथ पसीना आना का रास्ता बता सकते हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "चक्कर आना",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "चक्कर आना किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "दर्द का बाएं हाथ में फैलना",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "दर्द का बाएं हाथ में फैलना कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "जबड़े में दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "जबड़े में दर्द के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_long",
+        "text": "मेरे पिताजी को जबड़े में दर्द है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "दिल में बेचैनी",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "दिल में बेचैनी जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_exact",
+        "text": "कार्डियोलॉजी यूनिट 1",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_hi_simple",
+        "text": "कार्डियोलॉजी यूनिट 1 जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "కార్డియాలజీ",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "కార్డియాలజీ కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_long",
+        "text": "దయచేసి కార్డియాలజీ వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "ఛాతీ నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "ఛాతీ నొప్పి వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "గుండె నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "గుండె నొప్పి ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_long",
+        "text": "నమస్కారం, నాకు గుండె నొప్పి సమస్య ఉంది, ఎక్కడికి వెళ్ళాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "ఛాతీలో బిగుతుగా ఉండటం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "ఛాతీలో బిగుతుగా ఉండటం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "గుండెలో పోటు",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "గుండెలో పోటు ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "గుండె వేగంగా కొట్టుకోవడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "గుండె వేగంగా కొట్టుకోవడం ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "హై బీపీ",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "హై బీపీ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "లో బీపీ",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "లో బీపీ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "అధిక రక్తపోటు",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "అధిక రక్తపోటు కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "అల్ప రక్తపోటు",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "అల్ప రక్తపోటు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "రక్తపోటు సమస్య",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "రక్తపోటు సమస్య ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_long",
+        "text": "ఇక్కడ రక్తపోటు సమస్య డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "ఛాతీ నొప్పితో పాటు చెమటలు",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "ఛాతీ నొప్పితో పాటు చెమటలు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_long",
+        "text": "దయచేసి ఛాతీ నొప్పితో పాటు చెమటలు వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "తల తిరగడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "తల తిరగడం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "కళ్ళు బైర్లు కమ్మడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "కళ్ళు బైర్లు కమ్మడం ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_long",
+        "text": "మా అమ్మగారికి కళ్ళు బైర్లు కమ్మడం ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "నొప్పి ఎడమ చేతికి పాకడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "నొప్పి ఎడమ చేతికి పాకడం కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "దవడకు నొప్పి పాకడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "దవడకు నొప్పి పాకడం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "గుండెలో అసౌకర్యం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "గుండెలో అసౌకర్యం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_exact",
+        "text": "కార్డియాలజీ యూనిట్-1",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_simple",
+        "text": "కార్డియాలజీ యూనిట్-1 ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_1_te_long",
+        "text": "దయచేసి కార్డియాలజీ యూనిట్-1 వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_1"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_exact",
+        "text": "irregular heartbeat",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_simple",
+        "text": "irregular heartbeat location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_exact",
+        "text": "heart skipping beats",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_simple",
+        "text": "I need heart skipping beats",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_exact",
+        "text": "heart beating unevenly",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_simple",
+        "text": "heart beating unevenly please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_exact",
+        "text": "shortness of breath on walking",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_simple",
+        "text": "shortness of breath on walking location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_exact",
+        "text": "breathlessness on exertion",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_simple",
+        "text": "Where is breathlessness on exertion?",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_long",
+        "text": "Can you please tell me the way to breathlessness on exertion, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_exact",
+        "text": "palpitations with breathlessness",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_simple",
+        "text": "palpitations with breathlessness please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_long",
+        "text": "Can you please tell me the way to palpitations with breathlessness, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_exact",
+        "text": "cardiology unit 2",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_simple",
+        "text": "I need cardiology unit 2",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_long",
+        "text": "Can you please tell me the way to cardiology unit 2, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_exact",
+        "text": "cardiology unit-2",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_en_simple",
+        "text": "I need cardiology unit-2",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_exact",
+        "text": "अनियमित दिल की धड़कन",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_simple",
+        "text": "अनियमित दिल की धड़कन जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_exact",
+        "text": "दिल की धड़कन छूटना",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_simple",
+        "text": "दिल की धड़कन छूटना किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_exact",
+        "text": "चलते समय सांस फूलना",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_simple",
+        "text": "चलते समय सांस फूलना के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_exact",
+        "text": "मेहनत करने पर सांस फूलना",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_simple",
+        "text": "मेहनत करने पर सांस फूलना के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_exact",
+        "text": "सांस फूलने के साथ धड़कन",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_simple",
+        "text": "सांस फूलने के साथ धड़कन किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_long",
+        "text": "नमस्ते, मुझे सांस फूलने के साथ धड़कन की समस्या है, कृपया बताएं कहां जाना है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_exact",
+        "text": "कार्डियोलॉजी यूनिट 2",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_hi_simple",
+        "text": "कार्डियोलॉजी यूनिट 2 कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_exact",
+        "text": "అనియమిత హృదయ స్పందన",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_simple",
+        "text": "అనియమిత హృదయ స్పందన ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_exact",
+        "text": "గుండె లయ తప్పడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_simple",
+        "text": "గుండె లయ తప్పడం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_exact",
+        "text": "గుండె కొట్టుకోవడం ఆగడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_simple",
+        "text": "గుండె కొట్టుకోవడం ఆగడం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_exact",
+        "text": "నడిచినప్పుడు ఆయాసం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_simple",
+        "text": "నడిచినప్పుడు ఆయాసం ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_exact",
+        "text": "శ్రమతో ఆయాసం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_simple",
+        "text": "శ్రమతో ఆయాసం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_exact",
+        "text": "ఆయాసంతో దడ",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_simple",
+        "text": "ఆయాసంతో దడ కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_long",
+        "text": "మా అమ్మగారికి ఆయాసంతో దడ ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_exact",
+        "text": "కార్డియాలజీ యూనిట్-2",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_2_te_simple",
+        "text": "కార్డియాలజీ యూనిట్-2 కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_2"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_exact",
+        "text": "heart attack",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_simple",
+        "text": "heart attack location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_long",
+        "text": "Can you please tell me the way to heart attack, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_exact",
+        "text": "sudden chest pain",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_simple",
+        "text": "sudden chest pain please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_exact",
+        "text": "collapse with chest pain",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_simple",
+        "text": "collapse with chest pain location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_exact",
+        "text": "cardiac arrest",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_simple",
+        "text": "cardiac arrest please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_long",
+        "text": "I need to consult a doctor for cardiac arrest, please guide me.",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_exact",
+        "text": "severe chest pain",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_simple",
+        "text": "severe chest pain please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_exact",
+        "text": "loss of consciousness with chest pain",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_simple",
+        "text": "loss of consciousness with chest pain please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_exact",
+        "text": "cardiology unit 4",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_simple",
+        "text": "cardiology unit 4 location",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_exact",
+        "text": "cardiology unit-4",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_en_simple",
+        "text": "cardiology unit-4 please",
+        "lang": "en",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_exact",
+        "text": "दिल का दौरा",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_simple",
+        "text": "दिल का दौरा जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_exact",
+        "text": "हार्ट अटैक",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_simple",
+        "text": "हार्ट अटैक किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_long",
+        "text": "मेरे पिताजी को हार्ट अटैक है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_exact",
+        "text": "अचानक सीने में तेज दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_simple",
+        "text": "अचानक सीने में तेज दर्द किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_exact",
+        "text": "सीने में दर्द के साथ बेहोशी",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_simple",
+        "text": "सीने में दर्द के साथ बेहोशी के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_exact",
+        "text": "कार्डियक अरेस्ट",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_simple",
+        "text": "कार्डियक अरेस्ट कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_exact",
+        "text": "कार्डियोलॉजी यूनिट 4",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_hi_simple",
+        "text": "कार्डियोलॉजी यूनिट 4 के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_exact",
+        "text": "గుండెపోటు",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_simple",
+        "text": "గుండెపోటు ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_long",
+        "text": "నమస్కారం, నాకు గుండెపోటు సమస్య ఉంది, ఎక్కడికి వెళ్ళాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_exact",
+        "text": "హార్ట్ ఎటాక్",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_simple",
+        "text": "హార్ట్ ఎటాక్ వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_long",
+        "text": "మా అమ్మగారికి హార్ట్ ఎటాక్ ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_exact",
+        "text": "అకస్మాత్తుగా ఛాతీ నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_simple",
+        "text": "అకస్మాత్తుగా ఛాతీ నొప్పి ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_exact",
+        "text": "ఛాతీ నొప్పితో కుప్పకూలడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_simple",
+        "text": "ఛాతీ నొప్పితో కుప్పకూలడం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_exact",
+        "text": "కార్డియాక్ అరెస్ట్",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_simple",
+        "text": "కార్డియాక్ అరెస్ట్ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_exact",
+        "text": "తీవ్రమైన ఛాతీ నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_simple",
+        "text": "తీవ్రమైన ఛాతీ నొప్పి వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_long",
+        "text": "దయచేసి తీవ్రమైన ఛాతీ నొప్పి వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_exact",
+        "text": "ఛాతీ నొప్పితో స్పృహ కోల్పోవడం",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_simple",
+        "text": "ఛాతీ నొప్పితో స్పృహ కోల్పోవడం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_exact",
+        "text": "కార్డియాలజీ యూనిట్-4",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_cardiology_unit_4_te_simple",
+        "text": "కార్డియాలజీ యూనిట్-4 ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "cardiology_unit_4"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "upper abdominal pain",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "upper abdominal pain location",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "burning sensation in stomach",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "burning sensation in stomach location",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "acidity after food",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "acidity after food please",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_long",
+        "text": "I need to consult a doctor for acidity after food, please guide me.",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "vomiting repeatedly",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "vomiting repeatedly location",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "loose motions",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "loose motions please",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "blood in stools",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "I need blood in stools",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "black stools",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "black stools location",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "yellow eyes",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "Where is yellow eyes?",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "yellow urine",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "yellow urine location",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "liver problem",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "liver problem location",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "medical gastroenterology",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "Where is medical gastroenterology?",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_exact",
+        "text": "stomach pain",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_en_simple",
+        "text": "Where is stomach pain?",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_en_long",
+        "text": "I need to consult a doctor for stomach pain, please guide me.",
+        "lang": "en",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "पेट के ऊपरी हिस्से में दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "पेट के ऊपरी हिस्से में दर्द के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "पेट में जलन",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "पेट में जलन के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "एसिडिटी",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "एसिडिटी जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "बार-बार उल्टी होना",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "बार-बार उल्टी होना कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "दस्त",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "दस्त किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "मल में खून",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "मल में खून किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "काला मल",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "काला मल किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_long",
+        "text": "मेरे पिताजी को काला मल है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "पीली आँखें",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "पीली आँखें जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_long",
+        "text": "मुझे पीली आँखें के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "पीला पेशाब",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "पीला पेशाब किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "लीवर की समस्या",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "लीवर की समस्या किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_long",
+        "text": "क्या आप मुझे लीवर की समस्या का रास्ता बता सकते हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "मेडिकल गैस्ट्रोएंटेरोलॉजी",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "मेडिकल गैस्ट्रोएंटेरोलॉजी कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_long",
+        "text": "क्या आप मुझे मेडिकल गैस्ट्रोएंटेरोलॉजी का रास्ता बता सकते हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_hi_exact",
+        "text": "पेट दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_hi_simple",
+        "text": "पेट दर्द के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_hi_long",
+        "text": "मेरे पिताजी को पेट दर्द है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "పై కడుపులో నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "పై కడుపులో నొప్పి ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "కడుపులో మంట",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "కడుపులో మంట కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "గ్యాస్",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "గ్యాస్ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_long",
+        "text": "నమస్కారం, నాకు గ్యాస్ సమస్య ఉంది, ఎక్కడికి వెళ్ళాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "ఎసిడిటీ",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "ఎసిడిటీ ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_long",
+        "text": "ఇక్కడ ఎసిడిటీ డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "పదేపదే వాంతులు",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "పదేపదే వాంతులు కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "విరేచనాలు",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "విరేచనాలు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_long",
+        "text": "ఇక్కడ విరేచనాలు డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "మలంలో రక్తం",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "మలంలో రక్తం ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "నల్ల మలం",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "నల్ల మలం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "పచ్చ కామెర్లు",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "పచ్చ కామెర్లు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_long",
+        "text": "దయచేసి పచ్చ కామెర్లు వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "పసుపు రంగు మూత్రం",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "పసుపు రంగు మూత్రం కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "కాలేయ సమస్య",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "కాలేయ సమస్య కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "లివర్ సమస్య",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "లివర్ సమస్య వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "మెడికల్ గ్యాస్ట్రోఎంటరాలజీ",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "మెడికల్ గ్యాస్ట్రోఎంటరాలజీ ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_medical_gastro_te_exact",
+        "text": "కడుపు నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_medical_gastro_te_simple",
+        "text": "కడుపు నొప్పి వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "medical_gastro"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "chronic cough",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "Where is chronic cough?",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "cough more than 2 weeks",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "I need cough more than 2 weeks",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "breathlessness at rest",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "breathlessness at rest location",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "difficulty breathing",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "Where is difficulty breathing?",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "wheezing sound",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "wheezing sound location",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "asthma attack",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "asthma attack location",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_long",
+        "text": "Is there any specialist for asthma attack available right now?",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "blood in sputum",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "blood in sputum location",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_long",
+        "text": "Is there any specialist for blood in sputum available right now?",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "tb symptoms",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "tb symptoms please",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "pulmonary medicine",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "pulmonary medicine location",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_exact",
+        "text": "tb problems",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_simple",
+        "text": "I need tb problems",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_en_long",
+        "text": "Can you please tell me the way to tb problems, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "पुरानी खांसी",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "पुरानी खांसी कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_long",
+        "text": "नमस्ते, मुझे पुरानी खांसी की समस्या है, कृपया बताएं कहां जाना है?",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "लगातार खांसी",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "लगातार खांसी किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "सांस लेने में दिक्कत",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "सांस लेने में दिक्कत कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_long",
+        "text": "मुझे सांस लेने में दिक्कत के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "घरघराहट",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "घरघराहट जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "अस्थमा",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "अस्थमा किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_long",
+        "text": "मुझे अस्थमा के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "दमा",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "दमा कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_long",
+        "text": "नमस्ते, मुझे दमा की समस्या है, कृपया बताएं कहां जाना है?",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "बलगम में खून",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "बलगम में खून किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "टीबी के लक्षण",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "टीबी के लक्षण जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "पल्मोनरी मेडिसिन",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "पल्मोनरी मेडिसिन किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "टीबी",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "टीबी के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_exact",
+        "text": "टीबी की समस्या",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_hi_simple",
+        "text": "टीबी की समस्या जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "దీర్ఘకాలిక దగ్గు",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "దీర్ఘకాలిక దగ్గు కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "రెండు వారాల కంటే ఎక్కువ దగ్గు",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "రెండు వారాల కంటే ఎక్కువ దగ్గు ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "విశ్రాంతిగా ఉన్నప్పుడు ఆయాసం",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "విశ్రాంతిగా ఉన్నప్పుడు ఆయాసం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "శ్వాస తీసుకోవడంలో ఇబ్బంది",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "శ్వాస తీసుకోవడంలో ఇబ్బంది కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "పీల్చడంలో ఇబ్బంది",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "పీల్చడంలో ఇబ్బంది ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_long",
+        "text": "దయచేసి పీల్చడంలో ఇబ్బంది వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "పట్టేసినట్టు శబ్దం",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "పట్టేసినట్టు శబ్దం వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "ఉబ్బసం",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "ఉబ్బసం ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "ఆస్తమా",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "ఆస్తమా ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_long",
+        "text": "దయచేసి ఆస్తమా వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "కఫంలో రక్తం",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "కఫంలో రక్తం ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "క్షయ వ్యాధి లక్షణాలు",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "క్షయ వ్యాధి లక్షణాలు ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "పల్మనరీ మెడిసిన్",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "పల్మనరీ మెడిసిన్ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "టీబీ",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "టీబీ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_exact",
+        "text": "టీబీ సమస్యలు",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_simple",
+        "text": "టీబీ సమస్యలు కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_pulmonary_medicine_te_long",
+        "text": "దయచేసి టీబీ సమస్యలు వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "pulmonary_medicine"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "burning while urinating",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "Where is burning while urinating?",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "blood in urine",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "blood in urine please",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "frequent urination",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "frequent urination location",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_en_long",
+        "text": "Can you please tell me the way to frequent urination, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "pain while passing urine",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "pain while passing urine location",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "difficulty urinating",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "difficulty urinating please",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "kidney stone pain",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "kidney stone pain please",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "lower abdominal pain with urine",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "lower abdominal pain with urine please",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "urology",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "urology please",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_en_long",
+        "text": "Is there any specialist for urology available right now?",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_en_exact",
+        "text": "kidney stone",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_en_simple",
+        "text": "kidney stone please",
+        "lang": "en",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_hi_exact",
+        "text": "पेशाब में जलन",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_hi_simple",
+        "text": "पेशाब में जलन कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_hi_long",
+        "text": "मुझे पेशाब में जलन के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_hi_exact",
+        "text": "मूत्र में जलन",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_hi_simple",
+        "text": "मूत्र में जलन कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_hi_exact",
+        "text": "पेशाब में खून",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_hi_simple",
+        "text": "पेशाब में खून कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_hi_long",
+        "text": "क्या आप मुझे पेशाब में खून का रास्ता बता सकते हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_hi_exact",
+        "text": "बार-बार पेशाब आना",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_hi_simple",
+        "text": "बार-बार पेशाब आना के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_hi_exact",
+        "text": "पेशाब करते समय दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_hi_simple",
+        "text": "पेशाब करते समय दर्द किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_hi_long",
+        "text": "मुझे पेशाब करते समय दर्द के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_hi_exact",
+        "text": "गुर्दे की पथरी का दर्द",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_hi_simple",
+        "text": "गुर्दे की पथरी का दर्द कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_hi_exact",
+        "text": "यूरोलॉजी",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_hi_simple",
+        "text": "यूरोलॉजी के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "మూత్రపిండాలు",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "మూత్రపిండాలు కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "mutrapindalu",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "mutrapindalu ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "మూత్రంలో మంట",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "మూత్రంలో మంట కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "మూత్రంలో రక్తం",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "మూత్రంలో రక్తం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "తరచుగా మూత్రవిసర్జన",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "తరచుగా మూత్రవిసర్జన కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_long",
+        "text": "దయచేసి తరచుగా మూత్రవిసర్జన వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "మూత్రం పోసేటప్పుడు నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "మూత్రం పోసేటప్పుడు నొప్పి ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_long",
+        "text": "నమస్కారం, నాకు మూత్రం పోసేటప్పుడు నొప్పి సమస్య ఉంది, ఎక్కడికి వెళ్ళాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "మూత్ర విసర్జనలో ఇబ్బంది",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "మూత్ర విసర్జనలో ఇబ్బంది ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "కిడ్నీలో రాళ్ల నొప్పి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "కిడ్నీలో రాళ్ల నొప్పి ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_long",
+        "text": "నమస్కారం, నాకు కిడ్నీలో రాళ్ల నొప్పి సమస్య ఉంది, ఎక్కడికి వెళ్ళాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "మూత్రపిండాల్లో రాయి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "మూత్రపిండాల్లో రాయి కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "యూరాలజీ",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "యూరాలజీ కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_urology_te_exact",
+        "text": "కిడ్నీ స్టోన్",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_urology_te_simple",
+        "text": "కిడ్నీ స్టోన్ కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "urology"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "leg swelling",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "I need leg swelling",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_long",
+        "text": "Can you please tell me the way to leg swelling, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "painful leg swelling",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "painful leg swelling location",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_long",
+        "text": "Hello, I have been suffering from painful leg swelling for a few days, where should I go?",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "varicose veins",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "I need varicose veins",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "black discoloration of leg",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "I need black discoloration of leg",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "non healing foot wound",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "Where is non healing foot wound?",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "blood clot in leg",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "blood clot in leg location",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_long",
+        "text": "Hello, I have been suffering from blood clot in leg for a few days, where should I go?",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "vascular surgery",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "vascular surgery please",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "foot wound",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "foot wound please",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "healing",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "Where is healing?",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "diabetic foot",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "diabetic foot please",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "swollen leg",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "swollen leg location",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "blood vessel",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "Where is blood vessel?",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "veins",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "I need veins",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_en_long",
+        "text": "Can you please tell me the way to veins, I am new here.",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_en_exact",
+        "text": "arteries",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_en_simple",
+        "text": "arteries location",
+        "lang": "en",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "पैर में सूजन",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "पैर में सूजन कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_long",
+        "text": "मुझे पैर में सूजन के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "पैर में दर्दनाक सूजन",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "पैर में दर्दनाक सूजन किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_long",
+        "text": "मुझे पैर में दर्दनाक सूजन के लिए अपॉइंटमेंट चाहिए।",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "वैरिकाज़ नसें",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "वैरिकाज़ नसें किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "नसों का उभरना",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "नसों का उभरना के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "पैर का काला पड़ना",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "पैर का काला पड़ना के लिए रास्ता",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "पैर में घाव जो ठीक न हो",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "पैर में घाव जो ठीक न हो कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "पैर में खून का थक्का",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "पैर में खून का थक्का किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "वैस्कुलर सर्जरी",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "वैस्कुलर सर्जरी कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "पैर का घाव",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "पैर का घाव जाना है",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_long",
+        "text": "मेरे पिताजी को पैर का घाव है, डॉक्टर कहां मिलेंगे?",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "नासूर",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "नासूर कहां है?",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_exact",
+        "text": "मधुमेह पैर",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_hi_simple",
+        "text": "मधुमेह पैर किधर है",
+        "lang": "hi",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "కాళ్ళ వాపు",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "కాళ్ళ వాపు ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_long",
+        "text": "ఇక్కడ కాళ్ళ వాపు డాక్టర్ అందుబాటులో ఉన్నారా?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "నొప్పితో కూడిన కాళ్ళ వాపు",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "నొప్పితో కూడిన కాళ్ళ వాపు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "వెరికోస్ వీన్స్",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "వెరికోస్ వీన్స్ ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "నరాలు ఉబ్బడం",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "నరాలు ఉబ్బడం ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_long",
+        "text": "నమస్కారం, నాకు నరాలు ఉబ్బడం సమస్య ఉంది, ఎక్కడికి వెళ్ళాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "కాలు నల్లగా మారడం",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "కాలు నల్లగా మారడం కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "మానని పాదాల పుండు",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "మానని పాదాల పుండు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_long",
+        "text": "మా అమ్మగారికి మానని పాదాల పుండు ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "కాలిలో రక్తం గడ్డకట్టడం",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "కాలిలో రక్తం గడ్డకట్టడం కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "వాస్కులర్ సర్జరీ",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "వాస్కులర్ సర్జరీ ఉందా?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "పాదాల పుండు",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "పాదాల పుండు వెళ్ళాలి",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_long",
+        "text": "దయచేసి పాదాల పుండు వైపు వెళ్ళే దారి చెప్పండి.",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "షుగర్ పుండు",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "షుగర్ పుండు ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_long",
+        "text": "మా అమ్మగారికి షుగర్ పుండు ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "dept_vascular_surgery_te_exact",
+        "text": "నరాల సమస్య",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Exact"
+    },
+    {
+        "id": "dept_vascular_surgery_te_simple",
+        "text": "నరాల సమస్య కి దారి",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Simple"
+    },
+    {
+        "id": "dept_vascular_surgery_te_long",
+        "text": "మా అమ్మగారికి నరాల సమస్య ఉంది, ఏ డాక్టర్ ని కలవాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "vascular_surgery"
+        ],
+        "type": "Long"
+    },
+    {
+        "id": "medical_advice_en_0",
+        "text": "What medicine should I take for fever?",
+        "lang": "en",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_en_1",
+        "text": "Treat my headache",
+        "lang": "en",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_en_2",
+        "text": "Diagnose my stomach pain",
+        "lang": "en",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_en_3",
+        "text": "suggest causes for vomiting",
+        "lang": "en",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_en_4",
+        "text": "I need medicine for high bp",
+        "lang": "en",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_en_5",
+        "text": "What are the causes of cancer?",
+        "lang": "en",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_en_6",
+        "text": "give me treatment for cold",
+        "lang": "en",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_hi_0",
+        "text": "मुझे बुखार के लिए कौन सी दवा लेनी चाहिए?",
+        "lang": "hi",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_hi_1",
+        "text": "मेरे सिरदर्द का इलाज करें",
+        "lang": "hi",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_hi_2",
+        "text": "पेट दर्द का निदान करें",
+        "lang": "hi",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_hi_3",
+        "text": "उल्टी के कारण बताएं",
+        "lang": "hi",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_hi_4",
+        "text": "कैंसर के कारण क्या हैं?",
+        "lang": "hi",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_te_0",
+        "text": "జ్వరానికి నేను ఏ మందు వాడాలి?",
+        "lang": "te",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_te_1",
+        "text": "నా తలనొప్పికి చికిత్స చేయండి",
+        "lang": "te",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_te_2",
+        "text": "పొత్తికడుపు నొప్పిని నిర్ధారించండి",
+        "lang": "te",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_te_3",
+        "text": "వాంతులు కావడానికి కారణాలు చెప్పండి",
+        "lang": "te",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "medical_advice_te_4",
+        "text": "క్యాన్సర్ రావడానికి కారణాలు ఏమిటి?",
+        "lang": "te",
+        "expected_ids": [
+            "MEDICAL_ADVICE_REFUSAL"
+        ],
+        "type": "MedicalAdvice"
+    },
+    {
+        "id": "fallback_en_0",
+        "text": "Where is the nearest cinema?",
+        "lang": "en",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_en_1",
+        "text": "Who is the prime minister?",
+        "lang": "en",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_en_2",
+        "text": "askldfjasldkf",
+        "lang": "en",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_en_3",
+        "text": "blabla random text",
+        "lang": "en",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_hi_0",
+        "text": "सिनेमा हॉल कहाँ है?",
+        "lang": "hi",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_hi_1",
+        "text": "प्रधानमंत्री कौन है?",
+        "lang": "hi",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_hi_2",
+        "text": "अबजडफ",
+        "lang": "hi",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_te_0",
+        "text": "సినిమా హాల్ ఎక్కడ ఉంది?",
+        "lang": "te",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_te_1",
+        "text": "ముఖ్యమంత్రి ఎవరు?",
+        "lang": "te",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    },
+    {
+        "id": "fallback_te_2",
+        "text": "అచ్చట ముచ్చట",
+        "lang": "te",
+        "expected_ids": [
+            "FALLBACK_RESPONSE"
+        ],
+        "type": "Fallback"
+    }
+]

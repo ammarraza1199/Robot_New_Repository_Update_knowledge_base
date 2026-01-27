@@ -1,0 +1,14 @@
+ultralytics==8.0.196
+picamera2
+SpeechRecognition
+pyaudio
+requests
+gTTS
+python-dotenv
+pygame
+numpy==1.24.2
+pyserial
+pydub
+torch==2.1.2
+torchvision==0.16.2
+indic-transliteration==2.3.0
