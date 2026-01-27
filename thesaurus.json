@@ -1,0 +1,10 @@
+{
+    "happy": {
+        "synonyms": ["joyful", "cheerful", "merry"],
+        "antonyms": ["sad", "unhappy", "miserable"]
+    },
+    "sad": {
+        "synonyms": ["unhappy", "sorrowful", "dejected"],
+        "antonyms": ["happy", "joyful", "cheerful"]
+    }
+}

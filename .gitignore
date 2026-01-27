@@ -1,0 +1,13 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore pycache
+__pycache__/
+*.pyc
+
+# Ignore audio cache
+audio_cache/
