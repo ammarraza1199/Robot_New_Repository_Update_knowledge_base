@@ -1,0 +1,35 @@
+[Unit]
+Description=Hospital Assistant Robot Application
+After=network-online.target
+
+[Service]
+# Run the service as the 'pi' user
+User=pi
+Group=pi
+
+# Set the working directory to the project folder
+WorkingDirectory=/home/pi/Downloads/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms
+
+# Load environment variables using python-dotenv via ExecStartPre
+ExecStartPre=/home/pi/Downloads/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/.venv/bin/python3 -c "import dotenv; dotenv.load_dotenv('/home/pi/Downloads/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/.env')"
+
+# Set volume to 81% for USB Audio Device (Card 2) before starting
+ExecStartPre=/usr/bin/amixer -c 2 set Speaker 81%
+
+# Add a delay to allow USB devices to initialize
+ExecStartPre=/bin/sleep 10s
+
+# The command to start the application
+# This uses the python executable from your virtual environment
+ExecStart=/home/pi/Downloads/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/.venv/bin/python /home/pi/Downloads/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/Robot_New_Repository_Update_knowledge_base-4-new-chnages-anatanyoms-ans-synanoms/main.py
+
+# Restart the service automatically if it fails
+Restart=on-failure
+RestartSec=5s
+
+# Route stdout and stderr to the system journal
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

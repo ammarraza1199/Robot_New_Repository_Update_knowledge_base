@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Robot Specific
+logs/
+audio_cache/
+*.log
+conversations.csv
+full_test_log.csv
+
+# Large Binaries (Optional to push, but good to ignore if not needed)
+# yolov8n.pt
+
+# Git artifacts
+.git/
