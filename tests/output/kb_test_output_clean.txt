@@ -1,0 +1,89 @@
+﻿Loading Knowledge Base and Initializing Interaction Process...
+
+--- STARTING BRUTE FORCE DEPARTMENT TEST ---
+
+--- STARTING BRUTE FORCE INTERACTION TEST ---
+
+==================================================
+BRUTE FORCE TEST RESULTS
+==================================================
+
+DEPARTMENTS:
+Total Tests: 775
+Passed:      604
+Failed:      171
+Pass Rate:   77.94%
+
+INTERACTIONS:
+Total Tests: 1075
+Passed:      777
+Failed:      298
+Pass Rate:   72.28%
+
+Failures saved to 'kb_brute_force_failures.json'.
+
+
+FAILURES LIST (First 20 only to avoid encoding errors - see JSON for full list):
+--------------------------------------------------------------------------------
+Type            | ID                   | Lang  | Input                          | Expected vs Got
+--------------------------------------------------------------------------------
+Department      | general_opd          | hi    | ?????? ?? ?????? ??            | Exp: General OPD
+                                                                             | Got: None
+--------------------------------------------------------------------------------
+Department      | general_opd          | te    | ????? ?????                    | Exp: General OPD
+                                                                             | Got: Neurology
+--------------------------------------------------------------------------------
+Department      | general_opd          | te    | ???? ????                      | Exp: General OPD
+                                                                             | Got: None
+--------------------------------------------------------------------------------
+Department Alias | general_opd          | en    | mental health                  | Exp: General OPD
+                                                                             | Got: Dental
+--------------------------------------------------------------------------------
+Department Alias | general_opd          | en    | pediatrics                     | Exp: General OPD
+                                                                             | Got: Paediatrics
+--------------------------------------------------------------------------------
+Department Alias | general_opd          | en    | sexology                       | Exp: General OPD
+                                                                             | Got: Neurology
+--------------------------------------------------------------------------------
+Department      | general_medicine     | hi    | ???? ???? ??                   | Exp: General Medicine
+                                                                             | Got: Cardiology Unit-1
+--------------------------------------------------------------------------------
+Department      | general_medicine     | te    | ???? ??????? ???????           | Exp: General Medicine
+                                                                             | Got: None
+--------------------------------------------------------------------------------
+Department      | general_medicine     | te    | ???? ????????                  | Exp: General Medicine
+                                                                             | Got: Orthopaedics
+--------------------------------------------------------------------------------
+Department      | general_medicine     | te    | ?????? ??????                  | Exp: General Medicine
+                                                                             | Got: General OPD
+--------------------------------------------------------------------------------
+Department      | general_medicine     | te    | ??????? ??????                 | Exp: General Medicine
+                                                                             | Got: General OPD
+--------------------------------------------------------------------------------
+Department      | general_medicine     | te    | ???? ???? ????                 | Exp: General Medicine
+                                                                             | Got: Vascular Surgery
+--------------------------------------------------------------------------------
+Department      | general_medicine     | te    | ???                            | Exp: General Medicine
+                                                                             | Got: None
+--------------------------------------------------------------------------------
+Department      | general_medicine     | te    | ?? ??????                      | Exp: General Medicine
+                                                                             | Got: Neurology
+--------------------------------------------------------------------------------
+Department      | general_medicine     | te    | ???????                        | Exp: General Medicine
+                                                                             | Got: Medical Gastroenterology
+--------------------------------------------------------------------------------
+Department      | cardiology_unit_1    | hi    | ????? ???                      | Exp: Cardiology Unit-1
+                                                                             | Got: General Medicine
+--------------------------------------------------------------------------------
+Department      | cardiology_unit_1    | hi    | ???? ?? ???? ??? ??? ?????     | Exp: Cardiology Unit-1
+                                                                             | Got: General Medicine
+--------------------------------------------------------------------------------
+Department      | cardiology_unit_1    | te    | ???? ??????                    | Exp: Cardiology Unit-1
+                                                                             | Got: General Medicine
+--------------------------------------------------------------------------------
+Department      | cardiology_unit_1    | te    | ????? ??????                   | Exp: Cardiology Unit-1
+                                                                             | Got: General Medicine
+--------------------------------------------------------------------------------
+Department      | cardiology_unit_1    | te    | ?????? ???????? ?????          | Exp: Cardiology Unit-1
+                                                                             | Got: None
+--------------------------------------------------------------------------------

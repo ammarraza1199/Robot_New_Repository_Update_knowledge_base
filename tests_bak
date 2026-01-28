@@ -1,0 +1,84 @@
+
+import json
+import difflib
+
+# Mock Interaction Logic - UPDATED TO MATCH NEW IMPLEMENTATION
+class MockInteraction:
+    def __init__(self):
+        self.faqs = []
+        try:
+            with open('hospital_knowledge_base.json', 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            self.faqs = data.get("faqs", [])
+        except Exception as e:
+            print(f"Error loading KB: {e}")
+
+    def find_faq(self, user_text, lang):
+        if not self.faqs: return None
+        user_text_lower = user_text.lower()
+        FAQ_THRESHOLD = 0.7 
+        
+        # Helper to search in a specific language
+        def search_in_lang(target_lang):
+            best_ans = None
+            best_r = 0.0
+            for faq in self.faqs:
+                if "question" in faq and target_lang in faq["question"]:
+                    q_text = faq["question"][target_lang].lower()
+                    
+                    if user_text_lower in q_text or q_text in user_text_lower:
+                        r = difflib.SequenceMatcher(None, user_text_lower, q_text).ratio()
+                        if len(user_text_lower) < 5:
+                            if user_text_lower == q_text:
+                                return faq["answer"].get(target_lang), 1.0
+                        elif r > 0.5:
+                            if r > best_r:
+                                best_r = r
+                                best_ans = faq["answer"].get(target_lang)
+                    
+                    r = difflib.SequenceMatcher(None, user_text_lower, q_text).ratio()
+                    if r > FAQ_THRESHOLD and r > best_r:
+                        best_r = r
+                        best_ans = faq["answer"].get(target_lang)
+            return best_ans, best_r
+
+        # 1. Try Requested Language
+        answer, score = search_in_lang(lang)
+        if answer:
+            return answer
+        
+        # 2. Fallback: Try other languages
+        other_langs = [l for l in ['en', 'hi', 'te'] if l != lang]
+        for fallback_lang in other_langs:
+            answer, score = search_in_lang(fallback_lang)
+            if answer:
+                print(f"   (Fallback Match in '{fallback_lang}')")
+                return answer 
+                
+        return None
+
+def run_cross_test():
+    bot = MockInteraction()
+    print("--- Verifying Cross-Lingual Robustness (Updated Logic) ---")
+    
+    tests = [
+        ("Where is NIMS hospital?", "hi", "Should Find English Match"),
+        ("NIMS aspatal kahan hai?", "en", "Should Find Hindi Match"),
+        ("Visiting hours?", "te", "Should Find English Match")
+    ]
+    
+    passed = 0
+    for text, wrong_lang, desc in tests:
+        print(f"\nTest: '{text}' | Detected as: '{wrong_lang}'")
+        answer = bot.find_faq(text, wrong_lang)
+        if answer:
+            print(f"RESULT: PASSED (Got answer: {answer[:30]}...)")
+            passed += 1
+        else:
+            print(f"RESULT: FAILED (No answer found)")
+            
+    if passed == 3:
+        print("\nSUCCESS: All cross-lingual tests passed.")
+
+if __name__ == "__main__":
+    run_cross_test()

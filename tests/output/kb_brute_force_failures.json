@@ -1,0 +1,3754 @@
+[
+    {
+        "type": "Department",
+        "id": "general_opd",
+        "lang": "hi",
+        "input": "डॉक्टर को दिखाना है",
+        "expected": "General OPD",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "general_opd",
+        "lang": "te",
+        "input": "జనరల్ ఓపీడీ",
+        "expected": "General OPD",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "general_opd",
+        "lang": "te",
+        "input": "సలహా కోసం",
+        "expected": "General OPD",
+        "got": null
+    },
+    {
+        "type": "Department Alias",
+        "id": "general_opd",
+        "lang": "en",
+        "input": "mental health",
+        "expected": "General OPD",
+        "got": "Dental"
+    },
+    {
+        "type": "Department Alias",
+        "id": "general_opd",
+        "lang": "en",
+        "input": "pediatrics",
+        "expected": "General OPD",
+        "got": "Paediatrics"
+    },
+    {
+        "type": "Department Alias",
+        "id": "general_opd",
+        "lang": "en",
+        "input": "sexology",
+        "expected": "General OPD",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "hi",
+        "input": "मुझे बीपी है",
+        "expected": "General Medicine",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "te",
+        "input": "కంటి శాస్త్ర విభాగము",
+        "expected": "General Medicine",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "te",
+        "input": "ఎముక వైద్యుడు",
+        "expected": "General Medicine",
+        "got": "Orthopaedics"
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "te",
+        "input": "సాధారణ వైద్యం",
+        "expected": "General Medicine",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "te",
+        "input": "చెక్కెర వ్యాధి",
+        "expected": "General Medicine",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "te",
+        "input": "నాకు బిపి ఉంది",
+        "expected": "General Medicine",
+        "got": "Vascular Surgery"
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "te",
+        "input": "చలి",
+        "expected": "General Medicine",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "te",
+        "input": "తల తిరగడం",
+        "expected": "General Medicine",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "general_medicine",
+        "lang": "te",
+        "input": "వాంతులు",
+        "expected": "General Medicine",
+        "got": "Medical Gastroenterology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "hi",
+        "input": "चक्कर आना",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "hi",
+        "input": "दर्द का बाएं हाथ में फैलना",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "ఛాతీ నొప్పి",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "గుండె నొప్పి",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "ఛాతీలో బిగుతుగా ఉండటం",
+        "expected": "Cardiology Unit-1",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "అధిక రక్తపోటు",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "మేడ నరాలు లాగుతున్నాయి",
+        "expected": "Cardiology Unit-1",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "మేడ నరాలు గుంజుతున్నాయి",
+        "expected": "Cardiology Unit-1",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "నరాలు గుంజుతున్నాయి",
+        "expected": "Cardiology Unit-1",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "అల్ప రక్తపోటు",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "తల తిరగడం",
+        "expected": "Cardiology Unit-1",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "కళ్ళు బైర్లు కమ్మడం",
+        "expected": "Cardiology Unit-1",
+        "got": "Ophthalmology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "కల్లు తిరగటం",
+        "expected": "Cardiology Unit-1",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "నొప్పి ఎడమ చేతికి పాకడం",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "ఆరి చేతులు చెమటలు పడుతున్నాయి",
+        "expected": "Cardiology Unit-1",
+        "got": "ENT"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "చేతులు గుంజు తున్నాయ్",
+        "expected": "Cardiology Unit-1",
+        "got": "ENT"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "దవడకు నొప్పి పాకడం",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "గుండె జబ్బు",
+        "expected": "Cardiology Unit-1",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "గుండె నొప్పి",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "గుండె డాక్టర్",
+        "expected": "Cardiology Unit-1",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "కాళ్లు వాపు",
+        "expected": "Cardiology Unit-1",
+        "got": "Vascular Surgery"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "కాలు నొప్పి",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "కాళ్ల నొప్పి",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "రక్త పోటు",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "నిన్నటి నుంచి ఛాతీ నొప్పి",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "ఛాతీ చాలా నొప్పిగా ఉంది",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_1",
+        "lang": "te",
+        "input": "అమ్మకు గుండె నొప్పి",
+        "expected": "Cardiology Unit-1",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "hi",
+        "input": "दिल की धड़कन छूटना",
+        "expected": "Cardiology Unit-2",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "hi",
+        "input": "चलते समय सांस फूलना",
+        "expected": "Cardiology Unit-2",
+        "got": "Medical Gastroenterology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "hi",
+        "input": "मेहनत करने पर सांस फूलना",
+        "expected": "Cardiology Unit-2",
+        "got": "Medical Gastroenterology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "hi",
+        "input": "धड़कन बढ़ना",
+        "expected": "Cardiology Unit-2",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "hi",
+        "input": "सांस फूलना",
+        "expected": "Cardiology Unit-2",
+        "got": "Medical Gastroenterology"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "te",
+        "input": "గుండె లయ తప్పడం",
+        "expected": "Cardiology Unit-2",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "te",
+        "input": "గుండె కొట్టుకోవడం ఆగడం",
+        "expected": "Cardiology Unit-2",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "te",
+        "input": "శ్రమతో ఆయాసం",
+        "expected": "Cardiology Unit-2",
+        "got": "Pulmonary Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "te",
+        "input": "శ్వాస బరువుగా వుంది",
+        "expected": "Cardiology Unit-2",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "te",
+        "input": "గుండె బరువుగా వుంది",
+        "expected": "Cardiology Unit-2",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_2",
+        "lang": "te",
+        "input": "శ్వాస ఆడకపోవడం",
+        "expected": "Cardiology Unit-2",
+        "got": "Pulmonary Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_4",
+        "lang": "hi",
+        "input": "दिल का दौरा",
+        "expected": "Cardiology Unit-4",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_4",
+        "lang": "hi",
+        "input": "सीने में दर्द के साथ बेहोशी",
+        "expected": "Cardiology Unit-4",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_4",
+        "lang": "te",
+        "input": "గుండెపోటు",
+        "expected": "Cardiology Unit-4",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_4",
+        "lang": "te",
+        "input": "అకస్మాత్తుగా ఛాతీ నొప్పి",
+        "expected": "Cardiology Unit-4",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_4",
+        "lang": "te",
+        "input": "ఛాతీ నొప్పితో కుప్పకూలడం",
+        "expected": "Cardiology Unit-4",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_4",
+        "lang": "te",
+        "input": "తీవ్రమైన ఛాతీ నొప్పి",
+        "expected": "Cardiology Unit-4",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_4",
+        "lang": "te",
+        "input": "ఛాతీ నొప్పితో స్పృహ కోల్పోవడం",
+        "expected": "Cardiology Unit-4",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "cardiology_unit_4",
+        "lang": "te",
+        "input": "గుండె వైఫల్యం",
+        "expected": "Cardiology Unit-4",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "hi",
+        "input": "बार-बार उल्टी होना",
+        "expected": "Medical Gastroenterology",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "hi",
+        "input": "लीवर की समस्या",
+        "expected": "Medical Gastroenterology",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "hi",
+        "input": "मेडिकल गैस्ट्रोएंटेरोलॉजी",
+        "expected": "Medical Gastroenterology",
+        "got": "Pharmacy"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "hi",
+        "input": "भूख न लगना",
+        "expected": "Medical Gastroenterology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "te",
+        "input": "పై కడుపులో నొప్పి",
+        "expected": "Medical Gastroenterology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "te",
+        "input": "పసుపు రంగు మూత్రం",
+        "expected": "Medical Gastroenterology",
+        "got": "Urology"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "te",
+        "input": "కడుపు నొప్పి",
+        "expected": "Medical Gastroenterology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "te",
+        "input": "గ్యాస్ సమస్య",
+        "expected": "Medical Gastroenterology",
+        "got": "Laboratory"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "te",
+        "input": "కడుపు ఉబ్బరం",
+        "expected": "Medical Gastroenterology",
+        "got": "Pulmonary Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "te",
+        "input": "నిన్నటి నుంచి కడుపులో నొప్పి",
+        "expected": "Medical Gastroenterology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "medical_gastro",
+        "lang": "te",
+        "input": "మలం లో రక్తం",
+        "expected": "Medical Gastroenterology",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "hi",
+        "input": "दमा",
+        "expected": "Pulmonary Medicine",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "hi",
+        "input": "टीबी की समस्या",
+        "expected": "Pulmonary Medicine",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "hi",
+        "input": "फेफड़ों की बीमारी",
+        "expected": "Pulmonary Medicine",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "te",
+        "input": "దీర్ఘకాలిక దగ్గు",
+        "expected": "Pulmonary Medicine",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "te",
+        "input": "రెండు వారాల కంటే ఎక్కువ దగ్గు",
+        "expected": "Pulmonary Medicine",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "te",
+        "input": "శ్వాస తీసుకోవడంలో ఇబ్బంది",
+        "expected": "Pulmonary Medicine",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "te",
+        "input": "కఫం",
+        "expected": "Pulmonary Medicine",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "te",
+        "input": "గొంతులో కఫం ",
+        "expected": "Pulmonary Medicine",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "te",
+        "input": "దగ్గులో రక్తం",
+        "expected": "Pulmonary Medicine",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "pulmonary_medicine",
+        "lang": "te",
+        "input": "పల్మనరీ మెడిసిన్",
+        "expected": "Pulmonary Medicine",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "pharmacy",
+        "lang": "hi",
+        "input": "दवा",
+        "expected": "Pharmacy",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "pharmacy",
+        "lang": "hi",
+        "input": "पर्ची की दवा",
+        "expected": "Pharmacy",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "pharmacy",
+        "lang": "te",
+        "input": "మెడిసిన్ కౌంటర్",
+        "expected": "Pharmacy",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "urology",
+        "lang": "hi",
+        "input": "बार-बार पेशाब आना",
+        "expected": "Urology",
+        "got": "Medical Gastroenterology"
+    },
+    {
+        "type": "Department",
+        "id": "urology",
+        "lang": "hi",
+        "input": "पेशाब रुकना",
+        "expected": "Urology",
+        "got": "Medical Gastroenterology"
+    },
+    {
+        "type": "Department",
+        "id": "urology",
+        "lang": "te",
+        "input": "మూత్రం పోసేటప్పుడు నొప్పి",
+        "expected": "Urology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "urology",
+        "lang": "te",
+        "input": "మూత్ర విసర్జనలో ఇబ్బంది",
+        "expected": "Urology",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "urology",
+        "lang": "te",
+        "input": "కిడ్నీలో రాళ్ల నొప్పి",
+        "expected": "Urology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "urology",
+        "lang": "te",
+        "input": "కిడ్నీ స్టోన్",
+        "expected": "Urology",
+        "got": "Radiology"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "hi",
+        "input": "पैर का काला पड़ना",
+        "expected": "Vascular Surgery",
+        "got": "Medical Gastroenterology"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "hi",
+        "input": "पैर में घाव जो ठीक न हो",
+        "expected": "Vascular Surgery",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "hi",
+        "input": "पैर में खून का थक्का",
+        "expected": "Vascular Surgery",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "hi",
+        "input": "पैर काला पड़ना",
+        "expected": "Vascular Surgery",
+        "got": "Medical Gastroenterology"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "కాళ్ళ వాపు",
+        "expected": "Vascular Surgery",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "నొప్పితో కూడిన కాళ్ళ వాపు",
+        "expected": "Vascular Surgery",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "నరాలు ఉబ్బడం",
+        "expected": "Vascular Surgery",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "కాలు నల్లగా మారడం",
+        "expected": "Vascular Surgery",
+        "got": "Paediatrics"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "మానని పాదాల పుండు",
+        "expected": "Vascular Surgery",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "పాదాల పుండు",
+        "expected": "Vascular Surgery",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "షుగర్ పుండు",
+        "expected": "Vascular Surgery",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "నరాలు",
+        "expected": "Vascular Surgery",
+        "got": "Neurology"
+    },
+    {
+        "type": "Department",
+        "id": "vascular_surgery",
+        "lang": "te",
+        "input": "కాళ్ళ వాపు",
+        "expected": "Vascular Surgery",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "radiology",
+        "lang": "hi",
+        "input": "खून की जांच",
+        "expected": "Radiology",
+        "got": "Laboratory"
+    },
+    {
+        "type": "Department",
+        "id": "radiology",
+        "lang": "te",
+        "input": "రిపోర్టులు ఎక్కడ ఇస్తారు",
+        "expected": "Radiology",
+        "got": null
+    },
+    {
+        "type": "Department Alias",
+        "id": "radiology",
+        "lang": "en",
+        "input": "diagnostics",
+        "expected": "Radiology",
+        "got": "Laboratory"
+    },
+    {
+        "type": "Department",
+        "id": "paediatrics",
+        "lang": "hi",
+        "input": "बच्चे को बुखार है",
+        "expected": "Paediatrics",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "paediatrics",
+        "lang": "te",
+        "input": "పిల్లల డాక్టర్",
+        "expected": "Paediatrics",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "paediatrics",
+        "lang": "te",
+        "input": "పసిపిల్లల వైద్యం",
+        "expected": "Paediatrics",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "paediatrics",
+        "lang": "te",
+        "input": "చిన్న పిల్లల డాక్టర్",
+        "expected": "Paediatrics",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "paediatrics",
+        "lang": "te",
+        "input": "పిల్లలకి జ్వరం",
+        "expected": "Paediatrics",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "dermatology",
+        "lang": "hi",
+        "input": "त्वचा की समस्याएं",
+        "expected": "Dermatology",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "dermatology",
+        "lang": "hi",
+        "input": "नाखून की समस्या",
+        "expected": "Dermatology",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "dermatology",
+        "lang": "te",
+        "input": "చర్మ వైద్యుడు",
+        "expected": "Dermatology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "dermatology",
+        "lang": "te",
+        "input": "చర్మ సమస్యలు",
+        "expected": "Dermatology",
+        "got": "Pulmonary Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "dermatology",
+        "lang": "te",
+        "input": "గోళ్ళ సమస్యలు",
+        "expected": "Dermatology",
+        "got": "Pulmonary Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "orthopaedics",
+        "lang": "te",
+        "input": "ఎముకల డాక్టర్",
+        "expected": "Orthopaedics",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "orthopaedics",
+        "lang": "te",
+        "input": "కీళ్ల నొప్పులు",
+        "expected": "Orthopaedics",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "orthopaedics",
+        "lang": "te",
+        "input": "నడుము నొప్పి",
+        "expected": "Orthopaedics",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "orthopaedics",
+        "lang": "te",
+        "input": "ముడుకుల్లో నొప్పి",
+        "expected": "Orthopaedics",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "orthopaedics",
+        "lang": "te",
+        "input": "మోకాళ్ళ నొప్పి",
+        "expected": "Orthopaedics",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "neurology",
+        "lang": "hi",
+        "input": "चक्कर आना",
+        "expected": "Neurology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "neurology",
+        "lang": "hi",
+        "input": "नसों की कमजोरी",
+        "expected": "Neurology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "neurology",
+        "lang": "hi",
+        "input": "याददाश्त कमजोर होना",
+        "expected": "Neurology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "neurology",
+        "lang": "te",
+        "input": "మెదడు",
+        "expected": "Neurology",
+        "got": "Cardiology Unit-1"
+    },
+    {
+        "type": "Department",
+        "id": "neurology",
+        "lang": "te",
+        "input": "తల నొప్పి",
+        "expected": "Neurology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "dental",
+        "lang": "te",
+        "input": "పంటి చిగుళ్ల నొప్పి",
+        "expected": "Dental",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "dental",
+        "lang": "te",
+        "input": "చిగుళ్ల నొప్పి",
+        "expected": "Dental",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "dental",
+        "lang": "te",
+        "input": "దవడలో నొప్పి",
+        "expected": "Dental",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "laboratory",
+        "lang": "te",
+        "input": "మూత్రం లో రక్తం",
+        "expected": "Laboratory",
+        "got": "Urology"
+    },
+    {
+        "type": "Department",
+        "id": "laboratory",
+        "lang": "te",
+        "input": "మలం లో రక్తం",
+        "expected": "Laboratory",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "laboratory",
+        "lang": "te",
+        "input": "పిత్తులు యెక్కువగా వస్తున్నాయి",
+        "expected": "Laboratory",
+        "got": "Paediatrics"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "en",
+        "input": "ear",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "en",
+        "input": "nose",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "en",
+        "input": "throat",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "en",
+        "input": "ent",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "en",
+        "input": "hearing",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "en",
+        "input": "sinus",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "en",
+        "input": "otorhinolaryngology",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "hi",
+        "input": "कान",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "hi",
+        "input": "नाक",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "hi",
+        "input": "गला",
+        "expected": "ENT",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "hi",
+        "input": "सुनने में दिक्कत",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "te",
+        "input": "గొంతులో సమశ్య",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "te",
+        "input": "గొంతులో దురద",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "te",
+        "input": "చెవి నొప్పి",
+        "expected": "ENT",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "te",
+        "input": "కొండా నాలిక",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "te",
+        "input": "చెవిలో దురద",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ent",
+        "lang": "te",
+        "input": "వినికిడి సమస్య",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department Alias",
+        "id": "ent",
+        "lang": "en",
+        "input": "ear nose throat",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department Alias",
+        "id": "ent",
+        "lang": "en",
+        "input": "otorhinolaryngology",
+        "expected": "ENT",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "en",
+        "input": "eye",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "en",
+        "input": "eyes",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "en",
+        "input": "vision",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "en",
+        "input": "ophthalmology",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "en",
+        "input": "cataract",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "en",
+        "input": "blindness",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "hi",
+        "input": "आंख",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "hi",
+        "input": "नेत्र",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "hi",
+        "input": "मोतियाबिंद",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "hi",
+        "input": "दिखाई नहीं दे रहा",
+        "expected": "Ophthalmology",
+        "got": null
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "te",
+        "input": "కల్లు నీరు కరటం",
+        "expected": "Ophthalmology",
+        "got": "General Medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "te",
+        "input": "కంట్లో దురద",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "te",
+        "input": "కల్లు యెర్ర బరాటం",
+        "expected": "Ophthalmology",
+        "got": "Paediatrics"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "te",
+        "input": "కంటి వైద్యం",
+        "expected": "Ophthalmology",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "te",
+        "input": "కంటి ఆసుపత్రి",
+        "expected": "Ophthalmology",
+        "got": "Paediatrics"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "te",
+        "input": "కంటి డాక్టర్",
+        "expected": "Ophthalmology",
+        "got": "General OPD"
+    },
+    {
+        "type": "Department",
+        "id": "ophthalmology",
+        "lang": "te",
+        "input": "కంటి శాస్త్ర విభాగము",
+        "expected": "Ophthalmology",
+        "got": null
+    },
+    {
+        "type": "Department Alias",
+        "id": "ophthalmology",
+        "lang": "en",
+        "input": "eye",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Department Alias",
+        "id": "ophthalmology",
+        "lang": "en",
+        "input": "vision",
+        "expected": "Ophthalmology",
+        "got": "general_medicine"
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "en",
+        "input": "hello",
+        "expected": "Hello! I am here to help you n...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "hi",
+        "input": "हेलो",
+        "expected": "नमस्ते! मैं अस्पताल में आपका म...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "hi",
+        "input": "सहायता",
+        "expected": "नमस्ते! मैं अस्पताल में आपका म...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "te",
+        "input": "హలో",
+        "expected": "హలో! ఆసుపత్రిలో మీకు మార్గనిర్...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "te",
+        "input": "హలో బాబు",
+        "expected": "హలో! ఆసుపత్రిలో మీకు మార్గనిర్...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "identity_what",
+        "lang": "en",
+        "input": "machine",
+        "expected": "I am an AI robot designed to a...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_query",
+        "lang": "en",
+        "input": "help",
+        "expected": "I can guide you to departments...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_query",
+        "lang": "en",
+        "input": "assist me",
+        "expected": "I can guide you to departments...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_query",
+        "lang": "en",
+        "input": "guide me",
+        "expected": "I can guide you to departments...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_query",
+        "lang": "hi",
+        "input": "मदद",
+        "expected": "मैं आपको विभागों, डॉक्टरों और ...",
+        "got": "नमस्ते! मैं अस्पताल में आपका म..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_query",
+        "lang": "hi",
+        "input": "सहायता",
+        "expected": "मैं आपको विभागों, डॉक्टरों और ...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_query",
+        "lang": "te",
+        "input": "సహాయం",
+        "expected": "నేను మీకు విభాగాలు, డాక్టర్లు ...",
+        "got": "హలో! ఆసుపత్రిలో మీకు మార్గనిర్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_query",
+        "lang": "te",
+        "input": "గైడ్",
+        "expected": "నేను మీకు విభాగాలు, డాక్టర్లు ...",
+        "got": "హలో! ఆసుపత్రిలో మీకు మార్గనిర్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_nims",
+        "lang": "en",
+        "input": "nims kaha hai",
+        "expected": "Punjagutta, Hyderabad, Telanga...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_emergency",
+        "lang": "en",
+        "input": "emergency kaha hai",
+        "expected": "Ground Floor, near the main en...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_pharmacy",
+        "lang": "en",
+        "input": "pharmacy kaha hai",
+        "expected": "Ground Floor, Super Specialty ...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_canteen",
+        "lang": "en",
+        "input": "food",
+        "expected": "Near the parking area / backsi...",
+        "got": "I consume electricity, not foo..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_canteen",
+        "lang": "en",
+        "input": "cafeteria",
+        "expected": "Near the parking area / backsi...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_canteen",
+        "lang": "en",
+        "input": "food court",
+        "expected": "Near the parking area / backsi...",
+        "got": "I consume electricity, not foo..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_icu",
+        "lang": "en",
+        "input": "serious patient",
+        "expected": "ICUs are located on multiple f...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_director",
+        "lang": "en",
+        "input": "chief",
+        "expected": "Dr. Bheerappa Nagari....",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_complaint",
+        "lang": "en",
+        "input": "complaint",
+        "expected": "Please visit the Medical Super...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_complaint",
+        "lang": "en",
+        "input": "register complaint",
+        "expected": "Please visit the Medical Super...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_complaint",
+        "lang": "en",
+        "input": "complain",
+        "expected": "Please visit the Medical Super...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_complaint",
+        "lang": "en",
+        "input": "where complain",
+        "expected": "Please visit the Medical Super...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_opd_status",
+        "lang": "en",
+        "input": "opd status",
+        "expected": "Please check the current time....",
+        "got": "I am just a robot, but I am fu..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_admission_counter",
+        "lang": "en",
+        "input": "admission counter",
+        "expected": "Main Block, Ground Floor....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_admission_counter",
+        "lang": "en",
+        "input": "admission desk",
+        "expected": "Main Block, Ground Floor....",
+        "got": "Consult a doctor in OPD first...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_admission_counter",
+        "lang": "en",
+        "input": "where admit",
+        "expected": "Main Block, Ground Floor....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_admission_counter",
+        "lang": "en",
+        "input": "registration counter",
+        "expected": "Main Block, Ground Floor....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_admission_counter",
+        "lang": "hi",
+        "input": "एडमिशन काउंटर",
+        "expected": "मेन ब्लॉक, ग्राउंड फ्लोर।...",
+        "got": "पहले ओपीडी में डॉक्टर को दिखाए..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_admission_counter",
+        "lang": "hi",
+        "input": "भर्ती काउंटर",
+        "expected": "मेन ब्लॉक, ग्राउंड फ्लोर।...",
+        "got": "पहले ओपीडी में डॉक्टर को दिखाए..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_admission_counter",
+        "lang": "te",
+        "input": "అడ్మిషన్ కౌంటర్",
+        "expected": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్....",
+        "got": "ముందుగా ఓపీడిలో డాక్టర్‌ని కలవ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "en",
+        "input": "discharge",
+        "expected": "After the doctor signs the sum...",
+        "got": "I go to my charging station wh..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "en",
+        "input": "discharge process",
+        "expected": "After the doctor signs the sum...",
+        "got": "I go to my charging station wh..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "en",
+        "input": "get discharged",
+        "expected": "After the doctor signs the sum...",
+        "got": "I go to my charging station wh..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "hi",
+        "input": "डिस्चार्ज",
+        "expected": "डॉक्टर के हस्ताक्षर के बाद, बि...",
+        "got": "जब मैं थक जाता हूं तो मैं अपने..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "hi",
+        "input": "डिस्चार्ज की प्रक्रिया",
+        "expected": "डॉक्टर के हस्ताक्षर के बाद, बि...",
+        "got": "जब मैं थक जाता हूं तो मैं अपने..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "hi",
+        "input": "डिस्चार्ज के कागज",
+        "expected": "डॉक्टर के हस्ताक्षर के बाद, बि...",
+        "got": "जब मैं थक जाता हूं तो मैं अपने..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "te",
+        "input": "డిశ్చార్జ్",
+        "expected": "డాక్టర్ సంతకం చేసిన తర్వాత, బి...",
+        "got": "నేను అలసిపోయినప్పుడు నా ఛార్జి..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "te",
+        "input": "రోగిని ఎలా డిశ్చార్జ్ చేస్తారు",
+        "expected": "డాక్టర్ సంతకం చేసిన తర్వాత, బి...",
+        "got": "నేను అలసిపోయినప్పుడు నా ఛార్జి..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "te",
+        "input": "డిశ్చార్జ్ ప్రక్రియ",
+        "expected": "డాక్టర్ సంతకం చేసిన తర్వాత, బి...",
+        "got": "నేను అలసిపోయినప్పుడు నా ఛార్జి..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "te",
+        "input": "ఎప్పుడు డిశ్చార్జ్ చేస్తారు",
+        "expected": "డాక్టర్ సంతకం చేసిన తర్వాత, బి...",
+        "got": "నేను అలసిపోయినప్పుడు నా ఛార్జి..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "te",
+        "input": "డిశ్చార్జ్ పేపర్లను ఎక్కడ పొందాలి",
+        "expected": "డాక్టర్ సంతకం చేసిన తర్వాత, బి...",
+        "got": "నేను అలసిపోయినప్పుడు నా ఛార్జి..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_discharge",
+        "lang": "te",
+        "input": "డిశ్చార్జ్ పేపర్లు",
+        "expected": "డాక్టర్ సంతకం చేసిన తర్వాత, బి...",
+        "got": "నేను అలసిపోయినప్పుడు నా ఛార్జి..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_discharge_counter",
+        "lang": "en",
+        "input": "discharge counter",
+        "expected": "Main Block, Ground Floor (Veri...",
+        "got": "I go to my charging station wh..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_discharge_counter",
+        "lang": "en",
+        "input": "final counter",
+        "expected": "Main Block, Ground Floor (Veri...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_discharge_counter",
+        "lang": "en",
+        "input": "leave hospital desk",
+        "expected": "Main Block, Ground Floor (Veri...",
+        "got": "After the doctor signs the sum..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_discharge_counter",
+        "lang": "hi",
+        "input": "डिस्चार्ज काउंटर",
+        "expected": "मेन ब्लॉक, ग्राउंड फ्लोर।...",
+        "got": "जब मैं थक जाता हूं तो मैं अपने..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_discharge_counter",
+        "lang": "te",
+        "input": "డిశ్చార్జ్ కౌంటర్",
+        "expected": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్....",
+        "got": "నేను అలసిపోయినప్పుడు నా ఛార్జి..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_sample_collection",
+        "lang": "en",
+        "input": "blood test",
+        "expected": "Ground Floor, near Diagnostic ...",
+        "got": "Please go to Emergency / Casua..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_reports",
+        "lang": "en",
+        "input": "lab report",
+        "expected": "Report Dispatch Counter in Dia...",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_insurance",
+        "lang": "en",
+        "input": "government scheme",
+        "expected": "Yes, NIMS accepts Aarogyasri a...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_insurance_desk",
+        "lang": "en",
+        "input": "insurance desk",
+        "expected": "Main Block, Ground Floor....",
+        "got": "Yes, NIMS accepts Aarogyasri a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_insurance_desk",
+        "lang": "en",
+        "input": "insurance counter",
+        "expected": "Main Block, Ground Floor....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_insurance_desk",
+        "lang": "en",
+        "input": "aarogyasri desk",
+        "expected": "Main Block, Ground Floor....",
+        "got": "Yes, NIMS accepts Aarogyasri a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_insurance_desk",
+        "lang": "en",
+        "input": "help desk",
+        "expected": "Main Block, Ground Floor....",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_insurance_desk",
+        "lang": "hi",
+        "input": "इंश्योरेंस डेस्क",
+        "expected": "मेन ब्लॉक, ग्राउंड फ्लोर।...",
+        "got": "हाँ, निम्स आरोग्यश्री स्वीकार ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_insurance_desk",
+        "lang": "hi",
+        "input": "आरोग्यश्री",
+        "expected": "मेन ब्लॉक, ग्राउंड फ्लोर।...",
+        "got": "हाँ, निम्स आरोग्यश्री स्वीकार ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_insurance_desk",
+        "lang": "te",
+        "input": "ఇన్సూరెన్స్ డెస్క్",
+        "expected": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్....",
+        "got": "అవును, నిమ్స్ ఆరోగ్యశ్రీని అంగ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_insurance_desk",
+        "lang": "te",
+        "input": "ఆరోగ్యశ్రీ",
+        "expected": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్....",
+        "got": "అవును, నిమ్స్ ఆరోగ్యశ్రీని అంగ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_mri",
+        "lang": "en",
+        "input": "radiology",
+        "expected": "Radiology Department, Ground F...",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_mri",
+        "lang": "hi",
+        "input": "स्कैन",
+        "expected": "रेडियोलॉजी विभाग, ग्राउंड फ्लो...",
+        "got": "रेडियोलॉजी ब्लॉक।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_missing_report",
+        "lang": "en",
+        "input": "where is my report",
+        "expected": "Please ask at the Report Dispa...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_missing_report",
+        "lang": "hi",
+        "input": "रिपोर्ट गुम",
+        "expected": "कृपया अपनी रसीद के साथ रिपोर्ट...",
+        "got": "डायग्नोस्टिक ब्लॉक में रिपोर्ट..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_missing_report",
+        "lang": "hi",
+        "input": "रिपोर्ट नहीं मिली",
+        "expected": "कृपया अपनी रसीद के साथ रिपोर्ट...",
+        "got": "डायग्नोस्टिक ब्लॉक में रिपोर्ट..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_missing_report",
+        "lang": "hi",
+        "input": "मेरी रिपोर्ट",
+        "expected": "कृपया अपनी रसीद के साथ रिपोर्ट...",
+        "got": "डायग्नोस्टिक ब्लॉक में रिपोर्ट..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_lost_file",
+        "lang": "en",
+        "input": "where is my file",
+        "expected": "Report to Medical Records Dept...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_lost_file",
+        "lang": "hi",
+        "input": "मेडिकल फाइल",
+        "expected": "अपनी ओपी आईडी के साथ मेडिकल रि...",
+        "got": "ग्राउंड फ्लोर, सुपर स्पेशियलिट..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_lift",
+        "lang": "en",
+        "input": "stairs",
+        "expected": "Lifts are available in all maj...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_lift",
+        "lang": "en",
+        "input": "upper floor",
+        "expected": "Lifts are available in all maj...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_parking",
+        "lang": "en",
+        "input": "vehicle park",
+        "expected": "Designated parking is availabl...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_parking",
+        "lang": "en",
+        "input": "where to park",
+        "expected": "Designated parking is availabl...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_admin",
+        "lang": "en",
+        "input": "admin counter",
+        "expected": "Main Block....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ip_billing",
+        "lang": "en",
+        "input": "ip billing",
+        "expected": "Main Block lobby....",
+        "got": "Main Block, Ground Floor (Veri..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ip_billing",
+        "lang": "en",
+        "input": "inpatient billing",
+        "expected": "Main Block lobby....",
+        "got": "Main Block, Ground Floor (Veri..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ip_billing",
+        "lang": "en",
+        "input": "billing counter",
+        "expected": "Main Block lobby....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ip_billing",
+        "lang": "en",
+        "input": "payment counter",
+        "expected": "Main Block lobby....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ip_billing",
+        "lang": "hi",
+        "input": "बिलिंग",
+        "expected": "मेन ब्लॉक लॉबी।...",
+        "got": "मेन ब्लॉक, ग्राउंड फ्लोर।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ip_billing",
+        "lang": "te",
+        "input": "బిల్లింగ్",
+        "expected": "మెయిన్ బ్లాక్ లాబీ....",
+        "got": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_lab",
+        "lang": "en",
+        "input": "lab",
+        "expected": "Diagnostic Block....",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_lab",
+        "lang": "en",
+        "input": "diagnostic lab",
+        "expected": "Diagnostic Block....",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_lab",
+        "lang": "en",
+        "input": "laboratory",
+        "expected": "Diagnostic Block....",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_lab",
+        "lang": "en",
+        "input": "test lab",
+        "expected": "Diagnostic Block....",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_lab",
+        "lang": "hi",
+        "input": "लैब",
+        "expected": "डायग्नोस्टिक ब्लॉक।...",
+        "got": "डायग्नोस्टिक ब्लॉक के पास ग्रा..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_lab",
+        "lang": "te",
+        "input": "ల్యాబ్",
+        "expected": "డయాగ్నస్టిక్ బ్లాక్....",
+        "got": "డయాగ్నస్టిక్ బ్లాక్ దగ్గర గ్రౌ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ot",
+        "lang": "en",
+        "input": "operation theatre",
+        "expected": "OTs are on respective floors (...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ot",
+        "lang": "en",
+        "input": "surgery room",
+        "expected": "OTs are on respective floors (...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ot",
+        "lang": "en",
+        "input": "operation",
+        "expected": "OTs are on respective floors (...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ot",
+        "lang": "en",
+        "input": "theater",
+        "expected": "OTs are on respective floors (...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_xerox",
+        "lang": "en",
+        "input": "xerox",
+        "expected": "Near the OPD entrance or Main ...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_xerox",
+        "lang": "en",
+        "input": "photocopy",
+        "expected": "Near the OPD entrance or Main ...",
+        "got": "OTs are on respective floors (..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_xerox",
+        "lang": "en",
+        "input": "copy machine shop",
+        "expected": "Near the OPD entrance or Main ...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_xerox",
+        "lang": "en",
+        "input": "printer shop",
+        "expected": "Near the OPD entrance or Main ...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_xerox",
+        "lang": "en",
+        "input": "colour printer",
+        "expected": "Near the OPD entrance or Main ...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_xerox",
+        "lang": "en",
+        "input": "computer shop",
+        "expected": "Near the OPD entrance or Main ...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_evening_clinics",
+        "lang": "en",
+        "input": "after noon clinic",
+        "expected": "Yes, select departments have e...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_evening_clinics",
+        "lang": "en",
+        "input": "doctor evening",
+        "expected": "Yes, select departments have e...",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_evening_clinics",
+        "lang": "te",
+        "input": "సాయంత్రం ఆసుపత్రి ఎక్కడ ఉంది",
+        "expected": "అవును, కొన్ని విభాగాలకు ఈవినిం...",
+        "got": "పంజాగుట్ట, హైదరాబాద్, తెలంగాణ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_xray",
+        "lang": "en",
+        "input": "radiology",
+        "expected": "Radiology Department....",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_xray",
+        "lang": "en",
+        "input": "ct scan room",
+        "expected": "Radiology Department....",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ultrasound",
+        "lang": "hi",
+        "input": "स्कैन",
+        "expected": "रेडियोलॉजी विभाग।...",
+        "got": "रेडियोलॉजी ब्लॉक।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_ultrasound",
+        "lang": "te",
+        "input": "స్కాన్",
+        "expected": "రేడియాలజీ విభాగం....",
+        "got": "రేడియాలజీ విభాగం, గ్రౌండ్ ఫ్లో..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_appointment",
+        "lang": "en",
+        "input": "doctor meet",
+        "expected": "Visit the OPD Registration Cou...",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_appointment",
+        "lang": "te",
+        "input": "రిజిస్ట్రేషన్",
+        "expected": "ఓపీడి రిజిస్ట్రేషన్ కౌంటర్‌కు ...",
+        "got": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_appointment",
+        "lang": "te",
+        "input": "డాక్టర్ కలవాలి",
+        "expected": "ఓపీడి రిజిస్ట్రేషన్ కౌంటర్‌కు ...",
+        "got": "అవును, కొన్ని విభాగాలకు ఈవినిం..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_feedback",
+        "lang": "en",
+        "input": "feedback",
+        "expected": "Please contact the Medical Sup...",
+        "got": "Please visit the Medical Super..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_feedback",
+        "lang": "en",
+        "input": "complaint",
+        "expected": "Please contact the Medical Sup...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_feedback",
+        "lang": "en",
+        "input": "give feedback",
+        "expected": "Please contact the Medical Sup...",
+        "got": "Please visit the Medical Super..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_feedback",
+        "lang": "hi",
+        "input": "शिकायत",
+        "expected": "कृपया चिकित्सा अधीक्षक कार्याल...",
+        "got": "कृपया चिकित्सा अधीक्षक कार्याल..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_feedback",
+        "lang": "te",
+        "input": "ఫీడ్‌బ్యాక్",
+        "expected": "దయచేసి మెడికల్ సూపరింటెండెంట్ ...",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_feedback",
+        "lang": "te",
+        "input": "ఫిర్యాదులు ఎక్కడ ఇవ్వాలి",
+        "expected": "దయచేసి మెడికల్ సూపరింటెండెంట్ ...",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_feedback",
+        "lang": "te",
+        "input": "ఫిర్యాదు",
+        "expected": "దయచేసి మెడికల్ సూపరింటెండెంట్ ...",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_new_op",
+        "lang": "en",
+        "input": "outpatient register",
+        "expected": "OPD Registration Counter, Grou...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_new_op",
+        "lang": "en",
+        "input": "op registration",
+        "expected": "OPD Registration Counter, Grou...",
+        "got": "Visit the OPD Registration Cou..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_new_op",
+        "lang": "en",
+        "input": "register opd",
+        "expected": "OPD Registration Counter, Grou...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_new_op",
+        "lang": "hi",
+        "input": "नए मरीज पंजीकरण",
+        "expected": "ओपीडी पंजीकरण काउंटर, ग्राउंड ...",
+        "got": "ओपीडी पंजीकरण काउंटर पर जाएं।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_new_op",
+        "lang": "hi",
+        "input": "पंजीकरण करें",
+        "expected": "ओपीडी पंजीकरण काउंटर, ग्राउंड ...",
+        "got": "ओपीडी पंजीकरण काउंटर पर जाएं।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_new_op",
+        "lang": "te",
+        "input": "రిజిస్ట్రేషన్",
+        "expected": "ఓపీడి రిజిస్ట్రేషన్ కౌంటర్, గ్...",
+        "got": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_fasting",
+        "lang": "en",
+        "input": "without food",
+        "expected": "Common blood tests like sugar ...",
+        "got": "I consume electricity, not foo..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_fasting",
+        "lang": "en",
+        "input": "blood test fasting",
+        "expected": "Common blood tests like sugar ...",
+        "got": "Please go to Emergency / Casua..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_fasting",
+        "lang": "hi",
+        "input": "टेस्ट के लिए",
+        "expected": "शुगर या कोलेस्ट्रॉल जैसे सामान...",
+        "got": "डायग्नोस्टिक ब्लॉक।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_fasting",
+        "lang": "hi",
+        "input": "खाना खा सकते",
+        "expected": "शुगर या कोलेस्ट्रॉल जैसे सामान...",
+        "got": "पार्किंग क्षेत्र के पास / ओपीड..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_fasting",
+        "lang": "te",
+        "input": "నేను ఆహారం తీసుకోవచ్చా",
+        "expected": "షుగర్ లేదా కొలెస్ట్రాల్ వంటి ర...",
+        "got": "పార్కింగ్ ఏరియా దగ్గర / ఓపీడి ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "en",
+        "input": "hospital food",
+        "expected": "Yes, diet meals are provided t...",
+        "got": "I consume electricity, not foo..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "en",
+        "input": "diet food",
+        "expected": "Yes, diet meals are provided t...",
+        "got": "I consume electricity, not foo..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "en",
+        "input": "inpatient food",
+        "expected": "Yes, diet meals are provided t...",
+        "got": "I consume electricity, not foo..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "en",
+        "input": "do you give food",
+        "expected": "Yes, diet meals are provided t...",
+        "got": "I consume electricity, not foo..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "hi",
+        "input": "खाना",
+        "expected": "हाँ, डॉक्टर की सलाह के अनुसार ...",
+        "got": "पार्किंग क्षेत्र के पास / ओपीड..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "hi",
+        "input": "भोजन",
+        "expected": "हाँ, डॉक्टर की सलाह के अनुसार ...",
+        "got": "पार्किंग क्षेत्र के पास / ओपीड..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "hi",
+        "input": "भर्ती मरीज",
+        "expected": "हाँ, डॉक्टर की सलाह के अनुसार ...",
+        "got": "पहले ओपीडी में डॉक्टर को दिखाए..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "hi",
+        "input": "अस्पताल खाना",
+        "expected": "हाँ, डॉक्टर की सलाह के अनुसार ...",
+        "got": "पार्किंग क्षेत्र के पास / ओपीड..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "te",
+        "input": "భోజనం",
+        "expected": "అవును, డాక్టర్ సలహా ప్రకారం పే...",
+        "got": "పార్కింగ్ ఏరియా దగ్గర / ఓపీడి ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "te",
+        "input": "అల్పాహారం",
+        "expected": "అవును, డాక్టర్ సలహా ప్రకారం పే...",
+        "got": "పార్కింగ్ ఏరియా దగ్గర / ఓపీడి ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "te",
+        "input": "ఆహారం",
+        "expected": "అవును, డాక్టర్ సలహా ప్రకారం పే...",
+        "got": "పార్కింగ్ ఏరియా దగ్గర / ఓపీడి ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_meals",
+        "lang": "te",
+        "input": "ఇన్ పేషెంట్",
+        "expected": "అవును, డాక్టర్ సలహా ప్రకారం పే...",
+        "got": "మెయిన్ బ్లాక్ లాబీ...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_documents",
+        "lang": "en",
+        "input": "which documents",
+        "expected": "Carry Aadhaar card, past recor...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_contact",
+        "lang": "en",
+        "input": "contact number",
+        "expected": "Please check the NIMS website ...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_contact",
+        "lang": "en",
+        "input": "phone number",
+        "expected": "Please check the NIMS website ...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_contact",
+        "lang": "en",
+        "input": "helpline",
+        "expected": "Please check the NIMS website ...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_contact",
+        "lang": "en",
+        "input": "important numbers",
+        "expected": "Please check the NIMS website ...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_upi",
+        "lang": "hi",
+        "input": "डिजिटल भुगतान",
+        "expected": "हाँ, अधिकांश काउंटरों पर डिजिट...",
+        "got": "मेन ब्लॉक लॉबी।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_upi",
+        "lang": "te",
+        "input": "డిజిటల్ పేమెంట్",
+        "expected": "అవును, చాలా కౌంటర్లలో డిజిటల్ ...",
+        "got": "మెయిన్ బ్లాక్ లాబీ...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_cardiology",
+        "lang": "en",
+        "input": "heart doctor",
+        "expected": "Ground Floor, Rooms 2-6....",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_cardiology",
+        "lang": "te",
+        "input": "శ్వాసక్రియ సమస్య",
+        "expected": "గ్రౌండ్ ఫ్లోర్, గది 2-6....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_cardiology",
+        "lang": "te",
+        "input": "శ్వాస సమస్య",
+        "expected": "గ్రౌండ్ ఫ్లోర్, గది 2-6....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_echo",
+        "lang": "en",
+        "input": "echocardiography",
+        "expected": "Cardiology, Ground Floor....",
+        "got": "Ground Floor, Rooms 2-6...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_echo",
+        "lang": "en",
+        "input": "scan echo",
+        "expected": "Cardiology, Ground Floor....",
+        "got": "Radiology Department...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_pacemaker",
+        "lang": "en",
+        "input": "pacemaker surgery",
+        "expected": "Please enquire at the Cardio-T...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_pacemaker",
+        "lang": "en",
+        "input": "cardio surgery",
+        "expected": "Please enquire at the Cardio-T...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_pacemaker",
+        "lang": "te",
+        "input": "పేస్ మేకర్ కోసం ఎవరిని సంప్రదించాలి",
+        "expected": "దయచేసి కార్డియో-థొరాసిక్ సర్జర...",
+        "got": "దయచేసి రిసెప్షన్ డెస్క్‌లో అడగ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_pacemaker",
+        "lang": "te",
+        "input": "కొత్త పేస్‌మేకర్ కోసం ఎవరిని సంప్రదించాలి",
+        "expected": "దయచేసి కార్డియో-థొరాసిక్ సర్జర...",
+        "got": "దయచేసి రిసెప్షన్ డెస్క్‌లో అడగ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_tmt",
+        "lang": "hi",
+        "input": "स्ट्रेस टेस्ट",
+        "expected": "कार्डियोलॉजी विभाग के अंदर।...",
+        "got": "डायग्नोस्टिक ब्लॉक।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_tmt",
+        "lang": "te",
+        "input": "ఒత్తిడి పరీక్ష యంత్రం",
+        "expected": "కార్డియాలజీ విభాగం లోపల....",
+        "got": "డయాగ్నస్టిక్ బ్లాక్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_cardio_emergency",
+        "lang": "en",
+        "input": "pain in chest",
+        "expected": "Go to Emergency/Casualty IMMED...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_cardio_emergency",
+        "lang": "en",
+        "input": "left chest pain",
+        "expected": "Go to Emergency/Casualty IMMED...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "en",
+        "input": "2d echo",
+        "expected": "It is an ultrasound test for t...",
+        "got": "Cardiology, Ground Floor...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "en",
+        "input": "echo test",
+        "expected": "It is an ultrasound test for t...",
+        "got": "Cardiology, Ground Floor...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "en",
+        "input": "heart echo",
+        "expected": "It is an ultrasound test for t...",
+        "got": "Cardiology, Ground Floor...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "en",
+        "input": "echocardiography",
+        "expected": "It is an ultrasound test for t...",
+        "got": "Ground Floor, Rooms 2-6...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "en",
+        "input": "cardiac echo",
+        "expected": "It is an ultrasound test for t...",
+        "got": "Cardiology, Ground Floor...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "hi",
+        "input": "2डी इको",
+        "expected": "यह दिल के लिए एक अल्ट्रासाउंड ...",
+        "got": "कार्डियोलॉजी, ग्राउंड फ्लोर।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "hi",
+        "input": "इको टेस्ट",
+        "expected": "यह दिल के लिए एक अल्ट्रासाउंड ...",
+        "got": "डायग्नोस्टिक ब्लॉक।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "hi",
+        "input": "दिल का इको",
+        "expected": "यह दिल के लिए एक अल्ट्रासाउंड ...",
+        "got": "कार्डियोलॉजी, ग्राउंड फ्लोर।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "te",
+        "input": "2D ఎకో",
+        "expected": "ఇది గుండె కోసం చేసే అల్ట్రాసౌం...",
+        "got": "కార్డియాలజీ, గ్రౌండ్ ఫ్లోర్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "te",
+        "input": "ఎకో టెస్ట్",
+        "expected": "ఇది గుండె కోసం చేసే అల్ట్రాసౌం...",
+        "got": "కార్డియాలజీ, గ్రౌండ్ ఫ్లోర్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_2d_echo",
+        "lang": "te",
+        "input": "హార్ట్ ఎకో",
+        "expected": "ఇది గుండె కోసం చేసే అల్ట్రాసౌం...",
+        "got": "కార్డియాలజీ, గ్రౌండ్ ఫ్లోర్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_duration",
+        "lang": "en",
+        "input": "time for echo",
+        "expected": "Usually 15-30 minutes, dependi...",
+        "got": "Cardiology, Ground Floor...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_duration",
+        "lang": "en",
+        "input": "echo time",
+        "expected": "Usually 15-30 minutes, dependi...",
+        "got": "Cardiology, Ground Floor...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_duration",
+        "lang": "hi",
+        "input": "टेस्ट टाइम",
+        "expected": "आमतौर पर 15-30 मिनट।...",
+        "got": "डायग्नोस्टिक ब्लॉक।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_duration",
+        "lang": "te",
+        "input": "పరీక్షలకు ఎంత సమయం ఉంది",
+        "expected": "సాధారణంగా 15-30 నిమిషాలు....",
+        "got": "డయాగ్నస్టిక్ బ్లాక్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "en",
+        "input": "painful test",
+        "expected": "No, ECG and Echo are painless....",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "en",
+        "input": "test pain",
+        "expected": "No, ECG and Echo are painless....",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "en",
+        "input": "is ecg painful",
+        "expected": "No, ECG and Echo are painless....",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "en",
+        "input": "echo painful",
+        "expected": "No, ECG and Echo are painless....",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "hi",
+        "input": "टेस्ट दर्द",
+        "expected": "नहीं, यह दर्द रहित हैं।...",
+        "got": "डायग्नोस्टिक ब्लॉक।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "te",
+        "input": "మీకు ఇప్పుడు ఛాతీ నొప్పిగా ఉందా",
+        "expected": "లేదు, ఇవి నొప్పి లేని పరీక్షలు...",
+        "got": "గ్రౌండ్ ఫ్లోర్, గది 2-6...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "te",
+        "input": "మీ ఛాతీ నొప్పి ఎంత తీవ్రంగా ఉంది",
+        "expected": "లేదు, ఇవి నొప్పి లేని పరీక్షలు...",
+        "got": "గ్రౌండ్ ఫ్లోర్, గది 2-6...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "te",
+        "input": "మీకు ఏ వైపు ఛాతీ నొప్పి ఉంది",
+        "expected": "లేదు, ఇవి నొప్పి లేని పరీక్షలు...",
+        "got": "గ్రౌండ్ ఫ్లోర్, గది 2-6...."
+    },
+    {
+        "type": "Interaction",
+        "id": "info_test_pain",
+        "lang": "te",
+        "input": "ఛాతీలో ఏదైనా నొప్పి ఉందా?",
+        "expected": "లేదు, ఇవి నొప్పి లేని పరీక్షలు...",
+        "got": "గ్రౌండ్ ఫ్లోర్, గది 2-6...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_neurology",
+        "lang": "en",
+        "input": "brain department",
+        "expected": "Please check the OP Block dire...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_neurology",
+        "lang": "en",
+        "input": "nerve doctor",
+        "expected": "Please check the OP Block dire...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_paediatric",
+        "lang": "en",
+        "input": "children department",
+        "expected": "OPD Block....",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_paediatric",
+        "lang": "en",
+        "input": "kids doctor",
+        "expected": "OPD Block....",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_paediatric",
+        "lang": "en",
+        "input": "child specialist",
+        "expected": "OPD Block....",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_paediatric",
+        "lang": "te",
+        "input": "చిల్డ్రన్ డాక్టర్",
+        "expected": "ఓపీడి బ్లాక్....",
+        "got": "అవును, కొన్ని విభాగాలకు ఈవినిం..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_oncology",
+        "lang": "en",
+        "input": "cancer department",
+        "expected": "4th Floor, Room 410....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_oncology",
+        "lang": "en",
+        "input": "tumor surgery",
+        "expected": "4th Floor, Room 410....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_dermatology",
+        "lang": "en",
+        "input": "dermatology",
+        "expected": "OPD Block....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_dermatology",
+        "lang": "en",
+        "input": "skin doctor",
+        "expected": "OPD Block....",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_dermatology",
+        "lang": "te",
+        "input": "స్కిన్ డాక్టర్",
+        "expected": "ఓపీడి బ్లాక్....",
+        "got": "అవును, కొన్ని విభాగాలకు ఈవినిం..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_urology",
+        "lang": "en",
+        "input": "urine problem",
+        "expected": "6th Floor, Rooms 609-611....",
+        "got": "Please visit the Medical Super..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_urology",
+        "lang": "hi",
+        "input": "पेशाब समस्या",
+        "expected": "6वीं मंजिल, कमरा 609-611।...",
+        "got": "कृपया चिकित्सा अधीक्षक कार्याल..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_urology",
+        "lang": "te",
+        "input": "మూత్ర సమస్య",
+        "expected": "6వ అంతస్తు, గది 609-611....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_dental",
+        "lang": "en",
+        "input": "tooth doctor",
+        "expected": "Dental Department, OPD Block....",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_dental",
+        "lang": "en",
+        "input": "teeth problem",
+        "expected": "Dental Department, OPD Block....",
+        "got": "Please visit the Medical Super..."
+    },
+    {
+        "type": "Interaction",
+        "id": "loc_dental",
+        "lang": "te",
+        "input": "దంతాల సమస్య ",
+        "expected": "డెంటల్ విభాగం, ఓపీడి బ్లాక్....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_breathing",
+        "lang": "en",
+        "input": "breathing problem",
+        "expected": "Visit Pulmonary Medicine (4th ...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_breathing",
+        "lang": "te",
+        "input": "శ్వాస సమస్య",
+        "expected": "పల్మనరీ మెడిసిన్ (4వ అంతస్తు) ...",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_breathing",
+        "lang": "te",
+        "input": "శ్వాసకోశ సమస్య",
+        "expected": "పల్మనరీ మెడిసిన్ (4వ అంతస్తు) ...",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_skin",
+        "lang": "en",
+        "input": "rashes",
+        "expected": "Visit Dermatology....",
+        "got": "OPD Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_skin",
+        "lang": "en",
+        "input": "itching",
+        "expected": "Visit Dermatology....",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_skin",
+        "lang": "en",
+        "input": "skin allergy",
+        "expected": "Visit Dermatology....",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_skin",
+        "lang": "te",
+        "input": "చర్మ సంబంధిత సమస్య",
+        "expected": "చర్మ వ్యాధుల విభాగానికి వెళ్లం...",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_urine",
+        "lang": "en",
+        "input": "urine pain",
+        "expected": "Visit Urology (6th Floor)....",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_urine",
+        "lang": "en",
+        "input": "urinary infection",
+        "expected": "Visit Urology (6th Floor)....",
+        "got": "Radiology/Diagnostic Block...."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_stomach",
+        "lang": "en",
+        "input": "stomach pain",
+        "expected": "Visit Gastroenterology (5th Fl...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_stomach",
+        "lang": "en",
+        "input": "abdominal pain",
+        "expected": "Visit Gastroenterology (5th Fl...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_stomach",
+        "lang": "en",
+        "input": "gas pain",
+        "expected": "Visit Gastroenterology (5th Fl...",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_stomach",
+        "lang": "en",
+        "input": "severe stomach ache",
+        "expected": "Visit Gastroenterology (5th Fl...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "en",
+        "input": "tooth pain",
+        "expected": "Visit Dental Department....",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "en",
+        "input": "toothache",
+        "expected": "Visit Dental Department....",
+        "got": "OTs are on respective floors (..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "en",
+        "input": "gum pain",
+        "expected": "Visit Dental Department....",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "en",
+        "input": "dental pain",
+        "expected": "Visit Dental Department....",
+        "got": "I am an AI robot designed to a..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "te",
+        "input": "పంటి నొప్పి",
+        "expected": "డెంటల్ విభాగానికి వెళ్లండి....",
+        "got": "డెంటల్ విభాగం, ఓపీడి బ్లాక్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "te",
+        "input": "రూట్ కెనాల్ సమస్య",
+        "expected": "డెంటల్ విభాగానికి వెళ్లండి....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "te",
+        "input": "జ్ఞాన దంతాల సమస్య",
+        "expected": "డెంటల్ విభాగానికి వెళ్లండి....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "te",
+        "input": "దంతాల చిగుళ్ల సమస్య",
+        "expected": "డెంటల్ విభాగానికి వెళ్లండి....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "te",
+        "input": "దంతాల అమరిక సమస్య",
+        "expected": "డెంటల్ విభాగానికి వెళ్లండి....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "sym_dental",
+        "lang": "te",
+        "input": "దంతాల సమస్య",
+        "expected": "డెంటల్ విభాగానికి వెళ్లండి....",
+        "got": "దయచేసి మెడికల్ సూపరింటెండెంట్ ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "en",
+        "input": "hi",
+        "expected": "Hello! How can I help you toda...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "en",
+        "input": "hello",
+        "expected": "Hello! How can I help you toda...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "en",
+        "input": "hey",
+        "expected": "Hello! How can I help you toda...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "en",
+        "input": "hii",
+        "expected": "Hello! How can I help you toda...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "en",
+        "input": "helo",
+        "expected": "Hello! How can I help you toda...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "hi",
+        "input": "हाय",
+        "expected": "नमस्ते! मैं आपकी कैसे मदद कर स...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "hi",
+        "input": "नमस्ते",
+        "expected": "नमस्ते! मैं आपकी कैसे मदद कर स...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "hi",
+        "input": "हेलो",
+        "expected": "नमस्ते! मैं आपकी कैसे मदद कर स...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "te",
+        "input": "హాయ్",
+        "expected": "నమస్కారం! నేను మీకు ఎలా సహాయపడ...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hi",
+        "lang": "te",
+        "input": "హలో",
+        "expected": "నమస్కారం! నేను మీకు ఎలా సహాయపడ...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "en",
+        "input": "hello",
+        "expected": "Hello! Welcome to NIMS Hospita...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "en",
+        "input": "helo",
+        "expected": "Hello! Welcome to NIMS Hospita...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "en",
+        "input": "hallo",
+        "expected": "Hello! Welcome to NIMS Hospita...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "en",
+        "input": "hii",
+        "expected": "Hello! Welcome to NIMS Hospita...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "en",
+        "input": "hey",
+        "expected": "Hello! Welcome to NIMS Hospita...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "en",
+        "input": "hi",
+        "expected": "Hello! Welcome to NIMS Hospita...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "hi",
+        "input": "हैलो",
+        "expected": "नमस्ते! निम्स अस्पताल में आपका...",
+        "got": "नमस्ते! मैं अस्पताल में आपका म..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "hi",
+        "input": "हेलो",
+        "expected": "नमस्ते! निम्स अस्पताल में आपका...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "hi",
+        "input": "नमस्ते",
+        "expected": "नमस्ते! निम्स अस्पताल में आपका...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "te",
+        "input": "హలో",
+        "expected": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "te",
+        "input": "హాయ్",
+        "expected": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_hello",
+        "lang": "te",
+        "input": "నమస్కారం",
+        "expected": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_namaste",
+        "lang": "en",
+        "input": "namaste",
+        "expected": "Namaste! How can I guide you?...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_namaste",
+        "lang": "en",
+        "input": "greetings indian",
+        "expected": "Namaste! How can I guide you?...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_namaste",
+        "lang": "hi",
+        "input": "नमस्ते",
+        "expected": "नमस्ते! मैं आपकी कैसे मदद कर स...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_namaste",
+        "lang": "hi",
+        "input": "नमस्कार",
+        "expected": "नमस्ते! मैं आपकी कैसे मदद कर स...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_namaste",
+        "lang": "hi",
+        "input": "राम राम",
+        "expected": "नमस्ते! मैं आपकी कैसे मदद कर स...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_namaste",
+        "lang": "te",
+        "input": "నమస్తే",
+        "expected": "నమస్తే! నేను మీకు ఎలా సహాయపడగల...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_namaste",
+        "lang": "te",
+        "input": "నమస్కారం",
+        "expected": "నమస్తే! నేను మీకు ఎలా సహాయపడగల...",
+        "got": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "greet_good_morning",
+        "lang": "en",
+        "input": "good morning",
+        "expected": "Good morning! How can I assist...",
+        "got": "Hello! Welcome to NIMS Hospita..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "en",
+        "input": "help",
+        "expected": "I'm here to help! You can ask ...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "en",
+        "input": "assist",
+        "expected": "I'm here to help! You can ask ...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "en",
+        "input": "support",
+        "expected": "I'm here to help! You can ask ...",
+        "got": "I can guide you to departments..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "en",
+        "input": "guide me",
+        "expected": "I'm here to help! You can ask ...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "en",
+        "input": "can you help",
+        "expected": "I'm here to help! You can ask ...",
+        "got": "Hello! I am here to help you n..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "hi",
+        "input": "मदद",
+        "expected": "मैं मदद के लिए हूं! आप मुझसे व...",
+        "got": "नमस्ते! मैं अस्पताल में आपका म..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "hi",
+        "input": "सहायता",
+        "expected": "मैं मदद के लिए हूं! आप मुझसे व...",
+        "got": "नमस्ते! निम्स अस्पताल में आपका..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "hi",
+        "input": "मदद चाहिए",
+        "expected": "मैं मदद के लिए हूं! आप मुझसे व...",
+        "got": "नमस्ते! मैं अस्पताल में आपका म..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "te",
+        "input": "సహాయం",
+        "expected": "నేను సహాయం చేయడానికి ఇక్కడ ఉన్...",
+        "got": "హలో! ఆసుపత్రిలో మీకు మార్గనిర్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "help_request",
+        "lang": "te",
+        "input": "సహాయం కావాలి",
+        "expected": "నేను సహాయం చేయడానికి ఇక్కడ ఉన్...",
+        "got": "హలో! ఆసుపత్రిలో మీకు మార్గనిర్..."
+    },
+    {
+        "type": "Interaction",
+        "id": "billing_location",
+        "lang": "en",
+        "input": "billing",
+        "expected": "Billing counter is on Ground F...",
+        "got": "Main Block, Ground Floor (Veri..."
+    },
+    {
+        "type": "Interaction",
+        "id": "billing_location",
+        "lang": "en",
+        "input": "bill counter",
+        "expected": "Billing counter is on Ground F...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "billing_location",
+        "lang": "en",
+        "input": "cash counter",
+        "expected": "Billing counter is on Ground F...",
+        "got": "Ground Floor, near the main en..."
+    },
+    {
+        "type": "Interaction",
+        "id": "billing_location",
+        "lang": "hi",
+        "input": "बिलिंग",
+        "expected": "बिलिंग काउंटर ग्राउंड फ्लोर, म...",
+        "got": "मेन ब्लॉक, ग्राउंड फ्लोर।..."
+    },
+    {
+        "type": "Interaction",
+        "id": "billing_location",
+        "lang": "te",
+        "input": "బిల్లింగ్",
+        "expected": "బిల్లింగ్ కౌంటర్ గ్రౌండ్ ఫ్లోర...",
+        "got": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్...."
+    },
+    {
+        "type": "Interaction",
+        "id": "billing_location",
+        "lang": "te",
+        "input": "పేమెంట్",
+        "expected": "బిల్లింగ్ కౌంటర్ గ్రౌండ్ ఫ్లోర...",
+        "got": "మెయిన్ బ్లాక్ లాబీ...."
+    },
+    {
+        "type": "Interaction",
+        "id": "reports_location",
+        "lang": "en",
+        "input": "reports",
+        "expected": "Lab reports can be collected f...",
+        "got": "Report Dispatch Counter in Dia..."
+    },
+    {
+        "type": "Interaction",
+        "id": "reports_location",
+        "lang": "en",
+        "input": "collect report",
+        "expected": "Lab reports can be collected f...",
+        "got": "Report Dispatch Counter in Dia..."
+    },
+    {
+        "type": "Interaction",
+        "id": "reports_location",
+        "lang": "en",
+        "input": "lab report",
+        "expected": "Lab reports can be collected f...",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "reports_location",
+        "lang": "en",
+        "input": "test results",
+        "expected": "Lab reports can be collected f...",
+        "got": "Report Dispatch Counter in Dia..."
+    },
+    {
+        "type": "Interaction",
+        "id": "reports_location",
+        "lang": "hi",
+        "input": "रिपोर्ट",
+        "expected": "लैब रिपोर्ट डायग्नोस्टिक ब्लॉक...",
+        "got": "डायग्नोस्टिक ब्लॉक में रिपोर्ट..."
+    },
+    {
+        "type": "Interaction",
+        "id": "reports_location",
+        "lang": "hi",
+        "input": "रिजल्ट",
+        "expected": "लैब रिपोर्ट डायग्नोस्टिक ब्लॉक...",
+        "got": "डायग्नोस्टिक ब्लॉक में रिपोर्ट..."
+    },
+    {
+        "type": "Interaction",
+        "id": "reports_location",
+        "lang": "hi",
+        "input": "टेस्ट रिपोर्ट",
+        "expected": "लैब रिपोर्ट डायग्नोस्टिक ब्लॉक...",
+        "got": "डायग्नोस्टिक ब्लॉक में रिपोर्ट..."
+    },
+    {
+        "type": "Interaction",
+        "id": "opd_timings",
+        "lang": "en",
+        "input": "opd timing",
+        "expected": "OPD timings are 8:00 AM to 12:...",
+        "got": "8:00 AM to 12:00 PM on working..."
+    },
+    {
+        "type": "Interaction",
+        "id": "opd_timings",
+        "lang": "en",
+        "input": "opd time",
+        "expected": "OPD timings are 8:00 AM to 12:...",
+        "got": "8:00 AM to 12:00 PM on working..."
+    },
+    {
+        "type": "Interaction",
+        "id": "opd_timings",
+        "lang": "en",
+        "input": "opd hours",
+        "expected": "OPD timings are 8:00 AM to 12:...",
+        "got": "8:00 AM to 12:00 PM on working..."
+    },
+    {
+        "type": "Interaction",
+        "id": "opd_timings",
+        "lang": "en",
+        "input": "when opd open",
+        "expected": "OPD timings are 8:00 AM to 12:...",
+        "got": "8:00 AM to 12:00 PM on working..."
+    },
+    {
+        "type": "Interaction",
+        "id": "opd_timings",
+        "lang": "hi",
+        "input": "ओपीडी समय",
+        "expected": "ओपीडी का समय कार्य दिवसों में ...",
+        "got": "कार्य दिवसों में सुबह 8:00 बजे..."
+    },
+    {
+        "type": "Interaction",
+        "id": "opd_timings",
+        "lang": "hi",
+        "input": "ओपीडी टाइम",
+        "expected": "ओपीडी का समय कार्य दिवसों में ...",
+        "got": "कार्य दिवसों में सुबह 8:00 बजे..."
+    },
+    {
+        "type": "Interaction",
+        "id": "opd_timings",
+        "lang": "te",
+        "input": "ఓపీడి సమయం",
+        "expected": "ఓపీడి సమయాలు పని దినాలలో ఉదయం ...",
+        "got": "పని దినాలలో ఉదయం 8:00 నుండి మధ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "opd_timings",
+        "lang": "te",
+        "input": "ఓపీడి టైమ్",
+        "expected": "ఓపీడి సమయాలు పని దినాలలో ఉదయం ...",
+        "got": "పని దినాలలో ఉదయం 8:00 నుండి మధ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "visiting_hours",
+        "lang": "en",
+        "input": "visiting hours",
+        "expected": "Visiting hours are 4:00 PM to ...",
+        "got": "Visiting hours are from 4:00 P..."
+    },
+    {
+        "type": "Interaction",
+        "id": "visiting_hours",
+        "lang": "en",
+        "input": "visitor time",
+        "expected": "Visiting hours are 4:00 PM to ...",
+        "got": "Visiting hours are from 4:00 P..."
+    },
+    {
+        "type": "Interaction",
+        "id": "visiting_hours",
+        "lang": "en",
+        "input": "when can visit",
+        "expected": "Visiting hours are 4:00 PM to ...",
+        "got": "Visiting hours are from 4:00 P..."
+    },
+    {
+        "type": "Interaction",
+        "id": "visiting_hours",
+        "lang": "en",
+        "input": "meeting time",
+        "expected": "Visiting hours are 4:00 PM to ...",
+        "got": "Visiting hours are from 4:00 P..."
+    },
+    {
+        "type": "Interaction",
+        "id": "visiting_hours",
+        "lang": "hi",
+        "input": "मिलने का समय",
+        "expected": "मिलने का समय रोज शाम 4:00 से 6...",
+        "got": "मिलने का समय शाम 4:00 बजे से श..."
+    },
+    {
+        "type": "Interaction",
+        "id": "visiting_hours",
+        "lang": "te",
+        "input": "సందర్శన సమయం",
+        "expected": "సందర్శన సమయాలు ప్రతిరోజు సాయంత...",
+        "got": "సందర్శకుల సమయం సాయంత్రం 4:00 న..."
+    },
+    {
+        "type": "Interaction",
+        "id": "visiting_hours",
+        "lang": "te",
+        "input": "ఎప్పుడు కలవచ్చు",
+        "expected": "సందర్శన సమయాలు ప్రతిరోజు సాయంత...",
+        "got": "సందర్శకుల సమయం సాయంత్రం 4:00 న..."
+    },
+    {
+        "type": "Interaction",
+        "id": "department_status",
+        "lang": "en",
+        "input": "department status",
+        "expected": "Most departments are open from...",
+        "got": "I am just a robot, but I am fu..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "en",
+        "input": "lab",
+        "expected": "Laboratory is on Ground Floor,...",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "en",
+        "input": "laboratory",
+        "expected": "Laboratory is on Ground Floor,...",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "en",
+        "input": "blood test",
+        "expected": "Laboratory is on Ground Floor,...",
+        "got": "Please go to Emergency / Casua..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "en",
+        "input": "sample collection",
+        "expected": "Laboratory is on Ground Floor,...",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "en",
+        "input": "diagnostic lab",
+        "expected": "Laboratory is on Ground Floor,...",
+        "got": "Ground Floor, near Diagnostic ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "hi",
+        "input": "लैब",
+        "expected": "प्रयोगशाला ग्राउंड फ्लोर, डायग...",
+        "got": "डायग्नोस्टिक ब्लॉक के पास ग्रा..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "hi",
+        "input": "ब्लड टेस्ट",
+        "expected": "प्रयोगशाला ग्राउंड फ्लोर, डायग...",
+        "got": "डायग्नोस्टिक ब्लॉक के पास ग्रा..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "te",
+        "input": "ల్యాబ్",
+        "expected": "ప్రయోగశాల గ్రౌండ్ ఫ్లోర్, డయాగ...",
+        "got": "డయాగ్నస్టిక్ బ్లాక్ దగ్గర గ్రౌ..."
+    },
+    {
+        "type": "Interaction",
+        "id": "lab_diagnostics",
+        "lang": "te",
+        "input": "బ్లడ్ టెస్ట్",
+        "expected": "ప్రయోగశాల గ్రౌండ్ ఫ్లోర్, డయాగ...",
+        "got": "డయాగ్నస్టిక్ బ్లాక్ దగ్గర గ్రౌ..."
+    }
+]

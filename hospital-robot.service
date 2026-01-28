@@ -1,0 +1,26 @@
+[Unit]
+Description=Hospital Assistant Robot Application
+After=network-online.target
+
+[Service]
+# Run the service as the 'pi' user
+User=pi
+Group=pi
+
+# Set the working directory to the correct project folder
+WorkingDirectory=/home/pi/Downloads/Robot_New_Repository_Update_knowledge_base-4.1
+
+# The command to start the application
+# This uses the python executable from the virtual environment
+ExecStart=/home/pi/Downloads/Robot_New_Repository_Update_knowledge_base-4.1/.venv/bin/python /home/pi/Downloads/Robot_New_Repository_Update_knowledge_base-4.1/main.py
+
+# Restart the service automatically if it fails
+Restart=on-failure
+RestartSec=5s
+
+# Route stdout and stderr to the system journal
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

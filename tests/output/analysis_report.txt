@@ -1,0 +1,79 @@
+
+Analyzing: hospital_knowledge_base.json
+
+  Keyword Overlap between departments:
+    general_opd & general_medicine: ['జ్వరం']
+    general_medicine & cardiology_unit_1: ['అల్ప రక్తపోటు', 'అధిక రక్తపోటు', 'లో బీపీ', 'హై బీపీ']
+
+  Long Keywords (>3 words): 5
+    - ఛాతీ నొప్పితో పాటు చెమటలు
+    - ఛాతీ నొప్పితో స్పృహ కోల్పోవడం
+    - నొప్పి ఎడమ చేతికి పాకడం
+    - నొప్పితో కూడిన కాళ్ళ వాపు
+    - రెండు వారాల కంటే ఎక్కువ దగ్గు
+
+  Total unique TE keywords: 125
+  Total TE keywords (including duplicates): 130
+
+Analyzing: hospital_knowledge_base_updated.json
+  [cardiology_unit_1] Duplicates: ['గుండె నొప్పి', 'గుండె']
+  [vascular_surgery] Duplicates: ['కాళ్ళ వాపు']
+  [ophthalmology] Duplicates: ['శుక్లాలు']
+
+  Keyword Overlap between departments:
+    general_opd & general_medicine: ['నీరసం', 'జ్వరం']
+    general_medicine & cardiology_unit_1: ['అధిక రక్తపోటు', 'లో బీపీ', 'హై బీపీ', 'బీపీ', 'అల్ప రక్తపోటు', 'తల తిరగడం']
+    general_medicine & medical_gastro: ['వాంతులు']
+    general_medicine & neurology: ['తల తిరగడం']
+    general_medicine & ent: ['ముక్కు', 'ఈఎన్టీ', 'చెవి', 'గొంతు']
+    general_medicine & ophthalmology: ['కన్ను']
+    cardiology_unit_1 & vascular_surgery: ['కాళ్లు వాపు']
+    cardiology_unit_1 & neurology: ['తల తిరగడం']
+    cardiology_unit_2 & pulmonary_medicine: ['శ్వాస ఆడకపోవడం']
+    medical_gastro & laboratory: ['గ్యాస్ సమస్య']
+
+  Long Keywords (>3 words): 11
+    - ఆరి చేతులు చెమటలు పడుతున్నాయి
+    - కడుపులో చాలా నొప్పిగా ఉంది
+    - గుండే లో నిప్పిగా వుండి
+    - ఛాతీ చాలా నొప్పిగా ఉంది
+    - ఛాతీ నొప్పితో పాటు చెమటలు
+    - ఛాతీ నొప్పితో స్పృహ కోల్పోవడం
+    - నిన్నటి నుంచి కడుపులో నొప్పి
+    - నిన్నటి నుంచి ఛాతీ నొప్పి
+    - నొప్పి ఎడమ చేతికి పాకడం
+    - నొప్పితో కూడిన కాళ్ళ వాపు
+    - రెండు వారాల కంటే ఎక్కువ దగ్గు
+
+  Total unique TE keywords: 302
+  Total TE keywords (including duplicates): 324
+
+Analyzing: hospital_knowledge_base_optimized.json
+
+  Keyword Overlap between departments:
+    general_opd & general_medicine: ['నీరసం', 'జ్వరం']
+    general_medicine & cardiology_unit_1: ['అధిక రక్తపోటు', 'లో బీపీ', 'హై బీపీ', 'బీపీ', 'అల్ప రక్తపోటు', 'తల తిరగడం']
+    general_medicine & medical_gastro: ['వాంతులు']
+    general_medicine & neurology: ['తల తిరగడం']
+    general_medicine & ent: ['ముక్కు', 'ఈఎన్టీ', 'చెవి', 'గొంతు']
+    general_medicine & ophthalmology: ['కన్ను']
+    cardiology_unit_1 & vascular_surgery: ['కాళ్లు వాపు']
+    cardiology_unit_1 & neurology: ['తల తిరగడం']
+    cardiology_unit_2 & pulmonary_medicine: ['శ్వాస ఆడకపోవడం']
+    medical_gastro & laboratory: ['గ్యాస్ సమస్య']
+
+  Long Keywords (>3 words): 11
+    - ఆరి చేతులు చెమటలు పడుతున్నాయి
+    - కడుపులో చాలా నొప్పిగా ఉంది
+    - గుండె లో నొప్పిగా వుండి
+    - ఛాతీ చాలా నొప్పిగా ఉంది
+    - ఛాతీ నొప్పితో పాటు చెమటలు
+    - ఛాతీ నొప్పితో స్పృహ కోల్పోవడం
+    - నిన్నటి నుంచి కడుపులో నొప్పి
+    - నిన్నటి నుంచి ఛాతీ నొప్పి
+    - నొప్పి ఎడమ చేతికి పాకడం
+    - నొప్పితో కూడిన కాళ్ళ వాపు
+    - రెండు వారాల కంటే ఎక్కువ దగ్గు
+
+  Total unique TE keywords: 302
+  Total TE keywords (including duplicates): 320
