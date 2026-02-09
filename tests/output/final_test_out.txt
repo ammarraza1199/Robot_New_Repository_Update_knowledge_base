@@ -1,0 +1,13 @@
+--- DEPT MATCH (Fallback: te) --- User sent 'en' but matched 'te' -> Cardiology Unit-4
+--- DEPT MATCH (Fallback: hi) --- User sent 'en' but matched 'hi' -> Pharmacy
+--- DEPT MATCH (Fallback: en) --- User sent 'te' but matched 'en' -> Cardiology Unit-1
+Loaded 2080 test cases.
+ID                             | Type            | Lang  | Status | Query
+----------------------------------------------------------------------------------------------------
+Full test log written to C:\Users\DELL\Downloads\ZeroKost\Robot_code\Robot_New_Repository_Update_knowledge_base-4.1.1\Robot_New_Repository_Update_knowledge_base-4.1.1\tests\full_test_log.csv
+----------------------------------------------------------------------------------------------------
+Completed 2080 tests in 188.91s
+Passed: 1400
+Failed: 680
+Pass Rate: 67.31%
+Report generated: C:\Users\DELL\Downloads\ZeroKost\Robot_code\Robot_New_Repository_Update_knowledge_base-4.1.1\Robot_New_Repository_Update_knowledge_base-4.1.1\tests\comprehensive_test_report.md

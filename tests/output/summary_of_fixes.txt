@@ -1,0 +1,35 @@
+This document summarizes the key failures identified and the steps taken to fix them.
+
+### 1. Core Application Stability
+
+*   **Problem:** The application crashed on startup (`AttributeError: 'Event' object has no attribute 'put'`) because the audio and interaction processes were not communicating correctly.
+*   **Fix:**
+    1.  A dedicated `audio_feedback_queue` was created in `main.py` to handle messages from the audio player.
+    2.  The `pyaudio_player.py` process was corrected to receive and use this queue.
+    3.  The `interaction_process.py` was updated to manage an `audio_playing_flag` based on "finished" messages from the feedback queue, preventing it from trying to listen while it was speaking.
+
+### 2. Speech Recognition and Interaction Loops
+
+*   **Problem:** The robot frequently failed to recognize speech, resulting in a "Sorry, I didn't catch that" loop.
+*   **Fix:** The ambient noise calibration duration in `interaction_process.py` was increased from 1.0 to 3.0 seconds, allowing for a more accurate microphone sensitivity setting.
+
+*   **Problem:** The robot would hear its own spoken responses and treat them as new commands, creating a confusing feedback loop and causing errors (like the Groq API rate-limiting).
+*   **Fix:** A 1.5-second "cooldown" period was added. After the robot finishes speaking, it now ignores all microphone input for a brief period to prevent its own echo from being processed.
+
+### 3. Deployment Robustness and Auto-Recovery
+
+*   **Problem:** The entire application would shut down if a non-essential process (like the motor controller) failed for any reason.
+*   **Fix:** The main loop in `main.py` was converted into a supervisor. It now monitors child processes and will only initiate a system-wide shutdown if an *essential* process (audio or interaction) dies.
+
+*   **Problem:** If a critical failure did occur, the application would simply stop and not recover.
+*   **Fix:**
+    1.  The `main.py` script was modified to exit with a non-zero error code (`1`) upon the failure of an essential process.
+    2.  The `hospital-robot.service` file was corrected to ensure the project paths were accurate and that the `Restart=on-failure` directive was in place. This tells the system's service manager (`systemd`) to automatically restart the application if it ever stops due to an error.
+
+### 4. Version Control and Security
+
+*   **Problem:** The code was not in version control, and a commit attempt was blocked because it contained a secret API key in the `.env` file.
+*   **Fix:**
+    1.  The `.gitignore` file was updated to correctly ignore the `.env` file.
+    2.  A local Git repository was initialized.
+    3.  The complete, cleaned codebase was successfully pushed to the `v4.1.1` branch on your GitHub repository.

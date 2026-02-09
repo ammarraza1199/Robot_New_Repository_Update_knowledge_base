@@ -1,0 +1,75 @@
+
+import pyaudio
+import wave
+import math
+import struct
+
+def generate_test_tone(file_path="test_tone.wav", frequency=440, duration=5, sample_rate=44100):
+    """
+    Generates a WAV file with a sine wave tone.
+    """
+    p = pyaudio.PyAudio()
+    
+    num_samples = duration * sample_rate
+    num_channels = 1
+    sampwidth = 2
+    num_frames = num_samples
+    
+    wav_file = wave.open(file_path, 'w')
+    wav_file.setparams((num_channels, sampwidth, sample_rate, num_frames, 'NONE', 'not compressed'))
+    
+    for i in range(num_samples):
+        # Generate a sine wave
+        value = int(32767.0 * math.sin(2 * math.pi * frequency * i / sample_rate))
+        data = struct.pack('<h', value)
+        wav_file.writeframes(data)
+        
+    wav_file.close()
+
+def find_output_device(p):
+    """Finds a suitable USB audio output device."""
+    for i in range(p.get_device_count()):
+        dev_info = p.get_device_info_by_index(i)
+        if 'USB' in dev_info.get('name', '') and dev_info.get('maxOutputChannels') > 0:
+            return i
+    return None
+
+def play_audio(device_index, file_path="test_tone.wav", sample_rate=44100):
+    p = pyaudio.PyAudio()
+
+    try:
+        print(f"Playing test tone at {sample_rate} Hz")
+        wf = wave.open(file_path, 'rb')
+
+        stream = p.open(format=p.get_format_from_width(wf.getsampwidth()),
+                        channels=wf.getnchannels(),
+                        rate=sample_rate,
+                        output=True,
+                        output_device_index=device_index)
+
+        data = wf.readframes(1024)
+        while data:
+            stream.write(data)
+            data = wf.readframes(1024)
+
+        stream.stop_stream()
+        stream.close()
+        print(f"Playback finished.")
+
+    except Exception as e:
+        print(f"Error during playback: {e}")
+    finally:
+        p.terminate()
+
+if __name__ == "__main__":
+    generate_test_tone()
+    p = pyaudio.PyAudio()
+    device_index = find_output_device(p)
+    p.terminate()
+
+    if device_index is None:
+        print("No USB audio output device found.")
+    else:
+        print(f"Found USB audio device at index: {device_index}")
+        play_.py
+udio(device_index)
