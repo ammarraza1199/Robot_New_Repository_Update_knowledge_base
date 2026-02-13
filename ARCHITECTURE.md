@@ -91,7 +91,7 @@ graph TD
     subgraph Audio Loop
         AP_Start(Audio Player Start) --> AP_Wait(Wait for audio_queue)
         AP_Wait -- Play Request --> AP_Play(Play Audio File)
-        AP_Play -- Audio Started --> AP_Flag_Set(audio_playing_flag.set())
+        AP_Play -- Audio Started --> AP_Flag_Set("audio_playing_flag.set()")
         AP_Play -- Audio Finished --> AP_Flag_Clear(audio_playing_flag.clear())
         AP_Flag_Clear --> AP_Wait
     end
@@ -128,7 +128,7 @@ graph TD
     D -- No --> F{Tier 1: Keyword-Based Interactions?}
     F -- Yes (Direct Match) --> G(Pre-defined Response from KB)
 
-    F -- No --> H[Tier 2: Navigational Logic (Departments)?]
+    F -- No --> H["Tier 2: Navigational Logic (Departments)?"]
     H -- Yes (Dept. Match) --> I(Location/Doctor Info from KB)
 
     H -- No --> J{Tier 3: LLM Fallback?}
