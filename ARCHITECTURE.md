@@ -74,7 +74,7 @@ graph TD
         VP_Start(Vision Process Start) --> VP_Capture(Capture Frame)
         VP_Capture --> VP_Detect(Detect People - YOLOv8)
         VP_Detect --> VP_Analyze(Analyze Crowd/Distancing/Queues)
-        VP_Analyze -- Trigger Audio --> Audio_Queue(audio_queue.put(message))
+        VP_Analyze -- Trigger Audio --> Audio_Queue("audio_queue.put(message)")
     end
 
     subgraph Interaction Loop
@@ -128,7 +128,7 @@ graph TD
     D -- No --> F{Tier 1: Keyword-Based Interactions?}
     F -- Yes (Direct Match) --> G(Pre-defined Response from KB)
 
-    F -- No --> H{Tier 2: Navigational Logic (Departments)?}
+    F -- No --> H{Tier 2: "Navigational Logic (Departments)?"}
     H -- Yes (Dept. Match) --> I(Location/Doctor Info from KB)
 
     H -- No --> J{Tier 3: LLM Fallback?}
