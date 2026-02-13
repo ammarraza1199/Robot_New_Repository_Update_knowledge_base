@@ -85,7 +85,7 @@ graph TD
         IP_STT --> IP_NLU(Natural Language Understanding)
         IP_NLU -- Determine Response --> IP_TTS(Generate Response / Text-to-Speech)
         IP_TTS -- Trigger Audio --> Audio_Queue
-        IP_NLU -- Determine Motor Action --> Motor_Queue(motor_queue.put(command))
+        IP_NLU -- Determine Motor Action --> Motor_Queue("motor_queue.put(command)")
     end
 
     subgraph Audio Loop
@@ -128,7 +128,7 @@ graph TD
     D -- No --> F{Tier 1: Keyword-Based Interactions?}
     F -- Yes (Direct Match) --> G(Pre-defined Response from KB)
 
-    F -- No --> H{Tier 2: "Navigational Logic (Departments)?"}
+    F -- No --> H[Tier 2: Navigational Logic (Departments)?]
     H -- Yes (Dept. Match) --> I(Location/Doctor Info from KB)
 
     H -- No --> J{Tier 3: LLM Fallback?}
