@@ -92,7 +92,7 @@ graph TD
         AP_Start(Audio Player Start) --> AP_Wait(Wait for audio_queue)
         AP_Wait -- Play Request --> AP_Play(Play Audio File)
         AP_Play -- Audio Started --> AP_Flag_Set("audio_playing_flag.set()")
-        AP_Play -- Audio Finished --> AP_Flag_Clear(audio_playing_flag.clear())
+        AP_Play -- Audio Finished --> AP_Flag_Clear("audio_playing_flag.clear()")
         AP_Flag_Clear --> AP_Wait
     end
 
