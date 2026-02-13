@@ -75,7 +75,7 @@ After completing the setup, ensure your virtual environment is activated and sim
 
 ```bash
 source .venv/bin/activate
-python src/main.py
+python main.py
 ```
 
 The application will start, and you should see log output in your terminal. If you configured it as a systemd service, it will run in the background.

@@ -34,9 +34,13 @@ For in-depth technical details about the system's components, data structures, a
 
 *   [**PROJECT_KNOWLEDGE_BASE.md**](docs/PROJECT_KNOWLEDGE_BASE.md) - A comprehensive technical reference for AI and developers.
 
+## Project Structure
+
+The project follows a flat structure for its core Python scripts, all located in the root directory. This simplifies imports and execution for a single-node application. For more details, see the [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ## Core Technologies:
 
 *   **Language**: Python 3.10+
 *   **AI Models**: YOLOv8 (Vision), Llama 3.1 via Groq (LLM)
-*   **Key Libraries**: `multiprocessing`, `ultralytics`, `SpeechRecognition`, `pyaudio`, `pygame`, `numpy`, `pyserial`.
-*   **Hardware Integration**: Picamera2, UART for motor control.
+*   **Key Libraries**: `multiprocessing`, `ultralytics`, `SpeechRecognition`, `pyaudio`, `gtts`, `python-dotenv`.
+*   **Hardware Integration**: Designed for Raspberry Pi with Picamera2, and UART for motor control.

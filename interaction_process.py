@@ -16,7 +16,7 @@ import multiprocessing
 import random
 import numpy as np
 from collections import deque
-from .logging_config import setup_logging
+from logging_config import setup_logging
 import json # Added for JSON loading
 import pyaudio # Add this
 

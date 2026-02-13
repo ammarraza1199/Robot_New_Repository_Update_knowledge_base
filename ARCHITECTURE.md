@@ -11,11 +11,10 @@ The project is organized into several key directories, each serving a specific p
 *   `.venv/`: Python virtual environment, containing isolated Python packages.
 *   `audio_cache/`: Stores cached audio files, primarily for synthesized speech responses to avoid repeated TTS generation.
 *   `config/`: Configuration files for system services (e.g., `hospital-robot.service` for `systemd`).
-*   `data/`: Contains essential data files, such as the `hospital_knowledge_base.json`, various test data, and the `yolov8n.pt` pre-trained object detection model.
+*   `data/`: Contains essential data files, such as the `hospital_knowledge_base.json`, various test data, and the `yolov8n.pt.zip` pre-trained object detection model.
 *   `docs/`: Documentation files, including project knowledge base, reports, and troubleshooting guides.
 *   `logs/`: Stores runtime logs, primarily `robot_run.log`, managed by a timed rotating file handler.
 *   `scripts/`: Utility scripts for development, testing, analysis, and maintenance tasks.
-*   `src/`: The core source code of the robot application, organized into various process modules and helper utilities.
 *   `tests/`: Contains test suites for validating different components and functionalities of the robot.
 
 ---
@@ -29,8 +28,8 @@ The Hospital Assistant Robot employs a **decentralized multi-process architectur
 ```
 +----------------+       +----------------+       +-----------------+       +-----------------+
 |   Main Process |------>| Vision Process |------>| Interaction     |------>|  Audio Manager  |
-|  (src/main.py) |<------+ (src/vision_   |<------|   Process       |<------|   Process       |
-|   (Orchestrator)|       |   process.py)  |       | (src/interaction_|<------| (src/pyaudio_   |
+|   (main.py)    |<------+ (vision_       |<------|   Process       |<------|   Process       |
+| (Orchestrator) |       |   process.py)  |       | (interaction_   |<------| (pyaudio_       |
 +----------------+       +----------------+       |   process.py)   |       |   player.py)    |
          |                                         +--------^--------+       +-----------------+
          |                                                  |
@@ -39,8 +38,7 @@ The Hospital Assistant Robot employs a **decentralized multi-process architectur
 +-----------------+                                         |
 |  Motor Control  |<----------------------------------------+
 |    Process      |
-| (src/motor_      |
-|   control_      |
+| (motor_control_ |
 |   process.py)   |
 +-----------------+
 ```
