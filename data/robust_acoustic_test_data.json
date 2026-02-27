@@ -1,0 +1,3810 @@
+[
+  {
+    "id": "TEST_EN_1000",
+    "lang": "en",
+    "text": "I have a general medicine.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1001",
+    "lang": "en",
+    "text": "I'm suffering from general medicine.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1002",
+    "lang": "en",
+    "text": "Where do I go for general medicine?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1003",
+    "lang": "en",
+    "text": "Which department handles general medicine?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1004",
+    "lang": "en",
+    "text": "My friend has general medicine, where is the doctor?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1005",
+    "lang": "en",
+    "text": "Can you help me with general medicine?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1006",
+    "lang": "en",
+    "text": "I need treatment for general medicine.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1007",
+    "lang": "en",
+    "text": "Tell me the direction for general medicine department.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1008",
+    "lang": "en",
+    "text": "I am experiencing severe general medicine right now.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1009",
+    "lang": "en",
+    "text": "Is there a specialist for general medicine here?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1010",
+    "lang": "en",
+    "text": "Please guide me to the general medicine ward.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1011",
+    "lang": "en",
+    "text": "Who treats general medicine in this hospital?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1012",
+    "lang": "en",
+    "text": "I've been dealing with general medicine since yesterday.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1013",
+    "lang": "en",
+    "text": "Show me the way to general medicine doctor.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1014",
+    "lang": "en",
+    "text": "I want to check my general medicine.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1015",
+    "lang": "en",
+    "text": "I have a bp.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1016",
+    "lang": "en",
+    "text": "I'm suffering from bp.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1017",
+    "lang": "en",
+    "text": "Where do I go for bp?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1018",
+    "lang": "en",
+    "text": "Which department handles bp?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1019",
+    "lang": "en",
+    "text": "My friend has bp, where is the doctor?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1020",
+    "lang": "en",
+    "text": "Can you help me with bp?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1021",
+    "lang": "en",
+    "text": "I need treatment for bp.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1022",
+    "lang": "en",
+    "text": "Tell me the direction for bp department.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1023",
+    "lang": "en",
+    "text": "I am experiencing severe bp right now.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1024",
+    "lang": "en",
+    "text": "Is there a specialist for bp here?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1025",
+    "lang": "en",
+    "text": "Please guide me to the bp ward.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1026",
+    "lang": "en",
+    "text": "Who treats bp in this hospital?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1027",
+    "lang": "en",
+    "text": "I've been dealing with bp since yesterday.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1028",
+    "lang": "en",
+    "text": "Show me the way to bp doctor.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1029",
+    "lang": "en",
+    "text": "I want to check my bp.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1030",
+    "lang": "en",
+    "text": "I have a blood pressure.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1031",
+    "lang": "en",
+    "text": "I'm suffering from blood pressure.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1032",
+    "lang": "en",
+    "text": "Where do I go for blood pressure?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1033",
+    "lang": "en",
+    "text": "Which department handles blood pressure?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1034",
+    "lang": "en",
+    "text": "My friend has blood pressure, where is the doctor?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1035",
+    "lang": "en",
+    "text": "Can you help me with blood pressure?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1036",
+    "lang": "en",
+    "text": "I need treatment for blood pressure.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1037",
+    "lang": "en",
+    "text": "Tell me the direction for blood pressure department.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1038",
+    "lang": "en",
+    "text": "I am experiencing severe blood pressure right now.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1039",
+    "lang": "en",
+    "text": "Is there a specialist for blood pressure here?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1040",
+    "lang": "en",
+    "text": "Please guide me to the blood pressure ward.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1041",
+    "lang": "en",
+    "text": "Who treats blood pressure in this hospital?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1042",
+    "lang": "en",
+    "text": "I've been dealing with blood pressure since yesterday.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1043",
+    "lang": "en",
+    "text": "Show me the way to blood pressure doctor.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1044",
+    "lang": "en",
+    "text": "I want to check my blood pressure.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1045",
+    "lang": "hi",
+    "text": "मुझे ऑप्थाल्मोलॉजी है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1046",
+    "lang": "hi",
+    "text": "मैं ऑप्थाल्मोलॉजी से परेशान हूँ।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1047",
+    "lang": "hi",
+    "text": "मुझे ऑप्थाल्मोलॉजी के लिए कहाँ जाना चाहिए?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1048",
+    "lang": "hi",
+    "text": "कौन सा विभाग ऑप्थाल्मोलॉजी देखता है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1049",
+    "lang": "hi",
+    "text": "मेरे दोस्त को ऑप्थाल्मोलॉजी है, डॉक्टर कहाँ है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1050",
+    "lang": "hi",
+    "text": "क्या आप ऑप्थाल्मोलॉजी में मेरी मदद कर सकते हैं?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1051",
+    "lang": "hi",
+    "text": "मुझे ऑप्थाल्मोलॉजी का इलाज चाहिए।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1052",
+    "lang": "hi",
+    "text": "कृपया ऑप्थाल्मोलॉजी विभाग का रास्ता बताएं।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1053",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज ऑप्थाल्मोलॉजी हो रहा है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1054",
+    "lang": "hi",
+    "text": "क्या यहाँ ऑप्थाल्मोलॉजी का कोई विशेषज्ञ है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1055",
+    "lang": "hi",
+    "text": "कृपया मुझे ऑप्थाल्मोलॉजी वार्ड का रास्ता दिखाएं।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1056",
+    "lang": "hi",
+    "text": "इस अस्पताल में ऑप्थाल्मोलॉजी का इलाज कौन करता है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1057",
+    "lang": "hi",
+    "text": "मुझे कल से ऑप्थाल्मोलॉजी की शिकायत है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1058",
+    "lang": "hi",
+    "text": "मुझे ऑप्थाल्मोलॉजी वाले डॉक्टर के पास जाना है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1059",
+    "lang": "hi",
+    "text": "मुझे अपनी ऑप्थाल्मोलॉजी की जांच करवानी है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1060",
+    "lang": "hi",
+    "text": "मुझे सामान्य चिकित्सा है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1061",
+    "lang": "hi",
+    "text": "मैं सामान्य चिकित्सा से परेशान हूँ।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1062",
+    "lang": "hi",
+    "text": "मुझे सामान्य चिकित्सा के लिए कहाँ जाना चाहिए?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1063",
+    "lang": "hi",
+    "text": "कौन सा विभाग सामान्य चिकित्सा देखता है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1064",
+    "lang": "hi",
+    "text": "मेरे दोस्त को सामान्य चिकित्सा है, डॉक्टर कहाँ है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1065",
+    "lang": "hi",
+    "text": "क्या आप सामान्य चिकित्सा में मेरी मदद कर सकते हैं?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1066",
+    "lang": "hi",
+    "text": "मुझे सामान्य चिकित्सा का इलाज चाहिए।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1067",
+    "lang": "hi",
+    "text": "कृपया सामान्य चिकित्सा विभाग का रास्ता बताएं।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1068",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज सामान्य चिकित्सा हो रहा है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1069",
+    "lang": "hi",
+    "text": "क्या यहाँ सामान्य चिकित्सा का कोई विशेषज्ञ है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1070",
+    "lang": "hi",
+    "text": "कृपया मुझे सामान्य चिकित्सा वार्ड का रास्ता दिखाएं।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1071",
+    "lang": "hi",
+    "text": "इस अस्पताल में सामान्य चिकित्सा का इलाज कौन करता है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1072",
+    "lang": "hi",
+    "text": "मुझे कल से सामान्य चिकित्सा की शिकायत है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1073",
+    "lang": "hi",
+    "text": "मुझे सामान्य चिकित्सा वाले डॉक्टर के पास जाना है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1074",
+    "lang": "hi",
+    "text": "मुझे अपनी सामान्य चिकित्सा की जांच करवानी है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1075",
+    "lang": "hi",
+    "text": "मुझे आंतरिक चिकित्सा है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1076",
+    "lang": "hi",
+    "text": "मैं आंतरिक चिकित्सा से परेशान हूँ।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1077",
+    "lang": "hi",
+    "text": "मुझे आंतरिक चिकित्सा के लिए कहाँ जाना चाहिए?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1078",
+    "lang": "hi",
+    "text": "कौन सा विभाग आंतरिक चिकित्सा देखता है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1079",
+    "lang": "hi",
+    "text": "मेरे दोस्त को आंतरिक चिकित्सा है, डॉक्टर कहाँ है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1080",
+    "lang": "hi",
+    "text": "क्या आप आंतरिक चिकित्सा में मेरी मदद कर सकते हैं?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1081",
+    "lang": "hi",
+    "text": "मुझे आंतरिक चिकित्सा का इलाज चाहिए।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1082",
+    "lang": "hi",
+    "text": "कृपया आंतरिक चिकित्सा विभाग का रास्ता बताएं।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1083",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज आंतरिक चिकित्सा हो रहा है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1084",
+    "lang": "hi",
+    "text": "क्या यहाँ आंतरिक चिकित्सा का कोई विशेषज्ञ है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1085",
+    "lang": "hi",
+    "text": "कृपया मुझे आंतरिक चिकित्सा वार्ड का रास्ता दिखाएं।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1086",
+    "lang": "hi",
+    "text": "इस अस्पताल में आंतरिक चिकित्सा का इलाज कौन करता है?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1087",
+    "lang": "hi",
+    "text": "मुझे कल से आंतरिक चिकित्सा की शिकायत है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1088",
+    "lang": "hi",
+    "text": "मुझे आंतरिक चिकित्सा वाले डॉक्टर के पास जाना है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1089",
+    "lang": "hi",
+    "text": "मुझे अपनी आंतरिक चिकित्सा की जांच करवानी है।",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1090",
+    "lang": "te",
+    "text": "నాకు కంటి శాస్త్ర విభాగము ఉంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1091",
+    "lang": "te",
+    "text": "నేను కంటి శాస్త్ర విభాగము తో బాధపడుతున్నాను.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1092",
+    "lang": "te",
+    "text": "నేను కంటి శాస్త్ర విభాగము కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1093",
+    "lang": "te",
+    "text": "ఏ విభాగం కంటి శాస్త్ర విభాగము చూస్తుంది?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1094",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి కంటి శాస్త్ర విభాగము ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1095",
+    "lang": "te",
+    "text": "మీరు నాకు కంటి శాస్త్ర విభాగము తో సహాయం చేయగలరా?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1096",
+    "lang": "te",
+    "text": "నాకు కంటి శాస్త్ర విభాగము కి చికిత్స కావాలి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1097",
+    "lang": "te",
+    "text": "దయచేసి కంటి శాస్త్ర విభాగము విభాగానికి దారి చెప్పండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1098",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన కంటి శాస్త్ర విభాగము వస్తోంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1099",
+    "lang": "te",
+    "text": "ఇక్కడ కంటి శాస్త్ర విభాగము నిపుణుడు ఉన్నారా?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1100",
+    "lang": "te",
+    "text": "దయచేసి నాకు కంటి శాస్త్ర విభాగము వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1101",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో కంటి శాస్త్ర విభాగము కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1102",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు కంటి శాస్త్ర విభాగము సమస్యగా ఉంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1103",
+    "lang": "te",
+    "text": "నాకు కంటి శాస్త్ర విభాగము గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1104",
+    "lang": "te",
+    "text": "నేను నా కంటి శాస్త్ర విభాగము ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1105",
+    "lang": "te",
+    "text": "నాకు ఆప్తాల్మాలజీ ఉంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1106",
+    "lang": "te",
+    "text": "నేను ఆప్తాల్మాలజీ తో బాధపడుతున్నాను.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1107",
+    "lang": "te",
+    "text": "నేను ఆప్తాల్మాలజీ కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1108",
+    "lang": "te",
+    "text": "ఏ విభాగం ఆప్తాల్మాలజీ చూస్తుంది?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1109",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి ఆప్తాల్మాలజీ ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1110",
+    "lang": "te",
+    "text": "మీరు నాకు ఆప్తాల్మాలజీ తో సహాయం చేయగలరా?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1111",
+    "lang": "te",
+    "text": "నాకు ఆప్తాల్మాలజీ కి చికిత్స కావాలి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1112",
+    "lang": "te",
+    "text": "దయచేసి ఆప్తాల్మాలజీ విభాగానికి దారి చెప్పండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1113",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన ఆప్తాల్మాలజీ వస్తోంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1114",
+    "lang": "te",
+    "text": "ఇక్కడ ఆప్తాల్మాలజీ నిపుణుడు ఉన్నారా?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1115",
+    "lang": "te",
+    "text": "దయచేసి నాకు ఆప్తాల్మాలజీ వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1116",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో ఆప్తాల్మాలజీ కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1117",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు ఆప్తాల్మాలజీ సమస్యగా ఉంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1118",
+    "lang": "te",
+    "text": "నాకు ఆప్తాల్మాలజీ గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1119",
+    "lang": "te",
+    "text": "నేను నా ఆప్తాల్మాలజీ ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1120",
+    "lang": "te",
+    "text": "నాకు జనరల్ మెడిసిన్ ఉంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1121",
+    "lang": "te",
+    "text": "నేను జనరల్ మెడిసిన్ తో బాధపడుతున్నాను.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1122",
+    "lang": "te",
+    "text": "నేను జనరల్ మెడిసిన్ కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1123",
+    "lang": "te",
+    "text": "ఏ విభాగం జనరల్ మెడిసిన్ చూస్తుంది?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1124",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి జనరల్ మెడిసిన్ ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1125",
+    "lang": "te",
+    "text": "మీరు నాకు జనరల్ మెడిసిన్ తో సహాయం చేయగలరా?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1126",
+    "lang": "te",
+    "text": "నాకు జనరల్ మెడిసిన్ కి చికిత్స కావాలి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1127",
+    "lang": "te",
+    "text": "దయచేసి జనరల్ మెడిసిన్ విభాగానికి దారి చెప్పండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1128",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన జనరల్ మెడిసిన్ వస్తోంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1129",
+    "lang": "te",
+    "text": "ఇక్కడ జనరల్ మెడిసిన్ నిపుణుడు ఉన్నారా?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1130",
+    "lang": "te",
+    "text": "దయచేసి నాకు జనరల్ మెడిసిన్ వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1131",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో జనరల్ మెడిసిన్ కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1132",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు జనరల్ మెడిసిన్ సమస్యగా ఉంది.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1133",
+    "lang": "te",
+    "text": "నాకు జనరల్ మెడిసిన్ గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1134",
+    "lang": "te",
+    "text": "నేను నా జనరల్ మెడిసిన్ ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "General Medicine",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1135",
+    "lang": "en",
+    "text": "I have a cardiology.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1136",
+    "lang": "en",
+    "text": "I'm suffering from cardiology.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1137",
+    "lang": "en",
+    "text": "Where do I go for cardiology?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1138",
+    "lang": "en",
+    "text": "Which department handles cardiology?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1139",
+    "lang": "en",
+    "text": "My friend has cardiology, where is the doctor?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1140",
+    "lang": "en",
+    "text": "Can you help me with cardiology?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1141",
+    "lang": "en",
+    "text": "I need treatment for cardiology.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1142",
+    "lang": "en",
+    "text": "Tell me the direction for cardiology department.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1143",
+    "lang": "en",
+    "text": "I am experiencing severe cardiology right now.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1144",
+    "lang": "en",
+    "text": "Is there a specialist for cardiology here?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1145",
+    "lang": "en",
+    "text": "Please guide me to the cardiology ward.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1146",
+    "lang": "en",
+    "text": "Who treats cardiology in this hospital?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1147",
+    "lang": "en",
+    "text": "I've been dealing with cardiology since yesterday.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1148",
+    "lang": "en",
+    "text": "Show me the way to cardiology doctor.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1149",
+    "lang": "en",
+    "text": "I want to check my cardiology.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1150",
+    "lang": "en",
+    "text": "I have a chest pain.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1151",
+    "lang": "en",
+    "text": "I'm suffering from chest pain.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1152",
+    "lang": "en",
+    "text": "Where do I go for chest pain?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1153",
+    "lang": "en",
+    "text": "Which department handles chest pain?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1154",
+    "lang": "en",
+    "text": "My friend has chest pain, where is the doctor?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1155",
+    "lang": "en",
+    "text": "Can you help me with chest pain?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1156",
+    "lang": "en",
+    "text": "I need treatment for chest pain.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1157",
+    "lang": "en",
+    "text": "Tell me the direction for chest pain department.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1158",
+    "lang": "en",
+    "text": "I am experiencing severe chest pain right now.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1159",
+    "lang": "en",
+    "text": "Is there a specialist for chest pain here?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1160",
+    "lang": "en",
+    "text": "Please guide me to the chest pain ward.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1161",
+    "lang": "en",
+    "text": "Who treats chest pain in this hospital?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1162",
+    "lang": "en",
+    "text": "I've been dealing with chest pain since yesterday.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1163",
+    "lang": "en",
+    "text": "Show me the way to chest pain doctor.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1164",
+    "lang": "en",
+    "text": "I want to check my chest pain.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1165",
+    "lang": "en",
+    "text": "I have a chest tightness.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1166",
+    "lang": "en",
+    "text": "I'm suffering from chest tightness.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1167",
+    "lang": "en",
+    "text": "Where do I go for chest tightness?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1168",
+    "lang": "en",
+    "text": "Which department handles chest tightness?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1169",
+    "lang": "en",
+    "text": "My friend has chest tightness, where is the doctor?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1170",
+    "lang": "en",
+    "text": "Can you help me with chest tightness?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1171",
+    "lang": "en",
+    "text": "I need treatment for chest tightness.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1172",
+    "lang": "en",
+    "text": "Tell me the direction for chest tightness department.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1173",
+    "lang": "en",
+    "text": "I am experiencing severe chest tightness right now.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1174",
+    "lang": "en",
+    "text": "Is there a specialist for chest tightness here?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1175",
+    "lang": "en",
+    "text": "Please guide me to the chest tightness ward.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1176",
+    "lang": "en",
+    "text": "Who treats chest tightness in this hospital?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1177",
+    "lang": "en",
+    "text": "I've been dealing with chest tightness since yesterday.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1178",
+    "lang": "en",
+    "text": "Show me the way to chest tightness doctor.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1179",
+    "lang": "en",
+    "text": "I want to check my chest tightness.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1180",
+    "lang": "hi",
+    "text": "मुझे कार्डियोलॉजी है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1181",
+    "lang": "hi",
+    "text": "मैं कार्डियोलॉजी से परेशान हूँ।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1182",
+    "lang": "hi",
+    "text": "मुझे कार्डियोलॉजी के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1183",
+    "lang": "hi",
+    "text": "कौन सा विभाग कार्डियोलॉजी देखता है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1184",
+    "lang": "hi",
+    "text": "मेरे दोस्त को कार्डियोलॉजी है, डॉक्टर कहाँ है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1185",
+    "lang": "hi",
+    "text": "क्या आप कार्डियोलॉजी में मेरी मदद कर सकते हैं?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1186",
+    "lang": "hi",
+    "text": "मुझे कार्डियोलॉजी का इलाज चाहिए।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1187",
+    "lang": "hi",
+    "text": "कृपया कार्डियोलॉजी विभाग का रास्ता बताएं।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1188",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज कार्डियोलॉजी हो रहा है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1189",
+    "lang": "hi",
+    "text": "क्या यहाँ कार्डियोलॉजी का कोई विशेषज्ञ है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1190",
+    "lang": "hi",
+    "text": "कृपया मुझे कार्डियोलॉजी वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1191",
+    "lang": "hi",
+    "text": "इस अस्पताल में कार्डियोलॉजी का इलाज कौन करता है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1192",
+    "lang": "hi",
+    "text": "मुझे कल से कार्डियोलॉजी की शिकायत है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1193",
+    "lang": "hi",
+    "text": "मुझे कार्डियोलॉजी वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1194",
+    "lang": "hi",
+    "text": "मुझे अपनी कार्डियोलॉजी की जांच करवानी है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1195",
+    "lang": "hi",
+    "text": "मुझे छाती में दर्द है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1196",
+    "lang": "hi",
+    "text": "मैं छाती में दर्द से परेशान हूँ।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1197",
+    "lang": "hi",
+    "text": "मुझे छाती में दर्द के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1198",
+    "lang": "hi",
+    "text": "कौन सा विभाग छाती में दर्द देखता है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1199",
+    "lang": "hi",
+    "text": "मेरे दोस्त को छाती में दर्द है, डॉक्टर कहाँ है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1200",
+    "lang": "hi",
+    "text": "क्या आप छाती में दर्द में मेरी मदद कर सकते हैं?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1201",
+    "lang": "hi",
+    "text": "मुझे छाती में दर्द का इलाज चाहिए।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1202",
+    "lang": "hi",
+    "text": "कृपया छाती में दर्द विभाग का रास्ता बताएं।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1203",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज छाती में दर्द हो रहा है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1204",
+    "lang": "hi",
+    "text": "क्या यहाँ छाती में दर्द का कोई विशेषज्ञ है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1205",
+    "lang": "hi",
+    "text": "कृपया मुझे छाती में दर्द वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1206",
+    "lang": "hi",
+    "text": "इस अस्पताल में छाती में दर्द का इलाज कौन करता है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1207",
+    "lang": "hi",
+    "text": "मुझे कल से छाती में दर्द की शिकायत है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1208",
+    "lang": "hi",
+    "text": "मुझे छाती में दर्द वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1209",
+    "lang": "hi",
+    "text": "मुझे अपनी छाती में दर्द की जांच करवानी है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1210",
+    "lang": "hi",
+    "text": "मुझे सीने में जकड़न है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1211",
+    "lang": "hi",
+    "text": "मैं सीने में जकड़न से परेशान हूँ।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1212",
+    "lang": "hi",
+    "text": "मुझे सीने में जकड़न के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1213",
+    "lang": "hi",
+    "text": "कौन सा विभाग सीने में जकड़न देखता है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1214",
+    "lang": "hi",
+    "text": "मेरे दोस्त को सीने में जकड़न है, डॉक्टर कहाँ है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1215",
+    "lang": "hi",
+    "text": "क्या आप सीने में जकड़न में मेरी मदद कर सकते हैं?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1216",
+    "lang": "hi",
+    "text": "मुझे सीने में जकड़न का इलाज चाहिए।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1217",
+    "lang": "hi",
+    "text": "कृपया सीने में जकड़न विभाग का रास्ता बताएं।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1218",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज सीने में जकड़न हो रहा है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1219",
+    "lang": "hi",
+    "text": "क्या यहाँ सीने में जकड़न का कोई विशेषज्ञ है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1220",
+    "lang": "hi",
+    "text": "कृपया मुझे सीने में जकड़न वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1221",
+    "lang": "hi",
+    "text": "इस अस्पताल में सीने में जकड़न का इलाज कौन करता है?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1222",
+    "lang": "hi",
+    "text": "मुझे कल से सीने में जकड़न की शिकायत है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1223",
+    "lang": "hi",
+    "text": "मुझे सीने में जकड़न वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1224",
+    "lang": "hi",
+    "text": "मुझे अपनी सीने में जकड़न की जांच करवानी है।",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1225",
+    "lang": "te",
+    "text": "నాకు కార్డియాలజీ ఉంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1226",
+    "lang": "te",
+    "text": "నేను కార్డియాలజీ తో బాధపడుతున్నాను.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1227",
+    "lang": "te",
+    "text": "నేను కార్డియాలజీ కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1228",
+    "lang": "te",
+    "text": "ఏ విభాగం కార్డియాలజీ చూస్తుంది?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1229",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి కార్డియాలజీ ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1230",
+    "lang": "te",
+    "text": "మీరు నాకు కార్డియాలజీ తో సహాయం చేయగలరా?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1231",
+    "lang": "te",
+    "text": "నాకు కార్డియాలజీ కి చికిత్స కావాలి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1232",
+    "lang": "te",
+    "text": "దయచేసి కార్డియాలజీ విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1233",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన కార్డియాలజీ వస్తోంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1234",
+    "lang": "te",
+    "text": "ఇక్కడ కార్డియాలజీ నిపుణుడు ఉన్నారా?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1235",
+    "lang": "te",
+    "text": "దయచేసి నాకు కార్డియాలజీ వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1236",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో కార్డియాలజీ కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1237",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు కార్డియాలజీ సమస్యగా ఉంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1238",
+    "lang": "te",
+    "text": "నాకు కార్డియాలజీ గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1239",
+    "lang": "te",
+    "text": "నేను నా కార్డియాలజీ ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1240",
+    "lang": "te",
+    "text": "నాకు ఛాతీ నొప్పి ఉంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1241",
+    "lang": "te",
+    "text": "నేను ఛాతీ నొప్పి తో బాధపడుతున్నాను.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1242",
+    "lang": "te",
+    "text": "నేను ఛాతీ నొప్పి కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1243",
+    "lang": "te",
+    "text": "ఏ విభాగం ఛాతీ నొప్పి చూస్తుంది?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1244",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి ఛాతీ నొప్పి ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1245",
+    "lang": "te",
+    "text": "మీరు నాకు ఛాతీ నొప్పి తో సహాయం చేయగలరా?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1246",
+    "lang": "te",
+    "text": "నాకు ఛాతీ నొప్పి కి చికిత్స కావాలి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1247",
+    "lang": "te",
+    "text": "దయచేసి ఛాతీ నొప్పి విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1248",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన ఛాతీ నొప్పి వస్తోంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1249",
+    "lang": "te",
+    "text": "ఇక్కడ ఛాతీ నొప్పి నిపుణుడు ఉన్నారా?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1250",
+    "lang": "te",
+    "text": "దయచేసి నాకు ఛాతీ నొప్పి వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1251",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో ఛాతీ నొప్పి కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1252",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు ఛాతీ నొప్పి సమస్యగా ఉంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1253",
+    "lang": "te",
+    "text": "నాకు ఛాతీ నొప్పి గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1254",
+    "lang": "te",
+    "text": "నేను నా ఛాతీ నొప్పి ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1255",
+    "lang": "te",
+    "text": "నాకు గుండె నొప్పి ఉంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1256",
+    "lang": "te",
+    "text": "నేను గుండె నొప్పి తో బాధపడుతున్నాను.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1257",
+    "lang": "te",
+    "text": "నేను గుండె నొప్పి కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1258",
+    "lang": "te",
+    "text": "ఏ విభాగం గుండె నొప్పి చూస్తుంది?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1259",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి గుండె నొప్పి ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1260",
+    "lang": "te",
+    "text": "మీరు నాకు గుండె నొప్పి తో సహాయం చేయగలరా?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1261",
+    "lang": "te",
+    "text": "నాకు గుండె నొప్పి కి చికిత్స కావాలి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1262",
+    "lang": "te",
+    "text": "దయచేసి గుండె నొప్పి విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1263",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన గుండె నొప్పి వస్తోంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1264",
+    "lang": "te",
+    "text": "ఇక్కడ గుండె నొప్పి నిపుణుడు ఉన్నారా?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1265",
+    "lang": "te",
+    "text": "దయచేసి నాకు గుండె నొప్పి వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1266",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో గుండె నొప్పి కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1267",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు గుండె నొప్పి సమస్యగా ఉంది.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1268",
+    "lang": "te",
+    "text": "నాకు గుండె నొప్పి గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1269",
+    "lang": "te",
+    "text": "నేను నా గుండె నొప్పి ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Cardiology Unit-1",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1270",
+    "lang": "en",
+    "text": "I have a upper abdominal pain.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1271",
+    "lang": "en",
+    "text": "I'm suffering from upper abdominal pain.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1272",
+    "lang": "en",
+    "text": "Where do I go for upper abdominal pain?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1273",
+    "lang": "en",
+    "text": "Which department handles upper abdominal pain?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1274",
+    "lang": "en",
+    "text": "My friend has upper abdominal pain, where is the doctor?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1275",
+    "lang": "en",
+    "text": "Can you help me with upper abdominal pain?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1276",
+    "lang": "en",
+    "text": "I need treatment for upper abdominal pain.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1277",
+    "lang": "en",
+    "text": "Tell me the direction for upper abdominal pain department.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1278",
+    "lang": "en",
+    "text": "I am experiencing severe upper abdominal pain right now.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1279",
+    "lang": "en",
+    "text": "Is there a specialist for upper abdominal pain here?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1280",
+    "lang": "en",
+    "text": "Please guide me to the upper abdominal pain ward.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1281",
+    "lang": "en",
+    "text": "Who treats upper abdominal pain in this hospital?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1282",
+    "lang": "en",
+    "text": "I've been dealing with upper abdominal pain since yesterday.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1283",
+    "lang": "en",
+    "text": "Show me the way to upper abdominal pain doctor.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1284",
+    "lang": "en",
+    "text": "I want to check my upper abdominal pain.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1285",
+    "lang": "en",
+    "text": "I have a burning sensation in stomach.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1286",
+    "lang": "en",
+    "text": "I'm suffering from burning sensation in stomach.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1287",
+    "lang": "en",
+    "text": "Where do I go for burning sensation in stomach?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1288",
+    "lang": "en",
+    "text": "Which department handles burning sensation in stomach?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1289",
+    "lang": "en",
+    "text": "My friend has burning sensation in stomach, where is the doctor?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1290",
+    "lang": "en",
+    "text": "Can you help me with burning sensation in stomach?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1291",
+    "lang": "en",
+    "text": "I need treatment for burning sensation in stomach.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1292",
+    "lang": "en",
+    "text": "Tell me the direction for burning sensation in stomach department.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1293",
+    "lang": "en",
+    "text": "I am experiencing severe burning sensation in stomach right now.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1294",
+    "lang": "en",
+    "text": "Is there a specialist for burning sensation in stomach here?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1295",
+    "lang": "en",
+    "text": "Please guide me to the burning sensation in stomach ward.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1296",
+    "lang": "en",
+    "text": "Who treats burning sensation in stomach in this hospital?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1297",
+    "lang": "en",
+    "text": "I've been dealing with burning sensation in stomach since yesterday.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1298",
+    "lang": "en",
+    "text": "Show me the way to burning sensation in stomach doctor.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1299",
+    "lang": "en",
+    "text": "I want to check my burning sensation in stomach.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1300",
+    "lang": "en",
+    "text": "I have a acidity after food.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1301",
+    "lang": "en",
+    "text": "I'm suffering from acidity after food.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1302",
+    "lang": "en",
+    "text": "Where do I go for acidity after food?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1303",
+    "lang": "en",
+    "text": "Which department handles acidity after food?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1304",
+    "lang": "en",
+    "text": "My friend has acidity after food, where is the doctor?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1305",
+    "lang": "en",
+    "text": "Can you help me with acidity after food?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1306",
+    "lang": "en",
+    "text": "I need treatment for acidity after food.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1307",
+    "lang": "en",
+    "text": "Tell me the direction for acidity after food department.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1308",
+    "lang": "en",
+    "text": "I am experiencing severe acidity after food right now.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1309",
+    "lang": "en",
+    "text": "Is there a specialist for acidity after food here?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1310",
+    "lang": "en",
+    "text": "Please guide me to the acidity after food ward.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1311",
+    "lang": "en",
+    "text": "Who treats acidity after food in this hospital?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1312",
+    "lang": "en",
+    "text": "I've been dealing with acidity after food since yesterday.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1313",
+    "lang": "en",
+    "text": "Show me the way to acidity after food doctor.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1314",
+    "lang": "en",
+    "text": "I want to check my acidity after food.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1315",
+    "lang": "hi",
+    "text": "मुझे पेट के ऊपरी हिस्से में दर्द है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1316",
+    "lang": "hi",
+    "text": "मैं पेट के ऊपरी हिस्से में दर्द से परेशान हूँ।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1317",
+    "lang": "hi",
+    "text": "मुझे पेट के ऊपरी हिस्से में दर्द के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1318",
+    "lang": "hi",
+    "text": "कौन सा विभाग पेट के ऊपरी हिस्से में दर्द देखता है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1319",
+    "lang": "hi",
+    "text": "मेरे दोस्त को पेट के ऊपरी हिस्से में दर्द है, डॉक्टर कहाँ है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1320",
+    "lang": "hi",
+    "text": "क्या आप पेट के ऊपरी हिस्से में दर्द में मेरी मदद कर सकते हैं?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1321",
+    "lang": "hi",
+    "text": "मुझे पेट के ऊपरी हिस्से में दर्द का इलाज चाहिए।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1322",
+    "lang": "hi",
+    "text": "कृपया पेट के ऊपरी हिस्से में दर्द विभाग का रास्ता बताएं।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1323",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज पेट के ऊपरी हिस्से में दर्द हो रहा है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1324",
+    "lang": "hi",
+    "text": "क्या यहाँ पेट के ऊपरी हिस्से में दर्द का कोई विशेषज्ञ है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1325",
+    "lang": "hi",
+    "text": "कृपया मुझे पेट के ऊपरी हिस्से में दर्द वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1326",
+    "lang": "hi",
+    "text": "इस अस्पताल में पेट के ऊपरी हिस्से में दर्द का इलाज कौन करता है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1327",
+    "lang": "hi",
+    "text": "मुझे कल से पेट के ऊपरी हिस्से में दर्द की शिकायत है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1328",
+    "lang": "hi",
+    "text": "मुझे पेट के ऊपरी हिस्से में दर्द वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1329",
+    "lang": "hi",
+    "text": "मुझे अपनी पेट के ऊपरी हिस्से में दर्द की जांच करवानी है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1330",
+    "lang": "hi",
+    "text": "मुझे पेट में जलन है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1331",
+    "lang": "hi",
+    "text": "मैं पेट में जलन से परेशान हूँ।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1332",
+    "lang": "hi",
+    "text": "मुझे पेट में जलन के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1333",
+    "lang": "hi",
+    "text": "कौन सा विभाग पेट में जलन देखता है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1334",
+    "lang": "hi",
+    "text": "मेरे दोस्त को पेट में जलन है, डॉक्टर कहाँ है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1335",
+    "lang": "hi",
+    "text": "क्या आप पेट में जलन में मेरी मदद कर सकते हैं?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1336",
+    "lang": "hi",
+    "text": "मुझे पेट में जलन का इलाज चाहिए।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1337",
+    "lang": "hi",
+    "text": "कृपया पेट में जलन विभाग का रास्ता बताएं।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1338",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज पेट में जलन हो रहा है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1339",
+    "lang": "hi",
+    "text": "क्या यहाँ पेट में जलन का कोई विशेषज्ञ है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1340",
+    "lang": "hi",
+    "text": "कृपया मुझे पेट में जलन वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1341",
+    "lang": "hi",
+    "text": "इस अस्पताल में पेट में जलन का इलाज कौन करता है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1342",
+    "lang": "hi",
+    "text": "मुझे कल से पेट में जलन की शिकायत है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1343",
+    "lang": "hi",
+    "text": "मुझे पेट में जलन वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1344",
+    "lang": "hi",
+    "text": "मुझे अपनी पेट में जलन की जांच करवानी है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1345",
+    "lang": "hi",
+    "text": "मुझे एसिडिटी है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1346",
+    "lang": "hi",
+    "text": "मैं एसिडिटी से परेशान हूँ।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1347",
+    "lang": "hi",
+    "text": "मुझे एसिडिटी के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1348",
+    "lang": "hi",
+    "text": "कौन सा विभाग एसिडिटी देखता है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1349",
+    "lang": "hi",
+    "text": "मेरे दोस्त को एसिडिटी है, डॉक्टर कहाँ है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1350",
+    "lang": "hi",
+    "text": "क्या आप एसिडिटी में मेरी मदद कर सकते हैं?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1351",
+    "lang": "hi",
+    "text": "मुझे एसिडिटी का इलाज चाहिए।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1352",
+    "lang": "hi",
+    "text": "कृपया एसिडिटी विभाग का रास्ता बताएं।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1353",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज एसिडिटी हो रहा है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1354",
+    "lang": "hi",
+    "text": "क्या यहाँ एसिडिटी का कोई विशेषज्ञ है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1355",
+    "lang": "hi",
+    "text": "कृपया मुझे एसिडिटी वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1356",
+    "lang": "hi",
+    "text": "इस अस्पताल में एसिडिटी का इलाज कौन करता है?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1357",
+    "lang": "hi",
+    "text": "मुझे कल से एसिडिटी की शिकायत है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1358",
+    "lang": "hi",
+    "text": "मुझे एसिडिटी वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1359",
+    "lang": "hi",
+    "text": "मुझे अपनी एसिडिटी की जांच करवानी है।",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1360",
+    "lang": "te",
+    "text": "నాకు వాంతులు ఉంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1361",
+    "lang": "te",
+    "text": "నేను వాంతులు తో బాధపడుతున్నాను.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1362",
+    "lang": "te",
+    "text": "నేను వాంతులు కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1363",
+    "lang": "te",
+    "text": "ఏ విభాగం వాంతులు చూస్తుంది?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1364",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి వాంతులు ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1365",
+    "lang": "te",
+    "text": "మీరు నాకు వాంతులు తో సహాయం చేయగలరా?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1366",
+    "lang": "te",
+    "text": "నాకు వాంతులు కి చికిత్స కావాలి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1367",
+    "lang": "te",
+    "text": "దయచేసి వాంతులు విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1368",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన వాంతులు వస్తోంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1369",
+    "lang": "te",
+    "text": "ఇక్కడ వాంతులు నిపుణుడు ఉన్నారా?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1370",
+    "lang": "te",
+    "text": "దయచేసి నాకు వాంతులు వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1371",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో వాంతులు కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1372",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు వాంతులు సమస్యగా ఉంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1373",
+    "lang": "te",
+    "text": "నాకు వాంతులు గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1374",
+    "lang": "te",
+    "text": "నేను నా వాంతులు ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1375",
+    "lang": "te",
+    "text": "నాకు వాంతులు అవుతున్నాయి ఉంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1376",
+    "lang": "te",
+    "text": "నేను వాంతులు అవుతున్నాయి తో బాధపడుతున్నాను.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1377",
+    "lang": "te",
+    "text": "నేను వాంతులు అవుతున్నాయి కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1378",
+    "lang": "te",
+    "text": "ఏ విభాగం వాంతులు అవుతున్నాయి చూస్తుంది?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1379",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి వాంతులు అవుతున్నాయి ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1380",
+    "lang": "te",
+    "text": "మీరు నాకు వాంతులు అవుతున్నాయి తో సహాయం చేయగలరా?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1381",
+    "lang": "te",
+    "text": "నాకు వాంతులు అవుతున్నాయి కి చికిత్స కావాలి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1382",
+    "lang": "te",
+    "text": "దయచేసి వాంతులు అవుతున్నాయి విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1383",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన వాంతులు అవుతున్నాయి వస్తోంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1384",
+    "lang": "te",
+    "text": "ఇక్కడ వాంతులు అవుతున్నాయి నిపుణుడు ఉన్నారా?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1385",
+    "lang": "te",
+    "text": "దయచేసి నాకు వాంతులు అవుతున్నాయి వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1386",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో వాంతులు అవుతున్నాయి కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1387",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు వాంతులు అవుతున్నాయి సమస్యగా ఉంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1388",
+    "lang": "te",
+    "text": "నాకు వాంతులు అవుతున్నాయి గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1389",
+    "lang": "te",
+    "text": "నేను నా వాంతులు అవుతున్నాయి ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1390",
+    "lang": "te",
+    "text": "నాకు పై కడుపులో నొప్పి ఉంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1391",
+    "lang": "te",
+    "text": "నేను పై కడుపులో నొప్పి తో బాధపడుతున్నాను.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1392",
+    "lang": "te",
+    "text": "నేను పై కడుపులో నొప్పి కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1393",
+    "lang": "te",
+    "text": "ఏ విభాగం పై కడుపులో నొప్పి చూస్తుంది?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1394",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి పై కడుపులో నొప్పి ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1395",
+    "lang": "te",
+    "text": "మీరు నాకు పై కడుపులో నొప్పి తో సహాయం చేయగలరా?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1396",
+    "lang": "te",
+    "text": "నాకు పై కడుపులో నొప్పి కి చికిత్స కావాలి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1397",
+    "lang": "te",
+    "text": "దయచేసి పై కడుపులో నొప్పి విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1398",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన పై కడుపులో నొప్పి వస్తోంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1399",
+    "lang": "te",
+    "text": "ఇక్కడ పై కడుపులో నొప్పి నిపుణుడు ఉన్నారా?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1400",
+    "lang": "te",
+    "text": "దయచేసి నాకు పై కడుపులో నొప్పి వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1401",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో పై కడుపులో నొప్పి కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1402",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు పై కడుపులో నొప్పి సమస్యగా ఉంది.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1403",
+    "lang": "te",
+    "text": "నాకు పై కడుపులో నొప్పి గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1404",
+    "lang": "te",
+    "text": "నేను నా పై కడుపులో నొప్పి ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Medical Gastroenterology",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1405",
+    "lang": "en",
+    "text": "I have a bone.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1406",
+    "lang": "en",
+    "text": "I'm suffering from bone.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1407",
+    "lang": "en",
+    "text": "Where do I go for bone?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1408",
+    "lang": "en",
+    "text": "Which department handles bone?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1409",
+    "lang": "en",
+    "text": "My friend has bone, where is the doctor?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1410",
+    "lang": "en",
+    "text": "Can you help me with bone?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1411",
+    "lang": "en",
+    "text": "I need treatment for bone.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1412",
+    "lang": "en",
+    "text": "Tell me the direction for bone department.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1413",
+    "lang": "en",
+    "text": "I am experiencing severe bone right now.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1414",
+    "lang": "en",
+    "text": "Is there a specialist for bone here?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1415",
+    "lang": "en",
+    "text": "Please guide me to the bone ward.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1416",
+    "lang": "en",
+    "text": "Who treats bone in this hospital?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1417",
+    "lang": "en",
+    "text": "I've been dealing with bone since yesterday.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1418",
+    "lang": "en",
+    "text": "Show me the way to bone doctor.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1419",
+    "lang": "en",
+    "text": "I want to check my bone.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1420",
+    "lang": "en",
+    "text": "I have a fracture.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1421",
+    "lang": "en",
+    "text": "I'm suffering from fracture.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1422",
+    "lang": "en",
+    "text": "Where do I go for fracture?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1423",
+    "lang": "en",
+    "text": "Which department handles fracture?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1424",
+    "lang": "en",
+    "text": "My friend has fracture, where is the doctor?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1425",
+    "lang": "en",
+    "text": "Can you help me with fracture?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1426",
+    "lang": "en",
+    "text": "I need treatment for fracture.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1427",
+    "lang": "en",
+    "text": "Tell me the direction for fracture department.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1428",
+    "lang": "en",
+    "text": "I am experiencing severe fracture right now.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1429",
+    "lang": "en",
+    "text": "Is there a specialist for fracture here?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1430",
+    "lang": "en",
+    "text": "Please guide me to the fracture ward.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1431",
+    "lang": "en",
+    "text": "Who treats fracture in this hospital?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1432",
+    "lang": "en",
+    "text": "I've been dealing with fracture since yesterday.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1433",
+    "lang": "en",
+    "text": "Show me the way to fracture doctor.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1434",
+    "lang": "en",
+    "text": "I want to check my fracture.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1435",
+    "lang": "en",
+    "text": "I have a ortho.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1436",
+    "lang": "en",
+    "text": "I'm suffering from ortho.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1437",
+    "lang": "en",
+    "text": "Where do I go for ortho?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1438",
+    "lang": "en",
+    "text": "Which department handles ortho?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1439",
+    "lang": "en",
+    "text": "My friend has ortho, where is the doctor?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1440",
+    "lang": "en",
+    "text": "Can you help me with ortho?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1441",
+    "lang": "en",
+    "text": "I need treatment for ortho.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1442",
+    "lang": "en",
+    "text": "Tell me the direction for ortho department.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1443",
+    "lang": "en",
+    "text": "I am experiencing severe ortho right now.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1444",
+    "lang": "en",
+    "text": "Is there a specialist for ortho here?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1445",
+    "lang": "en",
+    "text": "Please guide me to the ortho ward.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1446",
+    "lang": "en",
+    "text": "Who treats ortho in this hospital?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1447",
+    "lang": "en",
+    "text": "I've been dealing with ortho since yesterday.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1448",
+    "lang": "en",
+    "text": "Show me the way to ortho doctor.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_1449",
+    "lang": "en",
+    "text": "I want to check my ortho.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1450",
+    "lang": "hi",
+    "text": "मुझे हड्डी है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1451",
+    "lang": "hi",
+    "text": "मैं हड्डी से परेशान हूँ।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1452",
+    "lang": "hi",
+    "text": "मुझे हड्डी के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1453",
+    "lang": "hi",
+    "text": "कौन सा विभाग हड्डी देखता है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1454",
+    "lang": "hi",
+    "text": "मेरे दोस्त को हड्डी है, डॉक्टर कहाँ है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1455",
+    "lang": "hi",
+    "text": "क्या आप हड्डी में मेरी मदद कर सकते हैं?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1456",
+    "lang": "hi",
+    "text": "मुझे हड्डी का इलाज चाहिए।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1457",
+    "lang": "hi",
+    "text": "कृपया हड्डी विभाग का रास्ता बताएं।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1458",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज हड्डी हो रहा है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1459",
+    "lang": "hi",
+    "text": "क्या यहाँ हड्डी का कोई विशेषज्ञ है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1460",
+    "lang": "hi",
+    "text": "कृपया मुझे हड्डी वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1461",
+    "lang": "hi",
+    "text": "इस अस्पताल में हड्डी का इलाज कौन करता है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1462",
+    "lang": "hi",
+    "text": "मुझे कल से हड्डी की शिकायत है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1463",
+    "lang": "hi",
+    "text": "मुझे हड्डी वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1464",
+    "lang": "hi",
+    "text": "मुझे अपनी हड्डी की जांच करवानी है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1465",
+    "lang": "hi",
+    "text": "मुझे हड्डी का डॉक्टर है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1466",
+    "lang": "hi",
+    "text": "मैं हड्डी का डॉक्टर से परेशान हूँ।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1467",
+    "lang": "hi",
+    "text": "मुझे हड्डी का डॉक्टर के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1468",
+    "lang": "hi",
+    "text": "कौन सा विभाग हड्डी का डॉक्टर देखता है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1469",
+    "lang": "hi",
+    "text": "मेरे दोस्त को हड्डी का डॉक्टर है, डॉक्टर कहाँ है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1470",
+    "lang": "hi",
+    "text": "क्या आप हड्डी का डॉक्टर में मेरी मदद कर सकते हैं?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1471",
+    "lang": "hi",
+    "text": "मुझे हड्डी का डॉक्टर का इलाज चाहिए।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1472",
+    "lang": "hi",
+    "text": "कृपया हड्डी का डॉक्टर विभाग का रास्ता बताएं।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1473",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज हड्डी का डॉक्टर हो रहा है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1474",
+    "lang": "hi",
+    "text": "क्या यहाँ हड्डी का डॉक्टर का कोई विशेषज्ञ है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1475",
+    "lang": "hi",
+    "text": "कृपया मुझे हड्डी का डॉक्टर वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1476",
+    "lang": "hi",
+    "text": "इस अस्पताल में हड्डी का डॉक्टर का इलाज कौन करता है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1477",
+    "lang": "hi",
+    "text": "मुझे कल से हड्डी का डॉक्टर की शिकायत है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1478",
+    "lang": "hi",
+    "text": "मुझे हड्डी का डॉक्टर वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1479",
+    "lang": "hi",
+    "text": "मुझे अपनी हड्डी का डॉक्टर की जांच करवानी है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1480",
+    "lang": "hi",
+    "text": "मुझे ऑर्थो है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1481",
+    "lang": "hi",
+    "text": "मैं ऑर्थो से परेशान हूँ।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1482",
+    "lang": "hi",
+    "text": "मुझे ऑर्थो के लिए कहाँ जाना चाहिए?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1483",
+    "lang": "hi",
+    "text": "कौन सा विभाग ऑर्थो देखता है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1484",
+    "lang": "hi",
+    "text": "मेरे दोस्त को ऑर्थो है, डॉक्टर कहाँ है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1485",
+    "lang": "hi",
+    "text": "क्या आप ऑर्थो में मेरी मदद कर सकते हैं?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1486",
+    "lang": "hi",
+    "text": "मुझे ऑर्थो का इलाज चाहिए।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1487",
+    "lang": "hi",
+    "text": "कृपया ऑर्थो विभाग का रास्ता बताएं।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1488",
+    "lang": "hi",
+    "text": "मुझे अभी बहुत तेज ऑर्थो हो रहा है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1489",
+    "lang": "hi",
+    "text": "क्या यहाँ ऑर्थो का कोई विशेषज्ञ है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1490",
+    "lang": "hi",
+    "text": "कृपया मुझे ऑर्थो वार्ड का रास्ता दिखाएं।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1491",
+    "lang": "hi",
+    "text": "इस अस्पताल में ऑर्थो का इलाज कौन करता है?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1492",
+    "lang": "hi",
+    "text": "मुझे कल से ऑर्थो की शिकायत है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1493",
+    "lang": "hi",
+    "text": "मुझे ऑर्थो वाले डॉक्टर के पास जाना है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_HI_1494",
+    "lang": "hi",
+    "text": "मुझे अपनी ऑर्थो की जांच करवानी है।",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1495",
+    "lang": "te",
+    "text": "నాకు ఆర్థో ఉంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1496",
+    "lang": "te",
+    "text": "నేను ఆర్థో తో బాధపడుతున్నాను.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1497",
+    "lang": "te",
+    "text": "నేను ఆర్థో కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1498",
+    "lang": "te",
+    "text": "ఏ విభాగం ఆర్థో చూస్తుంది?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1499",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి ఆర్థో ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1500",
+    "lang": "te",
+    "text": "మీరు నాకు ఆర్థో తో సహాయం చేయగలరా?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1501",
+    "lang": "te",
+    "text": "నాకు ఆర్థో కి చికిత్స కావాలి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1502",
+    "lang": "te",
+    "text": "దయచేసి ఆర్థో విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1503",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన ఆర్థో వస్తోంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1504",
+    "lang": "te",
+    "text": "ఇక్కడ ఆర్థో నిపుణుడు ఉన్నారా?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1505",
+    "lang": "te",
+    "text": "దయచేసి నాకు ఆర్థో వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1506",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో ఆర్థో కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1507",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు ఆర్థో సమస్యగా ఉంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1508",
+    "lang": "te",
+    "text": "నాకు ఆర్థో గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1509",
+    "lang": "te",
+    "text": "నేను నా ఆర్థో ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1510",
+    "lang": "te",
+    "text": "నాకు ఎముక ఉంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1511",
+    "lang": "te",
+    "text": "నేను ఎముక తో బాధపడుతున్నాను.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1512",
+    "lang": "te",
+    "text": "నేను ఎముక కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1513",
+    "lang": "te",
+    "text": "ఏ విభాగం ఎముక చూస్తుంది?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1514",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి ఎముక ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1515",
+    "lang": "te",
+    "text": "మీరు నాకు ఎముక తో సహాయం చేయగలరా?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1516",
+    "lang": "te",
+    "text": "నాకు ఎముక కి చికిత్స కావాలి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1517",
+    "lang": "te",
+    "text": "దయచేసి ఎముక విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1518",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన ఎముక వస్తోంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1519",
+    "lang": "te",
+    "text": "ఇక్కడ ఎముక నిపుణుడు ఉన్నారా?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1520",
+    "lang": "te",
+    "text": "దయచేసి నాకు ఎముక వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1521",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో ఎముక కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1522",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు ఎముక సమస్యగా ఉంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1523",
+    "lang": "te",
+    "text": "నాకు ఎముక గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1524",
+    "lang": "te",
+    "text": "నేను నా ఎముక ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1525",
+    "lang": "te",
+    "text": "నాకు ఎముకల డాక్టర్ ఉంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1526",
+    "lang": "te",
+    "text": "నేను ఎముకల డాక్టర్ తో బాధపడుతున్నాను.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1527",
+    "lang": "te",
+    "text": "నేను ఎముకల డాక్టర్ కోసం ఎక్కడికి వెళ్ళాలి?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1528",
+    "lang": "te",
+    "text": "ఏ విభాగం ఎముకల డాక్టర్ చూస్తుంది?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1529",
+    "lang": "te",
+    "text": "నా స్నేహితుడికి ఎముకల డాక్టర్ ఉంది, డాక్టర్ ఎక్కడ?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1530",
+    "lang": "te",
+    "text": "మీరు నాకు ఎముకల డాక్టర్ తో సహాయం చేయగలరా?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1531",
+    "lang": "te",
+    "text": "నాకు ఎముకల డాక్టర్ కి చికిత్స కావాలి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1532",
+    "lang": "te",
+    "text": "దయచేసి ఎముకల డాక్టర్ విభాగానికి దారి చెప్పండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1533",
+    "lang": "te",
+    "text": "నాకు ఇప్పుడు తీవ్రమైన ఎముకల డాక్టర్ వస్తోంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1534",
+    "lang": "te",
+    "text": "ఇక్కడ ఎముకల డాక్టర్ నిపుణుడు ఉన్నారా?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1535",
+    "lang": "te",
+    "text": "దయచేసి నాకు ఎముకల డాక్టర్ వార్డ్ కి దారి చూపించండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1536",
+    "lang": "te",
+    "text": "ఈ ఆసుపత్రిలో ఎముకల డాక్టర్ కి ఎవరు చికిత్స చేస్తారు?",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1537",
+    "lang": "te",
+    "text": "నిన్నటి నుండి నాకు ఎముకల డాక్టర్ సమస్యగా ఉంది.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1538",
+    "lang": "te",
+    "text": "నాకు ఎముకల డాక్టర్ గురిచి డాక్టర్ కి చూపించండి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_TE_1539",
+    "lang": "te",
+    "text": "నేను నా ఎముకల డాక్టర్ ని చెక్ చేయించుకోవాలి.",
+    "expected_department": "Orthopaedics",
+    "category": "direct_symptom"
+  },
+  {
+    "id": "TEST_EN_UNKNOWN_1",
+    "lang": "en",
+    "text": "Where is the nearest cinema?",
+    "expected_department": null,
+    "category": "fallback"
+  },
+  {
+    "id": "TEST_EN_UNKNOWN_2",
+    "lang": "en",
+    "text": "Who is the prime minister of India?",
+    "expected_department": null,
+    "category": "fallback"
+  },
+  {
+    "id": "TEST_HI_UNKNOWN_1",
+    "lang": "hi",
+    "text": "ताजमहल कहाँ है?",
+    "expected_department": null,
+    "category": "fallback"
+  },
+  {
+    "id": "TEST_TE_UNKNOWN_1",
+    "lang": "te",
+    "text": "సినిమా టికెట్లు ఎక్కడ దొరుకుతాయి?",
+    "expected_department": null,
+    "category": "fallback"
+  }
+]

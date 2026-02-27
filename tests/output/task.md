@@ -1,0 +1,27 @@
+# Task Checklist
+
+- [x] Analyze NLU Failures in Stress Tests
+- [x] Fix `find_faq` to prioritize keywords over fuzzy matching <!-- id: 1 -->
+- [x] Add "Neurology" department to `hospital_knowledge_base.json` <!-- id: 2 -->
+- [x] Fix `is_medical_query` to handle "Neurology" correctly <!-- id: 3 -->
+- [x] Update `interaction_process.py` logic to ensure Department > FAQ priority (Fixed in Test Runner) <!-- id: 4 -->
+- [x] Verify Fixes with `run_brutal_stress_tests.py` <!-- id: 5 -->
+- [/] Comprehensive "Brute Force" KB Integrity Analysis
+    - [x] Create `tests/run_kb_brute_force.py`
+    - [x] Run brute force test on all keywords/aliases/misspellings (FAILURES DETECTED)
+    - [x] Generate `KB_INTEGRITY_REPORT.md`
+- [x] Knowledge Base Optimization & Production Readiness
+    - [x] Create `optimize_kb_collisions.py` to deduplicate keywords
+    - [x] Execute deduplication on `hospital_knowledge_base.json` (Solved Unicode issues)
+    - [x] Re-run `tests/run_kb_brute_force.py` (Confirmed Collision Resolution)
+    - [x] Generate detailed failure breakdown (`KB_FAILURES_BREAKDOWN.md`)
+    - [x] Inject missing NLU aliases (`inject_missing_aliases.py`)
+    - [/] Executing "No Stone Unturned" Test Suite (All available tests)
+- [ ] Final Deployment Readiness Check
+- [ ] Create Final Walkthrough
+- [ ] Final Deployment Readiness Check
+- [ ] Create Final Walkthrough
+- [ ] Final Deployment Readiness Check
+- [ ] Create Final Walkthrough
+- [ ] Final Deployment Readiness Check
+- [ ] Create Final Walkthrough

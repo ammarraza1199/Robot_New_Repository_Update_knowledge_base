@@ -1,0 +1,4602 @@
+{
+    "hospital": "NIMS Hyderabad",
+    "languages": [
+        "en",
+        "hi",
+        "te"
+    ],
+    "default_redirect_department": "general_opd",
+    "departments": [
+        {
+            "id": "general_opd",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "General OPD",
+            "aliases": [
+                "gynaecology",
+                "psychiatry",
+                "mental health",
+                "homoeopathy",
+                "pediatrics",
+                "ayurveda",
+                "sexology"
+            ],
+            "display_name": {
+                "en": "General OPD",
+                "hi": "जनरल ओपीडी",
+                "te": "జనరల్ ఓపీడీ"
+            },
+            "keywords": {
+                "en": [
+                    "multiple problems",
+                    "general checkup",
+                    "oncology",
+                    "gynaecology",
+                    "general opd",
+                    "problem",
+                    "psychiatry",
+                    "homoeopathy",
+                    "ayurveda",
+		    "Inpatient",
+		    "In patient",
+		"bp",
+		  "blood pressure",
+		  "high bp",
+		  "low bp",
+		  "blood pressure problem",
+		  "hypertension",
+		  "hypotension"
+                ],
+                "hi": [
+                    "अस्वस्थ",
+                    "आम जांच",
+                    "स्वास्थ्य परीक्षण",
+                    "ऑंकोलॉजी",
+                    "गाइनेकोलॉजी",
+                    "जनरल ओपीडी",
+                    "समस्या",
+                    "इलाज",
+                    "डॉक्टर को दिखाना है",
+                    "चेकअप",
+                    "पर्ची",
+                    "ओपीडी कार्ड",
+		"बीपी",
+		  "ब्लड प्रेशर",
+		  "हाई बीपी",
+		  "लो बीपी",
+		  "उच्च रक्तचाप",
+		  "निम्न रक्तचाप",
+		  "मुझे बीपी है"
+                ],
+                "te": [
+                    "వంట్లో నలత",
+                    "సాధారణ తనిఖీ",
+                    "ఆంకాలజీ",
+                    "గైనకాలజీ",
+                    "జనరల్ ఓపీడీ",
+                    "సాధారణ వైద్య సేవలు",
+                    "వంట్లో సమస్య",
+                    "రోడ్డు ప్రమాదం",
+                    "జారి పడ్డాను",
+                    "కాలు జారి పడ్డాను",
+                    "జబ్బు",
+                    "డాక్టర్ని చూడాలి",
+                    "చెకప్",
+                    "సలహా కోసం",
+                    "జనరల్ చెకప్",
+                    "చీటీ",
+                    "ఓపీ చెకప్",
+                    "రసీదు",
+                    "ఓపీ చిటీ",
+                    "డాక్టర్ కావాలి",
+                    "డాక్టర్ అపాయింట్‌మెంట్",
+		    "ఆరోగ్యం బాగాలేదు",
+		      "అస్వస్థత",
+		      "జనరల్ చెకప్",
+		      "చెకప్",
+		      "సమస్య",
+		    "ఒళ్లు నొప్పులు",
+		    "శరీరం బలహీనంగా ఉంది",
+		    "బలహీనంగా ఉంది",
+		"బీపీ",
+		  "హై బీపీ",
+		  "లో బీపీ",
+		  "రక్తపోటు",
+		  "అధిక రక్తపోటు",
+		  "అల్ప రక్తపోటు",
+		  "నాకు బీపీ ఉంది",
+		  "బీపీ సమస్య"
+                ]
+            },
+            "location": {
+                "en": "OPD Block, Ground Floor",
+                "hi": "ओपीडी ब्लॉक, ग्राउंड फ्लोर",
+                "te": "ఓపీడి బ్లాక్, గ్రౌండ్ ఫ్లోర్"
+            },
+            "doctors": [
+                {
+                    "name": "General Duty Doctor",
+                    "role": "OPD"
+                }
+            ]
+        },
+        {
+            "id": "general_medicine",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "General Medicine",
+            "aliases": [],
+            "display_name": {
+                "en": "General Medicine",
+                "hi": "सामान्य चिकित्सा",
+                "te": "జనరల్ మెడిసిన్"
+            },
+            "keywords": {
+                "en": [
+                    "general medicine",
+                    "bp",
+                    "blood pressure",
+                    "high blood pressure",
+                    "elevated blood pressure",
+                    "hypertension",
+                    "low blood pressure",
+                    "reduced blood pressure",
+                    "hypotension",
+                    "hypertension",
+                    "back pain",
+                    "back ache",
+                    "blood in suger",
+                    "pain in urinating",
+                    "pain in urination",
+                    "sugar",
+                    "diabetes",
+                    "diabeties type 1",
+                    "diabetis type 2",
+                    "migraine",
+                    "hole in heart",
+                    "blockage in heart",
+                    "enimic",
+                    "empty stomuch",
+                    "high sugar",
+                    "high blood sugar",
+                    "hyperglycemia",
+                    "low sugar",
+                    "low blood sugar",
+                    "hypoglycemia",
+                    "common cold",
+                    "fever",
+                    "weakness",
+		  "body pain",
+		  "body ache",
+		  "weak body",
+		  "feeling weak",
+		  "tired",
+		  "fatigue",
+"cough", 
+"cold and cough"
+				],
+                "hi": [
+                    "ऑप्थाल्मोलॉजी",
+                    "सामान्य चिकित्सा",
+                    "आंतरिक चिकित्सा",
+                    "रक्तचाप",
+                    "शुगर",
+                    "मधुमेह",
+                    "हाई शुगर",
+                    "उच्च रक्त शर्करा",
+                    "लो शुगर",
+                    "निम्न रक्त शर्करा",
+                    "सर्दी",
+                    "जुकाम",
+                    "बुखार",
+                    "तेज बुखार",
+                    "मुझे बीपी है",
+                    "मुझे शुगर है",
+                    "सर्दी लगी है",
+                    "बदन में दर्द",
+                    "ठंड लगना",
+                    "कमजोरी",
+                    "चक्कर",
+"खांसी", "जुकाम खांसी"
+                ],
+                "te": [
+                    "కంటి శాస్త్ర విభాగము",
+                    "ఆప్తాల్మాలజీ",
+                    "జనరల్ మెడిసిన్",
+                    "ఎముక వైద్యుడు",
+                    "ఎముకల వైద్యుడు",
+                    "సాధారణ వైద్యం",
+                    "రక్తపోటు",
+                    "రక్తపోటు వ్యాధి",
+                    "షుగర్",
+                    "డయాబెటిస్",
+                    "చెక్కెర వ్యాధి",
+                    "హై షుగర్",
+                    "అధిక రక్త చక్కెర",
+                    "లో షుగర్",
+                    "అల్ప రక్త చక్కెర",
+                    "జలుబు",
+                    "దగ్గు",
+                    "జ్వరం",
+                    "అధిక జ్వరం",
+                    "తీవ్రమైన జ్వరం",
+                    "నాకు బిపి ఉంది",
+                    "నాకు షుగర్ ఉంది",
+                    "జలుబు చేసింది",
+                    "నాకు జ్వరం వచ్చింది",
+                    "బీపీ సమస్య",
+                    "షుగర్ సమస్య",
+                    "పార్శ్వ నొప్పి",
+                    "చలి",
+                    "చలి జ్వరం",
+                    "నీరసం",
+                    "తల తిరగడం",
+                    "వాంతులు",
+                    "తలనొప్పి",
+                    "విపరీతమైన తలనొప్పి",
+                    "పిల్లవాడికి జ్వరం",
+                    "పిల్లవాడికి జ్వరం తగ్గట్లేదు",
+                    "మా అయ్యకు జ్వరం",
+                    "అమ్మకు బాగోలేదు",
+                    "వొంటిలో బాగోలేదు",
+                    "నాన్నగారికి జ్వరం",
+		  "శరీర నొప్పి",
+		  "బలహీనంగా ఉంది",
+		  "శరీరం బలహీనంగా ఉంది",
+		  "ఒళ్ళు బాగా లేవు",
+			"దగ్గు", 
+			"జలుబు దగ్గు"
+                ]
+            },
+            "location": {
+                "en": "OPD Block, Ground Floor",
+                "hi": "ओपीडी ब्लॉक, ग्राउंड फ्लोर",
+                "te": "ఓపీడి బ్లాక్, గ్రౌండ్ అంతస్తు"
+            },
+            "doctors": [
+                {
+                    "name": "General Physician",
+                    "role": "Physician"
+                }
+            ]
+        },
+        {
+            "id": "cardiology_unit_1",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Cardiology Unit-1",
+            "aliases": [
+                "cardilogy"
+            ],
+            "display_name": {
+                "en": "Cardiology Unit 1",
+                "hi": "कार्डियोलॉजी यूनिट 1",
+                "te": "కార్డియాలజీ యూనిట్-1"
+            },
+            "keywords": {
+                "en": [
+                    "cardiology",
+                    "chest pain",
+                    "chest tightness",
+                    "chest pressure",
+                    "heart pain",
+                    "pain in chest",
+                    "palpitations",
+                    "heart beating fast",
+                    "sweating with chest pain",
+                    "dizziness with chest pain",
+                    "pain spreading to left arm",
+                    "pain spreading to jaw",
+                    "heart discomfort",
+                    "cardiology unit 1",
+                    "cardiology unit-1",
+                    "pace maker",
+                    "pacemaker",
+                    "ECG",
+                    "heart"
+                ],
+                "hi": [
+                    "कार्डियोलॉजी",
+                    "छाती में दर्द",
+                    "सीने में जकड़न",
+                    "दिल का दर्द",
+                    "दिल की धड़कन तेज होना",
+                    "सीने में दर्द के साथ पसीना आना",
+                    "चक्कर आना",
+                    "दर्द का बाएं हाथ में फैलना",
+                    "जबड़े में दर्द",
+                    "दिल में बेचैनी",
+                    "कार्डियोलॉजी यूनिट 1",
+                    "हृदय रोग",
+                    "दिल की बीमारी",
+                    "छाती में भारीपन",
+                    "सीने में दर्द",
+                    "पैरों में सूजन",
+                    "दिल"
+                ],
+                "te": [
+                    "కార్డియాలజీ",
+                    "ఛాతీ నొప్పి",
+                    "గుండె నొప్పి",
+                    "ఛాతీలో బిగుతుగా ఉండటం",
+                    "గుండెలో పోటు",
+                    "గుండె వేగంగా కొట్టుకోవడం",
+                    "దడ",
+                    "గుండెదడ",
+                    "మేడ నరాలు లాగుతున్నాయి",
+                    "గుండె వేగంగా కొట్టుకుంటోంది",
+                    "మేడ నరాలు గుంజుతున్నాయి",
+                    "నరాలు గుంజుతున్నాయి",
+                    "ఛాతీ నొప్పితో పాటు చెమటలు",
+                    "తల తిరగడం",
+                    "కళ్ళు బైర్లు కమ్మడం",
+                    "మేడ పట్టేసింది",
+                    "కల్లు తిరగటం",
+                    "నొప్పి ఎడమ చేతికి పాకడం",
+                    "ఆరి చేతులు చెమటలు పడుతున్నాయి",
+                    "చేతులు గుంజు తున్నాయ్",
+                    "దవడకు నొప్పి పాకడం",
+                    "గుండెలో అసౌకర్యం",
+                    "కార్డియాలజీ యూనిట్",
+                    "గుండె జబ్బు",
+                    "గుండె సమస్య",
+                    "గుండె",
+                    "గుండె నొప్పి",
+                    "గుండెలో మంటగ వుంది",
+                    "గుండే లో నొప్పిగా వుంది",
+                    "ఛాతీ బరువు",
+                    "గుండె డాక్టర్",
+                    "గుండెలో భాధగా వుంది",
+                    "కాళ్లు వాపు",
+                    "కాలు నొప్పి",
+                    "కాళ్ల నొప్పి",
+                    "వాపు",
+                    "గుండె",
+                    "నిన్నటి నుంచి ఛాతీ నొప్పి",
+                    "ఛాతీ చాలా నొప్పిగా ఉంది",
+                    "గుండె పోటు",
+                    "నాన్నగారికి గుండెలో నొప్పి",
+                    "అమ్మకు గుండె నొప్పి"
+                ]
+            },
+            "location": {
+                "en": "Ground floor, rooms 2, 4, 6",
+                "hi": "ग्राउंड फ्लोर, कमरा 2, 4, 6",
+                "te": "గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6"
+            },
+            "doctors": [
+                {
+                    "name": "Dr. O. Sai Satish",
+                    "role": "Cardiologist"
+                }
+            ]
+        },
+        {
+            "id": "cardiology_unit_2",
+            "canonical_name": "Cardiology Unit-2",
+            "aliases": [],
+            "display_name": {
+                "en": "Cardiology Unit 2",
+                "hi": "कार्डियोलॉजी यूनिट 2",
+                "te": "కార్డియాలజీ యూనిట్-2"
+            },
+            "keywords": {
+                "en": [
+                    "irregular heartbeat",
+                    "heart skipping beats",
+                    "heart beating unevenly",
+                    "shortness of breath on walking",
+                    "breathlessness on exertion",
+                    "palpitations with breathlessness",
+                    "cardiology unit 2",
+                    "cardiology unit-2"
+                ],
+                "hi": [
+                    "अनियमित दिल की धड़कन",
+                    "दिल की धड़कन छूटना",
+                    "चलते समय सांस फूलना",
+                    "मेहनत करने पर सांस फूलना",
+                    "सांस फूलने के साथ धड़कन",
+                    "कार्डियोलॉजी यूनिट 2",
+                    "धड़कन बढ़ना",
+                    "सांस फूलना"
+                ],
+                "te": [
+                    "హృదయ స్పందన",
+                    "గుండె లయ తప్పడం",
+                    "గుండె కొట్టుకోవడం ఆగడం",
+                    "నడిచినప్పుడు ఆయాసం",
+                    "శ్రమతో ఆయాసం",
+                    "ఆయాసంతో దడ",
+                    "కార్డియాలజీ యూనిట్-2",
+                    "గుండె దడ",
+                    "శ్వాస బరువుగా వుంది",
+                    "గుండె బరువుగా వుంది",
+                    "శ్వాస ఆడకపోవడం"
+                ]
+            },
+            "location": {
+                "en": "Ground floor, rooms 3, 5",
+                "hi": "ग्राउंड फ्लोर, कमरा 3, 5",
+                "te": "గ్రౌండ్ ఫ్లోర్, గది 3, 5"
+            },
+            "doctors": [
+                {
+                    "name": "Dr. B. Srinivas",
+                    "role": "Cardiologist"
+                }
+            ]
+        },
+        {
+            "id": "cardiology_unit_4",
+            "canonical_name": "Cardiology Unit-4",
+            "aliases": [],
+            "display_name": {
+                "en": "Cardiology Unit 4",
+                "hi": "कार्डियोलॉजी यूनिट 4",
+                "te": "కార్డియాలజీ యూనిట్-4"
+            },
+            "keywords": {
+                "en": [
+                    "heart attack",
+                    "sudden chest pain",
+                    "collapse with chest pain",
+                    "cardiac arrest",
+                    "severe chest pain",
+                    "loss of consciousness with chest pain",
+                    "cardiology unit 4",
+                    "cardiology unit-4"
+                ],
+                "hi": [
+                    "दिल का दौरा",
+                    "हार्ट अटैक",
+                    "अचानक सीने में तेज दर्द",
+                    "सीने में दर्द के साथ बेहोशी",
+                    "कार्डियक अरेस्ट",
+                    "कार्डियोलॉजी यूनिट 4",
+                    "इमरजेंसी",
+                    "हार्ट फेल"
+                ],
+                "te": [
+                    "గుండెపోటు",
+                    "హార్ట్ ఎటాక్",
+                    "అకస్మాత్తుగా ఛాతీ నొప్పి",
+                    "ఛాతీ నొప్పితో కుప్పకూలడం",
+                    "కార్డియాక్ అరెస్ట్",
+                    "తీవ్రమైన ఛాతీ నొప్పి",
+                    "ఛాతీ నొప్పితో స్పృహ కోల్పోవడం",
+                    "కార్డియాలజీ యూనిట్-4",
+                    "అత్యవసర చికిత్స",
+                    "గుండె వైఫల్యం",
+                    "ప్రాణాపాయం"
+                ]
+            },
+            "location": {
+                "en": "Ground floor, rooms 2, 4, 6",
+                "hi": "ग्राउंड फ्लोर, कमरा 2, 4, 6",
+                "te": "గ్రౌండ్ ఫ్లోర్, గది 2, 4, 6"
+            },
+            "doctors": [
+                {
+                    "name": "Dr. M. Jyotsna",
+                    "role": "Cardiologist"
+                }
+            ]
+        },
+        {
+            "id": "medical_gastro",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Medical Gastroenterology",
+            "aliases": [],
+            "display_name": {
+                "en": "Medical Gastroenterology",
+                "hi": "मेडिकल गैस्ट्रोएंटेरोलॉजी",
+                "te": "మెడికల్ గ్యాస్ట్రోఎంటరాలజీ"
+            },
+            "keywords": {
+                "en": [
+                    "upper abdominal pain",
+                    "burning sensation in stomach",
+                    "acidity after food",
+                    "vomiting repeatedly",
+                    "loose motions",
+                    "blood in stools",
+                    "black stools",
+                    "yellow eyes",
+                    "yellow urine",
+                    "liver problem",
+                    "liver problems",
+                    "medical gastroenterology",
+                    "stomach pain"
+                ],
+                "hi": [
+                    "पेट के ऊपरी हिस्से में दर्द",
+                    "पेट में जलन",
+                    "एसिडिटी",
+                    "बार-बार उल्टी होना",
+                    "दस्त",
+                    "मल में खून",
+                    "काला मल",
+                    "पीली आँखें",
+                    "पीला पेशाब",
+                    "लीवर की समस्या",
+                    "मेडिकल गैस्ट्रोएंटेरोलॉजी",
+                    "पेट दर्द",
+                    "गैस",
+                    "कब्ज",
+                    "पेट फूलना",
+                    "भूख न लगना"
+                ],
+                "te": [
+                    "వాంతులు",
+                    "వాంతులు అవుతున్నాయి",
+                    "పై కడుపులో నొప్పి",
+                    "కడుపులో మంట",
+                    "గ్యాస్",
+                    "ఎసిడిటీ",
+                    "పదేపదే వాంతులు",
+                    "విరేచనాలు",
+                    "నీల్ల విరేచనాలు",
+                    "నిల్లా విరేచనాల",
+                    "నల్ల మలం",
+                    "పచ్చ కామెర్లు",
+                    "పసుపు రంగు మూత్రం",
+                    "కాలేయ సమస్య",
+                    "లివర్ సమస్య",
+                    "మెడికల్ గ్యాస్ట్రోఎంటరాలజీ",
+                    "కడుపు నొప్పి",
+                    "గ్యాస్ సమస్య",
+                    "కడుపులో గ్యాస్ సమస్య",
+                    "కడుపులో గ్యాస్",
+                    "మలబద్ధకం",
+                    "కడుపు ఉబ్బరం",
+                    "ఆకలి లేకపోవడం",
+                    "నిన్నటి నుంచి కడుపులో నొప్పి",
+                    "కడుపులో చాలా నొప్పిగా ఉంది",
+                    "మలం లో రక్తం"
+                ]
+            },
+            "location": {
+                "en": "5th floor, room 502",
+                "hi": "5वीं मंजिल, कमरा 502",
+                "te": "5వ అంతస్తు, గది 502"
+            },
+            "doctors": [
+                {
+                    "name": "Dr. Y. Satyanarayana Raju",
+                    "role": "Gastroenterologist"
+                }
+            ]
+        },
+        {
+            "id": "pulmonary_medicine",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Pulmonary Medicine",
+            "aliases": [],
+            "display_name": {
+                "en": "Pulmonary Medicine",
+                "hi": "पल्मोनरी मेडिसिन",
+                "te": "పల్మనరీ మెడిసిన్"
+            },
+            "keywords": {
+                "en": [
+                    "chronic cough",
+                    "cough more than 2 weeks",
+                    "breathlessness at rest",
+                    "difficulty breathing",
+                    "wheezing sound",
+                    "asthma attack",
+                    "blood in sputum",
+                    "coughing blood",
+                    "tb symptoms",
+                    "pulmonary medicine",
+                    "tb",
+                    "tuberculosis",
+                    "tb problems"
+                ],
+                "hi": [
+                    "पुरानी खांसी",
+                    "लगातार खांसी",
+                    "सांस लेने में दिक्कत",
+                    "घरघराहट",
+                    "अस्थमा",
+                    "दमा",
+                    "बलगम में खून",
+                    "खांसी में खून",
+                    "टीबी के लक्षण",
+                    "क्षय रोग",
+                    "पल्मोनरी मेडिसिन",
+                    "टीबी",
+                    "टीबी की समस्या",
+                    "सांस की तकलीफ",
+                    "फेफड़ों की बीमारी",
+                    "निमोनिया"
+                ],
+                "te": [
+                    "దీర్ఘకాలిక దగ్గు",
+                    "రెండు వారాల కంటే ఎక్కువ దగ్గు",
+                    "విశ్రాంతిగా ఉన్నప్పుడు ఆయాసం",
+                    "శ్వాస తీసుకోవడంలో ఇబ్బంది",
+                    "పీల్చడంలో ఇబ్బంది",
+                    "పట్టేసినట్టు శబ్దం",
+                    "ఉబ్బసం",
+                    "ఆస్తమా",
+                    "కఫంలో రక్తం",
+                    "కఫం",
+                    "గొంతులో కఫం ",
+                    "దగ్గులో రక్తం",
+                    "క్షయ వ్యాధి లక్షణాలు",
+                    "క్షయ",
+                    "పల్మనరీ మెడిసిన్",
+                    "టీబీ",
+                    "టీబీ సమస్యలు",
+                    "ఊపిరితిత్తుల సమస్య",
+                    "నిమోనియా",
+                    "ఆయాసం",
+                    "ఊపిరి ఆడట్లేదు",
+                    "శ్వాస ఆడకపోవడం"
+                ]
+            },
+            "location": {
+                "en": "4th floor, rooms 403 and 404",
+                "hi": "4वीं मंजिल, कमरा 403 और 404",
+                "te": "4వ అంతస్తు, గది 403 మరియు 404"
+            },
+            "doctors": [
+                {
+                    "name": "Dr. G. K. Paramjyothi",
+                    "role": "Pulmonologist"
+                }
+            ]
+        },
+        {
+            "id": "pharmacy",
+            "timings": "24x7",
+            "canonical_name": "Pharmacy",
+            "aliases": [
+                "medical store",
+                "medicine counter",
+                "phaarmacy"
+            ],
+            "display_name": {
+                "en": "Pharmacy",
+                "hi": "फार्मेसी",
+                "te": "ఫార్మసీ"
+            },
+            "keywords": {
+                "en": [
+                    "pharmacy",
+                    "medical store",
+                    "medicine",
+                    "medicines",
+                    "tablet",
+                    "tablets",
+                    "capsule",
+                    "capsules",
+                    "syrup",
+                    "injection",
+                    "prescription medicines",
+                    "medical prescription",
+                    "doctor prescription",
+                    "buy medicines",
+                    "drug counter",
+                    "medicine counter",
+                    "collect medicines"
+                ],
+                "hi": [
+                    "फार्मेसी",
+                    "मेडिकल स्टोर",
+                    "दवा",
+                    "दवाइयाँ",
+                    "गोली",
+                    "टैबलेट",
+                    "कैप्सूल",
+                    "सिरप",
+                    "इंजेक्शन",
+                    "पर्ची की दवा",
+                    "दवा लेना",
+                    "दवा काउंटर",
+                    "दवा मिलेगी",
+                    "दवाई की दुकान",
+                    "मेडिकल",
+                    "pharmacy",
+                    "medical"
+                ],
+                "te": [
+                    "ఫార్మసీ",
+                    "మెడికల్ స్టోర్",
+                    "మందులు",
+                    "మందు",
+                    "టాబ్లెట్",
+                    "గోలీలు",
+                    "క్యాప్సూల్",
+                    "సిరప్",
+                    "ఇంజెక్షన్",
+                    "సూది మందు",
+                    "డాక్టర్ ప్రిస్క్రిప్షన్ మందులు",
+                    "మందులు కొనాలి",
+                    "మెడిసిన్ కౌంటర్",
+                    "మందులు తీసుకోవాలి",
+                    "మందుల షాపు",
+                    "మెడికల్ షాప్",
+                    "pharmacy",
+                    "medical shop"
+                ]
+            },
+            "location": {
+                "en": "Ground Floor, Super Specialty Block, Room No. 13",
+                "hi": "ग्राउंड फ्लोर, सुपर स्पेशियलिटी ब्लॉक, कमरा नंबर 13",
+                "te": "గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13"
+            },
+            "doctors": [
+                {
+                    "name": "Duty Pharmacist",
+                    "role": "Pharmacist"
+                }
+            ]
+        },
+        {
+            "id": "urology",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Urology",
+            "aliases": [],
+            "display_name": {
+                "en": "Urology",
+                "hi": "यूरोलॉजी",
+                "te": "యూరాలజీ"
+            },
+            "keywords": {
+                "en": [
+                    "burning while urinating",
+                    "blood in urine",
+                    "frequent urination",
+                    "pain while passing urine",
+                    "difficulty urinating",
+                    "kidney stone pain",
+                    "lower abdominal pain with urine",
+                    "urology",
+                    "kidney stone"
+                ],
+                "hi": [
+                    "पेशाब में जलन",
+                    "मूत्र में जलन",
+                    "पेशाब में खून",
+                    "बार-बार पेशाब आना",
+                    "पेशाब करते समय दर्द",
+                    "गुर्दे की पथरी का दर्द",
+                    "यूरोलॉजी",
+                    "पेशाब रुकना",
+                    "प्रोस्टेट",
+                    "पथरी"
+                ],
+                "te": [
+                    "మూత్రంలో మంట",
+                    "మూత్రంలో రక్తం",
+                    "తరచుగా మూత్రవిసర్జన",
+                    "మూత్రం పోసేటప్పుడు నొప్పి",
+                    "మూత్ర విసర్జనలో ఇబ్బంది",
+                    "కిడ్నీలో రాళ్ల నొప్పి",
+                    "మూత్రపిండాల్లో రాయి",
+                    "యూరాలజీ",
+                    "కిడ్నీ స్టోన్",
+                    "మూత్రం ఆగిపోవడం",
+                    "సంచిలో రాయి",
+                    "కిడ్నీలో రాయి"
+                ]
+            },
+            "location": {
+                "en": "6th floor, rooms 609, 611",
+                "hi": "6वीं मंजिल, कमरा 609, 611",
+                "te": "6వ అంతస్తు, గది 609, 611"
+            },
+            "doctors": [
+                {
+                    "name": "Dr. Ch. Ram Reddy",
+                    "role": "Urologist"
+                }
+            ]
+        },
+        {
+            "id": "vascular_surgery",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Vascular Surgery",
+            "aliases": [],
+            "display_name": {
+                "en": "Vascular Surgery",
+                "hi": "वैस्कुलर सर्जरी",
+                "te": "వాస్కులర్ సర్జరీ"
+            },
+            "keywords": {
+                "en": [
+                    "leg swelling",
+                    "painful leg swelling",
+                    "varicose veins",
+                    "black discoloration of leg",
+                    "non healing foot wound",
+                    "blood clot in leg",
+                    "vascular surgery",
+                    "foot wound",
+                    "healing",
+                    "diabetic foot",
+                    "swollen leg",
+                    "blood vessel",
+                    "veins",
+                    "arteries"
+                ],
+                "hi": [
+                    "पैर में सूजन",
+                    "पैर में दर्दनाक सूजन",
+                    "वैरिकाज़ नसें",
+                    "नसों का उभरना",
+                    "पैर का काला पड़ना",
+                    "पैर में घाव जो ठीक न हो",
+                    "पैर में खून का थक्का",
+                    "वैस्कुलर सर्जरी",
+                    "पैर का घाव",
+                    "नासूर",
+                    "मधुमेह पैर",
+                    "नसें",
+                    "ब्लड ब्लॉक",
+                    "पैर काला पड़ना"
+                ],
+                "te": [
+                    "కాళ్ళ వాపు",
+                    "నొప్పితో కూడిన కాళ్ళ వాపు",
+                    "వెరికోస్ వీన్స్",
+                    "నరాలు ఉబ్బడం",
+                    "కాలు నల్లగా మారడం",
+                    "మానని పాదాల పుండు",
+                    "కాలిలో రక్తం గడ్డకట్టడం",
+                    "వాస్కులర్ సర్జరీ",
+                    "పాదాల పుండు",
+                    "షుగర్ పుండు",
+                    "నరాల సమస్య",
+                    "నరాలు",
+                    "రక్తం గడ్డకట్టడం",
+                    "కాలు నల్లబడటం",
+                    "కాళ్లు వాపు",
+                    "కాళ్ళ వాపు"
+                ]
+            },
+            "location": {
+                "en": "5th floor, room 501",
+                "hi": "5वीं मंजिल, कमरा 501",
+                "te": "5వ అంతస్తు, గది 501"
+            },
+            "doctors": [
+                {
+                    "name": "Dr. Sandeep Mahapatra",
+                    "role": "Vascular Surgeon"
+                }
+            ]
+        },
+        {
+            "id": "radiology",
+            "timings": "24x7",
+            "canonical_name": "Radiology",
+            "aliases": [
+                "imaging",
+                "diagnostics"
+            ],
+            "display_name": {
+                "en": "Radiology Department",
+                "hi": "रेडियोलॉजी विभाग",
+                "te": "రేడియాలజీ విభాగం"
+            },
+            "keywords": {
+                "en": [
+                    "xray",
+                    "x-ray",
+                    "x ray",
+                    "scan",
+                    "ct scan",
+                    "mri",
+                    "imaging",
+                    "radiology"
+                ],
+                "hi": [
+                    "एक्स-रे",
+                    "स्कैन",
+                    "सीटी स्कैन",
+                    "एमआरआई",
+                    "रेडियोलॉजी",
+                    "खून की जांच",
+                    "एक्स-रे करवाना है",
+                    "स्कैन की रिपोर्ट",
+                    "एक्स-रे विभाग कहाँ है",
+                    "स्कैनिंग रूम"
+                ],
+                "te": [
+                    "ఎక్స్-రే",
+                    "స్కాన్",
+                    "సీటీ స్కాన్",
+                    "ఎంఆర్ఐ",
+                    "రేడియాలజీ",
+                    "ఎక్స్-రే తీయించుకోవాలి",
+                    "స్కానింగ్ చేయించుకోవాలి",
+                    "ఎక్స్-రే రిపోర్ట్",
+                    "స్కాన్ రిపోర్ట్",
+                    "ఎక్స్-రే విభాగం ఎక్కడ",
+                    "స్కానింగ్ రూమ్",
+                    "స్కానింగ్ రూమ్ఎ క్కడ",
+                    "రిపోర్టులు ఎక్కడ ఇస్తారు"
+                ]
+            },
+            "location": {
+                "en": "Ground Floor, Diagnostic Block",
+                "hi": "ग్राउంड फ्लोर, डायग्नोस्टिक ब్लాక్",
+                "te": "గ్రౌండ్ ఫ్లోర్, డయాగ్నోస్టిక్ బ్లాక్"
+            },
+            "doctors": [
+                {
+                    "name": "Radiology Technician",
+                    "role": "Technician"
+                }
+            ]
+        },
+        {
+            "id": "paediatrics",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Paediatrics",
+            "aliases": [
+                "pediatrics",
+                "child care"
+            ],
+            "display_name": {
+                "en": "Paediatrics Department",
+                "hi": "बाल रोग विभाग",
+                "te": "పిల్లల వైద్య విభాగం"
+            },
+            "keywords": {
+                "en": [
+                    "child",
+                    "children",
+                    "kid",
+                    "baby",
+                    "infant",
+                    "paediatrics",
+                    "pediatrics"
+                ],
+                "hi": [
+                    "बच्चों का डॉक्टर",
+                    "बाल रोग",
+                    "बच्चा",
+                    "शिशु",
+                    "बच्चों का अस्पताल",
+                    "नवजात शिशु",
+                    "टीकाकरण",
+                    "बच्चे को बुखार है",
+                    "बच्चों का वार्ड"
+                ],
+                "te": [
+                    "పిల్లల డాక్టర్",
+                    "పిల్లలు",
+                    "పిల్లకి",
+                    "బిడ్డ",
+                    "శిశువు",
+                    "పసిపిల్లల వైద్యం",
+                    "పిల్లల ఆసుపత్రి",
+                    "చిన్న పిల్లల డాక్టర్",
+                    "టీకాలు",
+                    "పిల్లలకి జ్వరం",
+                    "చిన్న పిల్లల వార్డు",
+                    "పిల్లల వార్డు"
+                ]
+            },
+            "location": {
+                "en": "2nd Floor, OPD Block",
+                "hi": "दूसरी मंजिल, ओपीडी ब్लాక్",
+                "te": "2వ అంతస్తు, ఓపీడి బ్లాక్"
+            },
+            "doctors": [
+                {
+                    "name": "Paediatrician on Duty",
+                    "role": "Paediatrician"
+                }
+            ]
+        },
+        {
+            "id": "dermatology",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Dermatology",
+            "aliases": [
+                "skin"
+            ],
+            "display_name": {
+                "en": "Dermatology Department",
+                "hi": "त्वचा रोग विभाग",
+                "te": "చర్మ వైద్య విభాగం"
+            },
+            "keywords": {
+                "en": [
+                    "skin",
+                    "rash",
+                    "allergy",
+                    "dermatology",
+                    "skin doctor"
+                ],
+                "hi": [
+                    "त्वचा",
+                    "चर्म रोग",
+                    "खुजली",
+                    "एलर्जी",
+                    "त्वचा की समस्याएं",
+                    "दाग-धब्बे",
+                    "बाल झड़ना",
+                    "नाखून की समस्या"
+                ],
+                "te": [
+                    "చర్మ వైద్యుడు",
+                    "చర్మం",
+                    "దురద",
+                    "అలర్జీ",
+                    "చర్మ సమస్యలు",
+                    "మచ్చలు",
+                    "గజ్జి",
+                    "తామర",
+                    "వెంట్రుకలు రాలడం",
+                    "గోళ్ళ సమస్యలు"
+                ]
+            },
+            "location": {
+                "en": "3rd Floor, OPD Block",
+                "hi": "तीसरी मंजिल, ओपीडी ब్లాక్",
+                "te": "3వ అంతస్తు, ఓపీడి బ్లాక్"
+            },
+            "doctors": [
+                {
+                    "name": "Dermatologist on Duty",
+                    "role": "Dermatologist"
+                }
+            ]
+        },
+        {
+            "id": "orthopaedics",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Orthopaedics",
+            "aliases": [
+                "orthopedics",
+                "bone"
+            ],
+            "display_name": {
+                "en": "Orthopaedics Department",
+                "hi": "हड्डी रोग विभाग",
+                "te": "ఎముకల వైద్య విభాగం"
+            },
+            "keywords": {
+                "en": [
+                    "bone",
+                    "fracture",
+                    "ortho",
+                    "orthopedics",
+                    "orthopaedics",
+                    "joint pain"
+                ],
+                "hi": [
+                    "हड्डी",
+                    "हड्डी का डॉक्टर",
+                    "ऑर्थो",
+                    "फ्रैक्चर",
+                    "जोड़ों का दर्द",
+                    "कमर दर्द",
+                    "घुटने का दर्द",
+                    "हड्डी टूट गई",
+                    "मोच"
+                ],
+                "te": [
+                    "ఆర్థో",
+                    "ఎముక",
+                    "ఎముకల డాక్టర్",
+                    "ఫ్రాక్చర్",
+                    "కీళ్ళు",
+                    "కీళ్ల నొప్పులు",
+                    "నడుము నొప్పి",
+                    "ముడుకుల్లో నొప్పి",
+                    "మోకాళ్ళ నొప్పి",
+                    "ఎముక విరిగింది",
+                    "ఎముక పగులు",
+                    "బెణుకు",
+		"ఎముకల వైద్యుడు",
+		  "ఎముకల వైద్యుడు ఎక్కడ",
+		  "ఎముకల డాక్టర్",
+		  "ఎముకల డాక్టర్ ఎక్కడ",
+		  "ఆర్థో డాక్టర్",
+		  "ఆర్థోపెడిక్ డాక్టర్",
+		  "ఆర్థోపెడిక్ వైద్యుడు",
+		  "ఆర్థోపెడిక్స్",
+		  "ఆర్థోపెడిక్స్ విభాగం",
+		  "ఎముకల విభాగం"
+                ]
+            },
+            "location": {
+                "en": "4th Floor, Surgical Block",
+                "hi": "चौथी मंजिल, सर्जिकल ब్लాక్",
+                "te": "4వ అంతస్తు, సర్జికల్ బ్లాక్"
+            },
+            "doctors": [
+                {
+                    "name": "Orthopaedic Surgeon",
+                    "role": "Surgeon"
+                }
+            ]
+        },
+        {
+            "id": "neurology",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Neurology",
+            "aliases": [
+                "neuro"
+            ],
+            "display_name": {
+                "en": "Neurology Department",
+                "hi": "न्यूरोलॉजी विभाग",
+                "te": "న్యూరాలజీ విభాగం"
+            },
+            "keywords": {
+                "en": [
+                    "brain",
+                    "neuro",
+                    "neurology",
+                    "seizure",
+                    "stroke",
+                    "paralysis"
+                ],
+                "hi": [
+                    "दिमाग",
+                    "न्यूरो",
+                    "मिरगी",
+                    "लकवा",
+                    "सिर दर्द",
+                    "चक्कर आना",
+                    "सुन्न होना",
+                    "नसों की कमजोरी",
+                    "याददाश्त कमजोर होना"
+                ],
+                "te": [
+                    "న్యూరో",
+                    "మెదడు",
+                    "నరాల",
+                    "మూర్ఛ",
+                    "పక్షవాతం",
+                    "తల నొప్పి",
+                    "తల తిరగడం",
+                    "తిమ్మిర్లు",
+                    "నరాల బలహీనత",
+                    "మతిమరుపు"
+                ]
+            },
+            "location": {
+                "en": "5th Floor, Specialty Block",
+                "hi": "पांचवीं मंजिल, స్పెషాలిటీ ब్లాक్",
+                "te": "5వ అంతస్తు, స్పెషాలిటీ బ్లాక్"
+            },
+            "doctors": [
+                {
+                    "name": "Neurologist on Duty",
+                    "role": "Neurologist"
+                }
+            ]
+        },
+        {
+            "id": "dental",
+            "timings": "9:00 AM - 4:00 PM",
+            "canonical_name": "Dental",
+            "aliases": [
+                "dentistry"
+            ],
+            "display_name": {
+                "en": "Dental Department",
+                "hi": "दंत चिकित्सा विभाग",
+                "te": "దంత వైద్య విభాగం"
+            },
+            "keywords": {
+                "en": [
+                    "teeth",
+                    "tooth",
+                    "dental",
+                    "dentist",
+                    "gum"
+                ],
+                "hi": [
+                    "दांत",
+                    "डेंटल",
+                    "दंत चिकित्सक"
+                ],
+                "te": [
+                    "డెంటల్",
+                    "దంతాలు",
+                    "పళ్ళు",
+                    "పంటి చిగుళ్ల నొప్పి",
+                    "చిగుళ్ల నొప్పి",
+                    "దవడలో నొప్పి",
+                    "చిగుళ్ళు"
+                ]
+            },
+            "location": {
+                "en": "Ground Floor, OPD Block",
+                "hi": "ग్राउంड फ्लोर, ओपीडी ब్లాక్",
+                "te": "గ్రౌండ్ ఫ్లోర్, ఓపీడి బ్లాక్"
+            },
+            "doctors": [
+                {
+                    "name": "Dentist on Duty",
+                    "role": "Dentist"
+                }
+            ]
+        },
+        {
+            "id": "laboratory",
+            "canonical_name": "Laboratory",
+            "aliases": [
+                "lab",
+                "pathology",
+                "biochemistry",
+                "diagnostics"
+            ],
+            "display_name": {
+                "en": "Department of Lab Medicine",
+                "hi": "प्रयोगशाला चिकित्सा विभाग",
+                "te": "ల్యాబ్ మెడిసిన్ విభాగం"
+            },
+            "timings": "24x7",
+            "keywords": {
+                "en": [
+                    "blood test",
+                    "urine test",
+                    "lab",
+                    "diagnostics",
+                    "pathology",
+                    "biochemistry",
+                    "testing"
+                ],
+                "hi": [
+                    "खून की जांच",
+                    "पेशाब की जांच",
+                    "लैब",
+                    "डायग्नोस्टिक्स",
+                    "ब्लड टेस्ट"
+                ],
+                "te": [
+                    "రక్త పరీక్ష",
+                    "మూత్ర పరీక్ష",
+                    "మూత్రం లో రక్తం",
+                    "మలం లో రక్తం",
+                    "పిత్తులు యెక్కువగా వస్తున్నాయి",
+                    "గ్యాస్ సమస్య",
+                    "రక్త పరీక్షా విభాగము",
+                    "ల్యాబ్",
+                    "డయాగ్నోస్టిక్స్",
+                    "బ్లడ్ టెస్ట్"
+                ]
+            },
+            "location": {
+                "en": "Diagnostic Block, Ground Floor",
+                "hi": "डायग्नोस्टिक ब्लॉक, ग्राउंड फ्लोर",
+                "te": "డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్"
+            },
+            "doctors": [
+                {
+                    "name": "Lab Technician",
+                    "role": "Technician"
+                }
+            ]
+        },
+        {
+            "id": "ent",
+            "canonical_name": "ENT",
+            "aliases": [
+                "ear nose throat",
+                "otorhinolaryngology"
+            ],
+            "display_name": {
+                "en": "ENT Department",
+                "hi": "ईएनटी विभाग",
+                "te": "ఈఎన్టీ విభాగం"
+            },
+            "timings": "9:00 AM - 4:00 PM",
+            "keywords": {
+                "en": [
+                    "ear",
+                    "nose",
+                    "throat",
+                    "ent",
+                    "hearing",
+                    "sinus",
+                    "otorhinolaryngology"
+                ],
+                "hi": [
+                    "कान",
+                    "नाक",
+                    "गला",
+                    "ईएनटी",
+                    "सुनने में दिक्कत"
+                ],
+                "te": [
+                    "చెవి",
+                    "చేముడు",
+                    "ముక్కు",
+                    "గొంతు",
+                    "గొంతులో సమశ్య",
+                    "గొంతులో దురద",
+                    "చెవి నొప్పి",
+                    "కొండా నాలిక",
+                    "ముక్కు కారటం",
+                    "చెవిలో దురద",
+                    "ఈఎన్టీ",
+                    "వినికిడి సమస్య",
+"చెవి వినపడటం లేదు",
+  "చెవిలో వినపడటం లేదు",
+  "చెవి వినికిడి సమస్య",
+  "వినికిడి తగ్గింది"
+                ]
+            },
+            "location": {
+                "en": "OPD Block, 1st Floor",
+                "hi": "ओपीडी ब्लॉक, पहली मंजिल",
+                "te": "ఓపీడి బ్లాక్, 1వ అంతస్తు"
+            },
+            "doctors": [
+                {
+                    "name": "ENT Specialist",
+                    "role": "Consultant"
+                }
+            ]
+        },
+        {
+            "id": "ophthalmology",
+            "canonical_name": "Ophthalmology",
+            "aliases": [
+                "eye",
+                "vision"
+            ],
+            "display_name": {
+                "en": "Ophthalmology Department",
+                "hi": "नेत्र रोग विभाग",
+                "te": "కంటి వైద్య విభాగం"
+            },
+            "timings": "9:00 AM - 4:00 PM",
+            "keywords": {
+                "en": [
+                    "eye",
+                    "eyes",
+                    "vision",
+                    "ophthalmology",
+                    "cataract",
+                    "blindness"
+                ],
+                "hi": [
+                    "आंख",
+                    "नेत्र",
+                    "दृष्टि",
+                    "मोतियाबिंद",
+                    "दिखाई नहीं दे रहा"
+                ],
+                "te": [
+                     "కంట్లో దురద",
+		  "కంట్లో ఇన్ఫెక్షన్",
+		  "కళ్ళు ఎర్రగా ఉన్నాయి",
+		  "కంటి శుక్లాలు",
+		  "శుక్లాలు",
+		  "చూపు తగ్గింది",
+		  "కళ్ళు కనిపించడం లేదు",
+		  "కంట్లో నొప్పి",
+		  "కంటి వైద్యం",
+		  "కంటి డాక్టర్",
+		  "కంటి శాస్త్ర విభాగము",
+		  "కళ్ళు మండుతున్నాయి",
+		  "కళ్ళు నీరు కారుతోంది",
+		  "కంట్లో నీరు కారటం",
+		  "కంట్లో మంట",
+		  "కంటి చూపు తగ్గింది",
+		  "కళ్ళు మసకగా కనిపిస్తున్నాయి",
+		  "కళ్ళు నొప్పిగా ఉన్నాయి",
+		  "కంటికి దెబ్బ తగిలింది",
+		  "కంట్లో మలినం పడింది",
+		  "కంటి పరీక్ష",
+		  "కళ్ళు పరీక్ష"
+                ]
+            },
+            "location": {
+                "en": "OPD Block, 2nd Floor",
+                "hi": "ओपीडी ब्लॉक, दूसरी मंजिल",
+                "te": "ఓపీడి బ్లాక్, 2వ అంతస్తు"
+            },
+            "doctors": [
+                {
+                    "name": "Ophthalmologist",
+                    "role": "Consultant"
+                }
+            ]
+        }
+    ],
+    "services": [
+        {
+            "id": "ecg",
+            "name": "ECG",
+            "department": "Cardiology",
+            "keywords": [
+                "ecg",
+                "heart test",
+                "electrocardiogram"
+            ],
+            "location": "Super Specialty Block, Ground Floor",
+            "duration_minutes": "10-15"
+        },
+        {
+            "id": "echo",
+            "name": "Echocardiography",
+            "department": "Cardiology",
+            "keywords": [
+                "echo",
+                "2d echo",
+                "heart scan"
+            ],
+            "location": "Super Specialty Block, Ground Floor",
+            "duration_minutes": "20-30"
+        },
+        {
+            "id": "tmt",
+            "name": "TMT",
+            "department": "Cardiology",
+            "keywords": [
+                "tmt",
+                "treadmill test",
+                "stress test"
+            ],
+            "location": "Super Specialty Block, Ground Floor"
+        },
+        {
+            "id": "angiography",
+            "name": "Coronary Angiography",
+            "department": "Cardiology",
+            "keywords": [
+                "angiography",
+                "angio"
+            ],
+            "location": "Cath Lab, Super Specialty Block"
+        }
+    ],
+    "diagnostics": [
+        {
+            "id": "cardiology_diagnostics",
+            "department": "Cardiology",
+            "services": [
+                "ECG",
+                "Echo",
+                "TMT",
+                "Angiography"
+            ],
+            "location": "Super Specialty Block, Ground Floor"
+        }
+    ],
+    "wards": [
+        {
+            "id": "cardiology_ward",
+            "department": "Cardiology",
+            "type": "Inpatient Ward",
+            "floors": [
+                "1st Floor",
+                "2nd Floor"
+            ],
+            "block": "Super Specialty Block"
+        }
+    ],
+    "icus": [
+        {
+            "id": "cardiology_icu",
+            "department": "Cardiology",
+            "floor": "1st Floor",
+            "block": "Super Specialty Block",
+            "access": "Restricted"
+        }
+    ],
+    "processes": [
+        {
+            "id": "op_registration",
+            "name": "OP Registration",
+            "steps": [
+                "Go to OPD registration counter",
+                "Pay OP fee",
+                "Collect OP card",
+                "Proceed to concerned department"
+            ]
+        },
+        {
+            "id": "report_collection",
+            "name": "Report Collection",
+            "steps": [
+                "Visit diagnostics counter",
+                "Submit test receipt",
+                "Collect reports"
+            ]
+        }
+    ],
+    "policies": {
+        "hospital_hours": "24x7",
+        "emergency_services": "24x7",
+        "attendants_allowed": 1,
+        "lost_and_found": "General Enquiry Counter",
+        "pharmacy_hours": "24x7"
+    },
+    "interactions": [
+        {
+            "category": "Interactive",
+            "id": "greet_hi",
+            "question": {
+                "en": "Hi",
+                "hi": "नमस्ते",
+                "te": "హాయ్"
+            },
+            "answer": {
+                "en": "Hello! Welcome to NIMS Hospital. How can I assist you today?",
+                "hi": "नमस्ते! निम्स अस्पताल में आपका स्वागत है। आज मैं आपकी कैसे मदद कर सकता हूँ?",
+                "te": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్వాగతం. ఈ రోజు నేను మీకు ఎలా సహాయపడగలను?"
+            },
+            "keywords": {
+                "en": [
+                    "hi",
+                    "hey",
+                    "hello",
+                    "hai",
+                    "hii",
+                    "hlo",
+                    "good morning",
+                    "good evening",
+                    "greetings",
+                    "namaste"
+                ],
+                "hi": [
+                    "नमस्ते",
+                    "नमस्कार",
+                    "हाय",
+                    "हेलो",
+                    "राम राम",
+                    "प्रणाम",
+                    "नमस्ते जी"
+                ],
+                "te": [
+                    "హాయ్",
+                    "హలో",
+                    "నమస్కారం",
+                    "నమస్తే",
+                    "హాయ్ అండి",
+                    "హలో అండి"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "greet_hello",
+            "question": {
+                "en": "Hello",
+                "hi": "हेलो",
+                "te": "హలో"
+            },
+            "answer": {
+                "en": "Hello! I am here to help you navigate the hospital.",
+                "hi": "नमस्ते! मैं अस्पताल में आपका मार्गदर्शन करने के लिए यहां हूं।",
+                "te": "హలో! ఆసుపత్రిలో మీకు మార్గనిర్దేశం చేయడానికి నేను ఇక్కడ ఉన్నాను."
+            },
+            "keywords": {
+                "en": [
+                    "hello",
+                    "helo",
+                    "hallo",
+                    "halo",
+                    "help",
+                    "assist",
+                    "guide"
+                ],
+                "hi": [
+                    "हेलो",
+                    "हैलो",
+                    "मदद",
+                    "सहायता"
+                ],
+                "te": [
+                    "హలో",
+                    "హలో బాబు",
+                    "సహాయం",
+                    "గైడ్"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "greet_how_are_you",
+            "question": {
+                "en": "How are you?",
+                "hi": "आप कैसे हैं?",
+                "te": "మీరు ఎలా ఉన్నారు?"
+            },
+            "answer": {
+                "en": "I am just a robot, but I am functioning perfectly! Thank you for asking.",
+                "hi": "मैं सिर्फ एक रोबोट हूं, लेकिन मैं पूरी तरह से ठीक काम कर रहा हूं! पूछने के लिए धन्यवाद।",
+                "te": "నేను కేవలం రోబోనే, కానీ చక్కగా పనిచేస్తున్నాను! అడిగినందుకు ధన్యవాదాలు."
+            },
+            "keywords": {
+                "en": [
+                    "how are you",
+                    "how r u",
+                    "how ru",
+                    "how are u",
+                    "how you doing",
+                    "what's up",
+                    "status"
+                ],
+                "hi": [
+                    "कैसे हो",
+                    "कैसे हैं",
+                    "क्या हाल है",
+                    "हाल चाल",
+                    "सब ठीक"
+                ],
+                "te": [
+                    "ఎలా ఉన్నారు",
+                    "బాగున్నారా",
+                    "ఏంటి సంగతులు",
+                    "ఎలా ఉన్నావు"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "identity_who",
+            "question": {
+                "en": "Who are you?",
+                "hi": "आप कौन हैं?",
+                "te": "నువ్వు ఎవరు?"
+            },
+            "answer": {
+                "en": "I am the NIMS Hospital Virtual Assistant.",
+                "hi": "मैं निम्स अस्पताल का वर्चुअल असिस्टेंट हूं।",
+                "te": "నేను నిమ్స్ ఆసుపత్రి వర్చువల్ అసిస్టెంట్‌ని."
+            },
+            "keywords": {
+                "en": [
+                    "who are you",
+                    "who r u",
+                    "your name",
+                    "what is your name",
+                    "identity",
+                    "about you"
+                ],
+                "hi": [
+                    "आप कौन हैं",
+                    "कौन हो तुम",
+                    "आपका नाम",
+                    "परिचय"
+                ],
+                "te": [
+                    "నువ్వు ఎవరు",
+                    "మీరు ఎవరు",
+                    "నీ పేరు ఏంటి",
+                    "పరిచయం"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "identity_what",
+            "question": {
+                "en": "What are you?",
+                "hi": "आप क्या हैं?",
+                "te": "నువ్వు ఏంటి?"
+            },
+            "answer": {
+                "en": "I am an AI robot designed to assist patients.",
+                "hi": "मैं रोगियों की सहायता के लिए एक एआई रोबोट हूं।",
+                "te": "నేను రోగులకు సహాయం చేయడానికి రూపొందించిన AI రోబోను."
+            },
+            "keywords": {
+                "en": [
+                    "what are you",
+                    "are you robot",
+                    "are you human",
+                    "ai",
+                    "machine",
+                    "bot"
+                ],
+                "hi": [
+                    "आप क्या हैं",
+                    "रोबोट हो",
+                    "इंसान हो",
+                    "मशीन"
+                ],
+                "te": [
+                    "నువ్వు ఏంటి",
+                    "రోబోటా",
+                    "మనిషా",
+                    "ఏఐ"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "bot_eat",
+            "question": {
+                "en": "Do you eat?",
+                "hi": "क्या आप खाना खाते हैं?",
+                "te": "నువ్వు తింటావా?"
+            },
+            "answer": {
+                "en": "I consume electricity, not food!",
+                "hi": "मैं बिजली खपत करता हूं, खाना नहीं!",
+                "te": "నేను కరెంటు తీసుకుంటాను, ఆహారం కాదు!"
+            },
+            "keywords": {
+                "en": [
+                    "do you eat",
+                    "are you hungry",
+                    "food",
+                    "eat food"
+                ],
+                "hi": [
+                    "खाना खाते हो",
+                    "भूख लगी",
+                    "खाते हो"
+                ],
+                "te": [
+                    "తింటావా",
+                    "ఆకలిగా ఉందా",
+                    "భోజనం చేస్తావా"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "bot_sleep",
+            "question": {
+                "en": "Where do you sleep?",
+                "hi": "आप कहाँ सोते हैं?",
+                "te": "నువ్వు ఎక్కడ పడుకుంటావు?"
+            },
+            "answer": {
+                "en": "I go to my charging station when I am tired.",
+                "hi": "जब मैं थक जाता हूं तो मैं अपने चार्जिंग स्टेशन पर जाता हूं।",
+                "te": "నేను అలసిపోయినప్పుడు నా ఛార్జింగ్ స్టేషన్‌కు వెళ్తాను."
+            },
+            "keywords": {
+                "en": [
+                    "where do you sleep",
+                    "do you sleep",
+                    "rest",
+                    "charge",
+                    "battery"
+                ],
+                "hi": [
+                    "कहाँ सोते हो",
+                    "सोते हो",
+                    "चार्ज"
+                ],
+                "te": [
+                    "ఎక్కడ పడుకుంటావు",
+                    "నిద్రపోతావా",
+                    "చార్జ్"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "help_query",
+            "question": {
+                "en": "How can you help me?",
+                "hi": "आप मेरी मदद कैसे कर सकते हैं?",
+                "te": "మీరు నాకు ఎలా సహాయపడగలరు?"
+            },
+            "answer": {
+                "en": "I can guide you to departments, doctors, and facilities.",
+                "hi": "मैं आपको विभागों, डॉक्टरों और सुविधाओं के लिए मार्गदर्शन कर सकता हूं।",
+                "te": "నేను మీకు విభాగాలు, డాక్టర్లు మరియు సౌకర్యాలను చూపించగలను."
+            },
+            "keywords": {
+                "en": [
+                    "help",
+                    "support",
+                    "what can you do",
+                    "assist me",
+                    "guide me"
+                ],
+                "hi": [
+                    "मदद",
+                    "सहायता",
+                    "आप क्या कर सकते हो"
+                ],
+                "te": [
+                    "సహాయం",
+                    "ఏం చేయగలరు",
+                    "గైడ్"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "gratitude",
+            "question": {
+                "en": "Thank you",
+                "hi": "धन्यवाद",
+                "te": "ధన్యవాదాలు"
+            },
+            "answer": {
+                "en": "You're welcome! Take care.",
+                "hi": "आपका स्वागत है!",
+                "te": "మీకు స్వాగతం! జాగ్రత్తగా ఉండండి."
+            },
+            "keywords": {
+                "en": [
+                    "thank you",
+                    "thanks",
+                    "thank",
+                    "thx",
+                    "thanx",
+                    "thanks a lot",
+                    "many thanks",
+                    "appreciate",
+                    "grateful",
+                    "ok thanks"
+                ],
+                "hi": [
+                    "धन्यवाद",
+                    "शुक्रिया",
+                    "थैंक यू",
+                    "बहुत धन्यवाद",
+                    "आभार",
+                    "धन्यवाद जी"
+                ],
+                "te": [
+                    "ధన్యవాదాలు",
+                    "థాంక్స్",
+                    "థ్యాంక్యూ",
+                    "చాలా ధన్యవాదాలు",
+                    "కృతజ్ఞతలు"
+                ]
+            }
+        },
+        {
+            "category": "Interactive",
+            "id": "bye",
+            "question": {
+                "en": "Bye",
+                "hi": "अलविदा",
+                "te": "బాయ్"
+            },
+            "answer": {
+                "en": "Goodbye! Have a healthy day.",
+                "hi": "अलविदा! आपका दिन शुभ हो।",
+                "te": "వెళ్ళొస్తాను! మీ రోజు ఆరోగ్యంగా ఉండాలి."
+            },
+            "keywords": {
+                "en": [
+                    "bye",
+                    "goodbye",
+                    "good bye",
+                    "see you",
+                    "see u",
+                    "later",
+                    "bye bye",
+                    "tata",
+                    "take care",
+                    "ok bye"
+                ],
+                "hi": [
+                    "अलविदा",
+                    "चलता हूँ",
+                    "फिर मिलेंगे",
+                    "ठीक है बाय",
+                    "बाय"
+                ],
+                "te": [
+                    "బాయ్",
+                    "వెళ్ళొస్తాను",
+                    "తర్వాత కలుద్దాం",
+                    "సరే బాయ్",
+                    "బై బై"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_nims",
+            "question": {
+                "en": "Where is NIMS hospital?",
+                "hi": "निम्स अस्पताल कहाँ है?",
+                "te": "నిమ్స్ ఆసుపత్రి ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Punjagutta, Hyderabad, Telangana 500082.",
+                "hi": "पंजागुट्टा, हैदराबाद, तेलंगाना 500082।",
+                "te": "పంజాగుట్ట, హైదరాబాద్, తెలంగాణ 500082."
+            },
+            "keywords": {
+                "en": [
+                    "nims hospital location",
+                    "where is nims",
+                    "nims address",
+                    "hospital address",
+                    "location of nims",
+                    "nims kaha hai",
+                    "nims hospital"
+                ],
+                "hi": [
+                    "निम्स अस्पताल कहाँ है",
+                    "निम्स का पता",
+                    "निम्स लोकेशन",
+                    "अस्पताल कहाँ है"
+                ],
+                "te": [
+                    "నిమ్స్ ఎక్కడ",
+                    "నిమ్స్ ఆసుపత్రి అడ్రస్",
+                    "నిమ్స్ లొకేషన్",
+                    "ఆసుపత్రి ఎక్కడ"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_emergency",
+            "question": {
+                "en": "Where is the emergency ward?",
+                "hi": "इमरजेंसी वार्ड कहाँ है?",
+                "te": "ఎమర్జెన్సీ వార్డు ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Ground Floor, near the main entrance.",
+                "hi": "मेन गेट के पास ग्राउंड फ्लोर पर।",
+                "te": "ప్రధాన ద్వారం దగ్గర గ్రౌండ్ ఫ్లోర్‌లో."
+            },
+            "keywords": {
+                "en": [
+                    "emergency",
+                    "emergency ward",
+                    "emergency room",
+                    "er",
+                    "casualty",
+                    "urgent",
+                    "emergency kaha hai"
+                ],
+                "hi": [
+                    "इमरजेंसी",
+                    "इमरजेंसी वार्ड",
+                    "आपातकाल",
+                    "कैजुअल्टी",
+                    "तुरंत इलाज"
+                ],
+                "te": [
+                    "ఎమర్జెన్సీ",
+                    "ఎమర్జెన్సీ వార్డు",
+                    "క్యాజువాలిటీ",
+                    "అత్యవసర విభాగం",
+                    "తక్షణ చికిత్స"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_pharmacy",
+            "question": {
+                "en": "Where is the pharmacy?",
+                "hi": "फार्मेसी कहाँ है?",
+                "te": "ఫార్మసీ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Ground Floor, Super Specialty Block, Room No. 13.",
+                "hi": "ग्राउंड फ्लोर, सुपर स्पेशियलिटी ब्लॉक, रूम नंबर 13।",
+                "te": "గ్రౌండ్ ఫ్లోర్, సూపర్ స్పెషాలిటీ బ్లాక్, గది నెంబర్ 13."
+            },
+            "aliases": [
+                "phaarmacy",
+                "chemist",
+                "medical store"
+            ],
+            "keywords": {
+                "en": [
+                    "pharmacy",
+                    "phaarmacy",
+                    "pharmcy",
+                    "chemist",
+                    "medical store",
+                    "medicine shop",
+                    "pharmacy kaha hai"
+                ],
+                "hi": [
+                    "फार्मेसी",
+                    "मेडिकल",
+                    "दवा दुकान",
+                    "दवाई कहाँ मिलेगी"
+                ],
+                "te": [
+                    "ఫార్మసీ",
+                    "మెడికల్ షాప్",
+                    "మందుల దుకాణం",
+                    "ఫార్మసీ ఎక్కడ"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_canteen",
+            "question": {
+                "en": "Where is the canteen?",
+                "hi": "कैंटीन कहाँ है?",
+                "te": "క్యాంటీన్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Near the parking area / backside of the OPD block.",
+                "hi": "पार्किंग क्षेत्र के पास / ओपीडी ब्लॉक के पीछे।",
+                "te": "పార్కింగ్ ఏరియా దగ్గర / ఓపీడి బ్లాక్ వెనుక."
+            },
+            "keywords": {
+                "en": [
+                    "canteen",
+                    "food",
+                    "lunch",
+                    "dining",
+                    "cafeteria",
+                    "food court",
+                    "khana kaha milega"
+                ],
+                "hi": [
+                    "कैंटीन",
+                    "खाना",
+                    "भोजन",
+                    "लंच",
+                    "कैफेटेरिया"
+                ],
+                "te": [
+                    "క్యాంటీన్",
+                    "ఆహారం",
+                    "టిఫిన్లు యెక్కడా",
+                    "అల్పాహారం",
+                    "భోజనం",
+                    "భోజన హోటల్",
+                    "తినడానికి చోటు"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_icu",
+            "question": {
+                "en": "Where is the ICU?",
+                "hi": "आईसीयू (ICU) कहाँ है?",
+                "te": "ఐసీయూ (ICU) ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "ICUs are located on multiple floors depending on the specialty. Please check at the reception.",
+                "hi": "आईसीयू अलग-अलग मंजिलों पर हैं। कृपया रिसेप्शन पर पूछें।",
+                "te": "ICUలు వివిధ అంతస్తులలో ఉన్నాయి. దయచేసి రిసెప్షన్‌లో అడగండి."
+            },
+            "keywords": {
+                "en": [
+                    "icu",
+                    "intensive care",
+                    "critical care",
+                    "icu ward",
+                    "serious patient",
+                    "ventilator"
+                ],
+                "hi": [
+                    "आईसीयू",
+                    "इंटेंसिव केयर",
+                    "गंभीर मरीज",
+                    "क्रिटिकल केयर"
+                ],
+                "te": [
+                    "ఐసీయూ",
+                    "ఇంటెన్సివ్ కేర్",
+                    "క్రిటికల్ కేర్",
+                    "తీవ్ర చికిత్స"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "info_director",
+            "question": {
+                "en": "Who is the hospital director?",
+                "hi": "अस्पताल के निदेशक कौन हैं?",
+                "te": "ఆసుపత్రి డైరెక్టర్ ఎవరు?"
+            },
+            "answer": {
+                "en": "Dr. Bheerappa Nagari.",
+                "hi": "डॉ. भीरप्पा नागरी।",
+                "te": "డాక్టర్ బీరప్ప నాగరి."
+            },
+            "keywords": {
+                "en": [
+                    "director",
+                    "hospital director",
+                    "who is director",
+                    "chief",
+                    "head of hospital",
+                    "boss",
+                    "hospital head",
+                    "director name"
+                ],
+                "hi": [
+                    "निदेशक",
+                    "अस्पताल निदेशक",
+                    "डायरेक्टर कौन",
+                    "मुख्य अधिकारी"
+                ],
+                "te": [
+                    "డైరెక్టర్",
+                    "హాస్పిటల్ డైరెక్టర్",
+                    "డైరెక్టర్ ఎవరు",
+                    "హాస్పిటల్ హెడ్",
+                    "director"
+                ]
+            }
+        },
+        {
+            "category": "Admin",
+            "id": "info_complaint",
+            "question": {
+                "en": "Where to file a complaint?",
+                "hi": "शिकायत कहां दर्ज करें?",
+                "te": "ఫిర్యాదు ఎక్కడ ఇవ్వాలి?"
+            },
+            "answer": {
+                "en": "Please visit the Medical Superintendent's office, 1st Floor, Main Block.",
+                "hi": "कृपया चिकित्सा अधीक्षक कार्यालय, पहली मंजिल, मुख्य ब्लॉक पर जाएं।",
+                "te": "దయచేసి మెడికల్ సూపరింటెండెంట్ కార్యాలయం, 1వ అంతస్తు, మెయిన్ బ్లాక్‌ని సందర్శించండి."
+            },
+            "keywords": {
+                "en": [
+                    "complaint",
+                    "register complaint",
+                    "issue",
+                    "problem",
+                    "feedback",
+                    "complain",
+                    "grievance",
+                    "where complain"
+                ],
+                "hi": [
+                    "शिकायत",
+                    "शिकायत दर्ज",
+                    "समस्या",
+                    "फीडबैक"
+                ],
+                "te": [
+                    "ఫిర్యాదు",
+                    "కంప్లైంట్",
+                    "సమస్య",
+                    "ఫీడ్‌బ్యాక్"
+                ]
+            }
+        },
+        {
+            "category": "Policy",
+            "id": "info_visiting_hours",
+            "question": {
+                "en": "What are the visiting hours?",
+                "hi": "मिलने का समय क्या है?",
+                "te": "సందర్శకుల సమయం ఏమిటి?"
+            },
+            "answer": {
+                "en": "Visiting hours are from 4:00 PM to 6:00 PM.",
+                "hi": "मिलने का समय शाम 4:00 बजे से शाम 6:00 बजे तक है।",
+                "te": "సందర్శకుల సమయం సాయంత్రం 4:00 నుండి 6:00 వరకు."
+            },
+            "keywords": {
+                "en": [
+                    "visiting hours",
+                    "visit time",
+                    "meeting time",
+                    "when can visit",
+                    "patient visit",
+                    "visitor time"
+                ],
+                "hi": [
+                    "मिलने का समय",
+                    "विजिटिंग टाइम",
+                    "कब मिल सकते",
+                    "मुलाकात",
+                    "देखने का समय",
+                    "मरीज से मिलने का समय",
+                    "अंदर जाने का समय"
+                ],
+                "te": [
+                    "సందర్శన సమయం",
+                    "విజిట్ టైమ్",
+                    "ఆసుపత్రి సందర్శన వేళలు",
+                    "ఎప్పుడు కలవచ్చు",
+                    "డాక్టర్ సందర్శించే గంటలు",
+                    "లోపలికి వెల్లే గంటలు",
+                    "లోపలికి ఎప్పుడు పంపిస్తారు",
+                    "లోపలికి ఎప్పుడు",
+                    "చూసేందుకు సమయం",
+                    "పేషెంట్ ను కలిసే వేళలు",
+                    "లోపలికి అనుమతి సమయం",
+                    "కలవడానికి టైమ్"
+                ]
+            }
+        },
+        {
+            "category": "Symptom",
+            "id": "sym_bleeding",
+            "question": {
+                "en": "I am bleeding.",
+                "hi": "मुझे खून बह रहा है।",
+                "te": "నాకు రక్తం పడుతోంది."
+            },
+            "answer": {
+                "en": "Please go to Emergency / Casualty immediately! Ground Floor, Main Entrance.",
+                "hi": "कृपया तुरंत आपातकालीन / कैजुअल्टी में जाएं! ग्राउंड फ्लोर, मेन गेट।",
+                "te": "దయచేసి వెంటనే ఎమర్జెన్సీ / క్యాజువాలిటీకి వెళ్లండి! గ్రౌండ్ ఫ్లోర్, మెయిన్ గేట్."
+            },
+            "keywords": {
+                "en": [
+                    "bleeding",
+                    "blood",
+                    "lot of blood",
+                    "cut",
+                    "injury",
+                    "accident",
+                    "wound"
+                ],
+                "hi": [
+                    "खून",
+                    "खून बह रहा",
+                    "चोट",
+                    "कट गया",
+                    "खून निकल रहा"
+                ],
+                "te": [
+                    "రక్తం",
+                    "రక్తం కారుతోంది",
+                    "కట్",
+                    "గాయం",
+                    "bleeding"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "info_opd_timing",
+            "question": {
+                "en": "What are the OPD timings?",
+                "hi": "ओपीडी का समय क्या है?",
+                "te": "ఓపీడి సమయాలు ఏమిటి?"
+            },
+            "answer": {
+                "en": "8:00 AM to 12:00 PM on working days.",
+                "hi": "कार्य दिवसों में सुबह 8:00 बजे से दोपहर 12:00 बजे तक।",
+                "te": "పని దినాలలో ఉదయం 8:00 నుండి మధ్యాహ్నం 12:00 వరకు."
+            },
+            "keywords": {
+                "en": [
+                    "opd timing",
+                    "opd time",
+                    "when opd open",
+                    "opd hours",
+                    "opd close time"
+                ],
+                "hi": [
+                    "ओपीडी समय",
+                    "ओपीडी टाइम",
+                    "कब खुलती",
+                    "ओपीडी कब"
+                ],
+                "te": [
+                    "ఓపీడి టైమ్",
+                    "ఓపీడి సమయం",
+                    "ఓపీ టైమ్",
+                    "ఎప్పుడు తెరుస్తారు ",
+                    "ఓపీ ఎప్పుడు తెరుస్తారు"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "info_opd_status",
+            "question": {
+                "en": "Is OPD closed now?",
+                "hi": "क्या अब ओपीडी बंद है?",
+                "te": "ఇప్పుడు ఓపీడి మూసి ఉందా?"
+            },
+            "answer": {
+                "en": "Please check the current time. OPD is open from 8 AM to 12 PM.",
+                "hi": "ओपीडी सुबह 8 से दोपहर 12 बजे तक खुली रहती है।",
+                "te": "ఓపీడి ఉదయం 8 నుండి మధ్యాహ్నం 12 వరకు తెరిచి ఉంటుంది."
+            },
+            "keywords": {
+                "en": [
+                    "is opd open",
+                    "is opd closed",
+                    "opd status",
+                    "opd now",
+                    "opd open now"
+                ],
+                "hi": [
+                    "ओपीडी बंद",
+                    "अब ओपीडी",
+                    "खुली है",
+                    "ओपीडी अभी"
+                ],
+                "te": [
+                    "ఓపీడి మూసి ఉందా",
+                    "ఇప్పుడు ఓపీడి",
+                    "OPD ఎప్పటి వరకు తేరిచి వుండును",
+                    " OPD తెరిచి ఉందా"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_admission",
+            "question": {
+                "en": "How can I get admitted?",
+                "hi": "मैं भर्ती कैसे हो सकता हूँ?",
+                "te": "నేను ఎలా అడ్మిట్ అవ్వాలి?"
+            },
+            "answer": {
+                "en": "Consult a doctor in OPD first. If advised, go to the Admission Counter.",
+                "hi": "पहले ओपीडी में डॉक्टर को दिखाएं। अगर सलाह दी जाए तो एडमिशन काउंटर पर जाएं।",
+                "te": "ముందుగా ఓపీడిలో డాక్టర్‌ని కలవండి. అడ్మిషన్ అవసరమైతే అడ్మిషన్ కౌంటర్‌కు వెళ్లండి."
+            },
+            "keywords": {
+                "en": [
+                    "admission",
+                    "get admitted",
+                    "hospital admission",
+                    "join hospital",
+                    "admit process"
+                ],
+                "hi": [
+                    "भर्ती",
+                    "एडमिशन",
+                    "अस्पताल में भर्ती"
+                ],
+                "te": [
+                    "అడ్మిషన్",
+                    "అడ్మిట్ అవ్వాలి",
+                    "ప్రవేశం కోరకు, యెవరిని కలవాలి",
+                    "ఆసుపత్రి చెరుట్కు, యెవరిని కలవాలి",
+                    "దావా ఖానా",
+                    "హాస్పిటల్ అడ్మిషన్"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_admission_counter",
+            "question": {
+                "en": "Where is the admission counter?",
+                "hi": "एडमिशन काउंटर कहाँ है?",
+                "te": "అడ్మిషన్ కౌంటర్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Main Block, Ground Floor.",
+                "hi": "मेन ब्लॉक, ग्राउंड फ्लोर।",
+                "te": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్."
+            },
+            "keywords": {
+                "en": [
+                    "admission counter",
+                    "admission desk",
+                    "where admit",
+                    "registration counter"
+                ],
+                "hi": [
+                    "एडमिशन काउंटर",
+                    "भर्ती काउंटर"
+                ],
+                "te": [
+                    "అడ్మిషన్ కౌంటర్",
+                    "రోగి ప్రవేశంలో ఎక్కడ ఉంది",
+                    "రిజిస్ట్రేషన్"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_discharge",
+            "question": {
+                "en": "How does discharge work?",
+                "hi": "डिस्चार्ज कैसे होता है?",
+                "te": "డిశ్చార్జ్ ఎలా జరుగుతుంది?"
+            },
+            "answer": {
+                "en": "After the doctor signs the summary, pay dues at Billing to get the discharge slip.",
+                "hi": "डॉक्टर के हस्ताक्षर के बाद, बिलिंग काउंटर पर भुगतान करें।",
+                "te": "డాక్టర్ సంతకం చేసిన తర్వాత, బిల్లింగ్ కౌంటర్లో చెల్లించండి."
+            },
+            "keywords": {
+                "en": [
+                    "discharge",
+                    "leave hospital",
+                    "discharge process",
+                    "get discharged"
+                ],
+                "hi": [
+                    "डिस्चार्ज",
+                    "छुट्टी",
+                    "कैसे निकले",
+                    "डिस्चार्ज की प्रक्रिया",
+                    "घर कब जा सकते हैं",
+                    "डिस्चार्ज के कागज"
+                ],
+                "te": [
+                    "డిశ్చార్జ్",
+                    "రోగిని ఎలా డిశ్చార్జ్ చేస్తారు",
+                    "విడుదల",
+                    "ఎలా బయటకు",
+                    "డిశ్చార్జ్ ప్రక్రియ",
+                    "ఎప్పుడు డిశ్చార్జ్ చేస్తారు",
+                    "ఇంటికి ఎప్పుడు వెళ్ళవచ్చు ",
+                    "రోగి ఇంటికి ఎప్పుడు వెళ్ళవచ్చు",
+                    "డిశ్చార్జ్ పేపర్లను ఎక్కడ పొందాలి",
+                    "డిశ్చార్జ్ పేపర్లు"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_discharge_counter",
+            "question": {
+                "en": "Where is the discharge counter?",
+                "hi": "डिस्चार्ज काउंटर कहाँ है?",
+                "te": "డిశ్చార్జ్ కౌంటర్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Main Block, Ground Floor (Verification Required).",
+                "hi": "मेन ब्लॉक, ग्राउंड फ्लोर।",
+                "te": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్."
+            },
+            "keywords": {
+                "en": [
+                    "discharge counter",
+                    "billing",
+                    "final counter",
+                    "leave hospital desk"
+                ],
+                "hi": [
+                    "डिस्चार्ज काउंटर",
+                    "बिलिंग"
+                ],
+                "te": [
+                    "డిశ్చార్జ్ కౌంటర్",
+                    "బిల్లింగ్ కౌంటర్ ఎక్కడ ఉంది",
+                    "డబ్బు ఎక్కడ చెల్లించాలి",
+                    "బిల్లింగ్"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_sample_collection",
+            "question": {
+                "en": "Where is the sample collection lab?",
+                "hi": "सैंपल कलेक्शन लैब कहाँ है?",
+                "te": "శాంపిల్ సేకరణ ల్యాబ్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Ground Floor, near Diagnostic Block.",
+                "hi": "डायग्नोस्टिक ब्लॉक के पास ग्राउंड फ्लोर।",
+                "te": "డయాగ్నస్టిక్ బ్లాక్ దగ్గర గ్రౌండ్ ఫ్లోర్."
+            },
+            "keywords": {
+                "en": [
+                    "sample collection",
+                    "blood test",
+                    "lab",
+                    "test lab"
+                ],
+                "hi": [
+                    "सैंपल",
+                    "ब्लड टेस्ट",
+                    "लैब"
+                ],
+                "te": [
+                    "శాంపిల్",
+                    "రక్త నమూనా ఎక్కడ ఇవ్వాలి",
+                    "మూత్ర నమూనాను ఎక్కడ ఇవ్వాలి",
+                    "కఫం నమూనా ఎక్కడ ఇవ్వాలి",
+                    "బ్లడ్ టెస్ట్",
+                    "ల్యాబ్"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_reports",
+            "question": {
+                "en": "Where can I collect reports?",
+                "hi": "मैं रिपोर्ट कहाँ से ले सकता हूँ?",
+                "te": "రిపోర్టులు ఎక్కడ తీసుకోవాలి?"
+            },
+            "answer": {
+                "en": "Report Dispatch Counter in Diagnostic Block.",
+                "hi": "डायग्नोस्टिक ब्लॉक में रिपोर्ट डिस्पैच काउंटर।",
+                "te": "డయాగ్నస్టిక్ బ్లాక్‌లోని రిపోర్ట్ డిస్పాచ్ కౌంటర్."
+            },
+            "keywords": {
+                "en": [
+                    "reports",
+                    "test results",
+                    "collect report",
+                    "lab report"
+                ],
+                "hi": [
+                    "रिपोर्ट",
+                    "रिजल्ट",
+                    "लेनी है"
+                ],
+                "te": [
+                    "రిపోర్టులు",
+                    "పరీక్ష నివేదికలను ఎక్కడ సేకరించాలి",
+                    "ఫలితాలు యెక్కడా తీసుకోవాలి",
+                    " నివేదికలు తీసుకోవాలి"
+                ]
+            }
+        },
+        {
+            "category": "Finance",
+            "id": "info_insurance",
+            "question": {
+                "en": "Is insurance or Aarogyasri available?",
+                "hi": "क्या आरोग्यश्री उपलब्ध है?",
+                "te": "ఆరోగ్యశ్రీ ఉందా?"
+            },
+            "answer": {
+                "en": "Yes, NIMS accepts Aarogyasri and government schemes.",
+                "hi": "हाँ, निम्स आरोग्यश्री स्वीकार करता है।",
+                "te": "అవును, నిమ్స్ ఆరోగ్యశ్రీని అంగీకరిస్తుంది."
+            },
+            "keywords": {
+                "en": [
+                    "insurance",
+                    "aarogyasri",
+                    "scheme",
+                    "government scheme",
+                    "cashless"
+                ],
+                "hi": [
+                    "आरोग्यश्री",
+                    "इंश्योरेंस",
+                    "सरकारी योजना"
+                ],
+                "te": [
+                    "ఆరోగ్యశ్రీ",
+                    "ఇన్సూరెన్స్",
+                    "బీమా పాలసీ",
+                    "బీమా",
+                    "రేషన్ కార్డు",
+                    "ఆహార భద్రత కార్డు",
+                    "బీమా పాలసీ డెస్క్ ఎక్కడ ఉంది",
+                    "ప్రభుత్వ పథకం"
+                ]
+            }
+        },
+        {
+            "category": "Finance",
+            "id": "loc_insurance_desk",
+            "question": {
+                "en": "Where is the insurance help desk?",
+                "hi": "इंश्योरेंस हेल्प डेस्क कहाँ है?",
+                "te": "ఇన్సూరెన్స్ హెల్ప్ డెస్క్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Main Block, Ground Floor.",
+                "hi": "मेन ब्लॉक, ग्राउंड फ्लोर।",
+                "te": "మెయిన్ బ్లాక్, గ్రౌండ్ ఫ్లోర్."
+            },
+            "keywords": {
+                "en": [
+                    "insurance desk",
+                    "insurance counter",
+                    "aarogyasri desk",
+                    "help desk"
+                ],
+                "hi": [
+                    "इंश्योरेंस डेस्क",
+                    "आरोग्यश्री"
+                ],
+                "te": [
+                    "ఇన్సూరెన్స్ డెస్క్",
+                    "ఆరోగ్యశ్రీ"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_ct_scan",
+            "question": {
+                "en": "Where is the CT scan?",
+                "hi": "सीटी स्कैन कहाँ है?",
+                "te": "సీటీ స్కాన్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Radiology/Diagnostic Block.",
+                "hi": "रेडियोलॉजी ब्लॉक।",
+                "te": "రేడియాలజీ బ్లాక్."
+            },
+            "keywords": {
+                "en": [
+                    "ct scan",
+                    "ct",
+                    "cat scan",
+                    "radiology"
+                ],
+                "hi": [
+                    "सीटी",
+                    "स्कैन"
+                ],
+                "te": [
+                    "సీటీ",
+                    "సీటీ స్కాన్",
+                    "స్కాన్ "
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_mri",
+            "question": {
+                "en": "Where is the MRI scan?",
+                "hi": "एमआरआई स्कैन कहाँ है?",
+                "te": "ఎంఆర్ఐ స్కాన్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Radiology Department, Ground Floor.",
+                "hi": "रेडियोलॉजी विभाग, ग्राउंड फ्लोर।",
+                "te": "రేడియాలజీ విభాగం, గ్రౌండ్ ఫ్లోర్."
+            },
+            "keywords": {
+                "en": [
+                    "mri",
+                    "mri scan",
+                    "magnetic scan",
+                    "radiology"
+                ],
+                "hi": [
+                    "एमआरआई",
+                    "स्कैन"
+                ],
+                "te": [
+                    "ఎంఆర్ఐ",
+                    "స్కాన్"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_missing_report",
+            "question": {
+                "en": "My report is missing, what should I do?",
+                "hi": "मेरी रिपोर्ट गुम हो गई है, क्या करें?",
+                "te": "నా రిపోర్ట్ పోయింది, ఏం చేయాలి?"
+            },
+            "answer": {
+                "en": "Please ask at the Report Dispatch Counter with your receipt.",
+                "hi": "कृपया अपनी रसीद के साथ रिपोर्ट काउंटर पर पूछें।",
+                "te": "దయచేసి మీ రసీదుతో రిపోర్ట్ కౌంటర్‌లో అడగండి."
+            },
+            "keywords": {
+                "en": [
+                    "missing report",
+                    "lost report",
+                    "report not found",
+                    "no report",
+                    "where is my report"
+                ],
+                "hi": [
+                    "रिपोर्ट गुम",
+                    "रिपोर्ट नहीं मिली",
+                    "मेरी रिपोर्ट"
+                ],
+                "te": [
+                    "రిపోర్ట్ పోయింది",
+                    "నా కోల్పోయిన నివేదికలను నేను ఎక్కడ పొందగలను",
+                    "నేను నా నకిలీ నివేదికలను ఎక్కడ పొందగలను",
+                    "నేను నా నివేదికల రెండవ కాపీని ఎక్కడ పొందగలను",
+                    "రిపోర్ట్ లేదు",
+                    "నా రిపోర్ట్"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_lost_file",
+            "question": {
+                "en": "I lost my medical file.",
+                "hi": "मेरी मेडिकल फाइल खो गई।",
+                "te": "నా మెడికల్ ఫైల్ పోయింది."
+            },
+            "answer": {
+                "en": "Report to Medical Records Dept (MRD) with your OP ID.",
+                "hi": "अपनी ओपी आईडी के साथ मेडिकल रिकॉर्ड विभाग (एमआरडी) में जाएं।",
+                "te": "మీ ఓపీ ఐడితో మెడికల్ రికార్డ్స్ విభాగాన్ని (MRD) కలవండి."
+            },
+            "keywords": {
+                "en": [
+                    "lost file",
+                    "medical file lost",
+                    "lost records",
+                    "file missing",
+                    "op file lost",
+                    "where is my file",
+                    "medical record"
+                ],
+                "hi": [
+                    "मेडिकल फाइल",
+                    "फाइल खो गई",
+                    "मेरी फाइल",
+                    "रिकॉर्ड",
+                    "फाइल नहीं मिल रही"
+                ],
+                "te": [
+                    "మెడికల్ ఫైల్ పోయింది",
+                    "ఫైల్ లేదు",
+                    "రికార్డ్స్",
+                    "నా ఫైల్"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_lift",
+            "question": {
+                "en": "Where is the lift?",
+                "hi": "लिफ्ट कहाँ है?",
+                "te": "లిఫ్ట్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Lifts are available in all major blocks near the staircases.",
+                "hi": "लिफ्ट सभी प्रमुख ब्लॉकों में सीढ़ियों के पास हैं।",
+                "te": "లిఫ్టులు మెట్ల దగ్గర అన్ని ప్రధాన బ్లాకుల్లో ఉన్నాయి."
+            },
+            "keywords": {
+                "en": [
+                    "lift",
+                    "elevator",
+                    "stairs",
+                    "upper floor",
+                    "how to go up",
+                    "elevetor"
+                ],
+                "hi": [
+                    "लिफ्ट",
+                    "सीढ़ी",
+                    "ऊपर जाना"
+                ],
+                "te": [
+                    "లిఫ్ట్",
+                    "ఎలివేటర్",
+                    "నేను లిఫ్ట్‌ని ఎలా కనుగొనగలను",
+                    "నేను మెట్ల మార్గాన్ని ఎక్కడ కనుగొనగలను",
+                    "మెట్ల మార్గం ఎక్కడ",
+                    "పై అంతస్తులకు ఎలా వెళ్లాలి",
+                    "మెట్లు"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_parking",
+            "question": {
+                "en": "Where can I park?",
+                "hi": "पार्किंग कहाँ है?",
+                "te": "పార్కింగ్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Designated parking is available near the entrance/OPD block.",
+                "hi": "प्रवेश द्वार/ओपीडी ब्लॉक के पास पार्किंग उपलब्ध है।",
+                "te": "ఎంట్రన్స్/ఓపీడి బ్లాక్ దగ్గర పార్కింగ్ ఉంది."
+            },
+            "keywords": {
+                "en": [
+                    "parking",
+                    "car parking",
+                    "bike parking",
+                    "vehicle park",
+                    "where to park",
+                    "parking place"
+                ],
+                "hi": [
+                    "पार्किंग",
+                    "गाड़ी",
+                    "कार पार्क"
+                ],
+                "te": [
+                    "పార్కింగ్",
+                    "నా వాహనాన్ని ఎక్కడ పార్క్ చేయాలి",
+                    "కారు",
+                    "బైక్"
+                ]
+            }
+        },
+	{
+	  "category": "General",
+	  "id": "loc_stairs",
+	  "question": {
+	    "en": "Where are the stairs?",
+	    "hi": "सीढ़ियाँ कहाँ हैं?",
+	    "te": "మెట్లు ఎక్కడ ఉన్నాయి?"
+	  },
+	  "answer": {
+	    "en": "Stairs are available near the lift on every floor.",
+	    "hi": "सीढ़ियाँ हर मंज़िल पर लिफ्ट के पास उपलब्ध हैं।",
+	    "te": "మెట్లు ప్రతి అంతస్తులో లిఫ్ట్ దగ్గర ఉన్నాయి."
+	  },
+	  "keywords": {
+	    "en": ["stairs", "steps"],
+	    "hi": ["सीढ़ियाँ", "सीढ़ी"],
+	    "te": ["మెట్లు", "స్టెప్స్"]
+	  }
+	},
+        {
+            "category": "General",
+            "id": "loc_admin",
+            "question": {
+                "en": "Where is the Administration counter?",
+                "hi": "प्रशासन काउंटर कहाँ है?",
+                "te": "అడ్మినిస్ట్రేషన్ కౌంటర్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Main Block.",
+                "hi": "मेन ब्लॉक।",
+                "te": "మెయిన్ బ్లాక్."
+            },
+            "keywords": {
+                "en": [
+                    "administration",
+                    "admin",
+                    "admin counter",
+                    "office",
+                    "administrative"
+                ],
+                "hi": [
+                    "प्रशासन",
+                    "एडमिन",
+                    "काउंटर"
+                ],
+                "te": [
+                    "అడ్మినిస్ట్రేషన్",
+                    "అడ్మిన్",
+                    "కౌంటర్"
+                ]
+            }
+        },
+        {
+            "category": "Finance",
+            "id": "loc_ip_billing",
+            "question": {
+                "en": "Where is the In-Patient Billing counter?",
+                "hi": "इन-पेशेंट बिलिंग काउंटर कहाँ है?",
+                "te": "ఇన్-పేషెంట్ బిల్లింగ్ కౌంటర్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Main Block lobby.",
+                "hi": "मेन ब्लॉक लॉबी।",
+                "te": "మెయిన్ బ్లాక్ లాబీ."
+            },
+            "keywords": {
+                "en": [
+                    "ip billing",
+                    "inpatient billing",
+                    "billing counter",
+                    "payment counter",
+                    "bill payment",
+                    "hospital bill"
+                ],
+                "hi": [
+                    "बिलिंग",
+                    "इन पेशेंट",
+                    "भुगतान"
+                ],
+                "te": [
+                    "బిల్లింగ్",
+                    "ఇన్ పేషెంట్",
+                    "బిల్లు చెల్లింపు",
+                    "నగదు చెల్లింపు",
+                    "పేమెంట్"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_lab",
+            "question": {
+                "en": "Where is the diagnostic lab?",
+                "hi": "डायग्नोस्टिक लैब कहाँ है?",
+                "te": "డయాగ్నస్టిక్ ల్యాబ్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Diagnostic Block.",
+                "hi": "डायग्नोस्टिक ब्लॉक।",
+                "te": "డయాగ్నస్టిక్ బ్లాక్."
+            },
+            "keywords": {
+                "en": [
+                    "lab",
+                    "diagnostic lab",
+                    "laboratory",
+                    "pathology",
+                    "test lab"
+                ],
+                "hi": [
+                    "लैब",
+                    "डायग्नोस्टिक",
+                    "टेस्ट"
+                ],
+                "te": [
+                    "ల్యాబ్",
+                    "డయాగ్నస్టిక్",
+                    "పరీక్ష"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_ot",
+            "question": {
+                "en": "Where is the Operation theatre?",
+                "hi": "ऑपरेशन थिएटर कहाँ है?",
+                "te": "ఆపరేషన్ థియేటర్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "OTs are on respective floors (e.g. 2nd, 3rd Floor).",
+                "hi": "ओटी संबंधित मंजिलों पर हैं।",
+                "te": "OTలు సంబంధిత అంతస్తులలో ఉన్నాయి."
+            },
+            "keywords": {
+                "en": [
+                    "ot",
+                    "operation theatre",
+                    "surgery room",
+                    "ఆపరేషన్ థియేటర్",
+                    "శస్త్రచికిత్స గది",
+                    "operation",
+                    "theater"
+                ],
+                "hi": [
+                    "ओटी",
+                    "ऑपरेशन",
+                    "थिएटर"
+                ],
+                "te": [
+                    "ఓటి",
+                    "ఆపరేషన్",
+                    "థియేటర్"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_xerox",
+            "question": {
+                "en": "Where is the Xerox shop?",
+                "hi": "जेरॉक्स की दुकान कहाँ है?",
+                "te": "జిరాక్స్ షాపు ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Opposite the OPD entrance, near Room Number 13.",
+		"hi": "ओपीडी प्रवेश द्वार के सामने, कक्ष संख्या 13 के पास।",
+		"te": "ఓపీడి ఎంట్రన్స్‌కు ఎదురుగా, గది సంఖ్య 13 దగ్గర."
+            },
+            "keywords": {
+                "en": [
+                    "xerox",
+                    "photocopy",
+                    "copy machine shop",
+                    "print",
+                    "printer shop",
+                    "colour printer",
+                    "computer shop",
+                    "documents copy"
+                ],
+                "hi": [
+                    "जेरॉक्स",
+                    "कॉपी",
+                    "दुकान"
+                ],
+                "te": [
+                    "జిరాక్స్",
+                    "ఫోటోకాపీ",
+                    "కంప్యూటర్ దుకాణం",
+                    "జిరాక్స్ యంత్రం",
+                    "షాపు"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_evening_clinics",
+            "question": {
+                "en": "Do NIMS have Evening Clinics?",
+                "hi": "क्या निम्स में इवनिंग क्लीनिक हैं?",
+                "te": "నిమ్స్‌లో ఈవినింగ్ క్లినిక్‌లు ఉన్నాయా?"
+            },
+            "answer": {
+                "en": "Yes, select departments have evening clinics.",
+                "hi": "हाँ, कुछ विभागों में शाम के क्लीनिक हैं।",
+                "te": "అవును, కొన్ని విభాగాలకు ఈవినింగ్ క్లినిక్‌లు ఉన్నాయి."
+            },
+            "keywords": {
+                "en": [
+                    "evening clinic",
+                    "night clinic",
+                    "after noon clinic",
+                    "doctor evening",
+                    "evening opd"
+                ],
+                "hi": [
+                    "इवनिंग क्लीनिक",
+                    "शाम",
+                    "डॉक्टर शाम"
+                ],
+                "te": [
+                    "ఈవినింగ్ క్లినిక్",
+                    "సాయంత్రం ఆసుపత్రి ఎక్కడ ఉంది",
+                    "సాయంత్రం క్లినిక్ ఎక్కడ ఉంది",
+                    "సాయంత్రం క్లినిక్‌కి సీనియర్ డాక్టర్లు వస్తారా?",
+                    "సాయంత్రం క్లినిక్",
+                    "సాయంత్రం",
+                    "డాక్టర్"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_xray",
+            "question": {
+                "en": "Where is the X-ray room?",
+                "hi": "एक्स-रे रूम कहाँ है?",
+                "te": "ఎక్స్-రే గది ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Radiology Department.",
+                "hi": "रेडियोलॉजी विभाग।",
+                "te": "రేడియాలజీ విభాగం."
+            },
+            "keywords": {
+                "en": [
+                    "xray",
+                    "x-ray",
+                    "x ray room",
+                    "radiology",
+                    "ct scan room",
+                    "scan room"
+                ],
+                "hi": [
+                    "एक्स रे",
+                    "रेडियोलॉजी",
+                    "रूम"
+                ],
+                "te": [
+                    "ఎక్స్ రే",
+                    "ఎక్స్ రే గది",
+                    "రేడియాలజీ",
+                    "గది"
+                ]
+            }
+        },
+        {
+            "category": "General",
+            "id": "loc_ultrasound",
+            "question": {
+                "en": "Where is the Ultrasound room?",
+                "hi": "अल्ट्रासाउंड रूम कहाँ है?",
+                "te": "అల్ట్రాసౌండ్ గది ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Radiology Department.",
+                "hi": "रेडियोलॉजी विभाग।",
+                "te": "రేడియాలజీ విభాగం."
+            },
+            "keywords": {
+                "en": [
+                    "ultrasound",
+                    "usg",
+                    "sonography",
+                    "scan",
+                    "pregnancy scan"
+                ],
+                "hi": [
+                    "अल्ट्रासाउंड",
+                    "यूएसजी",
+                    "स्कैन"
+                ],
+                "te": [
+                    "అల్ట్రాసౌండ్",
+                    "యుఎస్‌జి",
+                    "స్కాన్"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_appointment",
+            "question": {
+                "en": "How to get an appointment?",
+                "hi": "अपॉइंटमेंट कैसे लें?",
+                "te": "అపాయింట్‌మెంట్ ఎలా తీసుకోవాలి?"
+            },
+            "answer": {
+                "en": "Visit the OPD Registration Counter.",
+                "hi": "ओपीडी पंजीकरण काउंटर पर जाएं।",
+                "te": "ఓపీడి రిజిస్ట్రేషన్ కౌంటర్‌కు వెళ్లండి."
+            },
+            "keywords": {
+                "en": [
+                    "appointment",
+                    "book appointment",
+                    "doctor meet",
+                    "consult",
+                    "registration"
+                ],
+                "hi": [
+                    "अपॉइंटमेंट",
+                    "पंजीकरण",
+                    "डॉक्टर मिलना"
+                ],
+                "te": [
+                    "అపాయింట్‌మెంట్",
+                    "రిజిస్ట్రేషన్",
+                    "డాక్టర్ కలవాలి"
+                ]
+            }
+        },
+        {
+            "category": "Admin",
+            "id": "info_feedback",
+            "question": {
+                "en": "How to provide feedback?",
+                "hi": "प्रतिक्रिया कैसे दें?",
+                "te": "ఫీడ్‌బ్యాక్ ఎలా ఇవ్వాలి?"
+            },
+            "answer": {
+                "en": "Please contact the Medical Superintendent's office or drop a note in suggestion boxes.",
+                "hi": "कृपया चिकित्सा अधीक्षक कार्यालय से संपर्क करें या सुझाव पेटी में नोट डालें।",
+                "te": "దయచేసి మెడికల్ సూపరింటెండెంట్ ఆఫీసును సంప్రదించండి లేదా సూచనల పెట్టెలో వేయండి."
+            },
+            "keywords": {
+                "en": [
+                    "feedback",
+                    "suggestion",
+                    "complaint",
+                    "review",
+                    "give feedback"
+                ],
+                "hi": [
+                    "प्रतिक्रिया",
+                    "सुझाव",
+                    "शिकायत"
+                ],
+                "te": [
+                    "ఫీడ్‌బ్యాక్",
+                    "సూచన",
+                    "ఫిర్యాదులు ఎక్కడ ఇవ్వాలి",
+                    "ఫిర్యాదు"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "loc_new_op",
+            "question": {
+                "en": "Where do I register as a new outpatient?",
+                "hi": "नए मरीज पंजीकरण कहाँ करें?",
+                "te": "కొత్త ఓపీ రిజిస్ట్రేషన్ ఎక్కడ చేయాలి?"
+            },
+            "answer": {
+                "en": "OPD Registration Counter, Ground Floor.",
+                "hi": "ओपीडी पंजीकरण काउंटर, ग्राउंड फ्लोर।",
+                "te": "ఓపీడి రిజిస్ట్రేషన్ కౌంటర్, గ్రౌండ్ ఫ్లోర్."
+            },
+            "keywords": {
+                "en": [
+                    "new patient",
+                    "new opd",
+                    "outpatient register",
+                    "op registration",
+                    "new card",
+                    "first time patient",
+                    "register opd"
+                ],
+                "hi": [
+                    "नया मरीज",
+                    "नए मरीज पंजीकरण",
+                    "ओपीडी कार्ड",
+                    "पहली बार",
+                    "पंजीकरण करें"
+                ],
+                "te": [
+                    "కొత్త ఓపీ",
+                    "కొత్త పేషెంట్",
+                    "రిజిస్ట్రేషన్",
+                    "ఓపీ కార్డు",
+                    "మొదటిసారి"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_fasting",
+            "question": {
+                "en": "Should I come on an empty stomach for tests?",
+                "hi": "क्या मुझे टेस्ट के लिए खाली पेट आना चाहिए?",
+                "te": "టెస్టుల కోసం నేను ఖాళీ కడుపుతో రావాలా?"
+            },
+            "answer": {
+                "en": "Common blood tests like sugar or cholesterol often require fasting. Please check with your doctor.",
+                "hi": "शुगर या कोलेस्ट्रॉल जैसे सामान्य रक्त परीक्षणों के लिए अक्सर खाली पेट रहने की आवश्यकता होती है।",
+                "te": "షుగర్ లేదా కొలెస్ట్రాల్ వంటి రక్త పరీక్షలకు తరచుగా ఖాళీ కడుపుతో ఉండాలి."
+            },
+            "keywords": {
+                "en": [
+                    "fasting",
+                    "empty stomach",
+                    "before test",
+                    "can i eat",
+                    "without food",
+                    "blood test fasting"
+                ],
+                "hi": [
+                    "खाली पेट",
+                    "टेस्ट के लिए",
+                    "खाना खा सकते",
+                    "फास्टिंग",
+                    "जांच"
+                ],
+                "te": [
+                    "ఖాళీ కడుపు",
+                    "ఫాస్టింగ్",
+                    "టెస్ట్ ముందు",
+                    "తాగునీరు",
+                    "నేను ఆహారం తీసుకోవచ్చా",
+                    "తినవచ్చా",
+                    "అన్నం తినవచ్చా",
+                    "అన్నము తినవచ్చా"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_meals",
+            "question": {
+                "en": "Does the hospital provide meals to in-patients?",
+                "hi": "क्या अस्पताल भर्ती मरीजों को खाना देता है?",
+                "te": "ఆసుపత్రిలో పేషెంట్లకు భోజనం పెడతారా?"
+            },
+            "answer": {
+                "en": "Yes, diet meals are provided to in-patients as per doctor's advice.",
+                "hi": "हाँ, डॉक्टर की सलाह के अनुसार मरीजों को आहार दिया जाता है।",
+                "te": "అవును, డాక్టర్ సలహా ప్రకారం పేషెంట్లకు భోజనం అందిస్తారు."
+            },
+            "keywords": {
+                "en": [
+                    "hospital food",
+                    "meals",
+                    "diet food",
+                    "inpatient food",
+                    "do you give food",
+                    "patient meals"
+                ],
+                "hi": [
+                    "खाना",
+                    "भोजन",
+                    "डाइट",
+                    "भर्ती मरीज",
+                    "अस्पताल खाना"
+                ],
+                "te": [
+                    "భోజనం",
+                    "ఫలహారము",
+                    "అల్పాహారం",
+                    "ఆహారం",
+                    "డైట్ ఫుడ్",
+                    "ఇన్ పేషెంట్"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_documents",
+            "question": {
+                "en": "What documents to carry?",
+                "hi": "कौन से दस्तावेज साथ लाएं?",
+                "te": "ఏ పత్రాలు తీసుకురావాలి?"
+            },
+            "answer": {
+                "en": "Carry Aadhaar card, past records, and insurance card (if any).",
+                "hi": "आधार कार्ड, पुराने रिकॉर्ड और बीमा कार्ड (यदि हो) साथ लाएं।",
+                "te": "ఆధార్ కార్డు, పాత రికార్డులు మరియు ఇన్సూరెన్స్ కార్డు ఉంటే తీసుకురండి."
+            },
+            "keywords": {
+                "en": [
+                    "documents",
+                    "id proof",
+                    "aadhaar",
+                    "which documents",
+                    "what to bring",
+                    "records"
+                ],
+                "hi": [
+                    "दस्तावेज",
+                    "आधार",
+                    "आईडी",
+                    "क्या लाना है"
+                ],
+                "te": [
+                    "పత్రాలు",
+                    "ఆధార్",
+                    "ఆధార్ కార్డు",
+                    "గుర్తింపు కార్డు",
+                    "ఐడీ",
+                    "ID కార్డ్",
+                    "ఉద్యోగి ఆరోగ్య కార్డు",
+                    "నేను ఎలాంటి పత్రాలు తీసుకురావాలి",
+                    "ఏం తీసుకురావాలి"
+                ]
+            }
+        },
+        {
+            "category": "Admin",
+            "id": "info_contact",
+            "question": {
+                "en": "What are key contact numbers?",
+                "hi": "प्रमुख संपर्क नंबर क्या हैं?",
+                "te": "ముఖ్యమైన ఫోన్ నంబర్లు ఏమిటి?"
+            },
+            "answer": {
+                "en": "Please check the NIMS website or the reception desk for specific extension numbers.",
+                "hi": "कृपया रिसेप्शन डेस्क पर पता करें।",
+                "te": "దయచేసి రిసెప్షన్ డెస్క్‌లో అడగండి."
+            },
+            "keywords": {
+                "en": [
+                    "contact number",
+                    "phone number",
+                    "helpline",
+                    "call hospital",
+                    "important numbers"
+                ],
+                "hi": [
+                    "संपर्क नंबर",
+                    "फोन नंबर",
+                    "हेल्पलाइन"
+                ],
+                "te": [
+                    "ఫోన్ నంబర్",
+                    "సంప్రదించాలి",
+                    "ఎవరిని సంప్రదించాలి",
+                    "హెల్ప్‌లైన్"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_op_renewal",
+            "question": {
+                "en": "Where do I go for renewal of my OP card?",
+                "hi": "ओपी कार्ड रिन्यूअल कहाँ कराएं?",
+                "te": "నా ఓపీ కార్డు రెన్యూవల్ ఎక్కడ చేయాలి?"
+            },
+            "answer": {
+                "en": "OPD Registration Counter.",
+                "hi": "ओपीडी पंजीकरण काउंटर।",
+                "te": "ఓపీడి రిజిస్ట్రేషన్ కౌంటర్."
+            },
+            "keywords": {
+                "en": [
+                    "op renewal",
+                    "renew op card",
+                    "old op card",
+                    "card renewal",
+                    "op extend"
+                ],
+                "hi": [
+                    "ओपी कार्ड",
+                    "रिन्यू",
+                    "नवीनीकरण"
+                ],
+                "te": [
+                    "ఓపీ రెన్యూవల్",
+                    "కార్డు రెన్యూవల్",
+                    "పాత op కార్డ్ పునరుద్ధరణ",
+                    "పాత ఓపీ"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_upi",
+            "question": {
+                "en": "Do we have UPI pay facility?",
+                "hi": "क्या यूपीआई (UPI) सुविधा है?",
+                "te": "UPI పేమెంట్ సౌకర్యం ఉందా?"
+            },
+            "answer": {
+                "en": "Yes, digital payments are accepted at most counters.",
+                "hi": "हाँ, अधिकांश काउंटरों पर डिजिटल भुगतान स्वीकार किए जाते हैं।",
+                "te": "అవును, చాలా కౌంటర్లలో డిజిటల్ పేమెంట్లు తీసుకుంటారు."
+            },
+            "keywords": {
+                "en": [
+                    "upi",
+                    "gpay",
+                    "phonepe",
+                    "paytm",
+                    "online payment",
+                    "digital payment"
+                ],
+                "hi": [
+                    "यूपीआई",
+                    "गूगल पे",
+                    "फोनपे",
+                    "डिजिटल भुगतान"
+                ],
+                "te": [
+                    "UPI",
+                    "గూగుల్ పే",
+                    "ఫోన్‌పే",
+                    "క్రెడిట్ కార్డ్",
+                    "డెబిట్ కార్డ్",
+                    "డిజిటల్ పేమెంట్"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_cardiology",
+            "question": {
+                "en": "Where is Cardiology department?",
+                "hi": "कार्डियोलॉजी विभाग कहाँ है?",
+                "te": "కార్డియాలజీ విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Ground Floor, Rooms 2-6.",
+                "hi": "ग्राउंड फ्लोर, कमरा 2-6।",
+                "te": "గ్రౌండ్ ఫ్లోర్, గది 2-6."
+            },
+            "keywords": {
+                "en": [
+                    "heart department",
+                    "cardio",
+                    "heart doctor"
+                ],
+                "hi": [
+                    "दिल विभाग"
+                ],
+                "te": [
+                    "ఛాతీ",
+                    "శ్వాసక్రియ సమస్య",
+                    "శ్వాస సమస్య",
+                    "ఛాతీ నొప్పి విభాగం",
+                    "హార్ట్ డిపార్ట్‌మెంట్"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_echo",
+            "question": {
+                "en": "Where is the echo department?",
+                "hi": "इको विभाग कहाँ है?",
+                "te": "ఎకో విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Cardiology, Ground Floor.",
+                "hi": "कार्डियोलॉजी, ग्राउंड फ्लोर।",
+                "te": "కార్డియాలజీ, గ్రౌండ్ ఫ్లోర్."
+            },
+            "keywords": {
+                "en": [
+                    "echo",
+                    "echocardiography",
+                    "heart echo",
+                    "scan echo"
+                ],
+                "hi": [
+                    "इको",
+                    "हार्ट इको"
+                ],
+                "te": [
+                    "ఎకో",
+                    "హార్ట్ ఎకో"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_pacemaker",
+            "question": {
+                "en": "Where is the pacemaker department?",
+                "hi": "पेसमेकर विभाग कहाँ है?",
+                "te": "పేస్‌మేకర్ విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Please enquire at the Cardio-Thoracic Surgery department or Cardiology Unit.",
+                "hi": "कृपया कार्डियो-थोरेसिक सर्जरी विभाग में पूछताछ करें।",
+                "te": "దయచేసి కార్డియో-థొరాసిక్ సర్జరీ విభాగంలో విచారించండి."
+            },
+            "keywords": {
+                "en": [
+                    "heart device",
+                    "pacemaker surgery",
+                    "cardio surgery"
+                ],
+                "hi": [
+                    "पेसमेकर",
+                    "हार्ट डिवाइस"
+                ],
+                "te": [
+                    "పేస్‌మేకర్",
+                    "పేస్ మేకర్ పని చేయడం లేదు",
+                    "పేస్ మేకర్ కోసం ఎవరిని సంప్రదించాలి",
+                    "కొత్త పేస్‌మేకర్ కోసం ఎవరిని సంప్రదించాలి",
+                    "నా పాత పేస్‌మేకర్‌ని ఎక్కడ భర్తీ చేయాలి",
+                    "హార్ట్ డివైస్"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_tmt",
+            "question": {
+                "en": "Where is the Treadmill (TMT) room?",
+                "hi": "ट्रेडमिल (TMT) रूम कहाँ है?",
+                "te": "ట్రెడ్‌మిల్ (TMT) గది ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Inside Cardiology Department.",
+                "hi": "कार्डियोलॉजी विभाग के अंदर।",
+                "te": "కార్డియాలజీ విభాగం లోపల."
+            },
+            "keywords": {
+                "en": [
+                    "tmt",
+                    "treadmill test",
+                    "stress test",
+                    "cardiac treadmill"
+                ],
+                "hi": [
+                    "टीएमटी",
+                    "ट्रेडमिल",
+                    "स्ट्रेस टेस्ट"
+                ],
+                "te": [
+                    "TMT",
+                    "ట్రెడ్‌మిల్",
+                    "ట్రెడ్ మిల్లు ఎక్కడ",
+                    "ఒత్తిడి పరీక్ష యంత్రం",
+                    "tmt యంత్రం",
+                    "స్ట్రెస్ టెస్ట్"
+                ]
+            }
+        },
+        {
+            "category": "Process",
+            "id": "info_cardio_emergency",
+            "question": {
+                "en": "What if I have severe chest pain?",
+                "hi": "अगर मुझे सीने में तेज दर्द हो तो क्या करें?",
+                "te": "నాకు తీవ్రమైన ఛాతీ నొప్పి ఉంటే ఏం చేయాలి?"
+            },
+            "answer": {
+                "en": "Go to Emergency/Casualty IMMEDIATELY.",
+                "hi": "तुरंत इमरजेंसी में जाएं।",
+                "te": "వెంటనే ఎమర్జెన్సీకి వెళ్లండి."
+            },
+            "keywords": {
+                "en": [
+                    "pain in chest",
+                    "pressure chest",
+                    "left chest pain"
+                ],
+                "hi": [
+                    "तेज दर्द",
+                    "दिल का दर्द",
+                    "सीना दर्द"
+                ],
+                "te": [
+                    "తీవ్రమైన నొప్పి",
+                    "హార్ట్ నొప్పి",
+                    "కార్డియోక్ అరెస్ట్",
+                    "హార్ట్ అటాక్"
+                ]
+            }
+        },
+        {
+            "category": "Test",
+            "id": "info_2d_echo",
+            "question": {
+                "en": "What is 2D Echo?",
+                "hi": "2डी इको क्या है?",
+                "te": "2D ఎకో అంటే ఏమిటి?"
+            },
+            "answer": {
+                "en": "It is an ultrasound test for the heart.",
+                "hi": "यह दिल के लिए एक अल्ट्रासाउंड टेस्ट है।",
+                "te": "ఇది గుండె కోసం చేసే అల్ట్రాసౌండ్ పరీక్ష."
+            },
+            "keywords": {
+                "en": [
+                    "2d echo",
+                    "echo test",
+                    "heart echo",
+                    "echocardiography",
+                    "cardiac echo"
+                ],
+                "hi": [
+                    "2डी इको",
+                    "इको टेस्ट",
+                    "दिल का इको"
+                ],
+                "te": [
+                    "2D ఎకో",
+                    "ఎకో టెస్ట్",
+                    "హార్ట్ ఎకో"
+                ]
+            }
+        },
+        {
+            "category": "Test",
+            "id": "info_test_duration",
+            "question": {
+                "en": "How long do ECG/Echo tests take?",
+                "hi": "ईसीजी/इको टेस्ट में कितना समय लगता है?",
+                "te": "ECG/ఎకో టెస్టులకు ఎంత సమయం పడుతుంది?"
+            },
+            "answer": {
+                "en": "Usually 15-30 minutes, depending on the queue.",
+                "hi": "आमतौर पर 15-30 मिनट।",
+                "te": "సాధారణంగా 15-30 నిమిషాలు."
+            },
+            "keywords": {
+                "en": [
+                    "how long ecg",
+                    "test duration",
+                    "time for echo",
+                    "ecg time",
+                    "echo time"
+                ],
+                "hi": [
+                    "कितना समय",
+                    "टेस्ट टाइम",
+                    "ईसीजी समय"
+                ],
+                "te": [
+                    "ఎంత సమయం",
+                    "రోగనిర్ధారణ పరీక్లకు పట్టు సమయము",
+                    "పరీక్షలకు ఎంత సమయం ఉంది",
+                    "టెస్ట్ టైమ్",
+                    "ECG టైమ్"
+                ]
+            }
+        },
+        {
+            "category": "Test",
+            "id": "info_test_pain",
+            "question": {
+                "en": "Do these tests hurt?",
+                "hi": "क्या इन टेस्ट में दर्द होता है?",
+                "te": "ఈ టెస్టుల వల్ల నొప్పి వస్తుందా?"
+            },
+            "answer": {
+                "en": "No, ECG and Echo are painless.",
+                "hi": "नहीं, यह दर्द रहित हैं।",
+                "te": "లేదు, ఇవి నొప్పి లేని పరీక్షలు."
+            },
+            "keywords": {
+                "en": [
+                    "does it hurt",
+                    "painful test",
+                    "test pain",
+                    "is ecg painful",
+                    "echo painful"
+                ],
+                "hi": [
+                    "दर्द होता",
+                    "पेनफुल",
+                    "टेस्ट दर्द"
+                ],
+                "te": [
+                    "నొప్పి వస్తుందా",
+                    "మీకు ఇప్పుడు ఛాతీ నొప్పిగా ఉందా",
+                    "మీ ఛాతీ నొప్పి ఎంత తీవ్రంగా ఉంది",
+                    "బాధ ఉందా",
+                    "భాధగా ఉందా",
+                    "మీకు ఏ వైపు ఛాతీ నొప్పి ఉంది",
+                    "ఛాతీలో ఏదైనా నొప్పి ఉందా?",
+                    "పెయిన్"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_neurology",
+            "question": {
+                "en": "Where is Neurology department?",
+                "hi": "न्यूरोलॉजी विभाग कहाँ है?",
+                "te": "న్యూరాలజీ విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Please check the OP Block directory (Usually Upper Floors).",
+                "hi": "कृपया ओपी ब्लॉक निर्देशिका देखें।",
+                "te": "దయచేసి ఓపీ బ్లాక్ డైరెక్టరీలో చూడండి."
+            },
+            "keywords": {
+                "en": [
+                    "brain department",
+                    "neuro",
+                    "nerve doctor"
+                ],
+                "hi": [
+                    "न्यूरोलॉजी",
+                    "दिमाग विभाग"
+                ],
+                "te": [
+                    "న్యూరాలజీ",
+                    "మెదడు విభాగం"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_paediatric",
+            "question": {
+                "en": "Where is Paediatric department?",
+                "hi": "बाल रोग विभाग कहाँ है?",
+                "te": "పిల్లల వైద్య విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "OPD Block.",
+                "hi": "ओपीडी ब्लॉक।",
+                "te": "ఓపీడి బ్లాక్."
+            },
+            "keywords": {
+                "en": [
+                    "paediatric",
+                    "children department",
+                    "kids doctor",
+                    "child specialist"
+                ],
+                "hi": [
+                    "बाल रोग",
+                    "बच्चों का डॉक्टर"
+                ],
+                "te": [
+                    "పిల్లల వైద్య",
+                    "చిల్డ్రన్ డాక్టర్"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_oncology",
+            "question": {
+                "en": "Where is Surgical Oncology?",
+                "hi": "सर्जिकल ऑन्कोलॉजी कहाँ है?",
+                "te": "సర్జికల్ ఆంకాలజీ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "4th Floor, Room 410.",
+                "hi": "4वीं मंजिल, कमरा 410।",
+                "te": "4వ అంతస్తు, గది 410."
+            },
+            "keywords": {
+                "en": [
+                    "oncology",
+                    "cancer department",
+                    "surgical oncology",
+                    "tumor surgery"
+                ],
+                "hi": [
+                    "ऑन्कोलॉजी",
+                    "कैंसर विभाग"
+                ],
+                "te": [
+                    "ఆంకాలజీ",
+                    "క్యాన్సర్",
+                    "క్యాన్సర్ చికిత్స విభాగం",
+                    "క్యాన్సర్ చికిత్స ఎక్కడ ఉంది",
+                    "క్యాన్సర్ విభాగం"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_genetics",
+            "question": {
+                "en": "Where is Genetics department?",
+                "hi": "जेनेटिक्स विभाग कहाँ है?",
+                "te": "జెనెటిక్స్ విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "4th Floor, Room 409.",
+                "hi": "4वीं मंजिल, कमरा 409।",
+                "te": "4వ అంతస్తు, గది 409."
+            },
+            "keywords": {
+                "en": [
+                    "genetics",
+                    "genetic department",
+                    "dna test",
+                    "chromosome"
+                ],
+                "hi": [
+                    "जेनेटिक्स",
+                    "डीएनए"
+                ],
+                "te": [
+                    "జెనెటిక్స్",
+                    "జన్యుశాస్త్ర విభాగం ఎక్కడ ఉంది",
+                    "జెనెటిక్స్ క్లినిక్ ఎక్కడ ఉంది?",
+                    "DNA ఎక్కడ ఉంది",
+                    "డీఎన్ఏ"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_dermatology",
+            "question": {
+                "en": "Where is Dermatology / Skin department?",
+                "hi": "चर्म रोग विभाग कहाँ है?",
+                "te": "చర్మ వ్యాధుల విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "OPD Block.",
+                "hi": "ओपीडी ब्लॉक।",
+                "te": "ఓపీడి బ్లాక్."
+            },
+            "keywords": {
+                "en": [
+                    "dermatology",
+                    "skin department",
+                    "skin doctor",
+                    "rashes"
+                ],
+                "hi": [
+                    "चर्म रोग",
+                    "त्वचा डॉक्टर"
+                ],
+                "te": [
+                    "చర్మ వ్యాధులు",
+                    "స్కిన్ డాక్టర్"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_urology",
+            "question": {
+                "en": "Where is Urology department?",
+                "hi": "यूरोलॉजी विभाग कहाँ है?",
+                "te": "యూరాలజీ విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "6th Floor, Rooms 609-611.",
+                "hi": "6वीं मंजिल, कमरा 609-611।",
+                "te": "6వ అంతస్తు, గది 609-611."
+            },
+            "keywords": {
+                "en": [
+                    "urology",
+                    "urine problem",
+                    "kidney department",
+                    "urinary"
+                ],
+                "hi": [
+                    "यूरोलॉजी",
+                    "पेशाब समस्या"
+                ],
+                "te": [
+                    "యూరాలజీ",
+                    "యూరాలజీ క్లినిక్ ఎక్కడ ఉంది",
+                    "కిడ్నీ క్లినిక్",
+                    "యూరాలజీ సంబంధిత తనిఖీలు?",
+                    "మూత్ర వ్యాధులు",
+                    "మూత్ర సమస్య"
+                ]
+            }
+        },
+        {
+            "category": "Department",
+            "id": "loc_dental",
+            "question": {
+                "en": "Where is Dental care?",
+                "hi": "दंत चिकित्सा विभाग कहाँ है?",
+                "te": "దంత వైద్య విభాగం ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Dental Department, OPD Block.",
+                "hi": "दंत विभाग, ओपीडी ब्लॉक।",
+                "te": "డెంటల్ విభాగం, ఓపీడి బ్లాక్."
+            },
+            "keywords": {
+                "en": [
+                    "tooth doctor",
+                    "teeth problem"
+                ],
+                "hi": [
+                    "दांत डॉक्टर"
+                ],
+                "te": [
+                    "దంత వైద్యుడు",
+                    "దంతాల సమస్య ",
+                    "పిప్పి పల్లు",
+                    "దంత క్షయం నొప్పి",
+                    "పంటి కుహరం నొప్పి",
+                    "పంటి నొప్పి"
+                ]
+            }
+        },
+        {
+            "category": "Symptom",
+            "id": "sym_breathing",
+            "question": {
+                "en": "I have breathing difficulty.",
+                "hi": "मुझे सांस लेने में तकलीफ हो रही है।",
+                "te": "నాకు ఊపిరి ఆడటం లేదు."
+            },
+            "answer": {
+                "en": "Visit Pulmonary Medicine (4th Floor) or Cardiology.",
+                "hi": "पल्मोनरी मेडिसिन (चौथी मंजिल) या कार्डियोलॉजी में जाएं।",
+                "te": "పల్మనరీ మెడిసిన్ (4వ అంతస్తు) లేదా కార్డియాలజీకి వెళ్లండి."
+            },
+            "keywords": {
+                "en": [
+                    "breathing problem",
+                    "shortness of breath",
+                    "breathless",
+                    "can't breathe"
+                ],
+                "hi": [
+                    "सांस की तकलीफ",
+                    "घबराहट",
+                    "दम घुटना"
+                ],
+                "te": [
+                    "శ్వాస సమస్య",
+                    "ఊపిరి పీల్చుకోలేకపోతున్నారు",
+                    "శ్వాసకోశ సమస్య",
+                    "ఊపిరి ఆడకపోవడం"
+                ]
+            }
+        },
+        {
+            "category": "Symptom",
+            "id": "sym_skin",
+            "question": {
+                "en": "I have skin rash.",
+                "hi": "मुझे त्वचा पर दाने हैं।",
+                "te": "నాకు చర్మంపై దద్దుర్లు ఉన్నాయి."
+            },
+            "answer": {
+                "en": "Visit Dermatology.",
+                "hi": "चर्म रोग विभाग में जाएँ।",
+                "te": "చర్మ వ్యాధుల విభాగానికి వెళ్లండి."
+            },
+            "keywords": {
+                "en": [
+                    "skin rash",
+                    "rashes",
+                    "itching",
+                    "skin allergy"
+                ],
+                "hi": [
+                    "दाने",
+                    "खुजली",
+                    "त्वचा एलर्जी"
+                ],
+                "te": [
+                    "దద్దుర్లు",
+                    "చర్మ సంబంధిత సమస్య",
+                    "చర్మం నొప్పి",
+                    "చర్మ అలెర్జీ",
+                    "చర్మం నల్లబడటం",
+                    "దురద",
+                    "అలర్జీ"
+                ]
+            }
+        },
+        {
+            "category": "Symptom",
+            "id": "sym_urine",
+            "question": {
+                "en": "I have burning urination.",
+                "hi": "मुझे पेशाब में जलन है।",
+                "te": "నాకు మూత్రంలో మంటగా ఉంది."
+            },
+            "answer": {
+                "en": "Visit Urology (6th Floor).",
+                "hi": "यूरोलॉजी में जाएं (6वीं मंजिल)।",
+                "te": "యూరాలజీకి వెళ్లండి (6వ అంతస్తు)."
+            },
+            "keywords": {
+                "en": [
+                    "burning urination",
+                    "urine pain",
+                    "urinary infection",
+                    "uti"
+                ],
+                "hi": [
+                    "पेशाब में जलन",
+                    "यूरिन दर्द"
+                ],
+                "te": [
+                    "మూత్రంలో మంట",
+                    "మూత్రంలో మండుతున్న భాధ",
+                    "యుటిఐ"
+                ]
+            }
+        },
+        {
+            "category": "Symptom",
+            "id": "sym_stomach",
+            "question": {
+                "en": "I have severe abdominal pain.",
+                "hi": "मुझे पेट में तेज दर्द है।",
+                "te": "నాకు కడుపు నొప్పి ఎక్కువగా ఉంది."
+            },
+            "answer": {
+                "en": "Visit Gastroenterology (5th Floor).",
+                "hi": "गैस्ट्रोएंटेरोलॉजी (5वीं मंजिल) में जाएं।",
+                "te": "గ్యాస్ట్రోఎంటరాలజీకి వెళ్లండి (5వ అంతస్తు)."
+            },
+            "keywords": {
+                "en": [
+                    "stomach pain",
+                    "abdominal pain",
+                    "gas pain",
+                    "severe stomach ache"
+                ],
+                "hi": [
+                    "पेट दर्द",
+                    "तेज पेट दर्द"
+                ],
+                "te": [
+                    "కడుపు నొప్పి",
+                    "గ్యాస్ నొప్పి"
+                ]
+            }
+        },
+        {
+            "category": "Symptom",
+            "id": "sym_dental",
+            "question": {
+                "en": "I have tooth pain.",
+                "hi": "मेरे दांत में दर्द है।",
+                "te": "నాకు పంటి నొప్పి ఉంది."
+            },
+            "answer": {
+                "en": "Visit Dental Department.",
+                "hi": "दंत विभाग में जाएं।",
+                "te": "డెంటల్ విభాగానికి వెళ్లండి."
+            },
+            "keywords": {
+                "en": [
+                    "tooth pain",
+                    "toothache",
+                    "gum pain",
+                    "dental pain"
+                ],
+                "hi": [
+                    "दांत दर्द",
+                    "दांत में दर्द"
+                ],
+                "te": [
+                    "పంటి నొప్పి",
+                    "రూట్ కెనాల్ సమస్య",
+                    "జ్ఞాన దంతాల సమస్య",
+                    "దంతాల చిగుళ్ల సమస్య",
+                    "దంతాల అమరిక సమస్య",
+                    "దంతాల సమస్య"
+                ]
+            }
+        },
+        {
+            "category": "Greeting",
+            "id": "greet_hi",
+            "question": {
+                "en": "Hi",
+                "hi": "हाय",
+                "te": "హాయ్"
+            },
+            "answer": {
+                "en": "Hello! How can I help you today?",
+                "hi": "नमस्ते! मैं आपकी कैसे मदद कर सकता हूं?",
+                "te": "నమస్కారం! నేను మీకు ఎలా సహాయపడగలను?"
+            },
+            "keywords": {
+                "en": [
+                    "hi",
+                    "hello",
+                    "hey",
+                    "hii",
+                    "helo"
+                ],
+                "hi": [
+                    "हाय",
+                    "नमस्ते",
+                    "हेलो"
+                ],
+                "te": [
+                    "హాయ్",
+                    "హలో",
+                    "హాయి"
+                ]
+            }
+        },
+        {
+            "category": "Greeting",
+            "id": "greet_hello",
+            "question": {
+                "en": "Hello",
+                "hi": "हैलो",
+                "te": "హలో"
+            },
+            "answer": {
+                "en": "Hello! Welcome to NIMS Hospital. How may I assist you?",
+                "hi": "नमस्ते! निम्स अस्पताल में आपका स्वागत है।",
+                "te": "నమస్కారం! నిమ్స్ ఆసుపత్రికి స్వాగతం."
+            },
+            "keywords": {
+                "en": [
+                    "hello",
+                    "helo",
+                    "hallo",
+                    "hii",
+                    "hey",
+                    "hi"
+                ],
+                "hi": [
+                    "हैलो",
+                    "हेलो",
+                    "नमस्ते"
+                ],
+                "te": [
+                    "హలో",
+                    "హాయ్",
+                    "నమస్కారం"
+                ]
+            }
+        },
+        {
+            "category": "Greeting",
+            "id": "greet_namaste",
+            "question": {
+                "en": "Namaste",
+                "hi": "नमस्ते",
+                "te": "నమస్తే"
+            },
+            "answer": {
+                "en": "Namaste! How can I guide you?",
+                "hi": "नमस्ते! मैं आपकी कैसे मदद कर सकता हूं?",
+                "te": "నమస్తే! నేను మీకు ఎలా సహాయపడగలను?"
+            },
+            "keywords": {
+                "en": [
+                    "namaste",
+                    "namaskar",
+                    "namsate",
+                    "greetings indian"
+                ],
+                "hi": [
+                    "नमस्ते",
+                    "नमस्कार",
+                    "राम राम"
+                ],
+                "te": [
+                    "నమస్తే",
+                    "నమస్కారం"
+                ]
+            }
+        },
+        {
+            "category": "Greeting",
+            "id": "greet_good_morning",
+            "question": {
+                "en": "Good morning",
+                "hi": "सुप्रभात",
+                "te": "శుభోదయం"
+            },
+            "answer": {
+                "en": "Good morning! How can I assist you?",
+                "hi": "सुप्रभात! मैं आपकी कैसे मदद कर सकता हूं?",
+                "te": "శుభోదయం! నేను మీకు ఎలా సహాయపడగలను?"
+            },
+            "keywords": {
+                "en": [
+                    "good morning",
+                    "gm",
+                    "morning",
+                    "good mrng"
+                ],
+                "hi": [
+                    "सुप्रभात",
+                    "गुड मॉर्निंग"
+                ],
+                "te": [
+                    "శుభోదయం",
+                    "గుడ్ మార్నింగ్"
+                ]
+            }
+        },
+        {
+            "category": "Greeting",
+            "id": "help_request",
+            "question": {
+                "en": "Help",
+                "hi": "मदद",
+                "te": "సహాయం"
+            },
+            "answer": {
+                "en": "I'm here to help! You can ask me about departments, doctors, or locations.",
+                "hi": "मैं मदद के लिए हूं! आप मुझसे विभागों, डॉक्टरों या स्थानों के बारे में पूछ सकते हैं।",
+                "te": "నేను సహాయం చేయడానికి ఇక్కడ ఉన్నాను! మీరు విభాగాలు, డాక్టర్లు లేదా స్థానాల గురించి అడగవచ్చు."
+            },
+            "keywords": {
+                "en": [
+                    "help",
+                    "assist",
+                    "support",
+                    "guide me",
+                    "can you help"
+                ],
+                "hi": [
+                    "मदद",
+                    "सहायता",
+                    "मदद चाहिए"
+                ],
+                "te": [
+                    "సహాయం",
+                    "హెల్ప్",
+                    "సహాయం కావాలి"
+                ]
+            }
+        },
+        {
+            "category": "Service",
+            "id": "billing_location",
+            "question": {
+                "en": "Where is billing?",
+                "hi": "बिलिंग कहां है?",
+                "te": "బిల్లింగ్ ఎక్కడ?"
+            },
+            "answer": {
+                "en": "Billing counter is on Ground Floor, Main Block.",
+                "hi": "बिलिंग काउंटर ग्राउंड फ्लोर, मेन ब्लॉक पर है।",
+                "te": "బిల్లింగ్ కౌంటర్ గ్రౌండ్ ఫ్లోర్, మెయిన్ బ్లాక్‌లో ఉంది."
+            },
+            "keywords": {
+                "en": [
+                    "billing",
+                    "bill counter",
+                    "payment",
+                    "pay bill",
+                    "cash counter"
+                ],
+                "hi": [
+                    "बिलिंग",
+                    "बिल",
+                    "पेमेंट"
+                ],
+                "te": [
+                    "బిల్లింగ్",
+                    "బిల్",
+                    "పేమెంట్"
+                ]
+            }
+        },
+        {
+            "category": "Service",
+            "id": "reports_location",
+            "question": {
+                "en": "Where to collect reports?",
+                "hi": "रिपोर्ट कहां मिलेगी?",
+                "te": "రిపోర్ట్స్ ఎక్కడ?"
+            },
+            "answer": {
+                "en": "Lab reports can be collected from Diagnostic Block, Ground Floor.",
+                "hi": "लैब रिपोर्ट डायग्नोस्टिक ब्लॉक, ग्राउंड फ्लोर से ले सकते हैं।",
+                "te": "ల్యాబ్ రిపోర్ట్స్ డయాగ్నోస్టిక్ బ్లాక్, గ్రౌండ్ ఫ్లోర్ నుండి తీసుకోవచ్చు."
+            },
+            "keywords": {
+                "en": [
+                    "reports",
+                    "collect report",
+                    "lab report",
+                    "test results",
+                    "medical report"
+                ],
+                "hi": [
+                    "रिपोर्ट",
+                    "रिजल्ट",
+                    "टेस्ट रिपोर्ट"
+                ],
+                "te": [
+                    "రిపోర్ట్స్",
+                    "రిజల్ట్స్",
+                    "టెస్ట్ రిపోర్ట్"
+                ]
+            }
+        },
+        {
+            "category": "Policy",
+            "id": "opd_timings",
+            "question": {
+                "en": "What are OPD timings?",
+                "hi": "ओपीडी का समय क्या है?",
+                "te": "ఓపీడి సమయాలు ఏమిటి?"
+            },
+            "answer": {
+                "en": "OPD timings are 8:00 AM to 12:00 PM on working days.",
+                "hi": "ओपीडी का समय कार्य दिवसों में सुबह 8:00 से दोपहर 12:00 बजे तक है।",
+                "te": "ఓపీడి సమయాలు పని దినాలలో ఉదయం 8:00 నుండి మధ్యాహ్నం 12:00 వరకు."
+            },
+            "keywords": {
+                "en": [
+                    "opd timing",
+                    "opd time",
+                    "opd hours",
+                    "when opd open"
+                ],
+                "hi": [
+                    "ओपीडी समय",
+                    "ओपीडी टाइम"
+                ],
+                "te": [
+                    "ఓపీడి సమయం",
+                    "ఓపీడి టైమ్"
+                ]
+            }
+        },
+        {
+            "category": "Policy",
+            "id": "visiting_hours",
+            "question": {
+                "en": "What are visiting hours?",
+                "hi": "मिलने का समय क्या है?",
+                "te": "సందర్శన సమయాలు ఏమిటి?"
+            },
+            "answer": {
+                "en": "Visiting hours are 4:00 PM to 6:00 PM daily.",
+                "hi": "मिलने का समय रोज शाम 4:00 से 6:00 बजे तक है।",
+                "te": "సందర్శన సమయాలు ప్రతిరోజు సాయంత్రం 4:00 నుండి 6:00 వరకు."
+            },
+            "keywords": {
+                "en": [
+                    "visiting hours",
+                    "visitor time",
+                    "when can visit",
+                    "meeting time"
+                ],
+                "hi": [
+                    "मिलने का समय",
+                    "विजिट टाइम"
+                ],
+                "te": [
+                    "సందర్శన సమయం",
+                    "ఎప్పుడు కలవచ్చు"
+                ]
+            }
+        },
+        {
+            "category": "Policy",
+            "id": "department_status",
+            "question": {
+                "en": "Is the department open?",
+                "hi": "क्या विभाग खुला है?",
+                "te": "విభాగం తెరిచి ఉందా?"
+            },
+            "answer": {
+                "en": "Most departments are open from 8:00 AM to 12:00 PM. Emergency services are 24/7.",
+                "hi": "अधिकांश विभाग सुबह 8:00 से दोपहर 12:00 बजे तक खुले रहते हैं। आपातकालीन सेवाएं 24/7 उपलब्ध हैं।",
+                "te": "చాలా విభాగాలు ఉదయం 8:00 నుండి మధ్యాహ్నం 12:00 వరకు తెరిచి ఉంటాయి. అత్యవసర సేవలు 24/7 అందుబాటులో ఉన్నాయి."
+            },
+            "keywords": {
+                "en": [
+                    "open",
+                    "closed",
+                    "department open",
+                    "department status",
+                    "timing"
+                ],
+                "hi": [
+                    "खुला है",
+                    "बंद है",
+                    "अभी खुला"
+                ],
+                "te": [
+                    "తెరిచి ఉందా",
+                    "మూసి ఉందా",
+                    "ఇప్పుడు ఓపెన్"
+                ]
+            }
+        },
+        {
+            "category": "Service",
+            "id": "lab_diagnostics",
+            "question": {
+                "en": "Where is the lab?",
+                "hi": "लैब कहां है?",
+                "te": "ల్యాబ్ ఎక్కడ ఉంది?"
+            },
+            "answer": {
+                "en": "Laboratory is on Ground Floor, Diagnostic Block. Blood tests and other lab work done here.",
+                "hi": "प्रयोगशाला ग्राउंड फ्लोर, डायग्नोस्टिक ब्लॉक में है। यहां रक्त परीक्षण और अन्य प्रयोगशाला कार्य किए जाते हैं।",
+                "te": "ప్రయోగశాల గ్రౌండ్ ఫ్లోర్, డయాగ్నోస్టిక్ బ్లాక్‌లో ఉంది. ఇక్కడ రక్త పరీక్షలు మరియు ఇతర ల్యాబ్ పనులు జరుగుతాయి."
+            },
+            "keywords": {
+                "en": [
+                    "lab",
+                    "laboratory",
+                    "blood test",
+                    "sample collection",
+                    "diagnostic lab"
+                ],
+                "hi": [
+                    "लैब",
+                    "प्रयोगशाला",
+                    "ब्लड टेस्ट"
+                ],
+                "te": [
+                    "ల్యాబ్",
+                    "ప్రయోగశాల",
+                    "బ్లడ్ టెస్ట్"
+                ]
+            }
+        }
+    ],
+    "people": [
+        {
+            "id": "dr_o_sai_satish",
+            "name": "Dr. O. Sai Satish",
+            "role": "Cardiologist",
+            "department": "Cardiology Unit-1",
+            "keywords": {
+                "en": [
+                    "dr o sai satish",
+                    "o sai satish",
+                    "sai satish",
+                    "cardiologist",
+                    "heart doctor satish"
+                ],
+                "hi": [
+                    "डॉ साई सतीश",
+                    "हृदय डॉक्टर सतीश"
+                ],
+                "te": [
+                    "డాక్టర్ సాయి సతీష్",
+                    "హార్ట్ డాక్టర్ సతీష్"
+                ]
+            }
+        },
+        {
+            "id": "dr_b_srinivas",
+            "name": "Dr. B. Srinivas",
+            "role": "Cardiologist",
+            "department": "Cardiology Unit-2",
+            "keywords": {
+                "en": [
+                    "dr b srinivas",
+                    "b srinivas",
+                    "srinivas cardiologist",
+                    "heart doctor srinivas"
+                ],
+                "hi": [
+                    "डॉ श्रीनिवास",
+                    "हृदय डॉक्टर श्रीनिवास"
+                ],
+                "te": [
+                    "డాక్టర్ శ్రీనివాస్",
+                    "హార్ట్ డాక్టర్ శ్రీనివాస్"
+                ]
+            }
+        },
+        {
+            "id": "dr_jyotsna",
+            "name": "Dr. Jyotsna",
+            "role": "Cardiologist",
+            "department": "Cardiology Unit-3",
+            "keywords": {
+                "en": [
+                    "dr jyotsna",
+                    "jyotsna cardiologist",
+                    "heart doctor jyotsna"
+                ],
+                "hi": [
+                    "डॉ ज्योत्सना",
+                    "हृदय डॉक्टर ज्योत्सना"
+                ],
+                "te": [
+                    "డాక్టర్ జ్యోత్స్న",
+                    "హార్ట్ డాక్టర్ జ్యోత్స్న"
+                ]
+            }
+        },
+        {
+            "id": "dr_paramjyothi",
+            "name": "Dr. Paramjyothi",
+            "role": "Cardiologist",
+            "department": "Cardiology Unit-4",
+            "keywords": {
+                "en": [
+                    "dr paramjyothi",
+                    "paramjyothi",
+                    "dr param jyothi",
+                    "param jyothi",
+                    "cardiologist paramjyothi",
+                    "heart doctor paramjyothi",
+                    "cardio unit 4",
+                    "paramjyothi doctor"
+                ],
+                "hi": [
+                    "डॉ परमज्योति",
+                    "परमज्योति डॉक्टर",
+                    "हृदय रोग विशेषज्ञ",
+                    "कार्डियोलॉजिस्ट परमज्योति"
+                ],
+                "te": [
+                    "డాక్టర్ పరంజ్యోతి",
+                    "పరంజ్యోతి డాక్టర్",
+                    "హార్ట్ డాక్టర్ పరంజ్యోతి",
+                    "కార్డియాలజిస్ట్ పరంజ్యోతి"
+                ]
+            }
+        },
+        {
+            "id": "dr_y_satyanarayana_raju",
+            "name": "Dr. Y. Satyanarayana Raju",
+            "role": "Gastroenterologist",
+            "department": "Medical Gastroenterology",
+            "keywords": {
+                "en": [
+                    "dr y satyanarayana raju",
+                    "satyanarayana raju",
+                    "y satyanarayana raju",
+                    "dr satyanarayana raju",
+                    "gastroenterologist raju",
+                    "stomach doctor raju",
+                    "liver doctor raju",
+                    "gastro raju"
+                ],
+                "hi": [
+                    "डॉ सत्यनारायण राजू",
+                    "गैस्ट्रो डॉक्टर",
+                    "पेट के डॉक्टर",
+                    "लीवर डॉक्टर राजू"
+                ],
+                "te": [
+                    "డాక్టర్ సత్యనారాయణ రాజు",
+                    "గ్యాస్ట్రో డాక్టర్ రాజు",
+                    "కడుపు డాక్టర్",
+                    "లివర్ డాక్టర్ రాజు"
+                ]
+            }
+        },
+        {
+            "id": "dr_ch_ram_reddy",
+            "name": "Dr. Ch. Ram Reddy",
+            "role": "Urologist",
+            "department": "Urology",
+            "keywords": {
+                "en": [
+                    "dr ch ram reddy",
+                    "ram reddy urologist",
+                    "dr ram reddy",
+                    "urologist ram reddy",
+                    "urine doctor ram reddy",
+                    "kidney doctor ram reddy",
+                    "urology ram reddy"
+                ],
+                "hi": [
+                    "डॉ राम रेड्डी",
+                    "यूरोलॉजी डॉक्टर",
+                    "पेशाब के डॉक्टर",
+                    "किडनी डॉक्टर राम रेड्डी"
+                ],
+                "te": [
+                    "డాక్టర్ రామ్ రెడ్డి",
+                    "యూరాలజీ డాక్టర్",
+                    "మూత్ర సమస్యల డాక్టర్",
+                    "కిడ్నీ డాక్టర్ రామ్ రెడ్డి"
+                ]
+            }
+        }
+    ]
+}

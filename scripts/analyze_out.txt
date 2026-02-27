@@ -1,0 +1,51 @@
+﻿=== TOP 10 HALLUCINATED RESPONSES ===
+51 times: I am a navigation robot. I can help you find hospital departments.
+40 times: Ground Floor, near the main entrance.
+python : Traceback 
+(most recent call 
+last):
+At line:1 char:1
++ python scripts/analyz
+e_report_errors.py 
+2>&1 | Out-File 
+-Encoding utf ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Traceback (mo   
+ st recent call las    
+t)::String) [], Re    
+moteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+  File "C:\Users\DELL\D
+ownloads\ZeroKost\Robot
+_code\6.1_update_code\6
+.1_update_code\scripts\
+analyze_report_errors.p
+y", line 36, in 
+<module>
+    print(f"{count} 
+times: {resp[:100]}")
+    ~~~~~^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\A
+ppData\Local\Programs\P
+ython\Python313\Lib\enc
+odings\cp1252.py", 
+line 19, in encode
+    return codecs.charm
+ap_encode(input,self.er
+rors,encoding_table)[0]
+           ~~~~~~~~~~~~
+~~~~~~~~~^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't 
+encode characters in 
+position 10-15: 
+character maps to 
+<undefined>
